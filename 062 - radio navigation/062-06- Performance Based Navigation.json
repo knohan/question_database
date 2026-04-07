@@ -1,0 +1,651 @@
+[
+    {
+        "soru": "PBN path terminators define:",
+        "secenekler": [
+            "a specific type of termination of the previous flight path",
+            "a specific type of termination of a flight plan",
+            "a specific type of termination of ATC clearance",
+            "a specific type of termination of RNP or RNAV procedures"
+        ],
+        "dogru": "a specific type of termination of the previous flight path",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Which of the following is a requirement for Required Navigation Performance (RNP) operations? Area navigation that includes the requirements for…",
+            "satellite-based performance monitoring and alerting.",
+            "on-board performance monitoring and alerting.",
+            "integrating ATC surveillance monitoring and alerting."
+        ],
+        "dogru": "on-board performance monitoring and alerting.",
+        "annex": null
+    },
+    {
+        "soru": "ground-based performance monitoring and alerting.",
+        "secenekler": [
+            "PBN path terminator \"TF\" means",
+            "Tower Fix",
+            "Terminal Fix",
+            "Track to Fix"
+        ],
+        "dogru": "Track to Fix",
+        "annex": null
+    },
+    {
+        "soru": "Time to Fix",
+        "secenekler": [
+            "PBN Path terminator \"CA\" means",
+            "Centre Approach",
+            "Centre Altitude",
+            "Course to Altitude"
+        ],
+        "dogru": "Course to Altitude",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Certified Altitude",
+            "PBN path terminator \"FA\" means",
+            "Final Altitude",
+            "Fix to Altitude"
+        ],
+        "dogru": "Fix to Altitude",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Final Approach",
+            "Fix to Approach",
+            "PBN path terminator \"CF\" means",
+            "Course to Fix"
+        ],
+        "dogru": "Course to Fix",
+        "annex": null
+    },
+    {
+        "soru": "Centre Fix\nCivil Fix",
+        "secenekler": [
+            "Certified Fix",
+            "PBN path terminator \"IF\" means",
+            "Inner Fix",
+            "Initial Fix"
+        ],
+        "dogru": "Initial Fix",
+        "annex": null
+    },
+    {
+        "soru": "Intermediate Fix\nIlluminated Fix\nPBN path terminator \"DF\" means",
+        "secenekler": [
+            "Designated Fix",
+            "Doppler Fix",
+            "Destination Fix",
+            "Direct Fix"
+        ],
+        "dogru": "Direct Fix",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "For oceanic/remote, en-route, and terminal phases of flight, PBN is limited to…",
+            "both linear and angular laterally guided operations.",
+            "operations with linear lateral performance requirements and time constraints.",
+            "ILS/MLS/GLS precision approach and landing operations."
+        ],
+        "dogru": "operations with linear lateral performance requirements and time constraints.",
+        "annex": null
+    },
+    {
+        "soru": "operations with angular lateral performance requirements and time constraints.",
+        "secenekler": [
+            "In the approach phases of flight PBN accommodates",
+            "guidance to fly ILS/MLS/GLS procedures",
+            "only angular laterally guided operations",
+            "both linear and angular laterally guided operations"
+        ],
+        "dogru": "both linear and angular laterally guided operations",
+        "annex": null
+    },
+    {
+        "soru": "only linear laterally guided operations\nAn error during PBN operations arising from the RNAV system and its inability to accurately specify the desired path is a:",
+        "secenekler": [
+            "Navigation System Error (NSE)",
+            "Path Definition Error (PDE)",
+            "Crew Error (CE)",
+            "Flight Technical Error (FTE)"
+        ],
+        "dogru": "Path Definition Error (PDE)",
+        "annex": null
+    },
+    {
+        "soru": "An error during PBN operations in determining actual aircraft coordinates is a:",
+        "secenekler": [
+            "Path Definition Error (PDE)",
+            "Navigation System Error (NSE)",
+            "Crew Coordination Error",
+            "Flight Technical Error (FTE)"
+        ],
+        "dogru": "Navigation System Error (NSE)",
+        "annex": null
+    },
+    {
+        "soru": "An error in PBN operations relating to the execution of a flight along a defined path is a:",
+        "secenekler": [
+            "Flight Technical Error (FTE)",
+            "Path Definition Error (PDE)",
+            "Flight Path Error (FPE)",
+            "Navigation System error (NSE)"
+        ],
+        "dogru": "Flight Technical Error (FTE)",
+        "annex": null
+    },
+    {
+        "soru": "The Total System Error assumed in PBN operations encompasses:",
+        "secenekler": [
+            "Path Definition Error (PDE), Flight Technical Error (FTE), Navigation System Error (NSE)",
+            "Path Calculation Error (PCE), Navigation System Error (NSE), Flight Crew Error (FCE)",
+            "Path Terminator Error (PTE), Path Calculation Error (PCE), Flight Technical Error (FTE)",
+            "Flight Technical Error (FTE), Navigation System Error (NSE), Path Calculation Error (PCE)"
+        ],
+        "dogru": "Path Definition Error (PDE), Flight Technical Error (FTE), Navigation System Error (NSE)",
+        "annex": null
+    },
+    {
+        "soru": "\"X\" in RNAV X or RNP X is the (1)___ navigation accuracy (Total System Error)  in (2)___ which is expected to be achieved by at least (3)___ percent of the flight time by the population of aircraft operating within the airspace, route or procedure. The correct phrases to complete the statement are: (Quadrant type question originally, with drop downs)",
+        "secenekler": [
+            "lateral  (2) nautical miles (3) 99",
+            "longitudinal (2) nautical miles (3) 95",
+            "lateral (2) kilometres (3) 95",
+            "lateral  (2) nautical miles (3) 95"
+        ],
+        "dogru": "lateral  (2) nautical miles (3) 95",
+        "annex": null
+    },
+    {
+        "soru": "Which of the following terms refers to a fixed radius path for en-route sections using Performance Based Navigation (PBN)?",
+        "secenekler": [
+            "TMA leg type",
+            "ABC leg type",
+            "FRT leg type",
+            "RF leg type"
+        ],
+        "dogru": "FRT leg type",
+        "annex": null
+    },
+    {
+        "soru": "RNAV or RNP system performance requirements are defined in terms of:",
+        "secenekler": [
+            "accuracy, integrity, complexity",
+            "accuracy, integrity, continuity",
+            "accuracy, continuity",
+            "accuracy, integrity"
+        ],
+        "dogru": "accuracy, integrity, continuity",
+        "annex": null
+    },
+    {
+        "soru": "What is the name of a specific, curved flight path in a terminal or approach procedure that is defined by radius, arc length, and fix?",
+        "secenekler": [
+            "Radius to fix leg.",
+            "Fly-by turn.",
+            "Offset flight path.",
+            "Fixed radius transition."
+        ],
+        "dogru": "Radius to fix leg.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "RNAV 10 and RNP 4 are used",
+            "in the en-route, approach and departure phases of flight",
+            "in the approach phase of flight",
+            "In the oceanic and remote phase of flight"
+        ],
+        "dogru": "In the oceanic and remote phase of flight",
+        "annex": null
+    },
+    {
+        "soru": "in all phases of flight except in the en-route, approach and departure phases\nRNP AR APCH is used:",
+        "secenekler": [
+            "in all phases of flight except approach phases",
+            "in all phases of flight except remote phases",
+            "in the arrival, approach and en-route phases of flight",
+            "in the approach phase of flight"
+        ],
+        "dogru": "in the approach phase of flight",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "RNAV 2 might be used",
+            "in all phases of flight except final approach",
+            "in en-route continental, arrival and departure phases of flight",
+            "only in arrival and departure phases of flight"
+        ],
+        "dogru": "in en-route continental, arrival and departure phases of flight",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "in all phases of flight",
+            "RNP 0.3 might be used",
+            "in all phases of flight",
+            "in all phases of flight except for en-route oceanic/remote and final approach phases"
+        ],
+        "dogru": "in all phases of flight except for en-route oceanic/remote and final approach phases",
+        "annex": null
+    },
+    {
+        "soru": "in all phases of flight except for en-route oceanic/remote and en-route continental\nin all phases of flight except for the final approach phase\nRNP APCH is used",
+        "secenekler": [
+            "only on final approach phases of flight",
+            "in all phases of flight except final approach",
+            "in the arrival and en-route phases of flight",
+            "in the approach phases of flight"
+        ],
+        "dogru": "in the approach phases of flight",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "RNAV 5 is used in",
+            "all phases of flight except approach phases",
+            "en-route oceanic/remote phases of flight",
+            "the en-route continental and arrival phases of flight"
+        ],
+        "dogru": "the en-route continental and arrival phases of flight",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "the departure phase of flight",
+            "RNAV 1 and RNP 1 are used",
+            "in the arrival and departure phases of flight",
+            "only in the arrival phase of flight"
+        ],
+        "dogru": "in the arrival and departure phases of flight",
+        "annex": null
+    },
+    {
+        "soru": "only in the departure phase of flight\nin all phases of flight except en route oceanic/remote\nConcerning an RNP AR APCH, what does AR stand for?",
+        "secenekler": [
+            "Airborne Radar",
+            "Angular Resolution",
+            "Approach Resolution",
+            "Authorisation Required"
+        ],
+        "dogru": "Authorisation Required",
+        "annex": null
+    },
+    {
+        "soru": "Which of the following PBN approaches is a non-precision instrument approach procedure designed for 2D approach operations?",
+        "secenekler": [
+            "RNP GLS",
+            "RNP APCH to LNAV / VNAV minima",
+            "RNP LVP",
+            "RNP APCH to LNAV minima"
+        ],
+        "dogru": "RNP APCH to LNAV minima",
+        "annex": null
+    },
+    {
+        "soru": "When preparing to commence an RNP AR APCH procedure the flight crew check the routing including the waypoint sequence and notice that one waypoint is missing. Which is the correct action to take?",
+        "secenekler": [
+            "cancel the approach",
+            "enter the missing waypoint and continue the PBN approach",
+            "Continue the PBN approach without entering the missing waypoint",
+            "Continue using conventional navigation aids"
+        ],
+        "dogru": "Continue using conventional navigation aids",
+        "annex": null
+    },
+    {
+        "soru": "Which of the following is true with regard to RNP/RNAV navigation specifications?",
+        "secenekler": [
+            "Aircraft approved to more stringent accuracy requirements may not neccessarily meet some of the functional requirements of a navigation specification with a less stringent accuracy requirement.",
+            "accuracy requirements are always similar to functional requirements",
+            "Aircraft approved to more stringent accuracy requirements will never meet the functional requirements of a navigation specification with a less stringent accuracy requirement.",
+            "Aircraft approved to more stringent accuracy requirements automatically meet the functional requirements of a navigation specification with a less stringent accuracy requirement."
+        ],
+        "dogru": "Aircraft approved to more stringent accuracy requirements may not neccessarily meet some of the functional requirements of a navigation specification with a less stringent accuracy requirement.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Which of the following statements best describes PBN? Performance-based navigation…",
+            "is similar to conventional navigation, requiring ground-based infrastructure.",
+            "is not sensor-specific.",
+            "is based on sensor-specific navigation specifications."
+        ],
+        "dogru": "is not sensor-specific.",
+        "annex": null
+    },
+    {
+        "soru": "requires the development of sensor-specific routes and procedures.\nWhat is correct about fly-by and fly-over waypoints and turns?",
+        "secenekler": [
+            "A fly-by waypoint is a waypoint that requires turn anticipation to allow tangential interception of the next segment of a route or procedure",
+            "A fly-by waypoint is a waypoint where the turn is initiated in the overhead in order to join the next segment of a route or procedure",
+            "a turn via a fly-over waypoint is always shorter than a turn via a fly-by waypoint",
+            "A fly-over waypoint is a waypoint that requires turn anticipation to allow tangential interception of the next segment of a route or procedure"
+        ],
+        "dogru": "A fly-by waypoint is a waypoint that requires turn anticipation to allow tangential interception of the next segment of a route or procedure",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "The basic functional requirements of RNAV and RNP specifications are: 1.continuous indication of lateral deviation 2.distance and bearing to active waypoint 3.groundspeed or time to active waypoint 4.navigation data storage 5.failure indication",
+            "1, 2, 3, 5",
+            "1, 3, 4, 5",
+            "1, 2, 3, 4, 5"
+        ],
+        "dogru": "1, 2, 3, 4, 5",
+        "annex": null
+    },
+    {
+        "soru": "3, 4, 5\nWhich statement is true regarding an offset flight path?",
+        "secenekler": [
+            "An offset flight path is used for holding",
+            "It allows the crew to specify a lateral offset from a defined route",
+            "It allows the crew to specify a vertical offset from a defined route",
+            "An offset flight path is used for parallel approaches in terminal areas"
+        ],
+        "dogru": "It allows the crew to specify a lateral offset from a defined route",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Operation in RNAV 10 airspace requires as a minimum a certain number of independent and serviceable Long Range Navigation Systems (LRNSs). The minimum equipment required consists of at least ...",
+            "two LRNSs using input from VOR/DME or DME/DME RNAV equipment.",
+            "two LRNSs comprising an INS, an IRS FMS or a GNSS",
+            "one LRNS comprising an INS, an IRS FMS or a GNSS."
+        ],
+        "dogru": "two LRNSs comprising an INS, an IRS FMS or a GNSS",
+        "annex": null
+    },
+    {
+        "soru": "one LRNS using input from VOR/DME or DME/DME RNAV equipment.\nWhich statement is true relating to the comparison of raw data and computed data (in PBN)?",
+        "secenekler": [
+            "PBN is based on computed data which is highly sensor specific",
+            "conventional radio navigation is based on raw data from specific NAVAIDs such as VOR, DME or NDB",
+            "sensor based data is often referred to as raw data. PBN is mainly based on such data",
+            "raw data is based on computed data"
+        ],
+        "dogru": "conventional radio navigation is based on raw data from specific NAVAIDs such as VOR, DME or NDB",
+        "annex": null
+    },
+    {
+        "soru": "Can operators with aircaft equipped with a single IRS or INS extend their RNAV 10 capability time?",
+        "secenekler": [
+            "No, this is not possible",
+            "Yes, they can extend their time by applying to the State of Registration",
+            "Yes they can extend their time by fitting two IRS systems",
+            "Yes, they can extend their time by updating"
+        ],
+        "dogru": "Yes, they can extend their time by updating",
+        "annex": null
+    },
+    {
+        "soru": "If a discrepancy occurs between the on-board navigation database and the published procedure:",
+        "secenekler": [
+            "an RNP APCH may be flown with clearance from ATC",
+            "an RNP APCH may be flown to higher minima",
+            "the commander may decide whether an RNP APCH is possible",
+            "pilots must not fly an RNP APCH"
+        ],
+        "dogru": "pilots must not fly an RNP APCH",
+        "annex": null
+    },
+    {
+        "soru": "According to ICAO DOC 9613 which is true?",
+        "secenekler": [
+            "RNP procedures require approval and are operator dependent",
+            "All RNP procedures require approval",
+            "No RNP procedures require approval",
+            "Only specific RNP procedures require approval"
+        ],
+        "dogru": "RNP procedures require approval and are operator dependent",
+        "annex": null
+    },
+    {
+        "soru": "Which RNP can be can be used in all phases of flight except for en-route oceanic/remote and final approach phases and is intended primarily for helicopters?",
+        "secenekler": [
+            "RNP AR APCH",
+            "RNP 5",
+            "RNP 0.3",
+            "RNP 10"
+        ],
+        "dogru": "RNP 0.3",
+        "annex": null
+    },
+    {
+        "soru": "The minimum equipment requirement for RNP4 operation is:",
+        "secenekler": [
+            "2 LRNS (of which one can be GNSS)",
+            "2 LRNS plus twin GNSS",
+            "2 LRNSs supplemented by GNSS",
+            "1 LRNS plus twin GNSS"
+        ],
+        "dogru": "2 LRNS (of which one can be GNSS)",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "A-RNP incorporates which of the following the navigation specifications? (a Quadrant question in the UK) RNAV1  RNAV2  RNAV5 RNAV APCH RNP1 RNP2 RNP APCH",
+            "All except RNAV APCH",
+            "only RNP 1, RNP 2 and RNP APCH",
+            "All except RNAV 5"
+        ],
+        "dogru": "All except RNAV APCH",
+        "annex": null
+    },
+    {
+        "soru": "All are covered\nThe safety of a PBN application is contingent upon",
+        "secenekler": [
+            "the resolution, integrity and testing of the data",
+            "the security, resolution and integrity of the data",
+            "the security, accuracy and resolution  of the data",
+            "the accuracy, resolution and integrity of the data"
+        ],
+        "dogru": "the accuracy, resolution and integrity of the data",
+        "annex": null
+    },
+    {
+        "soru": "An aircraft that operates to RNP1 or better should be able to:",
+        "secenekler": [
+            "compute exact value of aircraft position error",
+            "compute estimated value of aircraft position error",
+            "correct estimated value of aircraft position error",
+            "correct exact value of aircraft position error"
+        ],
+        "dogru": "compute estimated value of aircraft position error",
+        "annex": null
+    },
+    {
+        "soru": "According to European regulations which statement is correct regarding approval required for PBN specification?",
+        "secenekler": [
+            "Some PBN operations require approval",
+            "PBN operations do not require approval",
+            "All PBN operations require approval",
+            "The approval required is operator dependant"
+        ],
+        "dogru": "Some PBN operations require approval",
+        "annex": null
+    },
+    {
+        "soru": "Whenever major changes are planned to aeronautical information provided under the AIRAC system and where additional notice is desirable and practicable, how many days before the effective date should the AIS organization publish the information?",
+        "secenekler": [
+            "In accordance with AIRAC - 56 days",
+            "In accordance with AIRAC - 28 days",
+            "In accordance with AIRAC - 42 days",
+            "In accordance with the PBN cycle."
+        ],
+        "dogru": "In accordance with AIRAC - 56 days",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Complete the statement below in relation to Performance-Based Navigation. The airworthiness approval process assures that each item of the area navigation equipment installed is of a type and design appropriate to…",
+            "its navigation specification, airspace concept, navigation application, and limitations.",
+            "the intended area of operation, taking into account the navigation application and navigation infrastructure.",
+            "its intended function and that the installation functions properly under foreseeable operating conditions."
+        ],
+        "dogru": "its intended function and that the installation functions properly under foreseeable operating conditions.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "the airspace concept and navigation specification requirements as stated in the relevant AIP.",
+            "Operation in RNAV 10 airspace requires as a minimum a certain number of independent and serviceable Long Range Navigation Systems (LRNSs). The minimum equipment required consists of at least…",
+            "two LRNSs comprising an INS, an IRS FMS or a GNSS.",
+            "two LRNSs using input from VOR/DME or DME/DME RNAV equipment."
+        ],
+        "dogru": "two LRNSs comprising an INS, an IRS FMS or a GNSS.",
+        "annex": null
+    },
+    {
+        "soru": "one LRNS comprising an INS, an IRS FMS or a GNSS.\none LRNS using input from VOR/DME or DME/DME RNAV equipment.\nWhich navigation error(s) of an on-board Required Navigation Performance (RNP) system can be monitored by the pilot?",
+        "secenekler": [
+            "Earth Rate Error (ERE), Flight Technical Error (FTE)",
+            "Flight Technical Error (FTE), Navigation System Error (NSE)",
+            "Flight Technical Error (FTE)",
+            "Total System Error (TSE), Flight Technical Error (FTE)"
+        ],
+        "dogru": "Flight Technical Error (FTE)",
+        "annex": null
+    },
+    {
+        "soru": "Which of the following PBN procedures is classified as a Non-Precision Approach (NPA) procedure? RNP APCH to…",
+        "secenekler": [
+            "LNAV/VNAV minima.",
+            "LPV minima.",
+            "GLS minima.",
+            "LNAV minima."
+        ],
+        "dogru": "LNAV minima.",
+        "annex": null
+    },
+    {
+        "soru": "During descent ATC informs the pilot to expect the RNP Approach (RNP APCH) for Runway 09. During approach preparation the pilot notices that one waypoint of the RNP APCH is missing in the navigation database. What are his/her options?",
+        "secenekler": [
+            "Load the existing RNP APCH procedure for Runway 09 from the on-board navigation database and insert the missing waypoint manually. Check that all data conform to the charted procedures and continue the approach.",
+            "Create a new RNP APCH procedure for Runway 09 in the on-board navigation database. Check that all data conform to the charted procedures and continue the approach.",
+            "An RNP APCH is permitted to be flown even if it is NOT retrievable from the on-board navigation database, so long as it is being backed up by other means of navigation. Continue the approach.",
+            "An RNP APCH must NOT be flown unless it is retrievable from the on-board navigation database and conforms to the charted procedure. Request a different approach procedure from ATC."
+        ],
+        "dogru": "An RNP APCH must NOT be flown unless it is retrievable from the on-board navigation database and conforms to the charted procedure. Request a different approach procedure from ATC.",
+        "annex": null
+    },
+    {
+        "soru": "What is the difference between the on-board navigation specifications RNP 1 and RNAV 1?",
+        "secenekler": [
+            "A performance-monitoring function is required for both RNP 1 and RNAV 1. An alerting function is only required for RNP 1.",
+            "A performance-monitoring and alerting function is required for RNAV 1 only.",
+            "An alerting function is required for both RNP 1 and RNAV 1. A performance-monitoring function is only required for RNP 1.",
+            "A performance-monitoring and alerting function is required for RNP 1 only."
+        ],
+        "dogru": "A performance-monitoring and alerting function is required for RNP 1 only.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Which of the following are some of the required navigation functionalities of RNAV and RNP specifications? 1. Continuous indication of lateral deviation 2. Continuous indication of vertical deviation 3. Distance/bearing to the active waypoint 4. Groundspeed or time to the active waypoint 5. Navigation data storage 6. an FMC",
+            "2, 4, 5, and 6",
+            "1, 2, 3, and 5",
+            "1, 3, 4, and 5"
+        ],
+        "dogru": "1, 3, 4, and 5",
+        "annex": null
+    },
+    {
+        "soru": "2, 3, 4, and 6\nAn aircraft is flying an RNAV approach. In which of the following situations would the contingency procedure of discontinuing the RNAV approach and reverting to a conventional arrival route apply? 1. Communications failure 2. The receiver fails to engage the correct approach mode 3. Loss of integrity monitoring 4. TCAS advisory 5. The CDI indication is greater than half scale displacement",
+        "secenekler": [
+            "1,3, and 5",
+            "1, 2, and 4",
+            "2,4, and 5",
+            "2, 3, and 5"
+        ],
+        "dogru": "2, 3, and 5",
+        "annex": null
+    },
+    {
+        "soru": "What does the abbreviation AR mean in RNP AR APCH?",
+        "secenekler": [
+            "Arrival Restriction",
+            "Automatic Reversion",
+            "Authorisation Required",
+            "Approach Restriction"
+        ],
+        "dogru": "Authorisation Required",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Which of the following are the components of PBN?  1. The NAVAID infrastructure 2. Pilot training 3. The navigation specification 4. Integrity control 5.The navigation application",
+            "2, 5, and 7",
+            "1, 3, and 5",
+            "2, 3, and 4"
+        ],
+        "dogru": "1, 3, and 5",
+        "annex": null
+    },
+    {
+        "soru": "1, 4, and 6\nWhich of the following factors affects the minimum spacing requirements of an ATS route?",
+        "secenekler": [
+            "Fuel policy",
+            "Aircraft classification number",
+            "Navigation performance",
+            "Aircraft registration"
+        ],
+        "dogru": "Navigation performance",
+        "annex": null
+    },
+    {
+        "soru": "Which ICAO PBN term refers to the difference between the aircraft's estimated position and actual position?",
+        "secenekler": [
+            "Path Definition Error (PDE)",
+            "Flight Technical Error (FTE)",
+            "Navigation System Error (NSE)",
+            "Estimated Position Error (EPE)"
+        ],
+        "dogru": "Navigation System Error (NSE)",
+        "annex": null
+    },
+    {
+        "soru": "Which of the following statements is correct regarding RNAV or RNP in terms of performance monitoring and alerting of the area navigation system?",
+        "secenekler": [
+            "RNP specifications include the requirement for on-board performance monitoring and alerting.",
+            "RNAV specifications include the requirement for on-board performance monitoring and alerting.",
+            "RNAV specifications include the requirement for on-board and groundbased performance monitoring and alerting.",
+            "RNP specifications include the requirement for ATC surveillance to alert the flight crew if system performance does NOT comply."
+        ],
+        "dogru": "RNP specifications include the requirement for on-board performance monitoring and alerting.",
+        "annex": null
+    },
+    {
+        "soru": "Which of the following statements, in relation to PBN operational approvals in accordance with the European Regulations on Air Operations, is correct?",
+        "secenekler": [
+            "The PBN specifications that require operational approval are operator-dependent.",
+            "All PBN specifications require an operational approval.",
+            "Only certain PBN specifications require an operational approval.",
+            "The PBN specifications that require operational approval are MCTOM (Maximum Certified Take-Off Mass)-dependent."
+        ],
+        "dogru": "Only certain PBN specifications require an operational approval.",
+        "annex": null
+    }
+]
