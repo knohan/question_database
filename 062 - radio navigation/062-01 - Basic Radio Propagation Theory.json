@@ -1,0 +1,1454 @@
+[
+    {
+        "soru": "Decimetric waves correspond to the frequency range:",
+        "secenekler": [
+            "300 to 3000 kHz",
+            "3000 to 30000 kHz",
+            "3000 to 30000 MHz",
+            "300 to 3000 MHz"
+        ],
+        "dogru": "300 to 3000 MHz",
+        "annex": null
+    },
+    {
+        "soru": "A radio beacon has an operational range of 10 NM. By what factor should the transmitter power be increased in order to achieve an operational range of 20 NM?",
+        "secenekler": [
+            "Four",
+            "Two",
+            "Six",
+            "Eight"
+        ],
+        "dogru": "Four",
+        "annex": null
+    },
+    {
+        "soru": "The frequency which corresponds to a wavelength of 12 cm is:",
+        "secenekler": [
+            "2500 MHz.",
+            "3600 MHz.",
+            "2500 kHz.",
+            "360 MHz."
+        ],
+        "dogru": "2500 MHz.",
+        "annex": null
+    },
+    {
+        "soru": "The wavelength of a radio signal with a frequency of 121.95 MHz is:",
+        "secenekler": [
+            "24.60 cm",
+            "2.46 cm",
+            "2.46 m",
+            "24.60 m"
+        ],
+        "dogru": "2.46 m",
+        "annex": null
+    },
+    {
+        "soru": "The wave length of a radio signal transmitted at a frequency of 75 MHz is:",
+        "secenekler": [
+            "75 m.",
+            "40 m.",
+            "7.5 m.",
+            "4 m."
+        ],
+        "dogru": "4 m.",
+        "annex": null
+    },
+    {
+        "soru": "The wave length of a radio signal transmitted at a frequency of 118.7 MHz is:",
+        "secenekler": [
+            "2.53 m",
+            "25.3 m",
+            "2.53 cm",
+            "25.3 cm"
+        ],
+        "dogru": "2.53 m",
+        "annex": null
+    },
+    {
+        "soru": "The VHF direction finder uses the following wavelengths:",
+        "secenekler": [
+            "decimetric.",
+            "centimetric.",
+            "hectometric.",
+            "metric."
+        ],
+        "dogru": "metric.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "The advantage of slotted antennas in modern radar technology is to…",
+            "produce a wide beam for better target detection.",
+            "greatly reduce lateral lobes, consequently concentrating more energy into the main beam.",
+            "eliminate the need for azimuth slaving."
+        ],
+        "dogru": "greatly reduce lateral lobes, consequently concentrating more energy into the main beam.",
+        "annex": null
+    },
+    {
+        "soru": "simultaneously transmit weather and mapping beams.\nConsidering a primary radar system, what kind of aerials are used?",
+        "secenekler": [
+            "An omnidirectional antenna for transmitting, and a directional antenna for receiving.",
+            "A directional antenna for transmitting, and an omnidirectional antenna for receiving.",
+            "One directional antenna both for transmitting and for receiving.",
+            "One directional antenna for transmitting and one for receiving."
+        ],
+        "dogru": "One directional antenna both for transmitting and for receiving.",
+        "annex": null
+    },
+    {
+        "soru": "Comparing a parabolic reflector with a flat plate antenna of the same size",
+        "secenekler": [
+            "the parabolic reflector has a considerably smaller beam width.",
+            "the parabolic reflector generates less side lobes than the flat plate antenna.",
+            "the flat plate antenna has a considerably smaller beam width.",
+            "the flat plate antenna generates less side lobes than the parabolic reflector."
+        ],
+        "dogru": "the flat plate antenna generates less side lobes than the parabolic reflector.",
+        "annex": null
+    },
+    {
+        "soru": "Which aeronautical radio frequency band uses refraction within ionospheric layers?",
+        "secenekler": [
+            "UHF",
+            "HF",
+            "VLF",
+            "VHF"
+        ],
+        "dogru": "HF",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "An apparent increase in the transmitted frequency, which is proportional to the transmitter velocity, will occur when the…",
+            "receiver moves away from the transmitter.",
+            "transmitter moves away from the receiver.",
+            "transmitter moves towards the receiver."
+        ],
+        "dogru": "transmitter moves towards the receiver.",
+        "annex": null
+    },
+    {
+        "soru": "transmitter goes into standby.\nDue to ‘Doppler’ effect an apparent decrease in the transmitted frequency, which is proportional to the transmitter’s velocity, will occur when:",
+        "secenekler": [
+            "the transmitter and receiver move towards each other.",
+            "the transmitter moves away from the receiver.",
+            "there is no relative movement between the transmitter and the receiver.",
+            "the transmitter moves toward the receiver."
+        ],
+        "dogru": "the transmitter moves away from the receiver.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Skip distance is the…",
+            "thickness of the ionosphere.",
+            "wavelength distance of a certain frequency.",
+            "range from the transmitter to the first sky wave return."
+        ],
+        "dogru": "range from the transmitter to the first sky wave return.",
+        "annex": null
+    },
+    {
+        "soru": "highest critical frequency distance.\nIn the propagation of MF waves, the phenomenon of FADING is particularly found:",
+        "secenekler": [
+            "by day, due to the combination of sky and ground waves.",
+            "at night and when raining.",
+            "by day and when raining.",
+            "at night, due to the combination of the sky and ground waves."
+        ],
+        "dogru": "at night, due to the combination of the sky and ground waves.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "The skip distance of HF-transmission will increase with…",
+            "higher frequency and lower level of the refracting ionospheric layer.",
+            "higher frequency and higher level of the refracting ionospheric layer.",
+            "lower frequency and higher level of the refracting ionospheric layer."
+        ],
+        "dogru": "higher frequency and higher level of the refracting ionospheric layer.",
+        "annex": null
+    },
+    {
+        "soru": "lower frequency and lower level of the refracting ionospheric layer.\nThe wavelength of a non-directional beacon (NDB) with a frequency of 300 kHz is:",
+        "secenekler": [
+            "1 metre.",
+            "1000 metres.",
+            "10 metres.",
+            "100 metres."
+        ],
+        "dogru": "1000 metres.",
+        "annex": null
+    },
+    {
+        "soru": "With regard to types of transmission, which of the following statements is true:",
+        "secenekler": [
+            "Pulse transmission is suitable only for NDB's",
+            "Continuous Wave transmission varies only in amplitude",
+            "In pulse transmission the frequency is modulated to facilitate range measurement",
+            "Continuous Wave transmission can be either frequency or amplitude modulated"
+        ],
+        "dogru": "Continuous Wave transmission can be either frequency or amplitude modulated",
+        "annex": null
+    },
+    {
+        "soru": "Attenuation of radio waves means:",
+        "secenekler": [
+            "Only the absorbtion of radio energy by the sea",
+            "The atmospheric bending of the waves",
+            "The weakening of the radiated waves",
+            "Only the scattering of the waves by the Tropopause"
+        ],
+        "dogru": "The weakening of the radiated waves",
+        "annex": null
+    },
+    {
+        "soru": "The VHF frequency band has a wavelength limit of:",
+        "secenekler": [
+            "1 m to 100 cm",
+            "100 cm to 10 cm",
+            "100 m to 10 m",
+            "10 m to 1 m"
+        ],
+        "dogru": "10 m to 1 m",
+        "annex": null
+    },
+    {
+        "soru": "Refer to image In the diagram, which refers to the propagation of HF radio waves, the letters A, B, C, D and E correctly represent:\nView Annex 062-005",
+        "secenekler": [
+            "A Dead space     B Skip dist          C Sky wave          D Ground wave       E Critical angle",
+            "A Skip dist           B Dead space    C Ground wave    D Sky wave     E Critical angle",
+            "A Sky wave        B Dead space    C Ground wave    D Skip dist    E Critical angle",
+            "A Dead space     B Skip dist          C Ground wave    D Critical angle      E Sky wave"
+        ],
+        "dogru": "A Sky wave        B Dead space    C Ground wave    D Skip dist    E Critical angle",
+        "annex": "062-005"
+    },
+    {
+        "soru": "Modulation is:",
+        "secenekler": [
+            "The addition of a low frequency signal (tone, voice) to a high frequency carrier wave",
+            "The addition of a high frequency signal (tone, voice) to a low frequency carrier wave",
+            "Tuning receiver into the frequency of the transmitter",
+            "Elimination of disturbances for improving reception"
+        ],
+        "dogru": "The addition of a low frequency signal (tone, voice) to a high frequency carrier wave",
+        "annex": null
+    },
+    {
+        "soru": "The phenomenon of a change in direction of an EM-wave occurring due to a change in its speed is called:",
+        "secenekler": [
+            "reflection",
+            "diffraction",
+            "interference",
+            "refraction"
+        ],
+        "dogru": "refraction",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "In aviation electronic systems the so-called Doppler principle may be used in",
+            "VOR, MTI and the mapping mode of AWR.",
+            "VOR, DME and ILS",
+            "VOR, GPS and MTI and the turbulence mode of AWR."
+        ],
+        "dogru": "VOR, GPS and MTI and the turbulence mode of AWR.",
+        "annex": null
+    },
+    {
+        "soru": "VOR , DME and GPS.\nWhat is the Doppler effect with reference to radio signals?",
+        "secenekler": [
+            "It is the shift in frequency of the radio wave due to the relative movement between transmitter and receiver",
+            "It is interference between the direct and the earth reflected wave.",
+            "It is fluctuations in their propagation speed.",
+            "It is the increases or decreases in the ground speed of the transmitting aircraft."
+        ],
+        "dogru": "It is the shift in frequency of the radio wave due to the relative movement between transmitter and receiver",
+        "annex": null
+    },
+    {
+        "soru": "Which of the following summaries lists only directional antennae?",
+        "secenekler": [
+            "Dipole antenna, sense antenna, parabolic antenna, helical antenna.",
+            "Dipole antenna, loop antenna, parabolic antenna, slotted planar array antenna.",
+            "Sense antenna, parabolic antenna, slotted planar array antenna, helical antenna.",
+            "Loop antenna, parabolic antenna, slotted planar array antenna, helical antenna."
+        ],
+        "dogru": "Loop antenna, parabolic antenna, slotted planar array antenna, helical antenna.",
+        "annex": null
+    },
+    {
+        "soru": "Given a wire fed with alternating current and a second wire parallel to, but remote from it. The result will be:",
+        "secenekler": [
+            "the first wire will radiate electro-magnetic waves into space and direct current will be induced in the second wire.",
+            "the first wire will radiate electro-magnetic waves into space but the transmitted energy will be completely absorbed by the second wire.",
+            "the first wire will radiate electro-magnetic waves into space and the second wire will double the transmission power of the first one.",
+            "The first wire will radiate electromagnetic waves into space and alternating current will be induced in the second wire"
+        ],
+        "dogru": "The first wire will radiate electromagnetic waves into space and alternating current will be induced in the second wire",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Phase modulation",
+            "results in a change of amplitude of the carrier wave.",
+            "is a modulation form used in GPS where the phase of the carrier wave is reversed.",
+            "is a modulation form used in ILS where the phase of the navigation signals is changed with 90° or 150°."
+        ],
+        "dogru": "is a modulation form used in GPS where the phase of the carrier wave is reversed.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "results in a change of polarisation of the modulated signal.",
+            "What is meant by keying in A1A modulation",
+            "interrupting the carrier wave to break it into dots and dashes.",
+            "changing the amplitude of the carrier wave to add information."
+        ],
+        "dogru": "interrupting the carrier wave to break it into dots and dashes.",
+        "annex": null
+    },
+    {
+        "soru": "adding information on the carrier wave by use of a modulating signal.\ninterrupting the modulating signal to break it into dots and dashes.\nThe phenomenon when a wave bends when it passes around an impenetrable obstacle is called:",
+        "secenekler": [
+            "refraction",
+            "diffraction",
+            "reflection",
+            "interference"
+        ],
+        "dogru": "diffraction",
+        "annex": null
+    },
+    {
+        "soru": "From which physical phenomenon do sky waves originate?",
+        "secenekler": [
+            "refraction",
+            "diffraction",
+            "absorption",
+            "interference"
+        ],
+        "dogru": "refraction",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "A reason that GPS satellites use helical antennae is",
+            "to achieve better omni directional receiving qualities.",
+            "to improve the signal to noise ratio.",
+            "that the signal has a circular polarization."
+        ],
+        "dogru": "that the signal has a circular polarization.",
+        "annex": null
+    },
+    {
+        "soru": "to neutralize the ionospheric delay.\nWhat describes polarization?",
+        "secenekler": [
+            "Rotation of the antenna around a fixed axis",
+            "Orientation of the antenna to the North Pole",
+            "Orientation of the plane of oscillation of the magnetic component of the ectromagnetic wave",
+            "Orientation of the plane of oscillation of the electrical component"
+        ],
+        "dogru": "Orientation of the plane of oscillation of the electrical component",
+        "annex": null
+    },
+    {
+        "soru": "What is the reason that DME utilises pulse pairs instead of single pulses?",
+        "secenekler": [
+            "To be able to use a separate interrogation and reply frequency, and thus to increase the number of DME stations that can transmit in the same part of the DME frequency band.",
+            "To increase the accuracy and reliability of the range measurement.",
+            "To distinguish DME transmissions from transmissions of other (radar) systems utilising single pulses.",
+            "To increase the number of aircraft that can simultaneously use the DME station to determine the DME range."
+        ],
+        "dogru": "To distinguish DME transmissions from transmissions of other (radar) systems utilising single pulses.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "The indication of the FROM/TO indicator of a VOR shifts from TO to FROM (or vice versa) when the value of the difference between the selected course and the measured radial passes in either direction",
+            "045°",
+            "090°",
+            "135°"
+        ],
+        "dogru": "090°",
+        "annex": null
+    },
+    {
+        "soru": "180°\nRadio waves travel at:",
+        "secenekler": [
+            "The speed of light",
+            "The speed of sound",
+            "A speed just below the speed of sound",
+            "A speed depending on the type of electroamgetic waves"
+        ],
+        "dogru": "The speed of light",
+        "annex": null
+    },
+    {
+        "soru": "Which of the following is true with reference to frequency of a radio wave?",
+        "secenekler": [
+            "Frequency is the length of a radio wave expressed as an angle",
+            "Frequency is the number of cycles in one second in a radio wave expressed in Hertz (Hz)",
+            "Frequency is the minimum number of cycles occurring in one minute in a radio wave expressed in Hertz (Hz)",
+            "Frequency is the maximum deflection in a radio wave expressed in Hertz (Hz)"
+        ],
+        "dogru": "Frequency is the number of cycles in one second in a radio wave expressed in Hertz (Hz)",
+        "annex": null
+    },
+    {
+        "soru": "The frequency which corresponds to a wavelength of 8.25 m is:",
+        "secenekler": [
+            "36.36 MHz",
+            "363.6 MHz",
+            "3.63 MHz",
+            "3636 MHz"
+        ],
+        "dogru": "36.36 MHz",
+        "annex": null
+    },
+    {
+        "soru": "The frequency which corresponds to a wavelength of 3 km is:",
+        "secenekler": [
+            "1000 kHz",
+            "1 MHz",
+            "100 kHz",
+            "10 kHz"
+        ],
+        "dogru": "100 kHz",
+        "annex": null
+    },
+    {
+        "soru": "Which of the following terms describes the maximum deflection in an oscillation?",
+        "secenekler": [
+            "Frequency",
+            "Phase",
+            "Period",
+            "Amplitude"
+        ],
+        "dogru": "Amplitude",
+        "annex": null
+    },
+    {
+        "soru": "Single-sideband modulation (SSB) is a modulation technique where only one sideband is transmitted, SSB is used for:",
+        "secenekler": [
+            "VHF communication and HF Volmet",
+            "HF Volmet and HF two-way communication",
+            "VHF VOR and GNSS",
+            "HF one-way communication"
+        ],
+        "dogru": "HF Volmet and HF two-way communication",
+        "annex": null
+    },
+    {
+        "soru": "What describes ‘Polarisation’?",
+        "secenekler": [
+            "The orientation of the plane of oscillation of the magnetic component of the electromagnetic wave.",
+            "The rotation of the antenna around a fixed axis.",
+            "The orientation of the plane of oscillation of the electrical component of the electromagnetic wave.",
+            "The orientation of the antenna to the north pole."
+        ],
+        "dogru": "The orientation of the plane of oscillation of the electrical component of the electromagnetic wave.",
+        "annex": null
+    },
+    {
+        "soru": "The simplest type of antenna construction is a:",
+        "secenekler": [
+            "Dipole antenna which is a wire of length equal to one half of the wavelength",
+            "Slotted antenna used in modern weather radars",
+            "Parabolic antenna used in weather radars",
+            "Loop antenna used in ADF receivers"
+        ],
+        "dogru": "Dipole antenna which is a wire of length equal to one half of the wavelength",
+        "annex": null
+    },
+    {
+        "soru": "A Loop Antenna is commonly used in:",
+        "secenekler": [
+            "GPS transmitters",
+            "Airborne Weather Radar",
+            "ADF receivers",
+            "Satellite transmitters"
+        ],
+        "dogru": "ADF receivers",
+        "annex": null
+    },
+    {
+        "soru": "Concerning the wave propagation in the ionosphere, we denote three layers. Those three layers are:",
+        "secenekler": [
+            "D, E and F layers and their depth varies with time",
+            "A, C and E layers with equal depth",
+            "D, E and F layers and their depth does not vary with time",
+            "A, B and C layers and their depth varies with time"
+        ],
+        "dogru": "D, E and F layers and their depth varies with time",
+        "annex": null
+    },
+    {
+        "soru": "Which statement about VHF/UHF Frequencies is correct?",
+        "secenekler": [
+            "VHF frequencies below 120 MHz may be subjected to sporadic E-reflections and then have sky wave. For both VHF/UHF the sky wave is the main propagation path of practical use",
+            "For both VHF/UHF propagation, the space wave is the only propagation path of practial use. There is no sky wave under normal conditions",
+            "Neither VHF/UHF has a sky wave under any conditions. For VHF the surface wave is the main propagation path and for UHF the space wave",
+            "VHF has, under normal conditions, a sky wave whereas UHF has not. For both VHF/UHF propagation the space wave is the main propagation path"
+        ],
+        "dogru": "For both VHF/UHF propagation, the space wave is the only propagation path of practial use. There is no sky wave under normal conditions",
+        "annex": null
+    },
+    {
+        "soru": "Refer to image An amplitude modulation is shown in figure:\nView Annex 062-004",
+        "secenekler": [
+            "C",
+            "A",
+            "D",
+            "B"
+        ],
+        "dogru": "A",
+        "annex": "062-004"
+    },
+    {
+        "soru": "A radio signal may be classified by three symbols in accordance with the ITU radio regulation e.g. A1A. Which statement is true?",
+        "secenekler": [
+            "The second symbol indicates the nature of information to be transmitted",
+            "The third symbol indicates the nature of the signal modulating the main carrier",
+            "The three symbols together indicate which device is transmitting on the carrier",
+            "The first symbol indicates the type of modulation of the main carrier"
+        ],
+        "dogru": "The first symbol indicates the type of modulation of the main carrier",
+        "annex": null
+    },
+    {
+        "soru": "The electromagnetic waves refracted from the E and F layers of the ionosphere are called:",
+        "secenekler": [
+            "Space waves",
+            "Refracted waves",
+            "Ground waves",
+            "Sky waves"
+        ],
+        "dogru": "Sky waves",
+        "annex": null
+    },
+    {
+        "soru": "An electromagnetic wave consists of an oscillating electric (E) and an oscillating magnetic (H) field. Which of the following answers is true?",
+        "secenekler": [
+            "The E field and the H field are perpendicular to each other.",
+            "The H field is parallel to the wire and the E field is perpendicular to it.",
+            "When a constant current is sent through the antenna the E and H field are parallel.",
+            "A dipole antenna is only capable to transmit the H field."
+        ],
+        "dogru": "The E field and the H field are perpendicular to each other.",
+        "annex": null
+    },
+    {
+        "soru": "Diffraction is the process by which:",
+        "secenekler": [
+            "A ground wave is attenuated over rough ground",
+            "A direct wave is bent around the form of the earth",
+            "Radio waves travel over and around obstacles",
+            "A space wave penetrates the ionosphere"
+        ],
+        "dogru": "Radio waves travel over and around obstacles",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Radio waves in the VHF and higher frequency bands propagate mainly as",
+            "space waves.",
+            "surface waves.",
+            "earth reflected waves."
+        ],
+        "dogru": "space waves.",
+        "annex": null
+    },
+    {
+        "soru": "sky waves.\nThe phenomenon of a change in direction of an EM-wave occurring at an interface between two different media, so that the wave returns into the medium from which it originated, is called:",
+        "secenekler": [
+            "refraction",
+            "diffraction",
+            "interference",
+            "reflection"
+        ],
+        "dogru": "reflection",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Single Side Band (SSB) is used",
+            "with transmissions of the Meteorological aerodrome Report (METAR)",
+            "in HF two-way communication.",
+            "in VHF transmissions to reduce transmission power."
+        ],
+        "dogru": "in HF two-way communication.",
+        "annex": null
+    },
+    {
+        "soru": "with NDB transmissions to reduce the bandwidth\nModulation is:",
+        "secenekler": [
+            "The amplification of the received radio wave in the detector",
+            "The transformation of the radio wave into a digital signal",
+            "The separation of information from the radio wave during receiving",
+            "The addition of information onto a radio wave during transmission"
+        ],
+        "dogru": "The addition of information onto a radio wave during transmission",
+        "annex": null
+    },
+    {
+        "soru": "Reflection from ionospheric layers is used in the following radio frequencies:",
+        "secenekler": [
+            "UHF",
+            "VLF",
+            "HF",
+            "VHF"
+        ],
+        "dogru": "HF",
+        "annex": null
+    },
+    {
+        "soru": "The process by which EM-energy is taken up by the atmosphere is called:",
+        "secenekler": [
+            "absorption",
+            "interference",
+            "diffraction",
+            "refraction"
+        ],
+        "dogru": "absorption",
+        "annex": null
+    },
+    {
+        "soru": "Which statement about VHF/UHF propagation in connection with Ground Direction Finders is correct?",
+        "secenekler": [
+            "Neither VHF/UHF has a sky wave under any conditions. For VHF the surface wave is the main propagation path and for UHF the space wave.",
+            "For both VHF/UHF propagation, the space wave is the only propagation path of practical use. There is no sky wave under normal conditions.",
+            "VHF-frequencies below 120 MHz may be subjected to sporadic E-reflection and then have a sky wave. For both VHF/UHF the surface wave is the only propagation path of practical use.",
+            "VHF has, under normal conditions, a sky wave, whereas UHF has not. For both VHF/UHF propagation the space wave is the main propagation path."
+        ],
+        "dogru": "For both VHF/UHF propagation, the space wave is the only propagation path of practical use. There is no sky wave under normal conditions.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "The superposition of two EM-waves of the same or nearly the same frequency is called",
+            "interference",
+            "diffraction",
+            "refraction"
+        ],
+        "dogru": "interference",
+        "annex": null
+    },
+    {
+        "soru": "reflection\nMountain effect, occurring for instance with NDBs, is caused by what physical phenomenon?",
+        "secenekler": [
+            "reflection",
+            "absorption",
+            "refraction",
+            "diffraction"
+        ],
+        "dogru": "reflection",
+        "annex": null
+    },
+    {
+        "soru": "The frequency which corresponds to a wavelength of 12 cm is:",
+        "secenekler": [
+            "2.5 GHz",
+            "2,500 KHz",
+            "3600 MHz",
+            "360 MHz"
+        ],
+        "dogru": "2.5 GHz",
+        "annex": null
+    },
+    {
+        "soru": "What is the definition of an antenna?",
+        "secenekler": [
+            "A wave type transducer for the process of converting a line AC into a free electromagnetic wave.",
+            "A transformer for the process of converting AC into a radio wave",
+            "A device used for the purpose of receiving a free electromagnetic radio wave and converting it into an audible frequency.",
+            "A wave type transducer for the process of converting DC into a free electromagnetic wave."
+        ],
+        "dogru": "A wave type transducer for the process of converting a line AC into a free electromagnetic wave.",
+        "annex": null
+    },
+    {
+        "soru": "With a Doppler VOR system and frequency decreasing:",
+        "secenekler": [
+            "the transmitter and the receiver are moving closer",
+            "the transmitter and receiver are stationary",
+            "the transmitter is moving away",
+            "the transmitter is moving to the receiver"
+        ],
+        "dogru": "the transmitter is moving away",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "A vertically-mounted dipole antenna is used for RF transmissions.The receiving antenna has to be …",
+            "aligned horizontally in order to receive the electrical field of the RF transmission in the horizontal plane.",
+            "in the same vertical alignment in order to receive the electrical field of the RF transmission in the vertical plane.",
+            "aligned horizontally in order to receive the electrical field of the RF transmission in the vertical plane."
+        ],
+        "dogru": "in the same vertical alignment in order to receive the electrical field of the RF transmission in the vertical plane.",
+        "annex": null
+    },
+    {
+        "soru": "in the same vertical alignment in order to receive the electrical field of the RF transmission in the horizontal plane.\nA VHF radio signal is amplitude modulated by a low frequency signal corresponding to the pilot's voice. The spectrum of the modulated signal highlights that the useful information is located:",
+        "secenekler": [
+            "on both in the upper and lower sidebands",
+            "in the carrier signal",
+            "on the upper sideband only",
+            "on the lower sideband only"
+        ],
+        "dogru": "on both in the upper and lower sidebands",
+        "annex": null
+    },
+    {
+        "soru": "HF \"Volmet\" broadcasts meteorological information for aircraft in flight by using HF radio transmissions. The characteristics of the HF signal are that:",
+        "secenekler": [
+            "the carrier wave is amplitude modulated and only one of the two sidebands is transmitted (single sideband transmission)",
+            "the carrier wave is frequency modulated and only one of the two sidebands is transmitted (single sideband transmission)",
+            "the carrier wave is frequency modulated with a modulation index of 16",
+            "the carrier wave is amplitude modulated with a fixed modulation depth"
+        ],
+        "dogru": "the carrier wave is amplitude modulated and only one of the two sidebands is transmitted (single sideband transmission)",
+        "annex": null
+    },
+    {
+        "soru": "A radio signal is used to establish voice communications between the ground and an aircraft.  This signal is transmitted in A3E. The number \"3\" means that the:",
+        "secenekler": [
+            "emitter transmits the half carrier and only one of the two sidebands",
+            "carrier is modulated by an analogue signal",
+            "emitter transmits the complete carrier and the two sidebands",
+            "carrier is modulated by a digital information"
+        ],
+        "dogru": "carrier is modulated by an analogue signal",
+        "annex": null
+    },
+    {
+        "soru": "A radio signal is transmitted in A2A. These three symbols collectively mean:",
+        "secenekler": [
+            "an on-off keying of an amplitude modulated transmission used for aural telegraphy",
+            "an amplitude modulation used for telephony, single sideband, with suppressed carrier",
+            "an amplitude modulation used for telephony, double sideband",
+            "a frequency modulation with on-off keying telegraphy of an audio frequency"
+        ],
+        "dogru": "an on-off keying of an amplitude modulated transmission used for aural telegraphy",
+        "annex": null
+    },
+    {
+        "soru": "Complete the following statement: a signal of wavelength 711 m is transmitted in the (1) band and it propagates by using the (2) wave path. Which combination of answers states the correct answers for (1) and (2)?",
+        "secenekler": [
+            "(1) MF (2) ground",
+            "(1) LF (2) space",
+            "(1) VHF (2) direct",
+            "(1) HF (2) sky"
+        ],
+        "dogru": "(1) MF (2) ground",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "A dipole antenna in its simplest form, suited for a frequency of 110 MHz, ought to have a length of",
+            "136 cm",
+            "273 cm",
+            "205 cm"
+        ],
+        "dogru": "136 cm",
+        "annex": null
+    },
+    {
+        "soru": "91 cm\nThe sky wave is an electromagnetic wave which travels?",
+        "secenekler": [
+            "Across the earth's surface",
+            "Into space to be refracted in the ionosphere",
+            "Inside the ionosphere along the boundary layer",
+            "By line of sight between transmitter and receiver"
+        ],
+        "dogru": "Into space to be refracted in the ionosphere",
+        "annex": null
+    },
+    {
+        "soru": "VHF propagates",
+        "secenekler": [
+            "As ground waves during the day & as ground and sky waves by night",
+            "As sky waves during the day & ground waves and sky waves by night",
+            "As ground waves",
+            "As space waves"
+        ],
+        "dogru": "As space waves",
+        "annex": null
+    },
+    {
+        "soru": "What is the simplest type of antenna called?",
+        "secenekler": [
+            "Monopole",
+            "Loop antenna",
+            "Dipole",
+            "Quadrupole"
+        ],
+        "dogru": "Dipole",
+        "annex": null
+    },
+    {
+        "soru": "VLF radio waves travel...",
+        "secenekler": [
+            "during daytime as ground and sky waves, during night time as ground waves only",
+            "by line of sight",
+            "during daytime as sky waves",
+            "during day and night as ground waves"
+        ],
+        "dogru": "during day and night as ground waves",
+        "annex": null
+    },
+    {
+        "soru": "VHF (Very High Frequency) waves occur in which frequency range?",
+        "secenekler": [
+            "30 MHz - 300 MHz",
+            "3 MHz - 30 MHz",
+            "300 MHz - 3000 MHz",
+            "3 GHz - 30 GHz"
+        ],
+        "dogru": "30 MHz - 300 MHz",
+        "annex": null
+    },
+    {
+        "soru": "Which statement about the range of VHF waves is correct ?",
+        "secenekler": [
+            "It depends on the altitude of the aircraft and the elevation of the ground antenna.",
+            "Obstacles like mountains between transmitter and aircraft do not affect the range.",
+            "It does not depend on the elevation of the antenna of the transmitter.",
+            "It does not depend on the altitude of the aircraft but only on the power of the transmitter."
+        ],
+        "dogru": "It depends on the altitude of the aircraft and the elevation of the ground antenna.",
+        "annex": null
+    },
+    {
+        "soru": "The wave length of a radio signal transmitted at a frequency of 118.7 MHz is:",
+        "secenekler": [
+            "2.53 m.",
+            "25.3 cm.",
+            "25.3 m.",
+            "2.53 cm."
+        ],
+        "dogru": "2.53 m.",
+        "annex": null
+    },
+    {
+        "soru": "The frequency of an Airborne Weather Radar is 9.33 GHz.What is the corresponding wavelength?",
+        "secenekler": [
+            "32 m",
+            "3.2 m",
+            "32 cm",
+            "3.2 cm"
+        ],
+        "dogru": "3.2 cm",
+        "annex": null
+    },
+    {
+        "soru": "An Airborne Weather Radar transmits pulses of a wavelength of 3.2 cm.What is the corresponding frequency?",
+        "secenekler": [
+            "93.8 kHz",
+            "9.38 MHz",
+            "93800 MHz",
+            "9.38 GHz"
+        ],
+        "dogru": "9.38 GHz",
+        "annex": null
+    },
+    {
+        "soru": "A parabolic antenna:",
+        "secenekler": [
+            "is a directional antenna.",
+            "is used only for transmitting.",
+            "is a non directional antenna.",
+            "is used only for receiving"
+        ],
+        "dogru": "is a directional antenna.",
+        "annex": null
+    },
+    {
+        "soru": "Due to ‘Doppler’ effect an apparent increase in the transmitted frequency will occur when:",
+        "secenekler": [
+            "the transmitter and receiver move towards each other.",
+            "the receiver moves away from the transmitter.",
+            "there is no relative movement between the transmitter and the receiver.",
+            "the transmitter moves away from the receiver."
+        ],
+        "dogru": "the transmitter and receiver move towards each other.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Due to the Doppler effect an apparent decrease in the transmitted frequency, which is proportional to the transmitter and receiver’s relative velocity, will occur when…",
+            "there is no relative movement between the transmitter and the receiver.",
+            "the transmitter moves away from the receiver.",
+            "the transmitter moves toward the receiver."
+        ],
+        "dogru": "the transmitter moves away from the receiver.",
+        "annex": null
+    },
+    {
+        "soru": "the transmitter and receiver move towards each other.\nWhat is the skip zone?",
+        "secenekler": [
+            "the place where only the sky wave can be received.",
+            "the place where only the ground wave can be received.",
+            "the place where both ground and sky waves can be received.",
+            "the place where neither the ground waves nor the sky waves can be received."
+        ],
+        "dogru": "the place where neither the ground waves nor the sky waves can be received.",
+        "annex": null
+    },
+    {
+        "soru": "The skip distance is:",
+        "secenekler": [
+            "the distance from transmitter to the maximum range of the ground wave",
+            "the distance from transmitter to earth surface up to the point where the first sky wave can be received",
+            "the distance from transmitter to an obstacle which limits the extension of the ground wave",
+            "the distance from transmitter to the maximum range of the sky wave"
+        ],
+        "dogru": "the distance from transmitter to earth surface up to the point where the first sky wave can be received",
+        "annex": null
+    },
+    {
+        "soru": "Refer to the annex. Which letter in the figure below indicates the Skip Distance?\nView Annex 620932",
+        "secenekler": [
+            "b",
+            "d",
+            "c",
+            "a"
+        ],
+        "dogru": "d",
+        "annex": "620932"
+    },
+    {
+        "soru": "Fading (LF and MF) can happen:",
+        "secenekler": [
+            "at any time",
+            "only during daytime",
+            "only at night",
+            "from the beginning of evening twilight until the end of morning twilight."
+        ],
+        "dogru": "from the beginning of evening twilight until the end of morning twilight.",
+        "annex": null
+    },
+    {
+        "soru": "What is meant by the term 'Fading'?",
+        "secenekler": [
+            "The interference of the ground and sky wave.",
+            "The disappearance of the D-layer with beginning of the evening twilight.",
+            "An effect which can be observed only in the F-layer of the ionosphere.",
+            "An effect at RADAR which leads to ‘blind speed’."
+        ],
+        "dogru": "The interference of the ground and sky wave.",
+        "annex": null
+    },
+    {
+        "soru": "Under what conditions can a VHF transmission often be received at a range considerably greater than line-of-sight?",
+        "secenekler": [
+            "The signal may be reflected from mountains between the transmitter and receiver.",
+            "A temperature inversion in the lower atmosphere can cause ‘super-refraction’.",
+            "The signal may be refracted from the ionosphere at night.",
+            "The signal may be refracted as a surface wave over a large expanse of water."
+        ],
+        "dogru": "A temperature inversion in the lower atmosphere can cause ‘super-refraction’.",
+        "annex": null
+    },
+    {
+        "soru": "The unit for measuring frequency is ___, and measures cycles ___:",
+        "secenekler": [
+            "Hertz; per second",
+            "Hertz; per minute.",
+            "Metres; per minute",
+            "Metres; per second."
+        ],
+        "dogru": "Hertz; per second",
+        "annex": null
+    },
+    {
+        "soru": "The frequency transmitted by the outer marker is 75 MHz.What is the corresponding wavelength?",
+        "secenekler": [
+            "225 m",
+            "4000 m",
+            "2.25 m",
+            "4 m"
+        ],
+        "dogru": "4 m",
+        "annex": null
+    },
+    {
+        "soru": "How is frequency modulation achieved?",
+        "secenekler": [
+            "The information is added onto the carrier wave by interrupting the carrier.",
+            "The information is added onto the carrier wave by reversing the phases of the carrier.",
+            "The information is added onto the carrier wave by altering the amplitude of the carrier.",
+            "The information is added onto the carrier wave by altering the frequency of the carrier."
+        ],
+        "dogru": "The information is added onto the carrier wave by altering the frequency of the carrier.",
+        "annex": null
+    },
+    {
+        "soru": "In which frequency band may fading occur during the twilight period?",
+        "secenekler": [
+            "VHF",
+            "UHF",
+            "HF",
+            "MF"
+        ],
+        "dogru": "MF",
+        "annex": null
+    },
+    {
+        "soru": "How is the unit Hertz (Hz) defined?",
+        "secenekler": [
+            "The time of one complete oscillation.",
+            "The number of electromagnetic oscillations per minute.",
+            "The number of electromagnetic oscillations per second.",
+            "The distance a radio wave travels in one second."
+        ],
+        "dogru": "The number of electromagnetic oscillations per second.",
+        "annex": null
+    },
+    {
+        "soru": "Radio waves travel with an approximate velocity of:",
+        "secenekler": [
+            "300 000 kt",
+            "300 000 km/s",
+            "300 000 m/s",
+            "300 000 km/h"
+        ],
+        "dogru": "300 000 km/s",
+        "annex": null
+    },
+    {
+        "soru": "VLF radio waves travel:",
+        "secenekler": [
+            "by line-of-sight",
+            "during day and night as ground waves",
+            "during day time as sky waves",
+            "during daytime as ground and sky waves, during night time as ground waves only"
+        ],
+        "dogru": "during day and night as ground waves",
+        "annex": null
+    },
+    {
+        "soru": "HFradio waves travel:",
+        "secenekler": [
+            "quasi-optically.",
+            "during daytime as ground and sky waves, during night time as ground waves only.",
+            "during daytime and at night as ground waves only.",
+            "during daytime and night time as sky waves, and the range of the ground wave is very small."
+        ],
+        "dogru": "during daytime and night time as sky waves, and the range of the ground wave is very small.",
+        "annex": null
+    },
+    {
+        "soru": "Refer to the diagram. What type of modulation is shown in the figure below?\nView Annex 621029",
+        "secenekler": [
+            "Amplitude modulation",
+            "Pulse modulation",
+            "No modulation",
+            "Frequency modulation"
+        ],
+        "dogru": "Amplitude modulation",
+        "annex": "621029"
+    },
+    {
+        "soru": "Refer to the diagram. What type of modulation is shown in the figure below?\nView Annex 621030",
+        "secenekler": [
+            "no modulation",
+            "Pulse modulation",
+            "Frequency modulation",
+            "Amplitude modulation"
+        ],
+        "dogru": "Frequency modulation",
+        "annex": "621030"
+    },
+    {
+        "soru": "The shoreline/coastal effect is caused by diffraction of the radio waves.What is one factor influencing the error of the bearing?",
+        "secenekler": [
+            "groundspeed",
+            "flight altitude",
+            "Weather conditions",
+            "conditions over the sea"
+        ],
+        "dogru": "flight altitude",
+        "annex": null
+    },
+    {
+        "soru": "At what velocity do electromagnetic waves travel?",
+        "secenekler": [
+            "It depends on the frequency of the wave.",
+            "The speed of light + velocity of the transmitter.",
+            "The speed of light.",
+            "The speed of sound."
+        ],
+        "dogru": "The speed of light.",
+        "annex": null
+    },
+    {
+        "soru": "Electromagnetic waves in the LF band have a frequency spectrum of:",
+        "secenekler": [
+            "3-30 kHz.",
+            "300-3000 kHz.",
+            "30-300 kHz.",
+            "30-300 MHz."
+        ],
+        "dogru": "30-300 kHz.",
+        "annex": null
+    },
+    {
+        "soru": "The damping of a radio wave is so strong that no signal can be received.This phenomenon is called:",
+        "secenekler": [
+            "diffraction",
+            "reflection",
+            "absorption",
+            "refraction"
+        ],
+        "dogru": "absorption",
+        "annex": null
+    },
+    {
+        "soru": "The superposition of radio waves with approximately the same frequency is called:",
+        "secenekler": [
+            "interference",
+            "diffraction",
+            "absorption",
+            "reflection"
+        ],
+        "dogru": "interference",
+        "annex": null
+    },
+    {
+        "soru": "Which physical phenomenon is the main reasons for the Mountain Effect?",
+        "secenekler": [
+            "Interference",
+            "Reflection",
+            "Scattering",
+            "Damping"
+        ],
+        "dogru": "Reflection",
+        "annex": null
+    },
+    {
+        "soru": "How is amplitude modulation achieved?",
+        "secenekler": [
+            "The information is added onto the carrier wave by altering the amplitude of the carrier.",
+            "The information is added onto the carrier wave by interrupting the carrier.",
+            "The information is added onto the carrier wave by altering the frequency of the carrier.",
+            "The information is added onto the carrier wave by reversing the phases of the carrier."
+        ],
+        "dogru": "The information is added onto the carrier wave by altering the amplitude of the carrier.",
+        "annex": null
+    },
+    {
+        "soru": "The Ground Wave propagates as follows:",
+        "secenekler": [
+            "It travels along the earth’s surface and follows the curvature of the earth.",
+            "The ground wave is transmitted toward the earth’s surface and will be reflected.",
+            "The wave will be reflected at the ionosphere back to the ground.",
+            "It travels beneath the ground."
+        ],
+        "dogru": "It travels along the earth’s surface and follows the curvature of the earth.",
+        "annex": null
+    },
+    {
+        "soru": "The Sky Wave propagates as follows:",
+        "secenekler": [
+            "It travels between ground and D layer of the ionosphere.",
+            "It travels inside the Ionosphere along the boundary between E and F layer.",
+            "It travels along the earth’s surface.",
+            "A wave transmitted into space will be reflected back to the earth’s surface by the ionosphere."
+        ],
+        "dogru": "A wave transmitted into space will be reflected back to the earth’s surface by the ionosphere.",
+        "annex": null
+    },
+    {
+        "soru": "Within which frequency band listed below are radio waves propagated as space waves?",
+        "secenekler": [
+            "HF.",
+            "VHF.",
+            "MF.",
+            "VLF."
+        ],
+        "dogru": "VHF.",
+        "annex": null
+    },
+    {
+        "soru": "Modulation is:",
+        "secenekler": [
+            "the transformation of the radio wave into a digital signal.",
+            "the addition of information onto a radio wave during transmission.",
+            "the amplification of the received radio wave in the detector.",
+            "the separation of information from a radio wave during receiving."
+        ],
+        "dogru": "the addition of information onto a radio wave during transmission.",
+        "annex": null
+    },
+    {
+        "soru": "Modulation is:",
+        "secenekler": [
+            "the addition of a high frequency signal (tone, voice) onto a low frequency carrier wave.",
+            "the elimination of disturbances for improving the reception.",
+            "the tuning of the receiver in to the frequency of the transmitter.",
+            "the addition of a low frequency signal (tone, voice) onto a high frequency carrier wave."
+        ],
+        "dogru": "the addition of a low frequency signal (tone, voice) onto a high frequency carrier wave.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "Modulation is",
+            "the process to provide a radio carrier wave for transmission.",
+            "to allow the signal to be amplified to the required power level.",
+            "the process of impressing and transporting information by radio waves."
+        ],
+        "dogru": "the process of impressing and transporting information by radio waves.",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "a continuous wave which is capable of carrying audible signals without modification.",
+            "The function of the antenna in a radio communication system is to…",
+            "prevent the receiver from demodulating background noise.",
+            "act as a transducer between free-space propagation and transmission line propagation."
+        ],
+        "dogru": "act as a transducer between free-space propagation and transmission line propagation.",
+        "annex": null
+    },
+    {
+        "soru": "separate the baseband signal from the carrier wave signal.\nsplit the electromagnetic field into separate E (Electric) and H (Magnetic) waves for transmission.\nWhat type of antenna is used in a modern Airborne Weather Radar?",
+        "secenekler": [
+            "Dipole",
+            "omnidirectional antenna",
+            "Slotted planar antenna",
+            "Loop antenna"
+        ],
+        "dogru": "Slotted planar antenna",
+        "annex": null
+    },
+    {
+        "soru": "When raising the frequency of an electromagnetic wave, the:",
+        "secenekler": [
+            "wavelength decreases",
+            "wavelength remains the same",
+            "wavelength and amplitude increases",
+            "wavelength increases"
+        ],
+        "dogru": "wavelength decreases",
+        "annex": null
+    },
+    {
+        "soru": "What is required to enable an antenna to transmit an electromagnetic wave?",
+        "secenekler": [
+            "The antenna has to be fed with an alternating current of high frequency.",
+            "The antenna has to be fed with a direct current.",
+            "The length of the antenna has to be equal to the wavelength of the electromagnetic wave.",
+            "The antenna has to be mounted perpendicular to the ground."
+        ],
+        "dogru": "The antenna has to be fed with an alternating current of high frequency.",
+        "annex": null
+    },
+    {
+        "soru": "Under what conditions can VHF voice communications often suffer interference from transmissions on the same frequency at a distance considerably greater than line-of-sight?",
+        "secenekler": [
+            "A temperature inversion in the lower atmosphere can cause ‘super-refraction’.",
+            "The signal may be refracted as a surface wave over a large expanse of water.",
+            "The signal may be refracted from the ionosphere at night.",
+            "The signal may be refracted from mountains between the transmitter and receiver."
+        ],
+        "dogru": "A temperature inversion in the lower atmosphere can cause ‘super-refraction’.",
+        "annex": null
+    },
+    {
+        "soru": "The frequency which corresponds to a wavelength of 12 cm is:",
+        "secenekler": [
+            "2500 kHz.",
+            "2500 MHz.",
+            "3600 MHz.",
+            "360 MHz."
+        ],
+        "dogru": "2500 MHz.",
+        "annex": null
+    },
+    {
+        "soru": "The frequency of a VOR is 117.5 MHz. What is the corresponding wavelength?",
+        "secenekler": [
+            "255 m",
+            "2.55 m",
+            "2550 m",
+            "25.5 m"
+        ],
+        "dogru": "2.55 m",
+        "annex": null
+    },
+    {
+        "soru": "The frequency of an NDB is 427 kHz.What is the corresponding wavelength?",
+        "secenekler": [
+            "70.25 m",
+            "7025 m",
+            "702.5 cm",
+            "702.5 m"
+        ],
+        "dogru": "702.5 m",
+        "annex": null
+    },
+    {
+        "soru": "Refer to the annex. Which physical effects affecting wave propagation are shown in the figure below?\nView Annex 621111",
+        "secenekler": [
+            "A = reflection B = polarisation C = refraction",
+            "A = refraction B = absorption C = reflection",
+            "A = refraction B = scattering C = diffraction",
+            "A = absorption B = damping C = reflection"
+        ],
+        "dogru": "A = refraction B = absorption C = reflection",
+        "annex": "621111"
+    },
+    {
+        "soru": "Refer to the image. The kinds of wave propagation marked as A and C in the figure below are examples of:\nView Annex 621112",
+        "secenekler": [
+            "A = refraction, C = reflection",
+            "A = diffraction, C = refraction",
+            "A = reflection, C = absorption",
+            "A = damping, C = interference"
+        ],
+        "dogru": "A = refraction, C = reflection",
+        "annex": "621112"
+    },
+    {
+        "soru": "Which failure in radio navigation is connected with Fading?",
+        "secenekler": [
+            "Mountain Effect",
+            "Static Discharge",
+            "Shoreline/coastal Effect",
+            "Twilight/night Effect"
+        ],
+        "dogru": "Twilight/night Effect",
+        "annex": null
+    },
+    {
+        "soru": "Describe the propagation of VHF radio waves:",
+        "secenekler": [
+            "During daytime as ground waves at night as sky waves",
+            "By line of sight propagation",
+            "During day and night time as ground waves",
+            "During night time as ground waves and during the day as sky waves"
+        ],
+        "dogru": "By line of sight propagation",
+        "annex": null
+    },
+    {
+        "soru": "The phase angle of a wave is:",
+        "secenekler": [
+            "The angle of the modulation on a wavelength expressed in degrees from 000° to 360°.",
+            "The deflection on a wave expressed in degrees from 000° to 360°.",
+            "The fraction of one wavelength expressed in degrees from 000° to 360°.",
+            "The position of a modulation on a wavelength expressed in degrees from 000° to 360°."
+        ],
+        "dogru": "The fraction of one wavelength expressed in degrees from 000° to 360°.",
+        "annex": null
+    },
+    {
+        "soru": "The amplitude of a wave or oscillation is:",
+        "secenekler": [
+            "Its maximum deflection.",
+            "The information impressed onto the carrier wave.",
+            "Its maximum length.",
+            "Speed of light divided by frequency."
+        ],
+        "dogru": "Its maximum deflection.",
+        "annex": null
+    },
+    {
+        "soru": "What is the frequency of a radio wave with a wavelength of 3 km?",
+        "secenekler": [
+            "300 MHz",
+            "100 MHz",
+            "300 kHz",
+            "100 kHz"
+        ],
+        "dogru": "100 kHz",
+        "annex": null
+    },
+    {
+        "soru": "What is the frequency of a radio wave with a wavelength of 8.25 m?",
+        "secenekler": [
+            "2.48 MHz",
+            "36.4 kHz",
+            "24.8 kHz",
+            "36.4 MHz"
+        ],
+        "dogru": "36.4 MHz",
+        "annex": null
+    },
+    {
+        "soru": "What is the frequency of a radio wave with a wavelength of 2.54 m?",
+        "secenekler": [
+            "1181 kHz",
+            "1,181 GHz",
+            "118.1 MHz",
+            "118.1 kHz"
+        ],
+        "dogru": "118.1 MHz",
+        "annex": null
+    },
+    {
+        "soru": "The D-layer and E-layer of the atmosphere are part of the:",
+        "secenekler": [
+            "stratosphere",
+            "ionosphere",
+            "tropopause",
+            "troposphere"
+        ],
+        "dogru": "ionosphere",
+        "annex": null
+    },
+    {
+        "soru": "The wavelength of a wave with a frequency of 400 kHz is:",
+        "secenekler": [
+            "750 m",
+            "75 m",
+            "7 500 m",
+            "750 cm"
+        ],
+        "dogru": "750 m",
+        "annex": null
+    },
+    {
+        "soru": "Soru metni bulunamadı:",
+        "secenekler": [
+            "The wavelength of a Non-Directional Beacon (NDB) with a frequency of 300 kHz is...",
+            "100 metres",
+            "1000 metres",
+            "10 metres"
+        ],
+        "dogru": "1000 metres",
+        "annex": null
+    },
+    {
+        "soru": "1 metre",
+        "secenekler": [
+            "\"Polarisation\" describes the...",
+            "orientation of the plane of oscillation of the magnetic component of the electromagnetic wave.",
+            "rotation of the antenna around a fixed axis",
+            "orientation of the plane of oscillation of the electrical component of the electromagnetic wave."
+        ],
+        "dogru": "orientation of the plane of oscillation of the electrical component of the electromagnetic wave.",
+        "annex": null
+    }
+]
