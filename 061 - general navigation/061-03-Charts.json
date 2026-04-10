@@ -1,0 +1,2980 @@
+[
+    {
+        "question": "A Polar Stereographic chart is used for navigation. The straight line between A (75° 00'.0S, 166° 00'.0E) and B (78° 00'.0S, 154° 00'.0E) is drawn on this chart. The True Track angle of the rhumb line is 223°. Calculate the direction (°T) of the straight line in position B.",
+        "options": [
+            "235°",
+            "211°",
+            "229°",
+            "217°"
+        ],
+        "true": "229°",
+        "annex": null
+    },
+    {
+        "question": "A route is flown from (85°S, 100°E) to (85°S, 140°W).  At 160°E the Grid Track (GT) and True Track (TT) on a Polar Stereographic Chart with a grid orientated on the 180º Meridian are respectively:",
+        "options": [
+            "250°(G) and 090°(T)",
+            "090°(G) and 070°(T)",
+            "090°(G) and 250°(T)",
+            "070°(G) and 090°(T)"
+        ],
+        "true": "070°(G) and 090°(T)",
+        "annex": null
+    },
+    {
+        "question": "A VOR is situated  at position (74ºN, 094ºW); local variation is 50ºW. A Polar Stereographic Chart supplied with a Greenwich grid is used for navigation. To proceed along (magnetic) radial 238 inbound an aircraft has to follow a Grid Track of:",
+        "options": [
+            "193º",
+            "103º",
+            "283º",
+            "013º"
+        ],
+        "true": "103º",
+        "annex": null
+    },
+    {
+        "question": "Route A - B is drawn on a Polar Stereographic Chart with the grid aligned with the Greenwich Meridian. The True Track of the straight line at A (75°N, 010°W) is 080°. What is the Grid Track when passing the Meridian 050°E?",
+        "options": [
+            "150º(G)",
+            "090º(G)",
+            "110º(G)",
+            "070º(G)"
+        ],
+        "true": "090º(G)",
+        "annex": null
+    },
+    {
+        "question": "At 47° North the chart distance between Meridians 10° apart is 12.7 cm. The scale of the chart at 47° North approximates:",
+        "options": [
+            "1: 6 000 000",
+            "1: 2 500 000",
+            "1: 3 000 000",
+            "1: 8 000 000"
+        ],
+        "true": "1: 6 000 000",
+        "annex": null
+    },
+    {
+        "question": "A straight line drawn on a chart measures 4.63 cm and represents 150 NM.  The chart scale is:",
+        "options": [
+            "1: 6 000 000",
+            "1: 1 000 000",
+            "1: 3 000 000",
+            "1: 5 000 000"
+        ],
+        "true": "1: 6 000 000",
+        "annex": null
+    },
+    {
+        "question": "Given: Chart scale is 1: 1 850\n000. The chart distance between two points is 4 centimetres.   Earth distance is approximately:",
+        "options": [
+            "40 NM",
+            "4 NM",
+            "74 NM",
+            "100 NM"
+        ],
+        "true": "40 NM",
+        "annex": null
+    },
+    {
+        "question": "A straight line on a chart 4.89 cm long represents 185 NM.  The scale of this chart is approximately:",
+        "options": [
+            "1: 5 000 000",
+            "1: 3 500 000",
+            "1: 7 000 000",
+            "1: 6 000 000"
+        ],
+        "true": "1: 7 000 000",
+        "annex": null
+    },
+    {
+        "question": "The constant of cone of a Lambert conformal conic chart is quoted as 0.3955. At what latitude on the chart is earth convergency correctly represented?",
+        "options": [
+            "21°35'",
+            "23°18'",
+            "66°42'",
+            "68°25'"
+        ],
+        "true": "23°18'",
+        "annex": null
+    },
+    {
+        "question": "The distance measured between two points on a navigation map is 42 mm (millimetres). The scale of the chart is 1:1 600\n000.  The actual distance between these two point is approximately:",
+        "options": [
+            "67.20 NM",
+            "3.69 NM",
+            "36.30 NM",
+            "370.00 NM"
+        ],
+        "true": "36.30 NM",
+        "annex": null
+    },
+    {
+        "question": "On a Lambert Conformal chart the distance between meridians 5° apart along latitude 37° North is 9 cm. The scale of the chart at that parallel approximates:",
+        "options": [
+            "1: 6 000 000",
+            "1: 2 000 000",
+            "1: 3 750 000",
+            "1: 5 000 000"
+        ],
+        "true": "1: 5 000 000",
+        "annex": null
+    },
+    {
+        "question": "On a Direct Mercator projection a particular chart length is measured at 30°N. What earth distance will the same chart length be if measured at 60°N?",
+        "options": [
+            "Twice the distance.",
+            "The same distance.",
+            "A smaller distance.",
+            "A larger distance."
+        ],
+        "true": "A smaller distance.",
+        "annex": null
+    },
+    {
+        "question": "On a chart a straight line is drawn between two points and has a length of 4.63 cm. What is the chart scale if the line represents 150 NM?",
+        "options": [
+            "1 : 6 000 000",
+            "1 : 3 000 000",
+            "1 : 1 000 000",
+            "1 : 5 000 000"
+        ],
+        "true": "1 : 6 000 000",
+        "annex": null
+    },
+    {
+        "question": "On a chart, the distance along a Meridian between latitudes 45°N and 46°N is 6 cm. The scale of the chart is approximately:",
+        "options": [
+            "1: 1 850 000",
+            "1: 1 000 000",
+            "1: 18 500 000",
+            "1: 185 000"
+        ],
+        "true": "1: 1 850 000",
+        "annex": null
+    },
+    {
+        "question": "A chart has the scale 1: 1 000\n000. From A to B on the chart measures 3.8 cm, the distance from A to B in NM is:",
+        "options": [
+            "20.5",
+            "38",
+            "205",
+            "70.4"
+        ],
+        "true": "20.5",
+        "annex": null
+    },
+    {
+        "question": "Approximately how many nautical miles correspond to 12 cm on a map with a scale of 1: 2 000 000?",
+        "options": [
+            "130",
+            "43",
+            "329",
+            "150"
+        ],
+        "true": "130",
+        "annex": null
+    },
+    {
+        "question": "In a navigation chart a distance of 49 NM is equal to 7 cm. The scale of the chart is approximately:",
+        "options": [
+            "1: 130 000",
+            "1: 700 000",
+            "1: 1 300 000",
+            "1: 7 000 000"
+        ],
+        "true": "1: 1 300 000",
+        "annex": null
+    },
+    {
+        "question": "If the chart scale is 1 : 500 000, what earth distance would be represented by 7 cm on the chart?",
+        "options": [
+            "35 000 m",
+            "3.5 km",
+            "0.35 km",
+            "35 NM"
+        ],
+        "true": "35 000 m",
+        "annex": null
+    },
+    {
+        "question": "Given: Direct Mercator chart with a scale of 1: 200 000 at equator; Chart length from 'A' to 'B', in the vicinity of the equator, 11 cm. What is the approximate distance from 'A' to 'B'?",
+        "options": [
+            "21 NM",
+            "12 NM",
+            "14 NM",
+            "22 NM"
+        ],
+        "true": "12 NM",
+        "annex": null
+    },
+    {
+        "question": "The chart distance between Meridians 10° apart at latitude 65° North is 9.5 cm. The chart scale at this latitude approximates:",
+        "options": [
+            "1: 6 000 000",
+            "1: 5 000 000",
+            "1: 2 500 000",
+            "1: 3 000 000"
+        ],
+        "true": "1: 5 000 000",
+        "annex": null
+    },
+    {
+        "question": "Which statement is correct about the scale of a Lambert projection?",
+        "options": [
+            "The scale reaches its minimum value at the standard parallels.",
+            "The scale reaches its minimum value at the parallel of origin.",
+            "The scale reaches its maximum value at the parallel of origin.",
+            "The scale reaches its maximum value at the standard parallels."
+        ],
+        "true": "The scale reaches its minimum value at the parallel of origin.",
+        "annex": null
+    },
+    {
+        "question": "The positions A (30°00’N, 017°30’E) and B at longitude (30°00’N, 023°30’E) are plotted on a Lambert chart with a constant of the cone of 0.5. A and B are connected by a straight line. The True Track measured at A is 088.5°. What is the True Track measured at B?",
+        "options": [
+            "085.5°",
+            "082.5°",
+            "094.5°",
+            "091.5°"
+        ],
+        "true": "091.5°",
+        "annex": null
+    },
+    {
+        "question": "23 ) On a Mercator’s projection the distance between (17°N, 035°E) and (17°N, 040°E) is 5 cm. The scale at 57°N is approximately:",
+        "options": [
+            "1 :18 658 470",
+            "1 :10 626 460",
+            "1 : 6 052 030",
+            "1 : 5 556 000"
+        ],
+        "true": "1 : 6 052 030",
+        "annex": null
+    },
+    {
+        "question": "A straight line from A (53°S, 155°E) to B (53°S, 170°W) is drawn on a Lambert Conformal conical chart with standard parallels at 50°S and 56?S. When passing 175°W, the True Track is:",
+        "options": [
+            "282.0°",
+            "078.0°",
+            "258.0°",
+            "102.0°"
+        ],
+        "true": "078.0°",
+        "annex": null
+    },
+    {
+        "question": "A straight line from A (53°N, 155°W) to B (53°N, 170°E) is drawn on a Lambert Conformal conical chart with standard parallels at 50°N and 56°N. When passing the meridian 175°E, the True Track is:",
+        "options": [
+            "102.5°",
+            "260.0°",
+            "100.0°",
+            "257.5°"
+        ],
+        "true": "260.0°",
+        "annex": null
+    },
+    {
+        "question": "From Rakovnik (50° 05.9' N, 013° 41.5' E) to Frankfurt FFM (50° 05.9' N, 008° 38.3' E) the True Track of departure along the straight line is 272.0°. The constant of the cone of this Lambert conformal projection is:",
+        "options": [
+            "0.79",
+            "0.40",
+            "0.20",
+            "0.77"
+        ],
+        "true": "0.79",
+        "annex": null
+    },
+    {
+        "question": "An aeronautical chart is conformal when:",
+        "options": [
+            "the meridians and parallels are perpendicular to each other.",
+            "At any point the scale over a short distance in the direction of the parallel is equal to the scale in the direction of the meridian and the meridians are perpendicular to the parallels.",
+            "every great circle is represented by a straight line in the map.",
+            "the map is an equidistant normal projection."
+        ],
+        "true": "At any point the scale over a short distance in the direction of the parallel is equal to the scale in the direction of the meridian and the meridians are perpendicular to the parallels.",
+        "annex": null
+    },
+    {
+        "question": "On a Mercator chart, at latitude 60°N, the distance measured between W002° and E008° is 20 cm. The scale of this chart at latitude 60°N is approximately…",
+        "options": [
+            "1: 556 000.",
+            "1: 278 000.",
+            "1: 5 560 000.",
+            "1: 2 780 000."
+        ],
+        "true": "1: 2 780 000.",
+        "annex": null
+    },
+    {
+        "question": "At latitude 60°N the scale of a Mercator projection is 1: 5 000\n000. The length on the chart between 'C' N60° E008° and 'D' N60° W008° is:",
+        "options": [
+            "16.2 cm",
+            "35.6 cm",
+            "19.2 cm",
+            "17.8 cm"
+        ],
+        "true": "17.8 cm",
+        "annex": null
+    },
+    {
+        "question": "A Direct Mercator graticule is based on a projection that is…",
+        "options": [
+            "cylindrical.",
+            "spherical.",
+            "concentric.",
+            "conical."
+        ],
+        "true": "cylindrical.",
+        "annex": null
+    },
+    {
+        "question": "A straight line is drawn on a Lamberts conformal conic chart between two positions of different longitude. The angular difference between the initial true track and the final true track of the line is equal to:",
+        "options": [
+            "difference in longitude",
+            "earth convergency",
+            "conversion angle",
+            "chart convergency"
+        ],
+        "true": "chart convergency",
+        "annex": null
+    },
+    {
+        "question": "How does the scale vary on a Direct Mercator chart?",
+        "options": [
+            "The scale increases south of the Equator and decreases north of the Equator.",
+            "The scale is constant.",
+            "The scale increases with increasing distance from the Equator.",
+            "The scale decreases with increasing distance from the Equator."
+        ],
+        "true": "The scale increases with increasing distance from the Equator.",
+        "annex": null
+    },
+    {
+        "question": "On a Direct Mercator chart at latitude 15°S, a certain length represents a distance of 120 NM on the earth. The same length on the chart will represent on the earth, at latitude 10°N, a distance of:",
+        "options": [
+            "117.7 NM",
+            "118.2 NM",
+            "122.3 NM",
+            "124.2 NM"
+        ],
+        "true": "122.3 NM",
+        "annex": null
+    },
+    {
+        "question": "On a Direct Mercator chart, a certain chart length along 45°N represents a distance of 90 NM on the surface of the Earth. The same length on a chart along latitude 30°N will represent a distance on the Earth of…",
+        "options": [
+            "78 NM.",
+            "110 NM.",
+            "45 NM.",
+            "73.5 NM."
+        ],
+        "true": "110 NM.",
+        "annex": null
+    },
+    {
+        "question": "On a direct Mercator projection, the distance measured between two Meridians spaced 5° apart at latitude 60°N is 8 cm.  The scale of this chart at latitude 60°N is approximately:",
+        "options": [
+            "1: 4 750 000",
+            "1: 7 000 000",
+            "1: 6 000 000",
+            "1: 3 500 000"
+        ],
+        "true": "1: 3 500 000",
+        "annex": null
+    },
+    {
+        "question": "On a Lambert conformal conic chart, the distance between parallels of latitude spaced the same number of degrees apart:",
+        "options": [
+            "is constant throughout the chart",
+            "is larger between the standard parallels and is smaller outside them",
+            "is smaller between the standard parallels than outside them",
+            "is constant between the standard parallels and is greater outside them"
+        ],
+        "true": "is smaller between the standard parallels than outside them",
+        "annex": null
+    },
+    {
+        "question": "What is the chart distance between longitudes 179°E and 175°W on a direct Mercator chart with a scale of 1: 5 000 000 at the Equator?",
+        "options": [
+            "106 mm",
+            "72 mm",
+            "133 mm",
+            "167 mm"
+        ],
+        "true": "133 mm",
+        "annex": null
+    },
+    {
+        "question": "Where on a Direct Mercator projection is the chart convergency correct compared to the Earth convergency?",
+        "options": [
+            "At the two parallels of tangency.",
+            "At the poles.",
+            "All over the chart.",
+            "At the Equator."
+        ],
+        "true": "At the Equator.",
+        "annex": null
+    },
+    {
+        "question": "On a Mercator chart, the distance between positions A and B, located on the same parallel and 10° longitude apart, is 6 cm. The scale at the parallel is 1: 9 260 000.What is the latitude of A and B?",
+        "options": [
+            "30° N or S",
+            "45° N or S",
+            "60° N or S",
+            "0°"
+        ],
+        "true": "60° N or S",
+        "annex": null
+    },
+    {
+        "question": "On a Direct Mercator projection, at latitude 45° North, a certain length represents 70 NM. At latitude 30° North, the same length represents approximately…",
+        "options": [
+            "57 NM.",
+            "70 NM.",
+            "81 NM.",
+            "86 NM."
+        ],
+        "true": "86 NM.",
+        "annex": null
+    },
+    {
+        "question": "The standard parallels of a Lambert chart are 26°N and 48°N and the stated scale is 1:2 500\n000. Which statement is correct?",
+        "options": [
+            "The scale at 37°N is larger than the scale at 20°N.",
+            "The scale at 30°N is smaller than the scale at 37°N.",
+            "The scale at 28°N is smaller than the scale at 24°N.",
+            "The scale at 46°N is larger than the scale at 50°N."
+        ],
+        "true": "The scale at 28°N is smaller than the scale at 24°N.",
+        "annex": null
+    },
+    {
+        "question": "At 60°N the scale of a direct Mercator chart is 1: 3 000 000.What is the scale at the Equator?",
+        "options": [
+            "1: 6 000 000",
+            "1: 3 000 000",
+            "1: 1 500 000",
+            "1: 3 500 000"
+        ],
+        "true": "1: 6 000 000",
+        "annex": null
+    },
+    {
+        "question": "Which statement is true about the parallel of origin of a conformal chart?",
+        "options": [
+            "The parallel of origin is the parallel at which the scale reaches its minimum value.",
+            "The parallel of origin is the parallel at which the scale reaches its maximum value.",
+            "The parallel of origin is the only parallel at which the chart is conformal.",
+            "The parallel of origin together with the standard parallel(s), are the only parallels at which the chart is conformal."
+        ],
+        "true": "The parallel of origin is the parallel at which the scale reaches its minimum value.",
+        "annex": null
+    },
+    {
+        "question": "The total length of the 53°N parallel of latitude on a direct Mercator chart is 133 cm. What is the approximate scale of the chart at latitude 30°S?",
+        "options": [
+            "1: 18 000 000",
+            "1: 26 000 000",
+            "1: 30 000 000",
+            "1: 21 000 000"
+        ],
+        "true": "1: 26 000 000",
+        "annex": null
+    },
+    {
+        "question": "A Mercator chart has a scale at the equator of 1: 3 704\n000. What is the scale at latitude 60°S?",
+        "options": [
+            "1: 7 408 000",
+            "1: 1 852 000",
+            "1: 185 200",
+            "1: 3 208 000"
+        ],
+        "true": "1: 1 852 000",
+        "annex": null
+    },
+    {
+        "question": "A straight line from A (75ºN, 120ºE) to B (75ºN, 160ºE) is drawn on a Polar Stereographic Chart. When passing the Meridian at 155ºE, the True Track is:",
+        "options": [
+            "285º",
+            "105º",
+            "075º",
+            "255º"
+        ],
+        "true": "105º",
+        "annex": null
+    },
+    {
+        "question": "Given: Lambert conformal conical projection, scale 1: 1 234\n000. Standard parallels 36°N and 60°N. A (53°N, 010°W), B (53°N, 020°W). The distance on the map between position A and position B measured along the rhumb line:",
+        "options": [
+            "is 55.66 cm",
+            "is more than 57.13 cm",
+            "is between 54.19 cm and 57.13 cm",
+            "is less than 54.19 cm"
+        ],
+        "true": "is less than 54.19 cm",
+        "annex": null
+    },
+    {
+        "question": "On a Lambert conformal conic projection with two standard parallels…",
+        "options": [
+            "the lines of longitude are shown as parallel straight lines.",
+            "the scale is only correct at the parallel of origin.",
+            "the scale is only correct along the standard parallels.",
+            "all great circles are shown as straight lines."
+        ],
+        "true": "the scale is only correct along the standard parallels.",
+        "annex": null
+    },
+    {
+        "question": "The standard parallels of a Lambert’s conical projection are 07°40’N and 38°20’N. For this chart, what is the approximate constant of the cone?",
+        "options": [
+            "0.60",
+            "0.42",
+            "0.39",
+            "0.92"
+        ],
+        "true": "0.39",
+        "annex": null
+    },
+    {
+        "question": "The two standard parallels of a Lambert conformal conic projection are at 10°40’N and 41°20’N. The constant of the cone for this chart is approximately…",
+        "options": [
+            "0.90.",
+            "0.44.",
+            "0.18.",
+            "0.66."
+        ],
+        "true": "0.44.",
+        "annex": null
+    },
+    {
+        "question": "On a Lambert Conformal Conic chart earth convergency is most accurately represented at the:",
+        "options": [
+            "standard parallels",
+            "north and south limits of the chart",
+            "Equator",
+            "parallel of origin"
+        ],
+        "true": "parallel of origin",
+        "annex": null
+    },
+    {
+        "question": "On a Lambert conformal conic chart the convergence of the meridians…",
+        "options": [
+            "is the same as earth convergency at the parallel of origin.",
+            "is zero throughout the chart.",
+            "varies as the secant of the latitude.",
+            "equals earth convergency at the standard parallels."
+        ],
+        "true": "is the same as earth convergency at the parallel of origin.",
+        "annex": null
+    },
+    {
+        "question": "Which statement is correct about the scale of a Polar Stereographic projection of the Northern polar area?",
+        "options": [
+            "The scale reaches its minimum value at the equator.",
+            "The scale reaches its maximum value at the North pole.",
+            "The scale reaches its maximum value at the 45°N.",
+            "The scale reaches its minimum value at the North pole."
+        ],
+        "true": "The scale reaches its minimum value at the North pole.",
+        "annex": null
+    },
+    {
+        "question": "How does the chart convergency change with latitude in a Lambert Conformal projection?",
+        "options": [
+            "It changes with cosine of latitude.",
+            "It is constant and does not change with latitude.",
+            "It changes with sine of latitude.",
+            "It increases with increase of latitude."
+        ],
+        "true": "It is constant and does not change with latitude.",
+        "annex": null
+    },
+    {
+        "question": "On a Lambert conformal conic chart, with two standard parallels, the quoted scale is correct:",
+        "options": [
+            "along the prime meridian",
+            "along the parallel of origin",
+            "along the two standard parallels",
+            "in the area between the standard parallels"
+        ],
+        "true": "along the two standard parallels",
+        "annex": null
+    },
+    {
+        "question": "What is the constant of the cone for a Lambert conic projection whose standard parallels are at 50°N and 70°N?",
+        "options": [
+            "0.500",
+            "0.941",
+            "0.866",
+            "0.766"
+        ],
+        "true": "0.866",
+        "annex": null
+    },
+    {
+        "question": "What is the value of the convergence factor on a Polar Stereographic chart?",
+        "options": [
+            "0.0",
+            "0.866",
+            "0.5",
+            "1.0"
+        ],
+        "true": "1.0",
+        "annex": null
+    },
+    {
+        "question": "The scale on a Lambert conformal conic chart…",
+        "options": [
+            "varies slightly as a function of latitude and longitude.",
+            "is constant along a meridian of longitude.",
+            "is constant across the whole map.",
+            "is constant along a parallel of latitude."
+        ],
+        "true": "is constant along a parallel of latitude.",
+        "annex": null
+    },
+    {
+        "question": "A Lambert conformal conic chart has a constant of the cone of 0.75.A straight line track is drawn from A (40°N, 050°W) to B. The initial track at A is 043°(T) and the final track at B is 055°(T). What is the longitude of B?",
+        "options": [
+            "036°W",
+            "034°W",
+            "038°W",
+            "041°W"
+        ],
+        "true": "034°W",
+        "annex": null
+    },
+    {
+        "question": "Which one of the following statements is correct concerning the appearance of great circles, with the exception of meridians, on a Polar Stereographic chart?",
+        "options": [
+            "They are complex curves that can be convex and/or concave to the Pole.",
+            "The higher the latitude, the closer they approximate to a straight line.",
+            "Any straight line is a great circle.",
+            "They are curves convex to the Pole."
+        ],
+        "true": "The higher the latitude, the closer they approximate to a straight line.",
+        "annex": null
+    },
+    {
+        "question": "On a Lambert chart (Standard Parallels 37°N and 65°N), with respect to the straight line drawn on the map between A ( N49° W030°) and B (N48° W040°), the:",
+        "options": [
+            "Rhumb line is to the north, the great circle is to the south",
+            "Great circle and rhumb line are to the north",
+            "Great circle is to the north, the rhumb line is to the south",
+            "Great circle and rhumb line are to the south"
+        ],
+        "true": "Great circle and rhumb line are to the south",
+        "annex": null
+    },
+    {
+        "question": "A Lambert conformal conic chart has a constant of the cone of 0.80.  A straight line course drawn on this chart from A (53°N 004°W) to B is 080° at A; course at B is 092°(T). What is the longitude of B?",
+        "options": [
+            "011°E",
+            "019°E",
+            "008°E",
+            "009°36'E"
+        ],
+        "true": "011°E",
+        "annex": null
+    },
+    {
+        "question": "The constant of the cone, which is also known as convergence factor, of a Lambert conformal conic chart, is quoted as 0.78535. At what latitude on the chart is earth convergency correctly represented?",
+        "options": [
+            "51°45'.",
+            "80°39'.",
+            "52°05'.",
+            "38°15'."
+        ],
+        "true": "51°45'.",
+        "annex": null
+    },
+    {
+        "question": "The constant of the cone in a Lambert chart is 0.8666500. The angle between the north directions of the meridian in position A (65°00’N, 018°00’W) and the meridian of position B (75°00’N, 023°00’W) on the chart is:",
+        "options": [
+            "5.8°",
+            "10.0°",
+            "5.0°",
+            "4.3°"
+        ],
+        "true": "4.3°",
+        "annex": null
+    },
+    {
+        "question": "The nominal scale of a Lambert conformal conic chart is the:",
+        "options": [
+            "Scale at the equator",
+            "Mean scale between the parallels of the secant cone",
+            "Scale at the Standard Parallels",
+            "Mean scale between pole and equator"
+        ],
+        "true": "Scale at the Standard Parallels",
+        "annex": null
+    },
+    {
+        "question": "Calculate the constant of the cone on a Lambert Chart given chart convergency between 010°E and 030°W as being 30°",
+        "options": [
+            "0.40",
+            "0.64",
+            "0.50",
+            "0.75"
+        ],
+        "true": "0.75",
+        "annex": null
+    },
+    {
+        "question": "The chart that is generally used for navigation in polar areas is based on a:",
+        "options": [
+            "Stereographical projection",
+            "Lambert conformal projection",
+            "Gnomonic projection",
+            "Direct Mercator projection"
+        ],
+        "true": "Stereographical projection",
+        "annex": null
+    },
+    {
+        "question": "A rhumb line on a Direct Mercator chart appears as a…",
+        "options": [
+            "curve convex to the nearer pole.",
+            "straight line.",
+            "complex curve.",
+            "small circle concave to the nearer pole."
+        ],
+        "true": "straight line.",
+        "annex": null
+    },
+    {
+        "question": "On which of the following chart projections is it NOT possible to represent the north or South Poles?",
+        "options": [
+            "Transverse Mercator",
+            "Polar stereographic",
+            "Direct Mercator",
+            "Lambert's conformal"
+        ],
+        "true": "Direct Mercator",
+        "annex": null
+    },
+    {
+        "question": "On a Direct Mercator chart, apart from meridians and the Equator, a great circle will be represented by a…",
+        "options": [
+            "straight line.",
+            "complex curve.",
+            "curve convex to the Equator.",
+            "curve concave to the Equator."
+        ],
+        "true": "curve concave to the Equator.",
+        "annex": null
+    },
+    {
+        "question": "On a Direct Mercator chart, a rhumb line appears as a:",
+        "options": [
+            "Small circle concave to the nearer pole",
+            "Curve convex to the nearer pole",
+            "Straight line",
+            "Spiral curve"
+        ],
+        "true": "Straight line",
+        "annex": null
+    },
+    {
+        "question": "On a Direct Mercator chart, meridians are…",
+        "options": [
+            "inclined, equally spaced, straight lines that meet at the nearer pole.",
+            "parallel, unequally spaced, vertical straight lines.",
+            "parallel, equally spaced, vertical straight lines.",
+            "inclined, unequally spaced, curved lines that meet at the nearer pole."
+        ],
+        "true": "parallel, equally spaced, vertical straight lines.",
+        "annex": null
+    },
+    {
+        "question": "Select the correct statement regarding great circles on a Direct Mercator chart.",
+        "options": [
+            "They approximate to straight lines between the standard parallels.",
+            "They are all curves convex to the Equator.",
+            "With the exception of meridians and the Equator, they are curves concave to the Equator.",
+            "They are all curves concave to the Equator."
+        ],
+        "true": "With the exception of meridians and the Equator, they are curves concave to the Equator.",
+        "annex": null
+    },
+    {
+        "question": "Parallels of latitude on a Direct Mercator chart are:",
+        "options": [
+            "parallel straight lines equally spaced",
+            "straight lines converging above the pole",
+            "parallel straight lines unequally spaced",
+            "arcs of concentric circles equally spaced"
+        ],
+        "true": "parallel straight lines unequally spaced",
+        "annex": null
+    },
+    {
+        "question": "On a Direct Mercator, rhumb lines are…",
+        "options": [
+            "ellipses.",
+            "curves concave to the Equator.",
+            "straight lines.",
+            "curves convex to the Equator."
+        ],
+        "true": "straight lines.",
+        "annex": null
+    },
+    {
+        "question": "On a Mercator’s projection a straight line is drawn between (40°N, 050°W) and (50°N, 060°W). Calculate the angle between the straight line and the great circle in position A.",
+        "options": [
+            "1.8°",
+            "7.0°",
+            "3.2°",
+            "3.5°"
+        ],
+        "true": "3.5°",
+        "annex": null
+    },
+    {
+        "question": "A straight line on a Lambert Conformal Projection chart for normal flight planning purposes:",
+        "options": [
+            "is approximately a Great Circle",
+            "is a Loxodromic line",
+            "is a Rhumb line",
+            "can only be a parallel of latitude"
+        ],
+        "true": "is approximately a Great Circle",
+        "annex": null
+    },
+    {
+        "question": "On a Lambert Conformal Conic chart great circles that are not meridians are:",
+        "options": [
+            "curves concave to the pole of projection",
+            "curves concave to the parallel of origin",
+            "straight lines regardless of distance",
+            "straight lines within the standard parallels"
+        ],
+        "true": "curves concave to the parallel of origin",
+        "annex": null
+    },
+    {
+        "question": "Which one of the following describes the appearance of rhumb lines, except meridians, on a Polar Stereographic chart?",
+        "options": [
+            "Ellipses around the Pole",
+            "Curves convex to the Pole",
+            "Curves concave to the Pole",
+            "Straight lines"
+        ],
+        "true": "Curves concave to the Pole",
+        "annex": null
+    },
+    {
+        "question": "Two places are situated on the same parallel in the Southern Hemisphere. The great circle, rhumb line and the straight line between these places are drawn on a Polar Stereographic Projection. Which statement is correct?",
+        "options": [
+            "The great circle is situated between the parallel and the straight line, because the concave side of the great circle is always pointed towards the equator.",
+            "The rhumb line is situated between the great circle and the straight line because the shortest distance between to places on Earth is the great circle.",
+            "The great circle is situated between the parallel and the straight line, because the concave side of the great circle is always pointed towards the pole.",
+            "The correct sequence from North to South is: Great circle, straight line, rhumb line."
+        ],
+        "true": "The great circle is situated between the parallel and the straight line, because the concave side of the great circle is always pointed towards the pole.",
+        "annex": null
+    },
+    {
+        "question": "On a Polar Stereographic chart showing the South Pole, a straight line joins position A (70°S, 065°E) to position B (70°S, 025°W). What is the approximate true track on departure from position A?",
+        "options": [
+            "250°",
+            "225°",
+            "315°",
+            "135°"
+        ],
+        "true": "225°",
+        "annex": null
+    },
+    {
+        "question": "On a Polar Stereographic chart, point A at 80°N, 000° and point B at 70°N, 102°W are joined by a straight line, with the highest latitude reached at 035°W. What is the true track at point B?",
+        "options": [
+            "023°",
+            "247°",
+            "203°",
+            "305°"
+        ],
+        "true": "203°",
+        "annex": null
+    },
+    {
+        "question": "On a Polar Stereographic chart, the initial great circle course from 70°N, 060°W to 70°N, 060°E is approximately…",
+        "options": [
+            "150° (T).",
+            "210° (T).",
+            "030° (T).",
+            "330° (T)."
+        ],
+        "true": "030° (T).",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to )  What is the radial and DME distance from SHA VOR/DME (N524. W0085.) to position N500 W00940?",
+        "options": [
+            "057° - 27 NM",
+            "324° - 17 NM",
+            "293° - 33 NM",
+            "309° - 33 NM"
+        ],
+        "true": "309° - 33 NM",
+        "annex": [
+            "84",
+            "3",
+            "1",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to  )  What is the radial and DME distance from SHA VOR/DME (N524. W00.) to position N50 W0080?",
+        "options": [
+            "070° - 58 NM",
+            "019° - 31 NM",
+            "035° - 30 NM",
+            "207° - 31 NM"
+        ],
+        "true": "035° - 30 NM",
+        "annex": [
+            "85",
+            "3",
+            "1",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to )  What is the radial and DME distance from SHA VOR/DME (N524. W0085.) to position N520 W00920?",
+        "options": [
+            "198° - 37 NM",
+            "354° - 34 NM",
+            "214° - 37 NM",
+            "346° - 34 NM"
+        ],
+        "true": "214° - 37 NM",
+        "annex": [
+            "86",
+            "3",
+            "1",
+            "061-12549"
+        ]
+    },
+    {
+        "question": "At 00:20 UTC an aircraft is crossing the 310° radial at 40 NM of a VOR/DME station. At 00:35 UTC the radial is 040° and DME distance is 40 NM. Magnetic variation is zero. What is the aircraft’s track and ground speed?",
+        "options": [
+            "090°(T) and 232 kt",
+            "080°(T) and 226 kt",
+            "088°(T) and 232 kt",
+            "085°(T) and 226 kt"
+        ],
+        "true": "085°(T) and 226 kt",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR/DME (N524. W0085.) radial °/ NM. What is the aircraft position?",
+        "options": [
+            "N5200 W0925",
+            "N5328 W00820",
+            "N5330 W00830",
+            "N5155 W00915"
+        ],
+        "true": "N5330 W00830",
+        "annex": [
+            "88",
+            "3",
+            "1",
+            "025",
+            "49",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: CRN VOR (N8. W0086.) DME 8 NM, SHA VOR (N24. W008.) DME 0 NM, Aircraft heading °(M), Both DME distances decreasing. What is the aircraft position?",
+        "options": [
+            "N5355 W00825",
+            "N5310 W00830",
+            "N5252 W00923",
+            "N5307 W00923"
+        ],
+        "true": "N5310 W00830",
+        "annex": [
+            "89",
+            "1",
+            "5",
+            "18",
+            "3",
+            "30",
+            "270",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR (N52. W0085.) DME  NM, CRK VOR (N5. W00829.) DME  NM, Aircraft heading 20°(M), Both DME distances increasing. What is the aircraft position?",
+        "options": [
+            "N5200 W00935",
+            "N5215 W00745",
+            "N5235 W00750",
+            "N5215 W00940"
+        ],
+        "true": "N5200 W00935",
+        "annex": [
+            "90",
+            "3",
+            "1",
+            "50",
+            "4",
+            "7",
+            "41",
+            "270",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR N524. W005., CON VOR N554. W0049., Aircraft position N50 W0000 Which of the following lists two radials that are applicable to the aircraft position?",
+        "options": [
+            "SHA 213°   CON 310°",
+            "SHA 221°   CON 318°",
+            "SHA 033°   CON 130°",
+            "SHA 042°   CON 138°"
+        ],
+        "true": "SHA 042°   CON 138°",
+        "annex": [
+            "91",
+            "3",
+            "1",
+            "8",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to )  Given: SHA VOR N52. W0085., CRK VOR N550. W00829.. Aircraft position N5220 W0090.  Which of the following lists two radials that are applicable to the aircraft position?",
+        "options": [
+            "SHA 025°   CRK 141°",
+            "SHA 205°   CRK 321°",
+            "SHA 214°   CRK 330°",
+            "SHA 033°   CRK 149°"
+        ],
+        "true": "SHA 214°   CRK 330°",
+        "annex": [
+            "92",
+            "3",
+            "1",
+            "4",
+            "7",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR/DME (N524. W0085.), Birr aerodrome (N504 W00754). What is the SHA radial and DME distance when overhead Birr aerodrome?",
+        "options": [
+            "248° - 42 NM",
+            "060° - 42 Nm",
+            "240° - 41 NM",
+            "068° - 41 NM"
+        ],
+        "true": "068° - 41 NM",
+        "annex": [
+            "93",
+            "3",
+            "1",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR/DME (N524. W0085.), Connemara aerodrome (N54 W00928). What is the SHA radial and DME distance when overhead Connemara aerodrome?",
+        "options": [
+            "154° - 38 NM",
+            "326° - 37 NM",
+            "333° - 37 NM",
+            "146° - 38 NM"
+        ],
+        "true": "333° - 37 NM",
+        "annex": [
+            "94",
+            "3",
+            "1",
+            "061",
+            "12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°M) and distance between BAL VOR (N5318. W626.) and SLG NDB (N5416. W836.)?",
+        "options": [
+            "316° - 96 NM",
+            "308° - 98 NM",
+            "128° - 99 NM",
+            "262° - 86 NM"
+        ],
+        "true": "316° - 96 NM",
+        "annex": [
+            "95",
+            "0",
+            "9",
+            "7",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°M) and distance between CRN NDB (N8. W86.) and WTD NDB (N2. W7.)?",
+        "options": [
+            "315° - 94 NM",
+            "142° - 95 NM",
+            "322° - 95 NM",
+            "135° - 96 NM"
+        ],
+        "true": "142° - 95 NM",
+        "annex": [
+            "96",
+            "1",
+            "5",
+            "3",
+            "0",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°M) and distance between WTD NDB (N211. W7.) and KER NDB (N21. W1.)?",
+        "options": [
+            "090° - 91 NM",
+            "098° - 90 NM",
+            "270° - 89 NM",
+            "278° - 90 NM"
+        ],
+        "true": "278° - 90 NM",
+        "annex": [
+            "97",
+            "3",
+            "0",
+            "9",
+            "5",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°T) and distance between BAL VOR (N5318. W2.) and CFN NDB (N552. W82.)?",
+        "options": [
+            "335° - 128 NM",
+            "330° - 130 NM",
+            "320° - 127 NM",
+            "327° - 124 NM"
+        ],
+        "true": "327° - 124 NM",
+        "annex": [
+            "98",
+            "0",
+            "9",
+            "6",
+            "4",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ")(Refer to ) What is the average track (°T) and distance between CON VOR (N5354. W0049.) and BEL VOR (N5439. W0063.)?",
+        "options": [
+            "063° - 101 NM",
+            "071° - 100 NM",
+            "113° - 97 NM",
+            "293° - 98 NM"
+        ],
+        "true": "063° - 101 NM",
+        "annex": [
+            "99",
+            "8",
+            "1",
+            "7",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to )  What is the average track (°T) and distance between SHA VOR (N524. W005.) and CON VOR (N554. W0049.)?",
+        "options": [
+            "358° - 72 NM",
+            "010° - 71 NM",
+            "002° - 72 NM",
+            "006° - 71 NM"
+        ],
+        "true": "002° - 72 NM",
+        "annex": [
+            "100",
+            "3",
+            "1",
+            "8",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°T) and distance between SLG NDB (N51. W83.) and CFN NDB (N552. W82.)?",
+        "options": [
+            "020° - 46 NM",
+            "191° - 45 NM",
+            "011° - 47 NM",
+            "348° - 46 NM"
+        ],
+        "true": "011° - 47 NM",
+        "annex": [
+            "101",
+            "7",
+            "0",
+            "6",
+            "4",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°T) and distance between WTD NDB (N5211. W5.) and FOY NDB (N524. W911.)?",
+        "options": [
+            "294° - 80 NM",
+            "075° - 81 NM",
+            "286° - 81 NM",
+            "277° - 83 NM"
+        ],
+        "true": "286° - 81 NM",
+        "annex": [
+            "102",
+            "3",
+            "0",
+            "7",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°T) and distance between WTD NDB (N5211. W5.) and SLG NDB (N5416. W86.)?",
+        "options": [
+            "164° - 138 NM",
+            "344° - 139 NM",
+            "156° - 136 NM",
+            "336° - 137 NM"
+        ],
+        "true": "336° - 137 NM",
+        "annex": [
+            "103",
+            "3",
+            "0",
+            "7",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the radial and DME distance from BEL VOR/DME (N5439. W00613.) to position N5410 W0010?",
+        "options": [
+            "333° - 36 NM",
+            "223° - 36 NM",
+            "320° - 44 NM",
+            "236° - 44 NM"
+        ],
+        "true": "236° - 44 NM",
+        "annex": [
+            "104",
+            "7",
+            "8",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to )  What is the radial and DME distance from CON VOR/DME (N5354. W0049.) to position N5330 W00930?",
+        "options": [
+            "233° - 35 NM",
+            "165° - 27 NM",
+            "025° - 38 NM",
+            "335° - 43 NM"
+        ],
+        "true": "233° - 35 NM",
+        "annex": [
+            "105",
+            "8",
+            "1",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to )  What is the radial and DME distance from CON VOR/DME (N5354. W0049.) to position N5340 W0020?",
+        "options": [
+            "140° - 23 NM",
+            "240° - 24 NM",
+            "311° - 22 NM",
+            "119° - 42 NM"
+        ],
+        "true": "140° - 23 NM",
+        "annex": [
+            "106",
+            "8",
+            "1",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ")(Refer to )  What is the radial and DME distance from CON VOR/DME (N5354. W0049.) to position N5430 W00900?",
+        "options": [
+            "358° - 36 NM",
+            "049° - 45 NM",
+            "214° - 26 NM",
+            "169° - 35 NM"
+        ],
+        "true": "358° - 36 NM",
+        "annex": [
+            "107",
+            "8",
+            "1",
+            "061-12549"
+        ]
+    },
+    {
+        "question": "What is the radial and DME distance from CRK VOR/DME (N5150.4 W00829.7) to position N5220 W00810?",
+        "options": [
+            "030° - 33 NM",
+            "048° - 40 NM",
+            "220° - 40 NM",
+            "014° - 33 NM"
+        ],
+        "true": "030° - 33 NM",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to ) What is the radial and DME distance from SHA VOR/DME (N524. W0085.) to position N5220 W0080?",
+        "options": [
+            "212° - 26 NM",
+            "132° - 36 NM",
+            "129° - 46 NM",
+            "139° - 35 NM"
+        ],
+        "true": "139° - 35 NM",
+        "annex": [
+            "109",
+            "3",
+            "1",
+            "601-12549"
+        ]
+    },
+    {
+        "question": "An average True Track of 120° is drawn between 'X' (61°30'N) and 'Y' (58°30'N) on a Lambert Conformal conic chart with a scale of 1: 1 000 000 at 60°N.   The chart distance between 'X' and 'Y' is:",
+        "options": [
+            "36.0 cm",
+            "33.4 cm",
+            "66.7 cm",
+            "38.5 cm"
+        ],
+        "true": "66.7 cm",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to ) What is the radial and DME distance from CRK VOR/DME (N5150. W00829.) to position N5210 W00920?",
+        "options": [
+            "311° - 38 NM",
+            "170° - 22 NM",
+            "295° - 38 NM",
+            "350° - 22 NM"
+        ],
+        "true": "311° - 38 NM",
+        "annex": [
+            "111",
+            "4",
+            "7",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR/DME (N524. W0085.) radial °/ NM. What is the aircraft position?",
+        "options": [
+            "N5228 W00920",
+            "N5258 W00825",
+            "N5300 W0830",
+            "N5225 W00917"
+        ],
+        "true": "N5300 W0830",
+        "annex": [
+            "112",
+            "3",
+            "1",
+            "048",
+            "22",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR N524. W005., CON VOR N554. W0049.. Aircraft position N520 W00950 Which of the following lists two radials that are applicable to the aircraft position?",
+        "options": [
+            "SHA 145°   CON 055°",
+            "SHA 325°   CON 235°",
+            "SHA 317°   CON 226°",
+            "SHA 137°   CON 046°"
+        ],
+        "true": "SHA 325°   CON 235°",
+        "annex": [
+            "113",
+            "3",
+            "1",
+            "8",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given the following information, what is the radial and DME distance from CON VOR/DME when overhead Castlebar aerodrome? CON VOR/DME position: N53 . W00 . Castlebar aerodrome position: N53 5 W009 7",
+        "options": [
+            "Radial: 257°, DME distance: 17 NM",
+            "Radial: 086°, DME distance: 18 NM",
+            "Radial: 265°, DME distance: 17 NM",
+            "Radial: 077°, DME distance: 18 NM"
+        ],
+        "true": "Radial: 265°, DME distance: 17 NM",
+        "annex": [
+            "114",
+            "54",
+            "8",
+            "49",
+            "1",
+            "51",
+            "17",
+            "610286"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: CON VOR (N34. W0049.) DME  NM, CRN VOR (N3. W006.) DME 2 NM, Aircraft heading °(M), Both DME distances decreasing. What is the aircraft position?",
+        "options": [
+            "N5337 W00820",
+            "N5343 W00925",
+            "N5330 W00820",
+            "N5335 W00925"
+        ],
+        "true": "N5330 W00820",
+        "annex": [
+            "115",
+            "8",
+            "1",
+            "30",
+            "5",
+            "25",
+            "270",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR N52. W0085., CRK VOR N550. W00829.. Aircraft position N520 W00820 Which of the following lists two radials that are applicable to the aircraft position?",
+        "options": [
+            "SHA 312°   CRK 197°",
+            "SHA 124°   CRK 009°",
+            "SHA 304°   CRK 189°",
+            "SHA 131°   CRK 017°"
+        ],
+        "true": "SHA 131°   CRK 017°",
+        "annex": [
+            "116",
+            "3",
+            "1",
+            "4",
+            "7",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR/DME (N524. W0085.) radial 22°/2 NM.  What is the aircraft position?",
+        "options": [
+            "N5303 W00810",
+            "N5220 W00930",
+            "N5305 W00815",
+            "N5228 W00935"
+        ],
+        "true": "N5220 W00930",
+        "annex": [
+            "117",
+            "3",
+            "1",
+            "232",
+            "32",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°M) and distance between KER NDB (N20. W003.) and CRN NDB (N38.  W0086.)?",
+        "options": [
+            "205° - 71 NM",
+            "197° - 71 NM",
+            "025° - 70 NM",
+            "017° - 70 NM"
+        ],
+        "true": "025° - 70 NM",
+        "annex": [
+            "118",
+            "9",
+            "5",
+            "1",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: CRN VOR (N8. W0086.) DME  NM, SHA VOR (N24. W008.) DME  NM, Aircraft heading °(M), Both DME distances increasing. What is the aircraft position?",
+        "options": [
+            "N5255 W00815",
+            "N5305 W00930",
+            "N5250 W0030",
+            "N5310 W00820"
+        ],
+        "true": "N5255 W00815",
+        "annex": [
+            "119",
+            "1",
+            "5",
+            "34",
+            "3",
+            "26",
+            "090",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the radial and DME distance from CRK VOR/DME (N5150. W00829.) to position N5230 W0050?",
+        "options": [
+            "023° - 48 NM",
+            "024° - 43 NM",
+            "017° - 43 NM",
+            "039° - 48 NM"
+        ],
+        "true": "039° - 48 NM",
+        "annex": [
+            "120",
+            "4",
+            "7",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ). A North Polar Stereographic chart has a grid aligned with the Greenwich meridian. An aircraft using this chart flies from the geographic North Pole for a distance of  NM along the °E meridian, then follows a grid track of ° for a distance of  NM. Its position is now approximately…",
+        "options": [
+            "70°15’N, 080°00’E.",
+            "78°45’N, 087°00’E.",
+            "79°15’N, 074°00’E.",
+            "80°00’N, 080°00’E."
+        ],
+        "true": "80°00’N, 080°00’E.",
+        "annex": [
+            "121",
+            "480",
+            "110",
+            "154",
+            "300",
+            "061-1818"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR/DME (N524. W0085.) radial 65°/6 NM. What is the aircraft position?",
+        "options": [
+            "N5208 W00840",
+            "N5210 W00830",
+            "N5315 W00915",
+            "N5317 W00908"
+        ],
+        "true": "N5210 W00830",
+        "annex": [
+            "122",
+            "3",
+            "1",
+            "165",
+            "36",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°M) and distance between CRK VOR (N0. W00829.) and CRN NDB (N38. W0086.)?",
+        "options": [
+            "177° - 92 NM",
+            "349° - 90 NM",
+            "357° - 89 NM",
+            "169° - 91 NM"
+        ],
+        "true": "357° - 89 NM",
+        "annex": [
+            "123",
+            "4",
+            "7",
+            "1",
+            "5",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the radial and DME distance from BEL VOR/DME (N5439. W00613.) to position N5500 W0000?",
+        "options": [
+            "296° - 65 NM",
+            "222°  -   48 NM",
+            "315° - 34 NM",
+            "126° - 33 NM"
+        ],
+        "true": "315° - 34 NM",
+        "annex": [
+            "124",
+            "7",
+            "8",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR/DME (N524. W0085.) radial 20°/5 NM. What is the aircraft position?",
+        "options": [
+            "N5250 W00950",
+            "N5300 W00945",
+            "N5225 W00805",
+            "N5230 W00800"
+        ],
+        "true": "N5230 W00800",
+        "annex": [
+            "125",
+            "3",
+            "1",
+            "120",
+            "35",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given the following information, what is the radial and DME distance from CRK VOR/DME when overhead Kerry aerodrome? CRK VOR/DME position:(N51 . W008 .) Kerry aerodrome position: (N52 . W00 .)",
+        "options": [
+            "Radial: 127°, DME distance: 45 NM",
+            "Radial: 299°, DME distance: 42 NM",
+            "Radial: 307°, DME distance: 43 NM",
+            "Radial: 119°, DME distance: 44 NM"
+        ],
+        "true": "Radial: 307°, DME distance: 43 NM",
+        "annex": [
+            "126",
+            "50",
+            "4",
+            "29",
+            "7",
+            "10",
+            "9",
+            "31",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR (N52. W0085.) DME  NM, CRK VOR (N550. W00829.) DME 0 NM, Aircraft heading 20°(M), Both DME distances decreasing. What is the aircraft position?",
+        "options": [
+            "N5225 W00810",
+            "N5215 W00915",
+            "N5205 W00915",
+            "N5215 W00805"
+        ],
+        "true": "N5215 W00805",
+        "annex": [
+            "127",
+            "3",
+            "1",
+            "41",
+            "4",
+            "7",
+            "30",
+            "270",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the radial and DME distance from BEL VOR/DME (N5439. W00613.) to position N5440 W0030?",
+        "options": [
+            "090° - 46 NM",
+            "098° - 45 NM",
+            "278° - 10 NM",
+            "278° - 44 NM"
+        ],
+        "true": "278° - 44 NM",
+        "annex": [
+            "128",
+            "7",
+            "8",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to )  Given the following information, what is the radial and DME distance from CON VOR/DME when overhead Abbey Shrule aerodrome? CON VOR/DME position: N53 . W00 . Abbey Shrule aerodrome position: N53  W007",
+        "options": [
+            "Radial: 116°, DME distance: 47 NM",
+            "Radial: 304°, DME distance: 47 NM",
+            "Radial: 296°, DME distance: 46 NM",
+            "Radial: 123°, DME distance: 46 NM"
+        ],
+        "true": "Radial: 123°, DME distance: 46 NM",
+        "annex": [
+            "129",
+            "54",
+            "8",
+            "49",
+            "1",
+            "35",
+            "39",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR N52. W0085., CRK VOR N550. W00829.. Aircraft position N520 W0090 Which of the following lists two radials that are applicable to the aircraft position?",
+        "options": [
+            "SHA 240°   CRK 137°",
+            "SHA 068°   CRK 145°",
+            "SHA 248°   CRK 325°",
+            "SHA 060°   CRK 138°"
+        ],
+        "true": "SHA 248°   CRK 325°",
+        "annex": [
+            "130",
+            "3",
+            "1",
+            "4",
+            "7",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°M) and distance between CRN NDB (N3. W006.) and BEL VOR (N439. W0063.)?",
+        "options": [
+            "089° - 95 NM",
+            "229° - 125 NM",
+            "238° - 130 NM",
+            "058° - 128 NM"
+        ],
+        "true": "058° - 128 NM",
+        "annex": [
+            "131",
+            "1",
+            "5",
+            "7",
+            "8",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the radial and DME distance from CRK VOR/DME (N5150. W00829.) to position N510 W0030?",
+        "options": [
+            "106° - 38 NM",
+            "104° - 76 NM",
+            "293° - 39 NM",
+            "113° - 38 NM"
+        ],
+        "true": "113° - 38 NM",
+        "annex": [
+            "132",
+            "4",
+            "7",
+            "061-12549"
+        ]
+    },
+    {
+        "question": "Contour lines on aeronautical maps and charts connect points…",
+        "options": [
+            "of equal latitude.",
+            "having the same longitude.",
+            "having the same elevation.",
+            "with the same variation."
+        ],
+        "true": "having the same elevation.",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to )  Which of the following lists all the aeronautical chart symbols shown at position N5150. W00829.?",
+        "options": [
+            "VOR: DME: NDB:compulsory reporting point",
+            "Civil airport: VOR: non-compulsory reporting point",
+            "VOR: DME: NDB: ILS",
+            "Civil airport: VOR: DME: Localiser: compulsory reporting point."
+        ],
+        "true": "Civil airport: VOR: DME: Localiser: compulsory reporting point.",
+        "annex": [
+            "134",
+            "4",
+            "7",
+            "061-12549"
+        ]
+    },
+    {
+        "question": "An aircraft is flying from SALCO to BERRY HEAD on Magnetic Track 007°, TAS 445 kt. The wind is 050°(T)/40 kt. Variation 5°W, deviation +2° At 1000 UTC the RB of locator PY is 311°. At 1003 UTC the RB of locator PY is 266°. Calculate the distance of the aircraft from locator PY at 1003 UTC.",
+        "options": [
+            "22 NM",
+            "23 NM",
+            "24 NM",
+            "21 NM"
+        ],
+        "true": "21 NM",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to ) Which aeronautical chart symbol indicates a Flight Information Region (FIR) boundary?",
+        "options": [
+            "3",
+            "5",
+            "4",
+            "1"
+        ],
+        "true": "1",
+        "annex": [
+            "136",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which aeronautical chart symbol indicates a group of lighted obstacles?",
+        "options": [
+            "12",
+            "11",
+            "9",
+            "10"
+        ],
+        "true": "12",
+        "annex": [
+            "137",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which aeronautical chart symbol indicates a group of unlighted obstacles?",
+        "options": [
+            "13",
+            "11",
+            "12",
+            "9"
+        ],
+        "true": "11",
+        "annex": [
+            "138",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which aeronautical chart symbol indicates a lighted obstacle?",
+        "options": [
+            "11",
+            "12",
+            "9",
+            "10"
+        ],
+        "true": "10",
+        "annex": [
+            "139",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which aeronautical chart symbol indicates a lightship?",
+        "options": [
+            "14",
+            "10",
+            "12",
+            "16"
+        ],
+        "true": "16",
+        "annex": [
+            "140",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which aeronautical chart symbol indicates a non-compulsory reporting point?",
+        "options": [
+            "6",
+            "8",
+            "15",
+            "7"
+        ],
+        "true": "6",
+        "annex": [
+            "141",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Which aeronautical chart symbol indicates a Way-point?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "15"
+        ],
+        "true": "8",
+        "annex": [
+            "142",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Which of the following lists all the aeronautical chart symbols shown at position N5211 W00705?",
+        "options": [
+            "Civil airport: NDB; Localiser.",
+            "VOR: NDB",
+            "Civil airport: Locator",
+            "NDB: Locator"
+        ],
+        "true": "Civil airport: NDB; Localiser.",
+        "annex": [
+            "143",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which of the aeronautical chart symbols indicates a basic, non-specified, navigation aid?",
+        "options": [
+            "3",
+            "6",
+            "5",
+            "2"
+        ],
+        "true": "5",
+        "annex": [
+            "144",
+            "061-12614"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which of the aeronautical chart symbols indicates a TACAN?",
+        "options": [
+            "1",
+            "6",
+            "2",
+            "7"
+        ],
+        "true": "6",
+        "annex": [
+            "145",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Which of the aeronautical chart symbols indicates a VOR?",
+        "options": [
+            "3",
+            "2",
+            "5",
+            "6"
+        ],
+        "true": "3",
+        "annex": [
+            "146",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which of the aeronautical chart symbols indicates a VORTAC?",
+        "options": [
+            "3",
+            "6",
+            "1",
+            "7"
+        ],
+        "true": "7",
+        "annex": [
+            "147",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Which of the aeronautical chart symbols indicates an NDB?",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "6"
+        ],
+        "true": "4",
+        "annex": [
+            "148",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ). What is the meaning of aeronautical chart symbol No. ?",
+        "options": [
+            "Lighthouse",
+            "Visual reference point",
+            "Aeronautical ground light",
+            "Hazard to aerial navigation"
+        ],
+        "true": "Aeronautical ground light",
+        "annex": [
+            "149",
+            "15",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the meaning of aeronautical chart symbol No. ?",
+        "options": [
+            "Off-shore helicopter landing platform",
+            "Shipwreck showing above the surface at low tide",
+            "Lightship",
+            "Off-shore lighthouse"
+        ],
+        "true": "Lightship",
+        "annex": [
+            "150",
+            "16",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to )  Which aeronautical chart symbol indicates a compulsory reporting point?",
+        "options": [
+            "7",
+            "8",
+            "6",
+            "15"
+        ],
+        "true": "7",
+        "annex": [
+            "151",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which aeronautical chart symbol indicates an aeronautical ground light?",
+        "options": [
+            "14",
+            "15",
+            "16",
+            "10"
+        ],
+        "true": "15",
+        "annex": [
+            "152",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which aeronautical chart symbol indicates an exceptionally high lighted obstacle?",
+        "options": [
+            "12",
+            "10",
+            "14",
+            "13"
+        ],
+        "true": "14",
+        "annex": [
+            "153",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which aeronautical chart symbol indicates an exceptionally high unlighted obstacle?",
+        "options": [
+            "11",
+            "9",
+            "13",
+            "14"
+        ],
+        "true": "13",
+        "annex": [
+            "154",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which aeronautical chart symbol indicates an uncontrolled route?",
+        "options": [
+            "2",
+            "5",
+            "4",
+            "3"
+        ],
+        "true": "4",
+        "annex": [
+            "155",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which aeronautical chart symbol indicates an unlighted obstacle?",
+        "options": [
+            "12",
+            "10",
+            "11",
+            "9"
+        ],
+        "true": "9",
+        "annex": [
+            "156",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which aeronautical chart symbol indicates the boundary of advisory airspace?",
+        "options": [
+            "4",
+            "3",
+            "5",
+            "2"
+        ],
+        "true": "5",
+        "annex": [
+            "157",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What feature is shown on the chart at position N5351 W00917?",
+        "options": [
+            "Castlebar aerodrome",
+            "Brittas Bay aerodrome",
+            "Connaught aerodrome",
+            "Connemara aerodrome"
+        ],
+        "true": "Castlebar aerodrome",
+        "annex": [
+            "158",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What feature is shown on the chart at position N5417 W01005?",
+        "options": [
+            "Clonbullogue aerodrome",
+            "Carnmore aerodrome",
+            "Belmullet aerodrome",
+            "Eagle Island LTH NDB"
+        ],
+        "true": "Eagle Island LTH NDB",
+        "annex": [
+            "159",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Which of the following lists all the aeronautical chart symbols shown at position N38. W0086.?",
+        "options": [
+            "VOR: DME: NDB: compulsory reporting point: ILS",
+            "Civil airport: NDB: DME: non-compulsory reporting point",
+            "Civil airport: VOR: DME: non-compulsory reporting point",
+            "VOR: DME: NDB: compulsory reporting point"
+        ],
+        "true": "Civil airport: NDB: DME: non-compulsory reporting point",
+        "annex": [
+            "160",
+            "1",
+            "5",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Which of the following lists all the aeronautical chart symbols shown at position N5416. W836.?",
+        "options": [
+            "VOR: DME: NDB: compulsory reporting point",
+            "Civil airport: NDB: DME: compulsory reporting point",
+            "Civil airport: VOR: DME: non-compulsory reporting point",
+            "VOR: DME: NDB: non-compulsory reporting point"
+        ],
+        "true": "Civil airport: NDB: DME: compulsory reporting point",
+        "annex": [
+            "161",
+            "7",
+            "0",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Which of the aeronautical chart symbols indicates a VOR/DME?",
+        "options": [
+            "3",
+            "4",
+            "2",
+            "1"
+        ],
+        "true": "1",
+        "annex": [
+            "162",
+            "061-12614"
+        ]
+    },
+    {
+        "question": ") (For this question refer to  to ). Which aeronautical chart symbol indicates a Control Zone boundary?",
+        "options": [
+            "2",
+            "4",
+            "5",
+            "3"
+        ],
+        "true": "3",
+        "annex": [
+            "163",
+            "061-12621A",
+            "061-12638A",
+            "061-12621"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What feature is shown on the chart at position N5211 W00931?",
+        "options": [
+            "Punchestown aerodrome",
+            "Connemara aerodrome",
+            "KERRY/Farranfore aerodrome",
+            "Waterford NDB"
+        ],
+        "true": "KERRY/Farranfore aerodrome",
+        "annex": [
+            "164",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Which of the following lists all the aeronautical chart symbols shown at position N5318. W626.?",
+        "options": [
+            "Military airport: VOR: DME",
+            "Military airport: VOR: NDB",
+            "Civil airport: VOR: DME",
+            "VOR: DME: Danger Area"
+        ],
+        "true": "Military airport: VOR: DME",
+        "annex": [
+            "165",
+            "0",
+            "9",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the radial and DME distance from CON VOR/DME (N5354. W0049.) to position N5400 W0000?",
+        "options": [
+            "320° -  8 NM",
+            "088° - 29 NM",
+            "260° - 30 NM",
+            "094° - 64 NM"
+        ],
+        "true": "088° - 29 NM",
+        "annex": [
+            "166",
+            "8",
+            "1",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) The fix of the aircraft position is determined by radials from three VOR-stations. The measurements contain small random errors, known systematic errors and unknown systematic errors. The measured radials are corrected for known systematic errors and are plotted on a navigation chart. The result is shown at the reference. What is the most probable position of the aircraft?",
+        "options": [
+            "4",
+            "3",
+            "1",
+            "2"
+        ],
+        "true": "1",
+        "annex": [
+            "167",
+            "061-600093"
+        ]
+    },
+    {
+        "question": ") (Refer to ). What feature is shown on the chart at position N53  W006 ?",
+        "options": [
+            "Punchestown aerodrome",
+            "Connemara aerodrome",
+            "Clonbullogue aerodrome",
+            "KERRY/Farranfore aerodrome"
+        ],
+        "true": "Punchestown aerodrome",
+        "annex": [
+            "168",
+            "11",
+            "37",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What feature is shown on the chart at position N5212 W00612?",
+        "options": [
+            "TUSKAR ROCK LT.H. NDB",
+            "WTD NDB",
+            "KERRY/Farranfore aerodrome",
+            "Clonbullogue aerodrome"
+        ],
+        "true": "TUSKAR ROCK LT.H. NDB",
+        "annex": [
+            "169",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ). Which of the aeronautical chart symbols indicates a DME?",
+        "options": [
+            "2",
+            "5",
+            "6",
+            "3"
+        ],
+        "true": "2",
+        "annex": [
+            "170",
+            "061-12614"
+        ]
+    },
+    {
+        "question": "Route ‘A’ (44°N, 026°E) to ‘B’ (46°N, 024°E) forms an angle of 35° with longitude 026°E. Variation at A is 3°E. What is the initial magnetic track from A to B?",
+        "options": [
+            "322°",
+            "038°",
+            "328°",
+            "032°"
+        ],
+        "true": "322°",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°M) and distance between WTD NDB (N5211. W75.) and BAL VOR (N518. W626.)?",
+        "options": [
+            "018° - 153 NM",
+            "198° - 72 NM",
+            "026° - 71 NM",
+            "206° - 71 NM"
+        ],
+        "true": "026° - 71 NM",
+        "annex": [
+            "172",
+            "3",
+            "0",
+            "9",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°T) and distance between BAL VOR (N38. W626.) and CRN NDB (N38. W86.)?",
+        "options": [
+            "278° - 89 NM",
+            "267° - 95 NM",
+            "273° - 85 NM",
+            "270°  -   90 NM"
+        ],
+        "true": "270°  -   90 NM",
+        "annex": [
+            "173",
+            "0",
+            "9",
+            "1",
+            "5",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) What is the average track (°T) and distance between CRN NDB (N38. W008.) and EKN NDB (N423. W0038.)?",
+        "options": [
+            "042° - 83 NM",
+            "031° - 81 NM",
+            "035° - 80 NM",
+            "044° - 82 NM"
+        ],
+        "true": "035° - 80 NM",
+        "annex": [
+            "174",
+            "1",
+            "5",
+            "6",
+            "7",
+            "061-12549"
+        ]
+    },
+    {
+        "question": "A VOR is situated at position (N55°26', W005°42'). The variation at the VOR is 9°W. The position of the aircraft is (N60°00'N, W010°00'). The variation at the aircraft-position is 11°W. The initial TT-angle of the great circle from the aircraft position to the VOR is 101.5°.Which radial is the aircraft on?",
+        "options": [
+            "276",
+            "278",
+            "296",
+            "294"
+        ],
+        "true": "294",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR (N52. W0085.) radial °, CRK VOR (N550. W00829.) radial °.  What is the aircraft position?",
+        "options": [
+            "N5205 W00915",
+            "N5118 W00913",
+            "N5210 W00910",
+            "N5215 W00917"
+        ],
+        "true": "N5210 W00910",
+        "annex": [
+            "176",
+            "3",
+            "1",
+            "205",
+            "4",
+            "7",
+            "317",
+            "061-12549"
+        ]
+    },
+    {
+        "question": "An aircraft is flying a track of 255°(M). At 22:54 UTC, it crosses radial 360° from a VOR station. At 23:00 UTC, it crosses radial 330° from the same station. What is the distance between the aircraft and the station at 23:00 UTC?",
+        "options": [
+            "The same as it was at 22:54 UTC",
+            "Randomly different to what it was at 22:54 UTC.",
+            "Less than it was at 22:54 UTC.",
+            "Greater than it was at 22:54 UTC."
+        ],
+        "true": "The same as it was at 22:54 UTC",
+        "annex": null
+    },
+    {
+        "question": "Given: Position NDB (55°10’N, 012°55’E) DR Position (54°53’N, 009°58’E) NDB on the RMI reads 090°Magnetic variation: 10°W The position line has to be plotted on a Lamberts conformal chart with standard parallels at 40°N and 48°N. Calculate the direction (T) of the bearing to be plotted from the NDB.",
+        "options": [
+            "272°",
+            "262°",
+            "265°",
+            "258°"
+        ],
+        "true": "262°",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR (N52. W0085.) radial 20°, CRK VOR (N550. W00829.) radial 0°. What is the aircraft position?",
+        "options": [
+            "N5240 W00750",
+            "N5225 W00805",
+            "N5230 W00800",
+            "N5220 W00750"
+        ],
+        "true": "N5230 W00800",
+        "annex": [
+            "179",
+            "3",
+            "1",
+            "120",
+            "4",
+            "7",
+            "033",
+            "061-12549"
+        ]
+    },
+    {
+        "question": "Given the following information, what is the magnetic bearing of the NDB from the aircraft? NDB position: 55°26’N, 005°42’W Aircraft position: 56°00’N, 010°00’W Variation at the NDB: 9°W Variation at the aircraft: 11°W Great circle track, aircraft to NDB: 101.5°(T)",
+        "options": [
+            "112.5°",
+            "110.5°",
+            "114.5°",
+            "108.5°"
+        ],
+        "true": "112.5°",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR (N52. W0085.) radial 22°, CRK VOR (N550. W00829.) radial 22°.  What is the aircraft position?",
+        "options": [
+            "N5210 W00910",
+            "N5230 W00910",
+            "N5210 W00930",
+            "N5220 W00920"
+        ],
+        "true": "N5220 W00920",
+        "annex": [
+            "181",
+            "3",
+            "1",
+            "223",
+            "4",
+            "7",
+            "322",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR (N52. W0085.) radial ° , CRK VOR (N550. W00829.) radial °.  What is the aircraft position?",
+        "options": [
+            "N5155 W00810",
+            "N5200 W00800",
+            "N5210 W00800",
+            "N5205 W00805"
+        ],
+        "true": "N5210 W00800",
+        "annex": [
+            "182",
+            "3",
+            "1",
+            "143",
+            "4",
+            "7",
+            "050",
+            "061-12549"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Given: SHA VOR (N52. W0085.) radial 29°, CRK VOR (N550. W00829.) radial 0°. What is the aircraft position?",
+        "options": [
+            "N5215 W00755",
+            "N5205 W00755",
+            "N5220 W00750",
+            "N5210 W00750"
+        ],
+        "true": "N5220 W00750",
+        "annex": [
+            "183",
+            "3",
+            "1",
+            "129",
+            "4",
+            "7",
+            "047",
+            "061-12549"
+        ]
+    },
+    {
+        "question": "Which type of chart cannot project the poles?",
+        "options": [
+            "Lamberts Conformal Conical",
+            "Transverse Mercator",
+            "Direct Mercator",
+            "Polar Stereographic"
+        ],
+        "true": "Direct Mercator",
+        "annex": null
+    },
+    {
+        "question": "On a Transverse Mercator chart, with the exception of the Equator, parallels of latitude appear as:",
+        "options": [
+            "Parabolas",
+            "Ellipses",
+            "Straight lines",
+            "Hyperbolic lines"
+        ],
+        "true": "Ellipses",
+        "annex": null
+    },
+    {
+        "question": "Transverse Mercator projections are used for:",
+        "options": [
+            "Maps of large east/west extent in equatorial areas",
+            "Radio navigation charts in equatorial areas",
+            "Plotting charts in equatorial areas",
+            "Maps of large north/south extent"
+        ],
+        "true": "Maps of large north/south extent",
+        "annex": null
+    },
+    {
+        "question": "A straight line from A (75°S, 120°E) to B )75°S, 160°E) is drawn on a Polar Stereographic chart. When passing the meridian 155°E, the True Track is:",
+        "options": [
+            "105°",
+            "075",
+            "255°",
+            "095°"
+        ],
+        "true": "075",
+        "annex": null
+    },
+    {
+        "question": "The parallels on a Lambert Conformal Conic chart are represented by:",
+        "options": [
+            "Parabolic lines",
+            "Hyperbolic lines",
+            "Straight lines",
+            "Arcs of concentric circles"
+        ],
+        "true": "Arcs of concentric circles",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to or Chart  AT (HI)) What are the average magnetic course and distance between position N6000 W02000 and Sumburgh VOR (N9 W 0011)?",
+        "options": [
+            "105° - 480 NM",
+            "091° - 480 NM",
+            "105° - 562 NM",
+            "091° - 562 NM"
+        ],
+        "true": "105° - 562 NM",
+        "annex": [
+            "189",
+            "5",
+            "00115",
+            "061-12400"
+        ]
+    },
+    {
+        "question": ") (Refer to or Chart  AT (HI)) What are the initial True Course and distance between positions N800 W01300 and N6600 E00200?",
+        "options": [
+            "036° - 638 NM",
+            "029° - 570 NM",
+            "032° - 470 NM",
+            "042° - 635 NM"
+        ],
+        "true": "036° - 638 NM",
+        "annex": [
+            "190",
+            "5",
+            "061-12400"
+        ]
+    },
+    {
+        "question": ") (Refer to or Chart   (HI) An aircraft on radial ° at a range of  NM from MYGGENES NDB (N6206 W00732) is at position:",
+        "options": [
+            "N6345 W01125",
+            "N6040 W00320",
+            "N6320  W01205",
+            "N6020 W00405"
+        ],
+        "true": "N6320  W01205",
+        "annex": [
+            "191",
+            "5AT",
+            "315",
+            "150",
+            "061-12400"
+        ]
+    },
+    {
+        "question": ") (Refer to ) An aircraft on radial ° at a range of  NM from SAXAVORD VOR (N6050 W00050) is at position:",
+        "options": [
+            "N6127 W00443",
+            "N6109 E00255",
+            "N6027 E00307",
+            "N6010 E00255"
+        ],
+        "true": "N6027 E00307",
+        "annex": [
+            "192",
+            "110",
+            "120",
+            "061-12400"
+        ]
+    },
+    {
+        "question": ") (Refer to ) Which of the following beacons is  NM from AKRABERG (N6124 W00640)?",
+        "options": [
+            "SAXAVORD (N6050 W00050)",
+            "KIRKWALL (N5858 W 00254)",
+            "STORNOWAY (N5815 W00617)",
+            "SUMBURGH (N5955 W00115)"
+        ],
+        "true": "SUMBURGH (N5955 W00115)",
+        "annex": [
+            "193",
+            "185",
+            "061-12400"
+        ]
+    },
+    {
+        "question": "Given: A Polar Stereographic Chart of the Northern Hemisphere whose grid is aligned with the zero Meridian. Grid Track 344°, Longitude 115°00'W, Calculate the True Course?",
+        "options": [
+            "049°",
+            "279°",
+            "229°",
+            "099°"
+        ],
+        "true": "229°",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is flying from SALCO to BERRY HEAD on Magnetic Track 007°.At 1000 UTC the relative bearing of locator PY is 311°. At 1003 UTC the relative bearing of locator PY is 266°. Calculate the true bearing of locator PY at 1003 UTC from the aircraft, given that: TAS: 445 kt W/V: 050° (T)/40 kt Variation: 5°W Deviation: +2°",
+        "options": [
+            "272°(T)",
+            "275°(T)",
+            "277°(T)",
+            "268°(T)"
+        ],
+        "true": "272°(T)",
+        "annex": null
+    },
+    {
+        "question": "A Lambert conformal conic chart, whose standard parallels 54°N and 59°N is used for navigation. Straight line from A (53°N, 165°E) to B (58°N, 145°E) is drawn on the chart. The true course of the straight line track drawn on this chart at A is 301°. The true course of the straight line track drawn on this chart at B is:",
+        "options": [
+            "284°T",
+            "290°T",
+            "312°T",
+            "310°T"
+        ],
+        "true": "284°T",
+        "annex": null
+    },
+    {
+        "question": "Levels curved on a hypsometric chart refer to:",
+        "options": [
+            "Altitude",
+            "Latitude",
+            "Magnetic variation",
+            "Longitude"
+        ],
+        "true": "Altitude",
+        "annex": null
+    },
+    {
+        "question": "A straight line is drawn on a Lambert conformal conic chart, on which Chart Convergency = Earth Convergency at latitude 42°, from A (48° 155°E) to B (36° x°E). The true course of the straight line track at A is 060°T and at B is 046°T. The hemisphere in which the track is drawn and the final longitude at B are:",
+        "options": [
+            "Northern Hemisphere - 166°E",
+            "Southern Hemisphere - 166°E",
+            "Northern Hemisphere - 176°E",
+            "Southern Hemisphere - 176°E"
+        ],
+        "true": "Southern Hemisphere - 176°E",
+        "annex": null
+    },
+    {
+        "question": "Use chart E(LO)1 from your Jeppesen Student Pilot Route Manual. What facilities are found at the following location: N51o 50'24\" W008o 29'42\"  ( N51o 50.4' W008o  29.7')",
+        "options": [
+            "Civil Airport with Localizer or Localizer -Type directional aid,VOR/DME, non-compulsory reporting point",
+            "VOR/DME and NDB",
+            "NDB,DME, non-compulsory reporting point",
+            "Civil Airport with Localizer or Localizer -Type directional aid,VOR/DME, compulsory reporting point"
+        ],
+        "true": "Civil Airport with Localizer or Localizer -Type directional aid,VOR/DME, compulsory reporting point",
+        "annex": null
+    },
+    {
+        "question": "Use chart  E(LO)1 What is to be found at the following coordinates? N54°17.0' W010°05.5'",
+        "options": [
+            "Connemara Civil Airport",
+            "AKELI compulsory reporting point",
+            "Eagle Island Light House NDB",
+            "Belmullet Civil Airport"
+        ],
+        "true": "Eagle Island Light House NDB",
+        "annex": null
+    },
+    {
+        "question": "For this question use chart GSPRM  E(LO)2 What facilities are found at N 51º 50’ 24” W 008º 29' 42\" ?",
+        "options": [
+            "Civil Airport, VOR/DME. Non-Compulsory Reporting Point",
+            "Military Airport, VOR, NDB",
+            "NDB,DME, Non-Compulsory Reporting Point",
+            "Civil Airport, VOR/DME. Compulsory Reporting Point"
+        ],
+        "true": "Civil Airport, VOR/DME. Compulsory Reporting Point",
+        "annex": "610761"
+    },
+    {
+        "question": "Which of the following statements most accurately describes the appearance of parallels of latitude on a polar stereographic chart? Parallels of latitude appear as…",
+        "options": [
+            "straight lines intersecting with meridians at 90°.",
+            "concentric circles around the pole.",
+            "curves concave to the equator.",
+            "curves convex to straight lines on the chart."
+        ],
+        "true": "concentric circles around the pole.",
+        "annex": null
+    },
+    {
+        "question": "Where is the parallel of origin for a Direct Mercator projection?",
+        "options": [
+            "Along any meridian.",
+            "The Equator.",
+            "The Greenwich Meridian.",
+            "Where the convergency factor is zero."
+        ],
+        "true": "The Equator.",
+        "annex": null
+    },
+    {
+        "question": "An Aircraft is tracking the 105 Radial inbound to a VOR in the Northern Hemisphere. The magnetic variation is 4ºE at the aircraft's position and 8ºE at the VOR. The earth convergency between  the aircraft's position and the VOR is 6º. To plot a straight line from the VOR to the aircraft on a Direct Mercator chart what true course from the VOR should be plotted?",
+        "options": [
+            "105",
+            "116",
+            "113",
+            "097"
+        ],
+        "true": "116",
+        "annex": null
+    },
+    {
+        "question": "What earth distance is represented by a line 47mm long on a chart witj a scale of  1:130 000?",
+        "options": [
+            "33NM",
+            "3.3NM",
+            "3.3km",
+            "61.1 km"
+        ],
+        "true": "3.3NM",
+        "annex": null
+    },
+    {
+        "question": "Refer to Jeppesen GSPRM E(LO)2, the track (°M) and distance (NM) between BELFAST VOR/DME (54°39.5' N  006°13.8' W) and MACRAHANISH DME (55°25.8'N 005°39.0'W) is:",
+        "options": [
+            "024° and 76 NM",
+            "028° and 50 NM",
+            "024° and 50 NM",
+            "028° and 76 NM"
+        ],
+        "true": "028° and 50 NM",
+        "annex": null
+    },
+    {
+        "question": "Refer to Jeppesen GSPRM chart E(LO)2. The magentic track between 55°40.0'N 004°14.7'W and 54°52.6'N 002°53.8'W is:",
+        "options": [
+            "320°",
+            "135°",
+            "143°",
+            "139°"
+        ],
+        "true": "139°",
+        "annex": null
+    },
+    {
+        "question": "Refer to Jeppesen GSPRM chart E(LO)2. You are 55 NM from HON VOR/DME (52°21.4'N 001°39.8'W) and 42 NM from POL VOR/DME (53°44.6'N 002°06.2'W), both distances increasing, with a heading of 086°M. What is your current position?",
+        "options": [
+            "53°13'N  001°06'W",
+            "53°10'N  001°23'W",
+            "53°15'N  001°13'W",
+            "53°10'N  002°30'W"
+        ],
+        "true": "53°15'N  001°13'W",
+        "annex": null
+    },
+    {
+        "question": "Refer to Jeppesen GSPRM chart E(LO)2. You are 58 NM from POL VOR/DME (53°44.6'N 002°06.2'W) and on the 052° radial. What is your position?",
+        "options": [
+            "54°23'N 000°47'W",
+            "54°26'N 000°54'W",
+            "54°17'N 000°42'W",
+            "54°23'N 001°47'W"
+        ],
+        "true": "54°23'N 000°47'W",
+        "annex": null
+    },
+    {
+        "question": "Refer to Jeppesen GSPRM chart E(LO)2. You are on a bearing of 301°(M) from POL VOR/DME (53°44.6'N 002°06.2'W) and on a bearing of 001°(M) from WAL VOR/DME (53°23.5'N 003°8.1'W). What is your position?",
+        "options": [
+            "54°10'N 003°10'W",
+            "54°03'N 003°01'W",
+            "54°00'N 003°09'W",
+            "54°06'N 003°09'W"
+        ],
+        "true": "54°06'N 003°09'W",
+        "annex": null
+    },
+    {
+        "question": "Refer to Jeppesen GSPRM chart E(LO)2. What is the magnetic track and distance from MAC (55°25.8'N 005°39.0'W) DME to the waypoint CLYDE (55°57.8'N 004°47.5'W)?",
+        "options": [
+            "046°, 44 NM",
+            "042°, 44NM",
+            "046°, 42 NM",
+            "042°, 42 NM"
+        ],
+        "true": "046°, 42 NM",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to the extract from ICAO  -Aeronautical Charts Appendix ) Which numbers refer to the symbols for a cliff and a mountain pass.",
+        "options": [
+            "3 and 9",
+            "3 and 2",
+            "4 and 11",
+            "5 and 1"
+        ],
+        "true": "4 and 11",
+        "annex": [
+            "212",
+            "4",
+            "2",
+            "610789"
+        ]
+    },
+    {
+        "question": ") According to ICAO  Aeronautical charts (Appendix  Colour Guide) what colour is recommended for depicting contours",
+        "options": [
+            "Green",
+            "Brown",
+            "Blue",
+            "Yellow"
+        ],
+        "true": "Brown",
+        "annex": [
+            "213",
+            "4",
+            "3"
+        ]
+    },
+    {
+        "question": "Which of the following statements most accurately describes a great circle route on a Lambert conformal conic chart? A straight line will approximate to a great circle course if the…",
+        "options": [
+            "straight line is close to the parallel of origin.",
+            "great circle course is a curve concave to the parallel of origin.",
+            "straight line follows the parallel of origin.",
+            "sine of the parallel of origin is equal to the convergence factor."
+        ],
+        "true": "straight line is close to the parallel of origin.",
+        "annex": null
+    },
+    {
+        "question": ") (For this question See , a Lamberts Conformal chart of the northern hemisphere). Where is the parallel of origin?",
+        "options": [
+            "14.5°N",
+            "41.5°N",
+            "71.5°N",
+            "48.6°N"
+        ],
+        "true": "48.6°N",
+        "annex": [
+            "215",
+            "610850"
+        ]
+    },
+    {
+        "question": "On a Lambert conformal projection the scale at a point at 60°N in the direction of True North is 1:1 000\n000. What is the scale at the same point in an easterly direction?",
+        "options": [
+            "1:500 000",
+            "1:1 000 000",
+            "1:2 000 000",
+            "The scale in this direction cannot be calculated as the longitude of the position is not given."
+        ],
+        "true": "1:1 000 000",
+        "annex": null
+    },
+    {
+        "question": "The Lambert conformal conic projection has to be produced mathematically to:",
+        "options": [
+            "Display the great circle as a straight line.",
+            "Obtain an equal scale between the standard parallels.",
+            "Display the meridians as straight lines.",
+            "Obtain conformality."
+        ],
+        "true": "Obtain conformality.",
+        "annex": null
+    },
+    {
+        "question": "What can be said about the area represented on a Lambert projection which lies between the two standard parallels of the chart?",
+        "options": [
+            "In this area the scale of the chart differs less than 1% from the stated scale of the chart.",
+            "Only in this area is the chart conformal.",
+            "The True Track of departure and the True Track of arrival between two positions situated in this area are practically equal.",
+            "In this area the rhumb line and great circle between two positions situated in this area practically coincide."
+        ],
+        "true": "In this area the scale of the chart differs less than 1% from the stated scale of the chart.",
+        "annex": null
+    },
+    {
+        "question": ") (For this question see ). Which of the most accurately represents the great circle route from A to B on a Lambert conformal conic chart?\n\n220) °On a Lambert conformal projection the chart convergency between two positions depends on:",
+        "options": [
+            "the difference in longitude and the mean latitude of the two positions.",
+            "the latitude of the parallel of origin only.",
+            "the difference in longitude of the two positions and the latitude of the parallel of origin.",
+            "the difference in longitude of the two positions only."
+        ],
+        "true": "the difference in longitude of the two positions and the latitude of the parallel of origin.",
+        "annex": [
+            "219",
+            "610855",
+            "4",
+            "3",
+            "2",
+            "1"
+        ]
+    },
+    {
+        "question": "The scale of a Lambert conformal conic chart is the:",
+        "options": [
+            "mean scale between the parallels of the secant cone",
+            "scale at the standard parallels",
+            "mean scale between pole and equator",
+            "scale at the equator"
+        ],
+        "true": "scale at the standard parallels",
+        "annex": null
+    },
+    {
+        "question": "Refer to Jeppesen GSPRM chart E LO\n2. You are on a bearing of 301° (M) from POL VOR/DME (53° 44.6'N 002° 06.2'W) and on a bearing of 001° (M) from WAL VOR/DME (53° 23.5'N 003° 8.1'W). What is your position?",
+        "options": [
+            "54° 05'N 003° 09'W",
+            "54° 10'N 003° 10'W",
+            "54° 00'N 003° 09'W",
+            "54° 04'N 003° 12'W"
+        ],
+        "true": "54° 05'N 003° 09'W",
+        "annex": null
+    },
+    {
+        "question": "What is the chart distance between longitudes 179° E and 175° W on a direct Mercator chart with a scale of 1 : 5 000 000 at the equator?",
+        "options": [
+            "110 mm",
+            "133 mm",
+            "165 mm",
+            "70 mm"
+        ],
+        "true": "133 mm",
+        "annex": null
+    }
+]

@@ -1,0 +1,1142 @@
+[
+    {
+        "question": "During a visual flight, a useful method for a pilot to resolve any uncertainty in the aircraft’s position is to maintain visual contact with the ground and…",
+        "options": [
+            "set the heading towards a line feature such as a coastline, motorway, river or railway.",
+            "fly expanding circles until a pinpoint is obtained.",
+            "fly reverse headings and associated timings until the point of departure is regained.",
+            "fly the reverse of the heading being flown prior to becoming uncertain until a pinpoint is obtained."
+        ],
+        "true": "set the heading towards a line feature such as a coastline, motorway, river or railway.",
+        "annex": null
+    },
+    {
+        "question": "A ground feature was observed on a relative bearing of 315° and 3 MIN later on a relative bearing of 270°.   The W/V is calm; aircraft GS 180 kt.  What is the minimum distance between the aircraft and the ground feature?",
+        "options": [
+            "9 NM",
+            "6 NM",
+            "3 NM",
+            "12 NM"
+        ],
+        "true": "9 NM",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is at position (53°N, 006°W) and has a landmark at position (52°47’N, 004°45’W), with a relative bearing of 060°. Given: Compass Heading = 051° Variation = 16°W Deviation = 2°E What is the true bearing of the position line to be plotted from the landmark to the aircraft on a Lambert chart with standard parallels at 37°N and 65°N?",
+        "options": [
+            "276°",
+            "250°",
+            "278",
+            "277°"
+        ],
+        "true": "278",
+        "annex": null
+    },
+    {
+        "question": "An island appears 30° to the left of the centre line on an airborne weather radar display. What is the true bearing of the aircraft from the island if at the time of observation the aircraft was on a Magnetic Heading of 276° with the Magnetic Variation 12 °W?",
+        "options": [
+            "038°",
+            "054°",
+            "234°",
+            "318°"
+        ],
+        "true": "054°",
+        "annex": null
+    },
+    {
+        "question": "An island appears 60° to the left of the centre line on an airborne weather radar display. What is the true bearing of the aircraft from the island if at the time of observation the aircraft was on a Magnetic Heading (MH) of 276° with the Magnetic Variation 10ºE.",
+        "options": [
+            "046°",
+            "226°",
+            "086°",
+            "026°"
+        ],
+        "true": "046°",
+        "annex": null
+    },
+    {
+        "question": "An island is observed 15° to the left of the aircraft’s longitudinal axis. The aircraft heading is 120°(M) and the magnetic variation 17°W.What is the true bearing of the aircraft from the island?",
+        "options": [
+            "122°(T)",
+            "302°(T)",
+            "268°(T)",
+            "088°(T)"
+        ],
+        "true": "268°(T)",
+        "annex": null
+    },
+    {
+        "question": "An island is observed to be 30° to the right of the nose of the aircraft.  The aircraft heading is 290°(M), variation 10°(E).  The bearing °(T) from the aircraft to the island is:",
+        "options": [
+            "250",
+            "330",
+            "270",
+            "310"
+        ],
+        "true": "330",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is maintaining a 5.2 % gradient above flat terrain and is 7 NM from the runway. Calculate the aircraft’s approximate height.",
+        "options": [
+            "1890 ft",
+            "3640 ft",
+            "2210 ft",
+            "680 ft"
+        ],
+        "true": "2210 ft",
+        "annex": null
+    },
+    {
+        "question": "An island appears 45° to the right of the centre line on an airborne weather radar display. What is the true bearing of the aircraft from the island if at the time of observation the aircraft was on a Magnetic Heading (MH) of 215° with the Magnetic Variation 21ºW?",
+        "options": [
+            "059°",
+            "329°",
+            "239°",
+            "101°"
+        ],
+        "true": "059°",
+        "annex": null
+    },
+    {
+        "question": "During a low level flight two parallel roads are crossed at right angles by an aircraft. What can the time taken between the road crossings be used to check?",
+        "options": [
+            "groundspeed",
+            "position",
+            "track",
+            "drift"
+        ],
+        "true": "groundspeed",
+        "annex": null
+    },
+    {
+        "question": "An island is observed to be 15° to the left.  The aircraft heading is 120°(M), variation 17°(W).  The bearing °(T) from the aircraft to the island is:",
+        "options": [
+            "268",
+            "88",
+            "302",
+            "122"
+        ],
+        "true": "88",
+        "annex": null
+    },
+    {
+        "question": "An island appears 30° to the right of the aircraft’s longitudinal axis. What is the true bearing of the aircraft from the island if at the time of observation the aircraft was on a magnetic heading (MH) of 355° with the magnetic variation (VAR) 15°E?",
+        "options": [
+            "130°(T)",
+            "190°(T)",
+            "160°(T)",
+            "220°(T)"
+        ],
+        "true": "220°(T)",
+        "annex": null
+    },
+    {
+        "question": "On the QDR of 075° (in the vicinity of the station) with a Magnetic Heading of 295°, the relative bearing on the ADF indicator is:",
+        "options": [
+            "220°",
+            "040°",
+            "320°",
+            "140°"
+        ],
+        "true": "320°",
+        "annex": null
+    },
+    {
+        "question": "A ground feature appears 30° to the left of the centre line of the CRT of an airborne weather radar. If the heading of the aircraft is 355° (M) and the magnetic variation is 15° East, the true bearing of the aircraft from the feature is:",
+        "options": [
+            "220°",
+            "130°",
+            "160°",
+            "310°"
+        ],
+        "true": "160°",
+        "annex": null
+    },
+    {
+        "question": "An island appears 30° to the left of the aircraft’s longitudinal axis. What is the true bearing of the aircraft from the island if at the time of observation the aircraft was on a magnetic heading (MH) of 020° with the magnetic variation (VAR) 25°W?",
+        "options": [
+            "205°(T)",
+            "145°(T)",
+            "195°(T)",
+            "325°(T)"
+        ],
+        "true": "145°(T)",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at FL370 is required to commence descent at 120 NM from a VOR and to cross the facility at FL130. If the mean GS for the descent is 288 kt, the minimum rate of descent required is…",
+        "options": [
+            "860 ft/min.",
+            "920 ft/min.",
+            "960 ft/min.",
+            "890 ft/min."
+        ],
+        "true": "960 ft/min.",
+        "annex": null
+    },
+    {
+        "question": "At 04:22 UTC an aircraft is at a range of 185 NM tracking towards VOR/DME ‘X’ at FL370, GS 320 kt. If the aircraft is required to cross VOR/DME ‘X’ at FL80, what will be the latest time at which to commence descent, with a mean rate of descent of 1800 ft/min at a mean GS of 232 kt?",
+        "options": [
+            "04:51 UTC",
+            "04:45 UTC",
+            "04:48 UTC",
+            "04:54 UTC"
+        ],
+        "true": "04:45 UTC",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at FL290 is required to commence descent when 50 NM from a VOR and to cross that VOR at FL80.Mean GS during descent is 271 kt. What is the minimum rate of descent required?",
+        "options": [
+            "1900 ft/min",
+            "2000 ft/min",
+            "1800 ft/min",
+            "1700 ft/min"
+        ],
+        "true": "1900 ft/min",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at FL350 is required to commence descent when 85 NM from a VOR and to cross the VOR at FL80.The mean GS for the descent is 340 kt. What is the minimum rate of descent required?",
+        "options": [
+            "1600 ft/min",
+            "1800 ft/min",
+            "1900 ft/min",
+            "1700 ft/min"
+        ],
+        "true": "1800 ft/min",
+        "annex": null
+    },
+    {
+        "question": "During approach the following data are obtained: DME 12.0 NM, altitude 3000 ft DME 9.8 NM, altitude 2400 ft TAS = 160 kt, GS = 125 kt The rate of descent is:",
+        "options": [
+            "600 ft/min",
+            "700 ft/min",
+            "730 ft/min",
+            "570 ft/min"
+        ],
+        "true": "570 ft/min",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, at what approximate distance from threshold can you expect to capture the GP? Aircraft height: 2500 ft ILS GP angle: 3°",
+        "options": [
+            "7.0 NM",
+            "14.5 NM",
+            "8.2 NM",
+            "13.1 NM"
+        ],
+        "true": "8.2 NM",
+        "annex": null
+    },
+    {
+        "question": "Given: ILS GP angle: 3.5 deg, GS: 150 kt. What is the approximate rate of descent?",
+        "options": [
+            "900 ft/min",
+            "1000 ft/min",
+            "700 ft/min",
+            "800 ft/min"
+        ],
+        "true": "900 ft/min",
+        "annex": null
+    },
+    {
+        "question": "When climbing with constant CAS",
+        "options": [
+            "TAS will decrease but Mach number will increase.",
+            "both TAS and Mach number will decrease.",
+            "both TAS and Mach number will increase.",
+            "TAS will increase but Mach number will decrease."
+        ],
+        "true": "both TAS and Mach number will increase.",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is descending on a 6 % slope whilst maintaining a GS of 300 kt. What is the aircraft’s approximate rate of descent?",
+        "options": [
+            "10800 ft/min",
+            "1800 ft/min",
+            "3600 ft/min",
+            "900 ft/min"
+        ],
+        "true": "1800 ft/min",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at FL350 is required to cross a VOR/DME facility at FL110 and to commence descent when 100 NM from the facility. If the mean GS for the descent is 335 kt, the minimum rate of descent required is…",
+        "options": [
+            "1390 ft/min.",
+            "1240 ft/min.",
+            "1340 ft/min.",
+            "1290 ft/min."
+        ],
+        "true": "1340 ft/min.",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at FL390 is required to descend to cross a DME facility at FL70. Maximum rate of descent is 2500 FT/MIN, mean GS during descent is 248 kt. What is the minimum range from the DME at which descent should commence?",
+        "options": [
+            "68 NM",
+            "58 NM",
+            "53 NM",
+            "63 NM"
+        ],
+        "true": "53 NM",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at FL370 is required to commence descent when 100 NM from a DME facility, and to cross the station at FL120. The mean GS during the descent is 396 kt. What is approximately the minimum rate of descent required?",
+        "options": [
+            "1650 ft/min",
+            "1000 ft/min",
+            "1550 ft/min",
+            "2400 ft/min"
+        ],
+        "true": "1650 ft/min",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at FL330 is required to commence descent when 65 NM from a VOR and to cross the VOR at FL100.The mean GS during the descent is 330 kt. What is the minimum rate of descent required?",
+        "options": [
+            "1750 ft/min",
+            "1850 ft/min",
+            "1650 ft/min",
+            "1950 ft/min"
+        ],
+        "true": "1950 ft/min",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, calculate the approximate rate of descent: TAS: 197 kt True course: 240°(T) W/V: 180/30 kt Descent is initiated at FL 220 and completed at FL 40  Distance to be covered during descent: 39 NM",
+        "options": [
+            "1500 ft/min",
+            "800 ft/min",
+            "1400 ft/min",
+            "950 ft/min"
+        ],
+        "true": "1400 ft/min",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at FL360 is required to descend to FL120. The aircraft should reach FL120 at 40 NM from the next waypoint. The rate of descent is 2000 ft/min. The average GS is 420 kt. What is the minimum distance from the next waypoint at which descent should start?",
+        "options": [
+            "88 NM",
+            "166 NM",
+            "236 NM",
+            "124 NM"
+        ],
+        "true": "124 NM",
+        "annex": null
+    },
+    {
+        "question": "Assuming zero wind, what distance will be covered by an aircraft descending 15000 ft with a TAS of 320 kt and maintaining a rate of descent of 3000 ft/min?",
+        "options": [
+            "16.0 NM",
+            "38.4 NM",
+            "19.2 NM",
+            "26.7 NM"
+        ],
+        "true": "26.7 NM",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is departing from an airport which has an elevation of 2000 ft. The QNH is 1013 hPa. 10 NM away there is a waypoint the aircraft is required to pass at an altitude of 7500 ft. Given a groundspeed of 100 kt, what is the minimum rate of climb?",
+        "options": [
+            "590 ft/min",
+            "920 ft/min",
+            "750 ft/min",
+            "1080 ft/min"
+        ],
+        "true": "920 ft/min",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at FL350 is required to descend to cross a DME facility at FL80. Maximum rate of descent is 1800 FT/MIN and mean GS for descent is 276 kt. The minimum range from the DME at which descent should start is:",
+        "options": [
+            "49 NM",
+            "69 NM",
+            "79 NM",
+            "59 NM"
+        ],
+        "true": "69 NM",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is departing from an airport which has an elevation of 2000 ft and the QNH is 1003 hPa. The TAS is 100 kt, the head wind component is 20 kt and the rate of climb is 1000 ft/min. Top of climb is FL\n050. At what distance from the airport will this be achived?",
+        "options": [
+            "4.4 NMs",
+            "3.6 NM",
+            "5.4 NM",
+            "4.0 NM"
+        ],
+        "true": "3.6 NM",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is departing from an airport which has an elevation of 2000 ft and the QNH is 1023 hPa. The TAS is 100 kt, the head wind component is 20 kt and the rate of climb is 1000 ft/min. Top of climb is FL 100.At what distance from the airport will this be achieved?",
+        "options": [
+            "16.6 NM",
+            "11.1 NM",
+            "13.3 NM",
+            "10.3 NM"
+        ],
+        "true": "11.1 NM",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is departing from an airport which has an elevation of 2000 ft and the QNH is 1003 hPa. The TAS is 100 kt, the head wind component is 20 kt and the rate of climb is 500 ft/min. Top of climb is FL\n050. At what distance from the airport will this be achived?",
+        "options": [
+            "10.8 NM",
+            "6.6 NM",
+            "7.2 NM",
+            "8.8 NM"
+        ],
+        "true": "7.2 NM",
+        "annex": null
+    },
+    {
+        "question": "The outer marker of an ILS with a 3° glide slope is located 4.6 NM from the threshold. Assuming a glide slope height of 50 ft above the threshold, the approximate height of an aircraft passing the outer marker is…",
+        "options": [
+            "1380 ft.",
+            "1300 ft.",
+            "1450 ft.",
+            "1330 ft."
+        ],
+        "true": "1450 ft.",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is departing from an airport which has an elevation of 2000 ft and the QNH is 1003 hPa. The TAS is 100 kt, the head wind component is 20 kt and the rate of climb is 1000 ft/min. Top of climb is FL\n100. At what distance from the airport will this be achieved?",
+        "options": [
+            "13.3 NM",
+            "10.3 NM",
+            "15.4 NM",
+            "11.1 NM"
+        ],
+        "true": "10.3 NM",
+        "annex": null
+    },
+    {
+        "question": "You are departing from an airport which has an elevation of 1500 ft. The QNH is 1003 hPa.15 NM away there is a waypoint you are required to pass at an altitude of 7500 ft. Given a groundspeed of 120 kt, what is the minimum rate of climb?",
+        "options": [
+            "730 ft/min",
+            "800 ft/min",
+            "530 ft/min",
+            "870 ft/min"
+        ],
+        "true": "800 ft/min",
+        "annex": null
+    },
+    {
+        "question": "Given: A descending aircraft flies in a straight line to a DME. DME 55.0 NM, altitude 33000 ft DME 43.9 NM, altitude 30500 ft  M = 0.72, GS = 525 kt, OAT = ISA The descent gradient is:",
+        "options": [
+            "4.1%",
+            "3.5 %",
+            "3.9 %",
+            "3.7 %"
+        ],
+        "true": "3.7 %",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at FL310, M0.83, temperature -30° C, is required to reduce speed in order to cross a reporting point five minutes later than planned. Assuming that a zero wind component remains unchanged, when 360 NM from the reporting point Mach Number should be reduced to:",
+        "options": [
+            "M0.78",
+            "M0.80",
+            "M0.76",
+            "M0.74"
+        ],
+        "true": "M0.74",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at FL120, IAS 200 kt, OAT -5° and wind component +30 kt, is required to reduce speed in order to cross a reporting point 5 MIN later than planned. Assuming flight conditions do not change, when 100 NM from the reporting point IAS should be reduced to…",
+        "options": [
+            "159 kt",
+            "169 kt",
+            "174 kt.",
+            "165 kt"
+        ],
+        "true": "159 kt",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at FL370, M0.86, OAT -44° C, headwind component 110 kt, is required to reduce speed in order to cross a reporting point 5 MIN later than planned. If the speed reduction were to be made 420 NM from the reporting point, what Mach Number is required?",
+        "options": [
+            "M0.73",
+            "M0.79",
+            "M0.75",
+            "M0.81"
+        ],
+        "true": "M0.81",
+        "annex": null
+    },
+    {
+        "question": "An aircraft has the following in-Flight conditions : Altitude: FL140 IAS: 210 kt OAT: -5° C : Headwind 35 kts When 150 NM from the reporting point, what IAS reduction is required to arrive 5 minutes later than planned?",
+        "options": [
+            "25 kt",
+            "20 kt",
+            "15 kt",
+            "30 kt"
+        ],
+        "true": "20 kt",
+        "annex": null
+    },
+    {
+        "question": "An aircraft has a TAS of 491 kt and a GS of 441 kt. The aircraft is estimated to cross a meridian at 21:00 UTC. At 20:10 UTC, ATC requests a speed reduction to cross the meridian at 21:05 UTC. What is the approximate reduction in TAS required?",
+        "options": [
+            "75 kt",
+            "40 kt",
+            "60",
+            "90 kt"
+        ],
+        "true": "40 kt",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what groundspeed must be maintained from the fix in order to achieve planned ETA at ‘B’? Distance ‘A’ to ‘B’: 325 NM Planned groundspeed: 315 kt ATD: 11:30 UTC 12:05 UTC: fix obtained 165 NM along track",
+        "options": [
+            "395 kt",
+            "355 kt",
+            "375 kt",
+            "335 kt"
+        ],
+        "true": "355 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: Distance 'A' to 'B' is 475 NM,  Planned GS 315 kt,  ATD 1000 UTC,  1040 UTC - fix obtained 190 NM along track.  What GS must be maintained from the fix in order to achieve planned ETA at 'B'?",
+        "options": [
+            "300 kt",
+            "340 kt",
+            "360 kt.",
+            "320 kt."
+        ],
+        "true": "340 kt",
+        "annex": null
+    },
+    {
+        "question": "(Refer to ).Given the following information, calculate the average GS of the aircraft between : UTC and : UTC: An aircraft is flying from Inverness VOR/DME (°.’N, 4°.’W) to Aberdeen VOR/DME (°.’N, 2°1.’W). At  UTC the fix of the aircraft is determined by VORDME Inverness: radial = ; DME-distance =\n2. NM.   At  UTC the fix of the aircraft is determined by VOR/DME Aberdeen: Radial = ; DME-distance = . NM.",
+        "options": [
+            "485 kt",
+            "180 kt",
+            "280 kt",
+            "385 kt."
+        ],
+        "true": "280 kt",
+        "annex": [
+            "10",
+            "00",
+            "06",
+            "57",
+            "32",
+            "6",
+            "004",
+            "02",
+            "5",
+            "18",
+            "002",
+            "16",
+            "0",
+            "1000",
+            "114",
+            "20",
+            "1006",
+            "294",
+            "061-600087"
+        ]
+    },
+    {
+        "question": "Given: Half way between two reporting points the navigation log gives the following information: TAS: 360 kt W/V: 330°(T)/80 kt Compass heading: 237° Deviation on this heading: -5° Variation: 19°W What is the average ground speed for this leg?",
+        "options": [
+            "360 kt",
+            "373 kt",
+            "354 kt",
+            "403 kt"
+        ],
+        "true": "403 kt",
+        "annex": null
+    },
+    {
+        "question": "An aircraft obtains a relative bearing of 315° from an NDB at 08:30 UTC. At 08:40 UTC the relative bearing from the same NDB is 270°.Assuming no drift and a GS of 240 kt, what is the approximate range from the NDB at 08:40 UTC?",
+        "options": [
+            "30 NM",
+            "40 NM",
+            "60 NM",
+            "50 NM"
+        ],
+        "true": "40 NM",
+        "annex": null
+    },
+    {
+        "question": "Given:  Distance A to B = 120 NM.  After 30 NM aircraft is 3 NM to the left of course.  What heading alteration should be made in order to arrive at point 'B'?",
+        "options": [
+            "6° right",
+            "8° left",
+            "8° right",
+            "4° right"
+        ],
+        "true": "8° right",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is flying from A to B a distance of 50 NM. The True Course  in the flight log is 270º, the  forecast wind is 045º(T)/15kt and the TAS is 120kt.  After 15 minutes of flying with the planned TAS and TH the aircraft is 3 NM South of the intended track and 2.5 NM ahead of the dead reckoning position. ; To reach destination B from this position, the correction angle on the heading should be:",
+        "options": [
+            "14º",
+            "5º",
+            "17º",
+            "12º"
+        ],
+        "true": "17º",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is flying from A to B a distance of 50 NM. The True Course in the flight log is 090º, the  forecast wind is 225º(T)/15kt and the TAS is 120 kt. After 15 minutes of flying with the planned TAS and TH the aircraft is 3 NM South of the intended track and 2.5 NM ahead of the dead reckoning position.  To reach destination B from this position, the correction angle on the heading should be:",
+        "options": [
+            "17º",
+            "10º",
+            "12º",
+            "5º"
+        ],
+        "true": "17º",
+        "annex": null
+    },
+    {
+        "question": "The distance between A and B is 90 NM. At a distance of 15 NM from A the aircraft is 4 NM right of course. To reach destination B, the correction angle on the heading should be:",
+        "options": [
+            "3º",
+            "19º",
+            "21º",
+            "16º"
+        ],
+        "true": "19º",
+        "annex": null
+    },
+    {
+        "question": "(Refer to ) After  minutes of flying with the planned TAS and TH the aircraft is  NM South of the intended track and . NM ahead of the dead reckoning position.  To reach destination B from this position, the TH should be:",
+        "options": [
+            "280º",
+            "258º",
+            "287º",
+            "292º"
+        ],
+        "true": "292º",
+        "annex": [
+            "061-600385",
+            "15",
+            "3",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "question": "(Refer to ) An aircraft is flying according the flight log at the After  minutes of flying with the planned TAS and TH the aircraft is  NM North of the intended track and . NM ahead of the dead reckoning position. To reach destination B from this position the TH should be:",
+        "options": [
+            "253º",
+            "258º",
+            "292º",
+            "270º"
+        ],
+        "true": "258º",
+        "annex": [
+            "061-600385",
+            "15",
+            "3",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "question": "The distance between A and B is 90 NM. At a distance of 75 NM from A the aircraft is 4 NM right of course. The track angle error (TKE) is:",
+        "options": [
+            "19ºR",
+            "22ºR",
+            "6ºR",
+            "3ºR"
+        ],
+        "true": "3ºR",
+        "annex": null
+    },
+    {
+        "question": "The True  course in the flight log is 270º, the  forecast wind is 045º(T)/15kt and the TAS is 120kt.  After 15 minutes of flying with the planned TAS and TH the aircraft is 3 NM South of the intended track and 2.5 NM ahead of the dead reckoning position. The track angle error (TKE) is:",
+        "options": [
+            "5ºL",
+            "6ºR",
+            "2ºL",
+            "3ºR"
+        ],
+        "true": "5ºL",
+        "annex": null
+    },
+    {
+        "question": "Given: Distance 'A' to 'B' is 90 NM, Fix obtained 60 NM along and 4 NM to the right of course. What heading alteration must be made to reach 'B'?",
+        "options": [
+            "4° Left",
+            "16° Left",
+            "12° Left",
+            "8° Left"
+        ],
+        "true": "12° Left",
+        "annex": null
+    },
+    {
+        "question": "(Refer to ) After  minutes of flying with the planned TAS and TH the aircraft is  NM South of the intended track and . NM ahead of the dead reckoning position. To reach destination B from this position, the TH should be:",
+        "options": [
+            "090º",
+            "112º",
+            "100º",
+            "078º"
+        ],
+        "true": "078º",
+        "annex": [
+            "061-600386",
+            "15",
+            "3",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "question": "Given: Distance 'A' to 'B' is 100 NM, Fix obtained 40 NM along and 6 NM to the left of course. What heading alteration must be made to reach 'B'?",
+        "options": [
+            "18° Right",
+            "9° Right",
+            "15° Right",
+            "6° Right"
+        ],
+        "true": "15° Right",
+        "annex": null
+    },
+    {
+        "question": "An aircraft flies from waypoint 7 (63°00' N, 073°00'W) to waypoint 8 (62°00' N, 073°00' W).  The aircraft  position is (62°00' N, 073°10'W).  The cross track distance in relation to the planned track is:",
+        "options": [
+            "4,7 NM L",
+            "8,8 NM L",
+            "4,7 NM R",
+            "8,8 NM R"
+        ],
+        "true": "4,7 NM R",
+        "annex": null
+    },
+    {
+        "question": "The distance between positions A and B is 180 NM. An aircraft departs position A and after having travelled 60 NM, its position is pinpointed 4 NM left of the intended track. Assuming no change in wind velocity, what alteration of heading must be made in order to arrive at position B?",
+        "options": [
+            "2° Left",
+            "8° Right",
+            "6° Right",
+            "4° Right"
+        ],
+        "true": "6° Right",
+        "annex": null
+    },
+    {
+        "question": "The distance between two waypoints is 200 NM. To calculate compass heading, the pilot used 2°E Magnetic Variation instead of 2°W. Assuming that the forecast W/V applied, what will the off track distance be at the second waypoint?",
+        "options": [
+            "0 NM",
+            "14 NM",
+            "21 NM",
+            "7 NM"
+        ],
+        "true": "14 NM",
+        "annex": null
+    },
+    {
+        "question": "(Refer to ) An aircraft is flying according the flight log at the After  minutes of flying with the planned TAS and TH the aircraft is  NM North of the intended track and . NM ahead of the dead reckoning position. To reach destination B from this position the TH should be:",
+        "options": [
+            "090º",
+            "078º",
+            "112º",
+            "107º"
+        ],
+        "true": "112º",
+        "annex": [
+            "061-600386",
+            "15",
+            "3",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "question": "At 10:15 the reading from a VOR/DME station is 211°/ 90 NM, at 10:20 the reading from the same VOR/DME station is 211°/120 NM. Compass Heading = 200° Variation in the area = 31°W Deviation = +1° TAS = 390 kt The wind vector (T) is approximately:",
+        "options": [
+            "120º/50 kt",
+            "110º/70 kt",
+            "110º/40 kt",
+            "100º/60 kt"
+        ],
+        "true": "110º/70 kt",
+        "annex": null
+    },
+    {
+        "question": "On a True Heading of 090° the aircraft experiences drift of 5°S. On a True Heading of 180° the aircraft experiences no drift. On both headings the TAS is 200 kt and it is assumed that the wind is the same.  What is the experienced wind speed and direction?",
+        "options": [
+            "360° / 34 kt",
+            "180° / 17 kt",
+            "180° / 34 kt",
+            "355° / 17 kt"
+        ],
+        "true": "355° / 17 kt",
+        "annex": null
+    },
+    {
+        "question": "An aircraft tracks radial 200 inbound to a VOR station with a Magnetic Heading (MH) of 010°. After being overhead the VOR station the aircraft tracks radial 090 outbound with a MH of 080°. The TAS is 240 kt and the magnetic variation in the area is 5°W. What is the wind vector (T)?",
+        "options": [
+            "330º/50 kt",
+            "310º/60 kt",
+            "300º/50 kt",
+            "320º/50 kt"
+        ],
+        "true": "320º/50 kt",
+        "annex": null
+    },
+    {
+        "question": "(Refer to )   Given: TAS is120 kt. ATA 'X'  UTC, ETA 'Y'  UTC, ATA 'Y' is  UTC.  What is ETA 'Z'?",
+        "options": [
+            "1302 UTC",
+            "1257 UTC",
+            "1303 UTC",
+            "1300 UTC"
+        ],
+        "true": "1302 UTC",
+        "annex": [
+            "1232",
+            "1247",
+            "1250",
+            "061-11993"
+        ]
+    },
+    {
+        "question": "An aircraft follows a radial to a VOR/DME station. At 10:00 the DME reads 120 NM. At 10:03 the DME reads 105 NM. The estimated time overhead the VOR/DME station is",
+        "options": [
+            "10:27",
+            "10:24",
+            "10:18",
+            "10:21"
+        ],
+        "true": "10:24",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is planned to fly from position ‘A’ to position ‘B’, distance 320 NM, at an average GS of 180 kt. It departs ‘A’ at 1200 UTC. After flying 70 NM along track from ‘A’, the aircraft is 3 MIN ahead of planned time. Using the actual GS experienced, what is the revised ETA at ‘B’?",
+        "options": [
+            "1401 UTC",
+            "1347 UTC",
+            "1333 UTC",
+            "1340 UTC"
+        ],
+        "true": "1333 UTC",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is planned to fly from position ‘A’ to position ‘B’, distance 250 NM at an average GS of 115 kt. It departs ‘A’ at 0900 UTC. After flying 75 NM along track from ‘A’, the aircraft is 1.5 MIN behind planned time. Using the actual GS experienced, what is the revised ETA at ‘B’?",
+        "options": [
+            "1050 UTC",
+            "1044 UTC",
+            "1115 UTC",
+            "1110 UTC"
+        ],
+        "true": "1115 UTC",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is planned to fly from position ‘A’ to position ‘B’, distance 480 NM at an average GS of 240 kt. It departs ‘A’ at 1000 UTC. After flying 150 NM along track from ‘A’, the aircraft is 2 MIN behind planned time. Using the actual GS experienced, what is the revised ETA at ‘B’?",
+        "options": [
+            "1153",
+            "1203",
+            "1157",
+            "1206"
+        ],
+        "true": "1206",
+        "annex": null
+    },
+    {
+        "question": "(For this question refer to ).Two consecutive waypoints on a flight plan are Stornoway VOR/DME (°.’N, °.’W) and Glasgow VOR/DME (°.’N, °6.’W).During the flight, the actual time overhead Stornoway is : UTC and the estimated time overhead Glasgow is : UTC. At :1 UTC the fix of the aircraft is exactly overhead reporting point RONAR. Based on the last fix, what is the ETA overhead Glasgow?",
+        "options": [
+            "11:33 UTC",
+            "11:38 UTC",
+            "11:34 UTC",
+            "11:36 UTC"
+        ],
+        "true": "11:36 UTC",
+        "annex": [
+            "58",
+            "12",
+            "4",
+            "006",
+            "11",
+            "0",
+            "55",
+            "52",
+            "2",
+            "004",
+            "26",
+            "7",
+            "15",
+            "38",
+            "21",
+            "061-600088"
+        ]
+    },
+    {
+        "question": "(Refer to ) Complete line  of the 'FLIGHT NAVIGATION LOG'; positions 'A' to 'B'. What is the HDG°(M) and ETA?",
+        "options": [
+            "268°  -  1114 UTC",
+            "282°  -  1128 UTC",
+            "282°  -  1114 UTC",
+            "268°  -  1128 UTC"
+        ],
+        "true": "268°  -  1114 UTC",
+        "annex": [
+            "1",
+            "061-9437"
+        ]
+    },
+    {
+        "question": "(Refer to ) Complete line  of the 'FLIGHT NAVIGATION LOG', positions 'E' to 'F'. What is the HDG°(M) and ETA?",
+        "options": [
+            "HDG 115°  -  ETA 1145 UTC",
+            "HDG 095°  -  ETA 1155 UTC",
+            "HDG 105°  -  ETA 1205 UTC",
+            "HDG 106°  -  ETA 1215 UTC"
+        ],
+        "true": "HDG 105°  -  ETA 1205 UTC",
+        "annex": [
+            "3",
+            "061-9437"
+        ]
+    },
+    {
+        "question": "(Refer to ) Complete line  of the 'FLIGHT NAVIGATION LOG', positions 'G' to 'H'. What is the HDG°(M) and ETA?",
+        "options": [
+            "HDG 354°  -  ETA 1326 UTC",
+            "HDG 344°  -  ETA 1336 UTC",
+            "HDG 034°  -  ETA 1336 UTC",
+            "HDG 344°  -  ETA 1303 UTC"
+        ],
+        "true": "HDG 344°  -  ETA 1336 UTC",
+        "annex": [
+            "4",
+            "061-9437"
+        ]
+    },
+    {
+        "question": "(Refer to ) Complete line  of the 'FLIGHT NAVIGATION LOG', positions 'J' to 'K'. What is the HDG°(M) and ETA?",
+        "options": [
+            "HDG 320° -  ETA 1412 UTC",
+            "HDG 337°  -  ETA 1422 UTC",
+            "HDG 320°  -  ETA 1432 UTC",
+            "HDG 337°  -  ETA 1322 UTC"
+        ],
+        "true": "HDG 337°  -  ETA 1422 UTC",
+        "annex": [
+            "5",
+            "061-9437"
+        ]
+    },
+    {
+        "question": "(Refer to ) Complete line  of the 'FLIGHT NAVIGATION LOG', positions 'L' to 'M'. What is the HDG°(M) and ETA?",
+        "options": [
+            "HDG 075°  -  ETA 1502 UTC",
+            "HDG 070°  -  ETA 1459 UTC",
+            "HDG 064°  -  ETA 1449 UTC",
+            "HDG 075°  -  ETA 1452 UTC"
+        ],
+        "true": "HDG 075°  -  ETA 1502 UTC",
+        "annex": [
+            "6",
+            "061-9437"
+        ]
+    },
+    {
+        "question": "The flight log gives the following data: True track, Drift, True heading, Magnetic variation, Magnetic heading, Compass deviation, Compass heading Which option lists the correct numbers in the same order as in the flight log?",
+        "options": [
+            "125°, 2°R, 123°, 2°W, 121°, -4°, 117°",
+            "115°, 5°R, 120°, 3°W, 123°, +2°, 121°",
+            "117°, 4°L, 121°, 1°E, 122°, -3°, 119°",
+            "119°, 3°L, 122°, 2°E, 120°, +4°, 116°"
+        ],
+        "true": "119°, 3°L, 122°, 2°E, 120°, +4°, 116°",
+        "annex": null
+    },
+    {
+        "question": "(Refer to ) Complete line  of the 'FLIGHT NAVIGATION LOG', positions 'C' to 'D'. What is the HDG°(M) and ETA?",
+        "options": [
+            "HDG 183°  -  ETA 1159 UTC",
+            "HDG 193°  -  ETA 1239 UTC",
+            "HDG 188°  -  ETA 1229 UTC",
+            "HDG 193°  -  ETA 1249 UTC"
+        ],
+        "true": "HDG 193°  -  ETA 1239 UTC",
+        "annex": [
+            "2",
+            "061-9437"
+        ]
+    },
+    {
+        "question": "Your on an airfield elevation 2000ft, QNH\n1003. You want to climb to FL50, your rate of climb is 1000ft/min, your TAS is 100 and you have a headwind of\n20. What is the distance it takes to get to FL50?",
+        "options": [
+            "3.6 NM",
+            "4.8 NM",
+            "4.4 NM",
+            "4.0 NM"
+        ],
+        "true": "3.6 NM",
+        "annex": null
+    },
+    {
+        "question": "An aircraft must fly 2000 ft above an obstacle of which the elevation is 13 600 ft. The QNH at the nearest airfield is 991 hPa, the elevation is 1500 ft and the temperature is - 20°C. Calculate the minimum indicated altitude required.",
+        "options": [
+            "15 600 ft",
+            "19 400 ft",
+            "14 080 ft",
+            "17 400 ft"
+        ],
+        "true": "17 400 ft",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is flying from A to B. The True Course according to the flight log is 090º, the estimated wind is 225º(T)/15kt and the TAS is 120 kt. After 15 minutes of flying with the planned TAS and TH the aircraft is 3 NM South of the intended track and 2.5 NM ahead of the dead reckoning position. The Track angle error (TKE) is:",
+        "options": [
+            "5ºR",
+            "17ºL",
+            "6ºL",
+            "12ºR"
+        ],
+        "true": "5ºR",
+        "annex": null
+    },
+    {
+        "question": "(Refer to ) Magnetic Heading of an aircraft is  degrees. On the airborne weather radar (AWR) display the relative bearing of the distance to the must southerly part of Lands End, (approximate position:   N   W) are 0 degrees R and  NM. What is the position of the aircraft based on these observations? The slant range correction and the map convergency between aircraft position and Lands End may be neglected.",
+        "options": [
+            "(49 25 N 007 30 W)",
+            "(49 35 N 007 35 W)",
+            "(48 50 N 006 22 W)",
+            "(49 45 N 007 42 W)"
+        ],
+        "true": "(49 25 N 007 30 W)",
+        "annex": [
+            "040",
+            "50",
+            "03",
+            "005",
+            "40",
+            "030",
+            "80",
+            "061-600097"
+        ]
+    },
+    {
+        "question": "(Refer to )  UTC DR position °'N °'W alter heading PORT SANTO NDB (°'N °'W) TAS  kt, Forecast W/V °/kt. Calculate the ETA at PORT SANTO NDB?",
+        "options": [
+            "1354",
+            "1341",
+            "1344",
+            "1348"
+        ],
+        "true": "1348",
+        "annex": [
+            "1300",
+            "37",
+            "30",
+            "021",
+            "33",
+            "03",
+            "016",
+            "23",
+            "450",
+            "360",
+            "30kt",
+            "061-1828"
+        ]
+    },
+    {
+        "question": "An aircraft is flying with the aid of an inertial navigation system (INS) connected to the autopilot. The following two points have been entered in the INS computer: WPT 1: 60°N 030°W, WPT 2: 60°N 020°W. When 025°W is passed the latitude shown on the display unit of the inertial navigation system will be:",
+        "options": [
+            "60°00.0'N",
+            "60°05.7'N",
+            "60°11.0'N",
+            "59°49.0'N"
+        ],
+        "true": "60°05.7'N",
+        "annex": null
+    },
+    {
+        "question": "During visual navigation in freezing conditions, after heavy snowfall, which of the following landmark will give the best reference for a visual checkpoint:",
+        "options": [
+            "A country road",
+            "An electrical line",
+            "A large river",
+            "A railway"
+        ],
+        "true": "An electrical line",
+        "annex": null
+    },
+    {
+        "question": "A visual check point",
+        "options": [
+            "is a reference point which may not be used when proceeding on an instrument flight plan.",
+            "is a distinct point which is easily visually identifiable on the terrain as well as on the chart.",
+            "is a land mark or feature visible to both, the radar and the naked eye.",
+            "is a point used to establish the horizontal visibility or the runway visual range."
+        ],
+        "true": "is a distinct point which is easily visually identifiable on the terrain as well as on the chart.",
+        "annex": null
+    },
+    {
+        "question": "At 1000 your position is on the 310 radial at 40 nm from a VOR. At 1015 your position from the same VOR is on the 040 radial, also at 40nm. What has been your magnetic track and groundspeed.",
+        "options": [
+            "085o(M) 226Kts",
+            "080o(M) 230 Kts",
+            "075o(M) 230 Kts",
+            "080o(M) 228 Kts"
+        ],
+        "true": "085o(M) 226Kts",
+        "annex": null
+    },
+    {
+        "question": "An aircraft crosses the 310 radial from a VOR at a range of 40NM.  15 minutes later it crosses the 040 radial from the same VOR, also at 40NM. What has been its magnetic track and groundspeed?",
+        "options": [
+            "085o M / 228 KTS",
+            "080o M / 235 KTS",
+            "070o M / 240 KTS",
+            "095o M/ 220 KTS"
+        ],
+        "true": "085o M / 228 KTS",
+        "annex": null
+    },
+    {
+        "question": "For climb performance calculations, which altitude is used as a reference to calculate the average TAS through the climb? The altitude that is…",
+        "options": [
+            "the final cruising altitude.",
+            "one third of the climb between take-off and cruise altitudes.",
+            "two thirds of the climb between take-off and cruise altitudes.",
+            "half of the climb between take-off and cruise altitudes."
+        ],
+        "true": "two thirds of the climb between take-off and cruise altitudes.",
+        "annex": null
+    },
+    {
+        "question": "When flying a visual navigation exercise in controlled airspace, it is confirmed the aircraft is exactly on track. ATC instructions are to turn left 30 degrees to avoid conflicting traffic.After two minutes they advise, 'You are now two miles left of your original track, turn right to regain track in 30 miles.' What is the heading change required to comply with the ATC instructions?",
+        "options": [
+            "034°",
+            "044°",
+            "037°",
+            "030°"
+        ],
+        "true": "034°",
+        "annex": null
+    },
+    {
+        "question": "Which formula about gradient (in %) is correct? Gradient in % =?",
+        "options": [
+            "Arctg (altitude difference / ground distance",
+            "(rate of climb or descent) x ground speed",
+            "ground difference / (altitude difference x 100)",
+            "(altitude difference x 100) / ground distance"
+        ],
+        "true": "(altitude difference x 100) / ground distance",
+        "annex": null
+    }
+]

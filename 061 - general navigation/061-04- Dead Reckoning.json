@@ -1,0 +1,1751 @@
+[
+    {
+        "question": "The accuracy of the manually calculated DR-position of an aircraft is, among other things, affected by",
+        "options": [
+            "The accuracy of the adjustment of the position lines for the motion of the aircraft between the last fix and the DR-position.",
+            "The accuracy of the adjustment of the position lines for the motion of the aircraft between the last and the new DR-position.",
+            "The flight time since the last position update.",
+            "The accuracy of the actual wind."
+        ],
+        "true": "The flight time since the last position update.",
+        "annex": null
+    },
+    {
+        "question": "Given: AD = Air distance, GD = Ground distance, TAS = True Airspeed; GS = Ground Speed. Which of the following is the correct formula to calculate ground distance (GD) gone?",
+        "options": [
+            "GD = AD X (GS -TAS)/GS",
+            "GD = TAS/(GS X AD)",
+            "GD = (AD X GS)/TAS",
+            "GD = (AD - TAS)/TAS"
+        ],
+        "true": "GD = (AD X GS)/TAS",
+        "annex": null
+    },
+    {
+        "question": "What may cause a difference between a DR position and a Fix?",
+        "options": [
+            "The difference between no-wind and the actual wind.",
+            "The difference between the actual wind and the forecasted wind.",
+            "The difference between no-wind and the forecasted wind.",
+            "The difference between the magnetic and the true wind direction."
+        ],
+        "true": "The difference between the actual wind and the forecasted wind.",
+        "annex": null
+    },
+    {
+        "question": "The accuracy of the, manually calculated, DR-position of an aircraft is, among other things, affected by",
+        "options": [
+            "The accuracy of the adjustment of the position lines for the motion of the aircraft between the last fix and the DR-position.",
+            "The accuracy of the adjustment of the position lines for the motion of the aircraft between the last and the new DR-position.",
+            "The accuracy of the forecasted wind.",
+            "The accuracy of the actual wind."
+        ],
+        "true": "The accuracy of the forecasted wind.",
+        "annex": null
+    },
+    {
+        "question": "Consider the following factors that determine the accuracy of a DR position:\n\n1.  The flight time since the last position update.\n2.  The accuracy of the forecasted wind.\n3.  The accuracy of the TAS.\n4.  The accuracy of the steered heading. Using the list above which of the following contains the most complete answer?",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2",
+            "1, 2, 3 and 4",
+            "1, 2 and 4"
+        ],
+        "true": "1, 2, 3 and 4",
+        "annex": null
+    },
+    {
+        "question": "Given: True Track 180°, Drift 8°R, Compass heading 195°, Deviation -2°, Calculate the variation?",
+        "options": [
+            "25°W",
+            "9°W",
+            "5°W",
+            "21°W"
+        ],
+        "true": "21°W",
+        "annex": null
+    },
+    {
+        "question": "Given: True Course 300°, drift 8°R, variation 10°W, deviation -4° . Calculate the compass heading?",
+        "options": [
+            "294°",
+            "278°",
+            "306°",
+            "322°"
+        ],
+        "true": "306°",
+        "annex": null
+    },
+    {
+        "question": "Given:   True Course from A to B = 090°,  TAS = 460 kt,  W/V = 360/100 kt,  Average variation = 10°E, Deviation = -2°.  Calculate the compass heading and GS.",
+        "options": [
+            "102° - 450 kt",
+            "068° - 460 kt",
+            "070° - 450 kt",
+            "078° - 450 kt"
+        ],
+        "true": "070° - 450 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: True Track 245° Drift 5° right Variation 3° E Compass Hdg 242° Calculate the Magnetic Heading.",
+        "options": [
+            "253°",
+            "247°",
+            "243°",
+            "237°"
+        ],
+        "true": "237°",
+        "annex": null
+    },
+    {
+        "question": "Given: True Track 245° Drift 5° right Variation 3° E Compass Hdg 242° Calculate the deviation.",
+        "options": [
+            "5° W",
+            "5° E",
+            "1° E",
+            "11° E"
+        ],
+        "true": "5° W",
+        "annex": null
+    },
+    {
+        "question": "Given: True Track 070°, Variation 30°W, Deviation +1°, Drift 10°R,  Calculate the compass heading?",
+        "options": [
+            "089°",
+            "091°",
+            "101°",
+            "100°"
+        ],
+        "true": "089°",
+        "annex": null
+    },
+    {
+        "question": "Given: True Track 352°, variation 11° W, Deviation is -5°, Drift 10°R.  Calculate the compass heading?",
+        "options": [
+            "358°",
+            "346°",
+            "025°",
+            "018°"
+        ],
+        "true": "358°",
+        "annex": null
+    },
+    {
+        "question": "Calculate the true track if: Magnetic heading: 060°Magnetic variation: 8°W Drift angle: 4° right",
+        "options": [
+            "064°",
+            "072°",
+            "056°",
+            "048°"
+        ],
+        "true": "056°",
+        "annex": null
+    },
+    {
+        "question": "Calculate the magnetic heading required to maintain the given track if: True track: 192° Magnetic variation: 7°E Drift angle: 5° left.",
+        "options": [
+            "194°",
+            "204°",
+            "190°",
+            "180°"
+        ],
+        "true": "190°",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what is the heading (°M) and GS? Required course: 045°(M) Variation: 15°E W/V: 190°(T)/30 kt CAS: 120 kt at FL 55 in standard atmosphere",
+        "options": [
+            "052°(M) and 154 kt",
+            "056°(M) and 137 kt",
+            "055°(M) and 147 kt",
+            "036°(M) and 151 kt"
+        ],
+        "true": "055°(M) and 147 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: GS = 105 kt. Distance from A to B = 103 NM. What is the time from A to B?",
+        "options": [
+            "00 HR 59 MIN",
+            "00 HR 58 MIN",
+            "01 HR 01 MIN",
+            "00 HR 57 MIN"
+        ],
+        "true": "00 HR 59 MIN",
+        "annex": null
+    },
+    {
+        "question": "Given: GS = 120 kt. Distance from A to B = 84 NM. What is the time from A to B?",
+        "options": [
+            "00 HR 43 MIN",
+            "00 HR 44 MIN",
+            "00 HR 42 MIN",
+            "00 HR 45 MIN"
+        ],
+        "true": "00 HR 42 MIN",
+        "annex": null
+    },
+    {
+        "question": "Given: GS = 135 kt. Distance from A to B = 433 NM. What is the time from A to B?",
+        "options": [
+            "3 HR 20 MIN",
+            "3 HR 25 MIN",
+            "3 HR 19 MIN",
+            "3 HR 12 MIN"
+        ],
+        "true": "3 HR 12 MIN",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, calculate the time from A to B: GS: 480 kt Distance from A to B: 5360 NM",
+        "options": [
+            "11 hours 15 minutes",
+            "11 hours 10 minutes",
+            "11 hours 07 minutes",
+            "11 hours 06 minutes"
+        ],
+        "true": "11 hours 10 minutes",
+        "annex": null
+    },
+    {
+        "question": "Given: GS = 510 kt. Distance A to B = 43 NM. What is the time (MIN) from A to B?",
+        "options": [
+            "7",
+            "4",
+            "5",
+            "6"
+        ],
+        "true": "5",
+        "annex": null
+    },
+    {
+        "question": "Given: GS = 95 kt. Distance from A to B = 480 NM. What is the time from A to B?",
+        "options": [
+            "5 HR 08 MIN",
+            "5 HR 00 MIN",
+            "4 HR 59 MIN",
+            "5 HR 03 MIN"
+        ],
+        "true": "5 HR 03 MIN",
+        "annex": null
+    },
+    {
+        "question": "Given: GS = 122 kt. Distance from A to B = 985 NM. What is the time from A to B?",
+        "options": [
+            "8 HR 04 MIN",
+            "7 HR 49 MIN",
+            "7 HR 48 MIN",
+            "8 HR 10 MIN"
+        ],
+        "true": "8 HR 04 MIN",
+        "annex": null
+    },
+    {
+        "question": "Given: True Course A to B = 250°, Distance A to B = 315 NM, TAS = 450 kt. W/V = 200°/60kt.; ETD A = 0650 UTC. What is the ETA at B?",
+        "options": [
+            "0810 UTC",
+            "0730 UTC",
+            "0716 UTC",
+            "0736 UTC"
+        ],
+        "true": "0736 UTC",
+        "annex": null
+    },
+    {
+        "question": "Given: GS = 236 kt. Distance from A to B = 354 NM. What is the time from A to B?",
+        "options": [
+            "1 HR 40 MIN",
+            "1 HR 09 MIN",
+            "1 HR 30 MIN",
+            "1 HR 10 MIN"
+        ],
+        "true": "1 HR 30 MIN",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, calculate the time from A to B: GS: 345 kt Distance from A to B: 3560 NM",
+        "options": [
+            "11 hours 00 minutes",
+            "11 hours 02 minutes",
+            "10 hours 05 minutes",
+            "10 hours 19 minutes"
+        ],
+        "true": "10 hours 19 minutes",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, calculate the time from A to B: GS: 435 kt Distance from A to B: 1920 NM",
+        "options": [
+            "3 hours 25 minutes",
+            "4 hours 10 minutes",
+            "4 hours 25 minutes",
+            "3 hours 26 minutes"
+        ],
+        "true": "4 hours 25 minutes",
+        "annex": null
+    },
+    {
+        "question": "Given: Course: 040°(T) TAS: 120 kt Wind speed: 30 kt. Maximum drift angle will be obtained for a wind direction of…",
+        "options": [
+            "120°",
+            "130°",
+            "145°",
+            "115°"
+        ],
+        "true": "130°",
+        "annex": null
+    },
+    {
+        "question": "Calibrated Airspeed (CAS) is Indicated Airspeed (IAS) corrected for:",
+        "options": [
+            "Density",
+            "Temperature and Pressure Error",
+            "Instrument Error and Position Error",
+            "Compression Error"
+        ],
+        "true": "Instrument Error and Position Error",
+        "annex": null
+    },
+    {
+        "question": "How long will it take to fly 5 NM at a Ground Speed of 269 Kt ?",
+        "options": [
+            "2 MIN 30 SEC",
+            "0 MIN 34 SEC",
+            "1 MIN 07 SEC",
+            "1 MIN 55 SEC"
+        ],
+        "true": "1 MIN 07 SEC",
+        "annex": null
+    },
+    {
+        "question": "An aircraft travels 100 statute miles in 20 MIN, how long does it take to travel 215 NM?",
+        "options": [
+            "90 MIN",
+            "80 MIN",
+            "100 MIN",
+            "50 MIN"
+        ],
+        "true": "50 MIN",
+        "annex": null
+    },
+    {
+        "question": "How many NM would an aircraft travel in 1 MIN 45 SEC if GS is 135 kt?",
+        "options": [
+            "39.0",
+            "3.94",
+            "3.25",
+            "2.36"
+        ],
+        "true": "3.94",
+        "annex": null
+    },
+    {
+        "question": "Fuel flow per HR is 22 US-GAL, total fuel on board is 83 IMP GAL.  What is the endurance?",
+        "options": [
+            "2 HR 15 MIN",
+            "3 HR 53 MIN",
+            "4 HR 32 MIN",
+            "3 HR 12 MIN"
+        ],
+        "true": "4 HR 32 MIN",
+        "annex": null
+    },
+    {
+        "question": "265 US-GAL equals? (Specific gravity 0.80)",
+        "options": [
+            "862 kg",
+            "940 kg",
+            "895 kg",
+            "803 kg"
+        ],
+        "true": "803 kg",
+        "annex": null
+    },
+    {
+        "question": "An aircraft travels 2.4 statute miles in 47 seconds.  What is its Ground Speed?",
+        "options": [
+            "131 kt",
+            "209 kt",
+            "160 kt",
+            "183 kt"
+        ],
+        "true": "160 kt",
+        "annex": null
+    },
+    {
+        "question": "730 FT/MIN equals:",
+        "options": [
+            "1.6 m/sec",
+            "3.7 m/sec",
+            "2.2 m/sec",
+            "5.2 m/sec"
+        ],
+        "true": "3.7 m/sec",
+        "annex": null
+    },
+    {
+        "question": "What is the ratio between the litre and the US-GAL ?",
+        "options": [
+            "1 litre equals 3.78 US-GAL",
+            "1 US-GAL equals 4.55 litres",
+            "1 US-GAL equals 3.78 litres",
+            "1 litre equals 4.55 US-GAL"
+        ],
+        "true": "1 US-GAL equals 3.78 litres",
+        "annex": null
+    },
+    {
+        "question": "The equivalent of 70 m/sec is approximately:",
+        "options": [
+            "35 kt",
+            "136 kt",
+            "145 kt",
+            "210 kt"
+        ],
+        "true": "136 kt",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, calculate the Mach number: TAS: 485 kt OAT: ISA +10°C FL410.",
+        "options": [
+            "0.60",
+            "0.89",
+            "0.85",
+            "0.72"
+        ],
+        "true": "0.85",
+        "annex": null
+    },
+    {
+        "question": "Calculate the TAS and the Local Speed of Sound (LSS) given: FL350 Mach 0.80 OAT -55°C.",
+        "options": [
+            "TAS 490 kt and LSS 461 kt",
+            "TAS 237 kt and LSS 296 kt",
+            "TAS 461 kt and LSS 576 kt",
+            "TAS 461 kt and LSS 296 kt"
+        ],
+        "true": "TAS 461 kt and LSS 576 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: CAS 120 kt, FL 80, OAT +20°C. What is the TAS?",
+        "options": [
+            "141 kt",
+            "132 kt",
+            "102 kt",
+            "120 kt"
+        ],
+        "true": "141 kt",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what is the TAS of the aircraft when flying at FL180? OAT: -30°C CAS: 150 kt",
+        "options": [
+            "195 kt",
+            "145 kt",
+            "180 kt",
+            "115 kt"
+        ],
+        "true": "195 kt",
+        "annex": null
+    },
+    {
+        "question": "Given:  TAS = 465 kt,  HDG (T) = 124°,  W/V = 170/80kt.  Calculate the drift and GS?",
+        "options": [
+            "8L - 415 kt",
+            "6L - 400 kt",
+            "3L - 415 kt",
+            "4L - 400 kt"
+        ],
+        "true": "8L - 415 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 465 kt, Track (T) = 007°, W/V = 300/80kt. Calculate the HDG (°T) and GS?",
+        "options": [
+            "001 - 435 kt",
+            "358 - 428 kt",
+            "357 - 502 kt",
+            "017 - 490 kt"
+        ],
+        "true": "358 - 428 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 480 kt, HDG (°T) = 040°, W/V = 090/60kt. Calculate the Track (°T) and GS?",
+        "options": [
+            "028 - 415 kt",
+            "032 - 425 kt",
+            "036 - 435 kt",
+            "034 - 445 kt"
+        ],
+        "true": "034 - 445 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 485 kt,  HDG (T) = 168°,  W/V = 130/75kt. Calculate the Track (°T) and GS?",
+        "options": [
+            "173 - 424 kt",
+            "174 - 428 kt",
+            "175 - 432 kt",
+            "175 - 420 kt"
+        ],
+        "true": "174 - 428 kt",
+        "annex": null
+    },
+    {
+        "question": "Given:  TAS = 90 kt,  HDG (T) = 355°,  W/V = 120/20kt.  Calculate the Track (°T) and GS?",
+        "options": [
+            "358 - 101 kt",
+            "359 - 102 kt",
+            "006 - 95 kt",
+            "346 - 102 kt"
+        ],
+        "true": "346 - 102 kt",
+        "annex": null
+    },
+    {
+        "question": "Given:  TAS = 95 kt,  HDG (T) = 075°,  W/V = 310/20kt.  Calculate the drift and GS?",
+        "options": [
+            "10L - 104 kt",
+            "9L - 105 kt",
+            "8R - 104 kt",
+            "9R - 108 kt"
+        ],
+        "true": "9R - 108 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: True HDG = 035°, TAS = 245 kt, Track (T) = 046°, GS = 220 kt. Calculate the W/V?",
+        "options": [
+            "340/45kt",
+            "335/55kt",
+            "335/45kt",
+            "340/50kt"
+        ],
+        "true": "340/50kt",
+        "annex": null
+    },
+    {
+        "question": "Given: True HDG = 145°, TAS = 240 kt, Track (T) = 150°, GS = 210 kt. Calculate the W/V?",
+        "options": [
+            "360/35kt",
+            "115/35kt",
+            "180/35kt",
+            "295/35kt"
+        ],
+        "true": "115/35kt",
+        "annex": null
+    },
+    {
+        "question": "Given: True HDG = 206°, TAS = 140 kt, Track (T) = 207°, GS = 135 kt. Calculate the W/V?",
+        "options": [
+            "000/10kt",
+            "180/10kt",
+            "000/05kt",
+            "180/05kt"
+        ],
+        "true": "180/05kt",
+        "annex": null
+    },
+    {
+        "question": "Given: True Track = 095°, TAS = 160 kt, True Heading = 087°, GS = 130 kts; Calculate W/V",
+        "options": [
+            "307°/36 kt",
+            "057°/36 kt",
+            "237°/36 kt",
+            "124°/36 kt"
+        ],
+        "true": "057°/36 kt",
+        "annex": null
+    },
+    {
+        "question": "Given:Hdg 265°, TAS 290 kt, W/V 210°/35 kt. Calculate Track and Ground Speed.",
+        "options": [
+            "259° and 305 kt",
+            "271° and 272 kt",
+            "260° and 315 kt",
+            "259° and 272 kt"
+        ],
+        "true": "271° and 272 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: Given: Runway direction 210°(M), Surface W/V 230°(M)/30kt. Calculate the cross-wind component?",
+        "options": [
+            "19 kt",
+            "28 kt",
+            "10 kt",
+            "16 kt"
+        ],
+        "true": "10 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 125 kt, True HDG = 355°, W/V = 320°(T)/30kt. Calculate the True Track and GS?",
+        "options": [
+            "348 - 102 kt",
+            "345 - 100 kt",
+            "005 - 102 kt",
+            "002 - 98 kt"
+        ],
+        "true": "005 - 102 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 132 kt, True HDG = 257°, W/V = 095°(T)/35kt. Calculate the drift angle and GS?",
+        "options": [
+            "2°R - 166 kt",
+            "4°L - 167 kt",
+            "3°L - 166 kt",
+            "4°R - 165 kt"
+        ],
+        "true": "4°R - 165 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 140 kt, True HDG = 302°, W/V = 045°(T)/45kt. Calculate the drift angle and GS?",
+        "options": [
+            "18°R - 146 kt",
+            "16°L - 156 kt",
+            "9°L - 146 kt",
+            "9°R - 143 kt"
+        ],
+        "true": "16°L - 156 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 190 kt, True HDG = 085°, W/V = 110°(T)/50kt. Calculate the drift angle and GS?",
+        "options": [
+            "4°L - 145 kt",
+            "4°L - 168 kt",
+            "8°L - 146 kt",
+            "7°L - 156 kt"
+        ],
+        "true": "8°L - 146 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 235 kt, HDG (T) = 076°, W/V = 040/40kt. Calculate the drift angle and GS?",
+        "options": [
+            "7L - 269 kt",
+            "5L - 255 kt",
+            "7R - 204 kt",
+            "5R - 207 kt"
+        ],
+        "true": "7R - 204 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 290 kt, True HDG = 171°, W/V = 310°(T)/30kt. Calculate the drift angle and GS?",
+        "options": [
+            "4°L - 314 kt",
+            "4°R - 314 kt",
+            "4°R - 310 kt",
+            "4°L - 310 kt"
+        ],
+        "true": "4°L - 314 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 370 kt, True HDG = 181°, W/V = 095°(T)/35kt. Calculate the True Track and GS?",
+        "options": [
+            "186 - 370 kt",
+            "176 - 370 kt",
+            "189 - 370 kt",
+            "192 - 370 kt"
+        ],
+        "true": "186 - 370 kt",
+        "annex": null
+    },
+    {
+        "question": "Calculate the crosswind component for runway 30, QDM 300°, if the reported surface wind from the Control Tower is 240°/35 kt.",
+        "options": [
+            "18 kt",
+            "30 kt",
+            "24 kt",
+            "21 kt"
+        ],
+        "true": "30 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: True HDG = 002°, TAS = 130 kt, Track (T) = 353°, GS = 132 kt. Calculate the W/V?",
+        "options": [
+            "270/20 kt",
+            "092/20 kt",
+            "095/25 kt",
+            "088/15 kt"
+        ],
+        "true": "092/20 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: True HDG = 054°, TAS = 450 kt, Track (T) = 059°, GS = 416 kt. Calculate the W/V?",
+        "options": [
+            "005/50kt",
+            "010/55kt",
+            "010/50kt",
+            "010/45kt"
+        ],
+        "true": "010/50kt",
+        "annex": null
+    },
+    {
+        "question": "Calculate the W/V if: True heading: 310°TAS: 200 kt GS: 176 kt Drift angle: 7° right.",
+        "options": [
+            "090° (T)/33 kt",
+            "360° (T)/33 kt",
+            "180° (T)/33 kt",
+            "270° (T)/33 kt"
+        ],
+        "true": "270° (T)/33 kt",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, calculate the wind velocity: True track: 239° True heading: 229° TAS: 555 kt Groundspeed: 577 kt",
+        "options": [
+            "165°(T)/100 kt",
+            "310°(T)/100 kt",
+            "300°(T)/100 kt",
+            "130°(T)/100 kt"
+        ],
+        "true": "130°(T)/100 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: M 0.80, OAT -50°C, FL 330, GS 490 kt, VAR 20°W, Magnetic heading 140°, Drift is 11° Right. Calculate the true W/V?",
+        "options": [
+            "025°/47 kt",
+            "020°/95 kt",
+            "200°/95 kt",
+            "025°/45 kt"
+        ],
+        "true": "020°/95 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: Magnetic Track = 210°, Magnetic HDG = 215°, VAR = 15°E, TAS = 360 kt, Aircraft flies 64 NM in 12 MIN. Calculate the true W/V?",
+        "options": [
+            "265°/50 kt",
+            "300°/30 kt",
+            "235°/50 kt",
+            "195°/50 kt"
+        ],
+        "true": "265°/50 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 130 kt, Track (T) = 003°, W/V = 190/40kt. Calculate the HDG (°T) and GS?",
+        "options": [
+            "001 - 170 kt",
+            "002 - 173 kt",
+            "357 - 168 kt",
+            "359 - 166 kt"
+        ],
+        "true": "001 - 170 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 132 kt, HDG (T) = 053°, W/V = 205/15kt. Calculate the Track (°T) and GS?",
+        "options": [
+            "057 - 144 kt",
+            "052 - 143 kt",
+            "051 - 144 kt",
+            "050 - 145 kt"
+        ],
+        "true": "050 - 145 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 135 kt, HDG (°T) = 278°, W/V = 140/20kt. Calculate the Track (°T) and GS?",
+        "options": [
+            "283 - 150 kt",
+            "275 - 150 kt",
+            "272 - 121 kt",
+            "279 - 152 kt"
+        ],
+        "true": "283 - 150 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 140 kt, HDG (T) = 005°, W/V = 265/25kt.  Calculate the drift and GS?",
+        "options": [
+            "10R - 146 kt",
+            "11R - 140 kt",
+            "9R - 140 kt",
+            "11R - 142 kt"
+        ],
+        "true": "10R - 146 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 155 kt, HDG (°T) = 216°, W/V = 090/60kt. Calculate the Track (°T) and GS?",
+        "options": [
+            "231 - 196 kt",
+            "226 - 186 kt",
+            "222 - 181 kt",
+            "224 - 175 kt"
+        ],
+        "true": "231 - 196 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 155 kt, Track (T) = 305°, W/V = 160/18kt. Calculate the HDG (°T) and GS?",
+        "options": [
+            "309 - 141 kt",
+            "305 - 169 kt",
+            "301 - 169 kt",
+            "309 - 170 kt"
+        ],
+        "true": "301 - 169 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 170 kt, HDG(T) = 100°, W/V = 350/30kt.  Calculate the Track (°T) and GS?",
+        "options": [
+            "103 - 178 kt",
+            "098 - 178 kt",
+            "091 - 183 kt",
+            "109 - 182 kt"
+        ],
+        "true": "109 - 182 kt",
+        "annex": null
+    },
+    {
+        "question": "Calculate the W/V given the following outputs of the Inertial Navigation System and the Air Data Computer: GS: 520 kt True heading: 090°Drift angle: 5° right TAS: 480 kt Static Air Temperature (SAT): -51°C.",
+        "options": [
+            "220° (T)/60 kt",
+            "225° (T)/60 kt",
+            "320° (T)/60 kt",
+            "325° (T)/60 kt"
+        ],
+        "true": "320° (T)/60 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 190 kt, HDG (T) = 355°, W/V = 165/25kt.  Calculate the drift and GS?",
+        "options": [
+            "1L - 225 kt",
+            "1R - 165 kt",
+            "1R - 175 kt",
+            "1L - 215 kt"
+        ],
+        "true": "1L - 215 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 198 kt, HDG (°T) = 180°, W/V = 359/25kt. Calculate the Track(°T) and GS?",
+        "options": [
+            "180 - 223 kt",
+            "179 - 220 kt",
+            "180 - 183 kt",
+            "181 - 180 kt"
+        ],
+        "true": "180 - 223 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 200 kt, Track (T) = 073°, W/V = 210/20kt. Calculate the HDG (°T) and GS?",
+        "options": [
+            "077 - 210 kt",
+            "079 - 211 kt",
+            "075 - 213 kt",
+            "077 - 214 kt"
+        ],
+        "true": "077 - 214 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 200 kt, Track (T) = 110°, W/V = 015/40kt. Calculate the HDG (°T) and GS?",
+        "options": [
+            "097 - 201 kt",
+            "121 - 199 kt",
+            "121 - 207 kt",
+            "099 - 199 kt"
+        ],
+        "true": "099 - 199 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 205 kt, HDG (T) = 180°, W/V = 240/25kt.  Calculate the drift and GS?",
+        "options": [
+            "3L - 190 kt",
+            "6R - 192 kt",
+            "6L - 194 kt",
+            "4L - 195 kt"
+        ],
+        "true": "6L - 194 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 225 kt, HDG (°T) = 123°, W/V = 090/60kt. Calculate the Track (°T) and GS?",
+        "options": [
+            "128 - 180 kt",
+            "120 - 190 kt",
+            "134 - 178 kt",
+            "134 - 188 kt"
+        ],
+        "true": "134 - 178 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 227 kt, Track (T) = 316°, W/V = 205/15kt. Calculate the HDG (°T) and GS?",
+        "options": [
+            "313 - 235 kt",
+            "310 - 233 kt",
+            "311 - 230 kt",
+            "312 - 232 kt"
+        ],
+        "true": "312 - 232 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 230 kt, HDG (T) = 250°, W/V = 205/10kt.  Calculate the drift and GS?",
+        "options": [
+            "1R - 221 kt",
+            "2R - 223 kt",
+            "2L - 224 kt",
+            "1L - 225 kt"
+        ],
+        "true": "2R - 223 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 250 kt, HDG (T) = 029°, W/V = 035/45kt.  Calculate the drift and GS?",
+        "options": [
+            "1L - 205 kt",
+            "1L - 265 kt",
+            "1R - 205 kt",
+            "1R - 295 kt"
+        ],
+        "true": "1L - 205 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 270 kt, Track (T) = 260°, W/V = 275/30kt. Calculate the HDG (°T) and GS?",
+        "options": [
+            "264 - 237 kt",
+            "264 - 241 kt",
+            "262 - 237 kt",
+            "262 - 241 kt"
+        ],
+        "true": "262 - 241 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 440 kt, HDG (T) = 349°, W/V = 040/40kt.  Calculate the drift and GS?",
+        "options": [
+            "2L - 420 kt",
+            "4L - 415 kt",
+            "5L - 385 kt",
+            "6L - 395 kt"
+        ],
+        "true": "4L - 415 kt",
+        "annex": null
+    },
+    {
+        "question": "Calculate the GS and drift angle given that an aircraft is following a true track of 048° at a constant TAS of 210 kt with a wind velocity of 350°(T)/30 kt.",
+        "options": [
+            "200 kt and 3.5° right",
+            "192 kt and 7° right",
+            "225 kt and 7° left",
+            "192 kt and 7° left"
+        ],
+        "true": "192 kt and 7° right",
+        "annex": null
+    },
+    {
+        "question": "Given: Compass Heading 090°, Deviation 2°W, Variation 12°E, TAS 160 kt. Whilst maintaining a radial 070° from a VOR station, the aircraft flies a ground distance of 14 NM in 6 MIN. What is the W/V °(T)?",
+        "options": [
+            "340°/25 kt",
+            "160°/50 kt",
+            "340°/98 kt",
+            "155°/25 kt"
+        ],
+        "true": "160°/50 kt",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is on final approach to runway 32R (QDM 322°).Calculate the aircraft’s heading in order to maintain the centreline, given the following information: TAS: 95 kt W/V reported by the tower: 350°/20 kt",
+        "options": [
+            "328°(M)",
+            "322°(M)",
+            "326°(M)",
+            "316°(M)"
+        ],
+        "true": "328°(M)",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, calculate the maximum allowable wind speed: Maximum allowable crosswind component: 20 kt Runway centreline direction: 063°(M) Wind direction: 100°(M)",
+        "options": [
+            "33 kt",
+            "16 kt",
+            "25 kt",
+            "37 kt"
+        ],
+        "true": "33 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: True HDG = 307°, TAS = 230 kt, Track (T) = 313°, GS = 210 kt. Calculate the W/V?",
+        "options": [
+            "255/25kt",
+            "260/30kt",
+            "265/30kt",
+            "257/35kt"
+        ],
+        "true": "260/30kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 270 kt, True HDG = 145°, Actual wind = 205°(T)/30kt. Calculate the drift angle and GS?",
+        "options": [
+            "6°R - 251 kt",
+            "6°L - 256 kt",
+            "8°R - 261 kt",
+            "6°R - 259 kt"
+        ],
+        "true": "6°L - 256 kt",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, calculate the effective headwind component: Runway direction 083°(M) Surface W/V 035°(M)/35 kt",
+        "options": [
+            "27 kt",
+            "24 kt",
+            "31 kt",
+            "34 kt"
+        ],
+        "true": "24 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: True HDG = 233°, TAS = 480 kt, Track (T) = 240°, GS = 523 kt. Calculate the W/V?",
+        "options": [
+            "105/75kt",
+            "110/80kt",
+            "110/75kt",
+            "115/70kt"
+        ],
+        "true": "110/75kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 470 kt, True HDG = 317°, W/V = 045°(T)/45kt. Calculate the drift angle and GS?",
+        "options": [
+            "3°R - 470 kt",
+            "5°R - 475 kt",
+            "5°L - 475 kt",
+            "5°L - 470 kt"
+        ],
+        "true": "5°L - 470 kt",
+        "annex": null
+    },
+    {
+        "question": "Calculate the W/V if: True heading: 090°TAS: 180 kt GS: 180 kt Drift: 5° right.",
+        "options": [
+            "005° (T)/15 kt",
+            "355° (T)/15 kt",
+            "185° (T)/15 kt",
+            "190° (T)/15 kt"
+        ],
+        "true": "005° (T)/15 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: True Heading = 180°, TAS = 500 kt, W/V 225° / 100 kt, Calculate the GS?",
+        "options": [
+            "600 kt",
+            "435 kt",
+            "450 kt",
+            "535 kt"
+        ],
+        "true": "435 kt",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what is the cross wind component when landing on runway 23° RWY centreline direction: 227°(M) ATIS reported wind velocity: 180°/30 kt VAR: 13°E",
+        "options": [
+            "26 kt",
+            "22 kt",
+            "20 kt",
+            "15 kt"
+        ],
+        "true": "22 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 270 kt, True HDG = 270°, Actual wind 205°(T)/30kt. Calculate the drift angle and GS?",
+        "options": [
+            "8R - 259kt",
+            "6R - 251kt",
+            "6L - 256kt",
+            "6R - 259kt"
+        ],
+        "true": "6R - 259kt",
+        "annex": null
+    },
+    {
+        "question": "Given: Magnetic Track = 315 º, HDG = 301 º(M), VAR = 5ºW, TAS = 225 kt, The aircraft flies 50 NM in 12 MIN. Calculate the W/V(°T)?",
+        "options": [
+            "195 º/63 kt",
+            "355 º/15 kt",
+            "190 º/63 kt",
+            "195 º/61 kt"
+        ],
+        "true": "190 º/63 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 375 kt, True HDG = 124°, W/V = 130°(T)/55kt. Calculate the True Track and GS?",
+        "options": [
+            "125 - 322 kt",
+            "123 - 320 kt",
+            "126 - 320 kt",
+            "125 - 318 kt"
+        ],
+        "true": "123 - 320 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: FL120, OAT is ISA standard, CAS is 200 kt, Track: 222°(M), Heading: 215°(M), Variation is 15°W. Time to fly 105 NM is 21 MIN. What is the W/V?",
+        "options": [
+            "050°(T) / 70 kt.",
+            "055°(T) / 105 kt .",
+            "065°(T) / 70 kt.",
+            "040°(T) / 105 kt."
+        ],
+        "true": "050°(T) / 70 kt.",
+        "annex": null
+    },
+    {
+        "question": "Given: Runway direction 230°(T), Surface W/V 280°(T)/40 kt. Calculate the effective cross-wind component?",
+        "options": [
+            "31 kt",
+            "36 kt",
+            "26 kt",
+            "21 kt"
+        ],
+        "true": "31 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: True HDG = 074°, TAS = 230 kt, Track (T) = 066°, GS = 242 kt. Calculate the W/V?",
+        "options": [
+            "180/35kt",
+            "180/40kt",
+            "185/35kt",
+            "180/30kt"
+        ],
+        "true": "180/35kt",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 485 kt, True HDG = 226°, W/V = 110°(T)/95kt. Calculate the drift angle and GS?",
+        "options": [
+            "9°R - 433 kt",
+            "9°R - 533 kt",
+            "7°R - 531 kt",
+            "8°L - 435 kt"
+        ],
+        "true": "9°R - 533 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: Heading 090T°, TAS 200 kt, W/V 220°/30 kt. Calculate the GS?",
+        "options": [
+            "220 kt",
+            "180 kt",
+            "200 kt",
+            "230 kt"
+        ],
+        "true": "220 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: Magnetic Heading = 255° VAR = 40°W GS = 375 kt W/V = 235°(T) / 120 kt Calculate the drift angle?",
+        "options": [
+            "6° right",
+            "6° left",
+            "3° left",
+            "9° left"
+        ],
+        "true": "6° left",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 220 kt; Magnetic course = 212 º, W/V 160 º(M)/ 50kt, Calculate the GS?",
+        "options": [
+            "290 kt",
+            "246 kt",
+            "186 kt",
+            "250 kt"
+        ],
+        "true": "186 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: True HDG = 133°, TAS = 225 kt, Track (T) = 144°, GS = 206 kt. Calculate the W/V?",
+        "options": [
+            "070/40kt",
+            "070/45kt",
+            "075/50kt",
+            "075/45kt"
+        ],
+        "true": "075/45kt",
+        "annex": null
+    },
+    {
+        "question": "For take-off an aircraft requires a headwind component of at least 10 kt and has a cross wind limitation of 35 kt. If the angle between the wind direction and the runway is 60°, what are the minimum and maximum allowable wind speeds?",
+        "options": [
+            "12 kt and 38 kt",
+            "20 kt and 40 kt",
+            "18 kt and 50 kt",
+            "15 kt and 43 kt"
+        ],
+        "true": "20 kt and 40 kt",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, calculate the heading (°T) and flight time: Course required: 085°(T)Forecast wind velocity: 030°(T)/100 kt TAS: 470 kt Distance: 265 NM",
+        "options": [
+            "Heading: 075°(T), 39 MIN",
+            "Heading: 095°(T), 31 MIN",
+            "Heading: 096°(T), 29 MIN",
+            "Heading: 076°(T), 34 MIN"
+        ],
+        "true": "Heading: 075°(T), 39 MIN",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 472 kt, True HDG = 005°, W/V = 110°(T)/50kt. Calculate the drift angle and GS?",
+        "options": [
+            "6°R/462 kt",
+            "6°L/490 kt",
+            "6°L/402 kt",
+            "6°R/490 kt"
+        ],
+        "true": "6°L/490 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: Magnetic Track = 075°, HDG = 066°(M), VAR = 11°E, TAS = 275 kt. Aircraft flies 48 NM in 10 MIN. Calculate the true W/V °? Round direction up to the nearest 10 degrees.",
+        "options": [
+            "210°/15 kts",
+            "340°/45 kts",
+            "320°/50 kts",
+            "180°/45 kts"
+        ],
+        "true": "340°/45 kts",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, calculate the cross-wind component: Runway direction: 305°(M)Surface W/V: 260°(M)/30 kt",
+        "options": [
+            "18 kt",
+            "24 kt",
+            "21 kt",
+            "27 kt"
+        ],
+        "true": "21 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: Magnetic Heading = 255°, VAR = 40°W, GS = 375 kt, W/V = 235°(T) / 120 kt, Calculate the drift angle?",
+        "options": [
+            "3° left",
+            "6° right",
+            "6° left",
+            "9° left"
+        ],
+        "true": "6° left",
+        "annex": null
+    },
+    {
+        "question": "Given: TAS = 472 kt, True HDG = 005°, W/V = 110°(T)/50kt. Calculate the drift angle and GS?",
+        "options": [
+            "6°L/490 kt",
+            "6°R/490 kt",
+            "6°R/462 kt",
+            "6°L/402 kt"
+        ],
+        "true": "6°L/490 kt",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what is the maximum allowable wind speed that can be accepted without exceeding the tailwind limit? Maximum allowable tailwind component for landing: 10 kt Planned runway: 05 (047°(M)) Surface wind direction reported by ATIS: 210° VAR: 17°E",
+        "options": [
+            "15 kt",
+            "18 kt",
+            "10 kt",
+            "8 kt"
+        ],
+        "true": "10 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: Pressure Altitude 29000 FT, OAT -55°C.   Calculate the Density Altitude?",
+        "options": [
+            "33500 FT",
+            "27500 FT",
+            "31000 FT",
+            "26000 FT"
+        ],
+        "true": "27500 FT",
+        "annex": null
+    },
+    {
+        "question": "An aircraft has to fly over a mountain ridge. The highest obstacle, indicated in the navigation chart, has an elevation of 9800 ft. The QNH, given by a meteorological station at an elevation of 6200 ft, is 1022 hPa. The OAT = ISA +5°C. Calculate the approximate indicated altitude to obtain a clearance of 2000 ft.",
+        "options": [
+            "11700 ft.",
+            "12000 ft.",
+            "11100 ft.",
+            "11200 ft."
+        ],
+        "true": "11700 ft.",
+        "annex": null
+    },
+    {
+        "question": "An aircraft flies at FL\n250. OAT = - 45°C. The QNH, given by a meteorological station with an elevation of 2830 ft, is 1033 hPa. Calculate the clearance above a mountain ridge with an elevation of 20410 ft.",
+        "options": [
+            "4200 ft",
+            "3000 ft",
+            "3500 ft",
+            "4600 ft"
+        ],
+        "true": "4200 ft",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is flying at FL150, with an outside air temperature of -30°, above an airport where the elevation is 1660 ft and the QNH is 993 hPa. Calculate the true altitude.",
+        "options": [
+            "14120 ft",
+            "15210 ft",
+            "13660 ft",
+            "17160 ft"
+        ],
+        "true": "13660 ft",
+        "annex": null
+    },
+    {
+        "question": "The QNH, given by a station at 2500 ft, is 980 hPa. The elevation of the highest obstacle along a route is 8000 ft and the OAT = ISA -10°C.When an aircraft on route has to descend the minimum indicated altitude (QNH on the subscale of the altimeter) to maintain a clearance of 2000 ft, will be…",
+        "options": [
+            "10000 ft.",
+            "10400 ft.",
+            "9700 ft.",
+            "11200 ft."
+        ],
+        "true": "10400 ft.",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what is the true altitude of the aircraft? Flight level overhead an airport: FL150  Airport elevation: 720 ft   Airport QNH: 1003 hPa OAT at FL150: -5°C For this question  assume 1hPa = 27ft",
+        "options": [
+            "15 300 ft",
+            "15 840 ft",
+            "14 720 ft",
+            "14 160 ft"
+        ],
+        "true": "15 300 ft",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is flying at FL250, OAT = - 45°C. The QNH, given by a station at MSL, is 993.2 hPa. Calculate the approximate True Altitude.",
+        "options": [
+            "24000 ft",
+            "26100 ft",
+            "23400 ft",
+            "25500 ft"
+        ],
+        "true": "23400 ft",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is flying at FL200. The QNH, given by a meteorological station at an elevation of 1300 ft, is 998.2 hPa. OAT = - 40? C. The elevation of the highest obstacle along the route is 8000 ft. Calculate the aircraft’s approximate clearance above the highest obstacle on this route.",
+        "options": [
+            "11800 ft",
+            "9200 ft",
+            "10500 ft",
+            "20200 ft"
+        ],
+        "true": "10500 ft",
+        "annex": null
+    },
+    {
+        "question": "Given: An aircraft is flying at FL100, OAT = ISA - 15? C. The QNH, given by a meteorological station with an elevation of 100 ft below MSL is 1032 hPa.1 hPa = 27 ft Calculate the approximate True Altitude of this aircraft.",
+        "options": [
+            "10600 ft",
+            "11200 ft",
+            "9400 ft",
+            "9900 ft"
+        ],
+        "true": "9900 ft",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is flying at FL100. The OAT = ISA -15°C. The QNH given by a station at an elevation 3000 ft is 1035 hPa. Calculate the approximate True Altitude.",
+        "options": [
+            "10200 ft",
+            "9600 ft",
+            "7200 ft",
+            "10000 ft"
+        ],
+        "true": "10200 ft",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what is the approximate airport pressure altitude? Airport elevation: 1000 ft QNH: 988 hPa Assume 1 hPa = 30'",
+        "options": [
+            "1750 ft",
+            "680 ft",
+            "320 ft",
+            "250 ft"
+        ],
+        "true": "1750 ft",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is flying at FL\n200. OAT = 0°C. When the actual air pressure on an airfield at MSL is placed in the subscale of the altimeter the indicated altitude is 19300 ft. Calculate the aircraft’s true altitude.",
+        "options": [
+            "19300 ft",
+            "20200 ft",
+            "20700 ft",
+            "21300 ft"
+        ],
+        "true": "21300 ft",
+        "annex": null
+    },
+    {
+        "question": "Five minutes after take-off from the aerodrome of BRIOUDE, an aircraft passes 5000 ft on the QFE. At the same time, what would be the approximate indication on the second altimeter set to 1013 hPa, given the following information for BRIOUDE? Elevation: 1483 ft QFE: 963 hPa Temperature: 32°C",
+        "options": [
+            "6500 ft",
+            "4000 ft",
+            "3500 ft",
+            "6800 ft"
+        ],
+        "true": "6500 ft",
+        "annex": null
+    },
+    {
+        "question": "What is the ISA temperature value at FL 330?",
+        "options": [
+            "-51°C",
+            "-81°C",
+            "-56°C",
+            "-66°C"
+        ],
+        "true": "-51°C",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what is the TAS? Pressure altitude: 9000 ft OAT: -32°C CAS: 200 kt",
+        "options": [
+            "200 kt",
+            "210 kt",
+            "216 kt",
+            "212 kt"
+        ],
+        "true": "216 kt",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, calculate the Mach number: TAS: 487 k t FL 330 Temperature: ISA + 15°.",
+        "options": [
+            "0.76",
+            "0.81",
+            "0.84",
+            "0.78"
+        ],
+        "true": "0.81",
+        "annex": null
+    },
+    {
+        "question": "Given: FL250, OAT -15 ºC, TAS 250 kt.  Calculate the Mach No.?",
+        "options": [
+            "0.42",
+            "0.4",
+            "0.44",
+            "0.39"
+        ],
+        "true": "0.4",
+        "annex": null
+    },
+    {
+        "question": "You are descending to FL180 from FL310, the wind is as follows FL310 230/55 FL290 240/45 FL250 190/40 FL180 200/30 For flight planning purposes select the most appropriate wind to use",
+        "options": [
+            "200/30",
+            "245/40",
+            "205/40",
+            "250/30"
+        ],
+        "true": "205/40",
+        "annex": null
+    },
+    {
+        "question": "Given : OAT = -45o C   TAS = 480 Kts Calculate the Mach No",
+        "options": [
+            "0.87",
+            "0.83",
+            "0.79",
+            "0.81"
+        ],
+        "true": "0.81",
+        "annex": null
+    },
+    {
+        "question": "For a given track the: Wind component = +45 kt Drift angle = 15° left TAS = 240 kt  What is the wind component on the reverse track?",
+        "options": [
+            "-35 kt",
+            "-45 kt",
+            "-65 kt",
+            "-55 kt"
+        ],
+        "true": "-65 kt",
+        "annex": null
+    },
+    {
+        "question": "The ICAO definition of ETA is the:",
+        "options": [
+            "Estimated time of arrival at an en-route point or fix",
+            "Actual time of arrival at a point or fix",
+            "Estimated time en route",
+            "Estimated time of arrival at destination"
+        ],
+        "true": "Estimated time of arrival at destination",
+        "annex": null
+    },
+    {
+        "question": "Variation at an NDB is 9W. Variation at the aircraft is 11W. The True Track of the great circle to the NDB from the aircraft, at the aircraft, is 101.5. The magnetic bearing of the NDB from the aircraft is:",
+        "options": [
+            "112.5",
+            "110.5",
+            "114.5",
+            "108.5"
+        ],
+        "true": "112.5",
+        "annex": null
+    },
+    {
+        "question": "Consider the following factors that determine the accuracy of a DR position:\n\n1.  The flight time since the last position update.\n2.  The accuracy of the forecasted wind.\n3.  The accuracy of the TAS.\n4.  The accuracy of the steered heading. Using the list which of the above statements are correct ?",
+        "options": [
+            "1, 2 and 3",
+            "1 and 2",
+            "1, 2, 3 and 4",
+            "1, 2 and 4"
+        ],
+        "true": "1, 2, 3 and 4",
+        "annex": null
+    },
+    {
+        "question": "The accuracy of the, manually calculated, DR position of an aircraft is, among other things, affected by",
+        "options": [
+            "the accuracy of the actual wind.",
+            "the accuracy of the adjustment of the position lines for the motion of the aircraft between the last and the new DR position.",
+            "the flight time since the last position update.",
+            "the accuracy of the adjustment of the position lines for the motion of the aircraft between the last fix and the DR position."
+        ],
+        "true": "the flight time since the last position update.",
+        "annex": null
+    },
+    {
+        "question": "Given:  CAS 120 kt, FL 80, OAT +20°C.  What is the TAS?",
+        "options": [
+            "120 kt",
+            "102 kt",
+            "141 kt",
+            "132 kt"
+        ],
+        "true": "141 kt",
+        "annex": null
+    },
+    {
+        "question": "You are tracking the 200° radial inbound to a VOR and your True Heading is 010°. At the VOR you then track the 090° radial outbound and are showing a heading of 080°M The variation is +5° and the TAS is 240 kts. What is the wind (°T) that has affected the aircraft?",
+        "options": [
+            "320°/55",
+            "330°/50",
+            "300°/50",
+            "314°/65"
+        ],
+        "true": "314°/65",
+        "annex": null
+    },
+    {
+        "question": "Which statement is true regarding a compass when directly overhead the north magnetic pole?",
+        "options": [
+            "The compass tip will point directly down",
+            "The horizontal component of the earth's magnetic field is horizontal",
+            "The Magnetic Variation is 90º",
+            "The compass tail points down"
+        ],
+        "true": "The compass tip will point directly down",
+        "annex": null
+    },
+    {
+        "question": "Given:  TAS = 95 kt,  HDG (T) = 075°,  W/V = 310/20kt.  Calculate the drift and GS?",
+        "options": [
+            "108 kts - 9R",
+            "105 kts - 10L",
+            "104 kts - 5R",
+            "104 kts - 5L"
+        ],
+        "true": "108 kts - 9R",
+        "annex": null
+    },
+    {
+        "question": "Given: CAS: 320 kt Flight level: 330 OAT: ISA +15°C. TAS is approximately (compressibility factor 0.939):",
+        "options": [
+            "560 kt",
+            "265 kt",
+            "530 kt",
+            "340 kt"
+        ],
+        "true": "530 kt",
+        "annex": null
+    },
+    {
+        "question": "Given: Mach number: 0.8 Flight level: 330 OAT: ISA +15°C TAS is approximately (compressibility factor 0.94):",
+        "options": [
+            "420 kt",
+            "480 kt",
+            "450 kt",
+            "265 kt"
+        ],
+        "true": "480 kt",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is at FL240. The TAS = 250kt and the CAS = 180kt.  The Mach number is:",
+        "options": [
+            "0.38",
+            "0.57",
+            "0.44",
+            "0.32"
+        ],
+        "true": "0.44",
+        "annex": null
+    },
+    {
+        "question": "Given: 1600 Imperial Gallons of fuel. 1 litre fuel equals 750 gram. Calculate the amount of fuel in lbs.",
+        "options": [
+            "9,500 lbs",
+            "11,500 lbs",
+            "12,000 lbs",
+            "10,500 lbs"
+        ],
+        "true": "12,000 lbs",
+        "annex": null
+    },
+    {
+        "question": "Given: The QNH, given by a meteorological station (elevation 1300 ft), is 998.2 hPa. The MOCA = 10 000 ft. The aircraft is at FL200, where the OAT is -40ºC. The indicated altitude when the QNH is placed in the subscale of the altimeter is:",
+        "options": [
+            "18 295 ft",
+            "18 700 ft",
+            "20 000 ft",
+            "19 595 ft"
+        ],
+        "true": "19 595 ft",
+        "annex": null
+    },
+    {
+        "question": "During an approach the Flight Management Display indicates the following values: Hdg = 270°T GS = 220 kt W/V = 240°/20 kt What is the value of the Cross Wind Component and Track in this situation?",
+        "options": [
+            "11 kt from the right and 273°",
+            "11 kt from the left and 273°",
+            "11 kt from the right and 267°",
+            "10 kt from the left and 267°"
+        ],
+        "true": "11 kt from the left and 273°",
+        "annex": null
+    },
+    {
+        "question": "The TT is 215°. TAS is 90 kt. W/V is 260°/20 kt. The TH and GS are:",
+        "options": [
+            "224° and 75 kt",
+            "224° and 103 kt",
+            "206° and 103 kt",
+            "206° and 75 kt"
+        ],
+        "true": "224° and 75 kt",
+        "annex": null
+    },
+    {
+        "question": "Given Altitude 5500', Temp +33 Calculate the Density Altitude.",
+        "options": [
+            "9000",
+            "6500",
+            "6000",
+            "5800"
+        ],
+        "true": "9000",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is maintaining a heading of 255° M. At 1256 it is on the 360°  Radial of a VOR. At 1300 it is on the 330° Radial of the same VOR. Assuming still air, its distance from the VOR at 1300 is:",
+        "options": [
+            "Cloiser than at 1256",
+            "Insufficient data available to decide",
+            "The same as at 1256",
+            "Further away than at 1256"
+        ],
+        "true": "The same as at 1256",
+        "annex": null
+    },
+    {
+        "question": "An aircraft passes point A at 14.37 UTC and point B at 14.49 UTC. The distance between A and B on the chart is 11.4 cm and the scale of the chart is such that  1cm equals 3.2 NM. What is the Ground speed?",
+        "options": [
+            "185",
+            "182",
+            "177",
+            "190"
+        ],
+        "true": "182",
+        "annex": null
+    },
+    {
+        "question": "Given the parameters: TAS   250 KTS HDG  080o (T) TRK   090o (T) GS     290 KTS What is the value of the  crosswind  on your heading and which way is it blowing you ?",
+        "options": [
+            "49 KTS right",
+            "43 KTS right",
+            "49 KTS left",
+            "43 KTS left"
+        ],
+        "true": "49 KTS right",
+        "annex": null
+    },
+    {
+        "question": "Plotting positions in charts by Dead Reckoning (DR) may be required…",
+        "options": [
+            "in areas with high densities of airways and navigation aids.",
+            "when any of the radio-navigation, INS or GPS sources are unavailable.",
+            "during a flight with limited equipment and few navigational aids.",
+            "during a flight over sea using INS/IRS and GPS navigation."
+        ],
+        "true": "during a flight with limited equipment and few navigational aids.",
+        "annex": null
+    },
+    {
+        "question": "Given For take-off an aircraft requires a headwind component of at least 10 kt and has a cross-wind limitation of 35 kt The angle between the wind direction and the runway is 60° , Calculate the minimum and maximum allowable wind speeds",
+        "options": [
+            "20 kt and 40 kt",
+            "18 kt and 50 kt",
+            "15 kt and 43 kt",
+            "12 kt and 38 kt"
+        ],
+        "true": "20 kt and 40 kt",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is maintaining a true heading of 052° and overflies two fixes 34 NM apart from each other 13minutes apart. The average true direction from the first fix to the second fix is 047° and the TAS of the aircraft is 130 kts. Calculate the average wind (W/V)",
+        "options": [
+            "220° / 28 KTS",
+            "203° / 30 KTS",
+            "246° / 28 KTS",
+            "218° / 30 KTS"
+        ],
+        "true": "203° / 30 KTS",
+        "annex": null
+    }
+]

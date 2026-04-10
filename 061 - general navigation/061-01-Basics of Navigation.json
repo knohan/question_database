@@ -1,0 +1,2171 @@
+[
+    {
+        "question": "At (54°N, 020°W) the sun rises on November 28th at 09:01 UTC. At (44°N, 020°W) the sun will rise…",
+        "options": [
+            "also at 09:01 UTC since both positions are situated on the same meridian.",
+            "earlier since the latter position lies further south.",
+            "later since the latter position lies further south.",
+            "at 07:41 LMT."
+        ],
+        "true": "earlier since the latter position lies further south.",
+        "annex": null
+    },
+    {
+        "question": "The angle between the plane of the ecliptic and the plane of the equator is approximately…",
+        "options": [
+            "23.5°.",
+            "66.5°.",
+            "27.5°.",
+            "25.3°."
+        ],
+        "true": "23.5°.",
+        "annex": null
+    },
+    {
+        "question": "In which two months of the year is the difference between the transit of the apparent Sun and mean Sun across the Greenwich meridian the greatest?",
+        "options": [
+            "March and September",
+            "February and November",
+            "June and December",
+            "April and August"
+        ],
+        "true": "February and November",
+        "annex": null
+    },
+    {
+        "question": "Which is the highest latitude listed below at which the sun will rise above the horizon and set every day?",
+        "options": [
+            "62°",
+            "72°",
+            "66.5°",
+            "68°"
+        ],
+        "true": "62°",
+        "annex": null
+    },
+    {
+        "question": "Assuming mid-latitudes (40° to 50°N/S), at which time of year is the relationship between the length of day and night, as well as the rate of change of declination of the sun, changing at the greatest rate?",
+        "options": [
+            "Summer solstice and spring equinox",
+            "Spring equinox and autumn equinox",
+            "summer solstice and winter solstice",
+            "Winter solstice and autumn equinox"
+        ],
+        "true": "Spring equinox and autumn equinox",
+        "annex": null
+    },
+    {
+        "question": "Seasons are due to the…",
+        "options": [
+            "variable distance between the Earth and the Sun.",
+            "inclination of the polar axis with the ecliptic plane.",
+            "Earth’s rotation on its polar axis.",
+            "Earth’s elliptical orbit around the Sun."
+        ],
+        "true": "inclination of the polar axis with the ecliptic plane.",
+        "annex": null
+    },
+    {
+        "question": "The first law of Kepler states that…",
+        "options": [
+            "the angular speed of the Earth in the orbit around the Sun is constant.",
+            "all planets orbit around the Sun at the same speed.",
+            "planets move around the Sun in a circular orbit.",
+            "planets move in elliptical orbits with the Sun at one of the foci."
+        ],
+        "true": "planets move in elliptical orbits with the Sun at one of the foci.",
+        "annex": null
+    },
+    {
+        "question": "Aphelion is the point of the…",
+        "options": [
+            "Sun’s orbit closest to the Earth.",
+            "Earth’s orbit closest to the Sun.",
+            "Earth’s orbit furthest away from the Sun.",
+            "Sun’s orbit furthest away from the Earth."
+        ],
+        "true": "Earth’s orbit furthest away from the Sun.",
+        "annex": null
+    },
+    {
+        "question": "Kepler's second law states that:",
+        "options": [
+            "The area swept out by the radius vector sun-earth per hour increases with increasing length of the radius vector.",
+            "The radius vector sun-earth moves at constant angular speed.",
+            "The radius vector sun-earth sweeps out equal areas in equal time.",
+            "The length of the radius vector sun-earth is directly proportional to the square root of its angular speed."
+        ],
+        "true": "The radius vector sun-earth sweeps out equal areas in equal time.",
+        "annex": null
+    },
+    {
+        "question": "Which statement regarding the apparent Sun and the mean Sun is correct?",
+        "options": [
+            "The apparent Sun is not important for navigation as there is only a maximum time difference of 4 seconds compared to the mean Sun.",
+            "The apparent Sun is the visible Sun, and the mean sun does not exist.",
+            "The apparent Sun is a fictitious Sun coupled to UTC, the mean Sun is related to local mean time.",
+            "The mean Sun moves along the ecliptic, the apparent Sun moves along the celestial equator."
+        ],
+        "true": "The apparent Sun is the visible Sun, and the mean sun does not exist.",
+        "annex": null
+    },
+    {
+        "question": "The declination of the Sun is defined as the…",
+        "options": [
+            "arc from the celestial horizon to the Sun measured along a vertical line perpendicular on the horizon.",
+            "angular distance of the Sun north or south of the celestial equator.",
+            "arc of the meridian of the Sun measured from the nearest pole to the Sun.",
+            "arc along the celestial sphere from the zenith to the Sun."
+        ],
+        "true": "angular distance of the Sun north or south of the celestial equator.",
+        "annex": null
+    },
+    {
+        "question": "The time interval between sunrise and sunset is dependent on the…",
+        "options": [
+            "date and the longitude of the observer.",
+            "latitude and the longitude of the observer.",
+            "inclination of the axis of the Earth and the longitude of the observer.",
+            "declination of the Sun and the latitude of the observer."
+        ],
+        "true": "declination of the Sun and the latitude of the observer.",
+        "annex": null
+    },
+    {
+        "question": "The main reason for the Earth’s seasons is the…",
+        "options": [
+            "length of the day, as stated by Kepler’s second law.",
+            "elliptical orbit of the Earth around the Sun.",
+            "distance between the Sun and the Earth.",
+            "inclination of the Earth’s polar axis to the plane of the ecliptic."
+        ],
+        "true": "inclination of the Earth’s polar axis to the plane of the ecliptic.",
+        "annex": null
+    },
+    {
+        "question": "In which statement is the Mean Sun best described?",
+        "options": [
+            "The mean sun is a fictitious sun, the orbit of which coincides with that of the apparent sun, but is corrected for mean astronomical and atmospheric refraction.",
+            "The mean sun is a fictitious sun, the orbit of which coincides with that of the apparent sun, but is corrected for the mean difference in hour angle.",
+            "The mean sun is a fictitious sun travelling along the celestial equator at uniform speed.",
+            "The mean sun is a fictitious sun travelling along the ecliptic at uniform speed."
+        ],
+        "true": "The mean sun is a fictitious sun travelling along the celestial equator at uniform speed.",
+        "annex": null
+    },
+    {
+        "question": "Which statement is correct?",
+        "options": [
+            "The planets move around the Sun, like all stars of the Solar System.",
+            "The solar system consists of the Sun, planets, and stars.",
+            "The Earth is one of the planets that is moving in an elliptical orbit around the Sun.",
+            "The Sun moves in an elliptical orbit around the Earth."
+        ],
+        "true": "The Earth is one of the planets that is moving in an elliptical orbit around the Sun.",
+        "annex": null
+    },
+    {
+        "question": "The orbit of the Earth…",
+        "options": [
+            "around the Sun is an ellipse with the Sun at a point halfway between the two foci.",
+            "is a circle with the Sun at a point next to its centre.",
+            "around the Sun is a circle with the Sun at its centre.",
+            "around the Sun is an ellipse with the Sun at one of the foci."
+        ],
+        "true": "around the Sun is an ellipse with the Sun at one of the foci.",
+        "annex": null
+    },
+    {
+        "question": "At what approximate date is the Earth furthest from the Sun (aphelion)?",
+        "options": [
+            "End of December",
+            "Beginning of January",
+            "Beginning of July",
+            "End of September"
+        ],
+        "true": "Beginning of July",
+        "annex": null
+    },
+    {
+        "question": "What is the highest latitude, of the values listed below, at which the Sun will reach an altitude of 90° above the horizon at some time during the year?",
+        "options": [
+            "23.5°",
+            "0°",
+            "66°",
+            "45°"
+        ],
+        "true": "23.5°",
+        "annex": null
+    },
+    {
+        "question": "At what approximate date is the Earth closest to the Sun (perihelion)?",
+        "options": [
+            "End of June",
+            "Beginning of January",
+            "Beginning of July",
+            "End of March"
+        ],
+        "true": "Beginning of January",
+        "annex": null
+    },
+    {
+        "question": "Parallels of latitude, except the equator, are:",
+        "options": [
+            "Great Circles",
+            "Rhumb Lines",
+            "Both Rhumb Lines and Great Circles",
+            "Neither Rhumb Lines nor Great Circles"
+        ],
+        "true": "Rhumb Lines",
+        "annex": null
+    },
+    {
+        "question": "The circumference of the Earth is approximately…",
+        "options": [
+            "43200 NM.",
+            "21600 NM.",
+            "5400 NM.",
+            "10800 NM."
+        ],
+        "true": "21600 NM.",
+        "annex": null
+    },
+    {
+        "question": "The circumference of the parallel of latitude at 60°N is approximately…",
+        "options": [
+            "18706 NM.",
+            "10800 NM.",
+            "20000 NM.",
+            "34641 NM."
+        ],
+        "true": "10800 NM.",
+        "annex": null
+    },
+    {
+        "question": "The diameter of the Earth is approximately…",
+        "options": [
+            "12700 km.",
+            "18500 km.",
+            "40000 km.",
+            "6350 km."
+        ],
+        "true": "12700 km.",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what is the semi-minor axis (km) of the Earth at the axis of the poles? The value for the flattening of the Earth is 1/298. Earth’s semi-major axis, as measured at the equator, equals 6378.4 km.",
+        "options": [
+            "6378.4",
+            "6367.0",
+            "6399.9",
+            "6357.0"
+        ],
+        "true": "6357.0",
+        "annex": null
+    },
+    {
+        "question": "The coordinates of the heliport at Issy les Moulineaux are 48°50’N, 002°16.5’E.What are the coordinates of the position on the direct opposite side of the Earth?",
+        "options": [
+            "41°10’S, 177°43.5’W",
+            "41°10’S, 177°43.5’E",
+            "48°50’S, 177°43.5’E",
+            "48°50’S, 177°43.5’W"
+        ],
+        "true": "48°50’S, 177°43.5’W",
+        "annex": null
+    },
+    {
+        "question": "What is the rhumb line distance between two positions separated by 10° of longitude that are on latitude 60°N?",
+        "options": [
+            "520 NM",
+            "866 NM",
+            "300 NM",
+            "600 NM"
+        ],
+        "true": "300 NM",
+        "annex": null
+    },
+    {
+        "question": "The Great Circle Track measured at A (45 00'N 010 00'W) from A to B (45 00'N 019 00'W) is approximately:",
+        "options": [
+            "090°",
+            "093°",
+            "273°",
+            "270°"
+        ],
+        "true": "273°",
+        "annex": null
+    },
+    {
+        "question": "A great circle intersects the Equator in 030°W with a great circle direction of 035°(T). An aircraft tracking the great circle will reach the maximum Northern/Southern latitude at position…",
+        "options": [
+            "55°N, 060°E.",
+            "35°S, 120°W.",
+            "55°S, 060°E.",
+            "35°N, 120°W."
+        ],
+        "true": "55°N, 060°E.",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what is the true course of the rhumb line at point A? A: 55°N, 000° B: 54°N, 010°E Average true course of the great circle: 100°.",
+        "options": [
+            "104°",
+            "100°",
+            "096°",
+            "107°"
+        ],
+        "true": "100°",
+        "annex": null
+    },
+    {
+        "question": "Given: An aircraft follows a Great Circle Track between Waypoint 1 60°S 030°W and Waypoint\n2.  60°S 020°W, which have been inserted into an INS connected to an autopilot, what will be the approximate Latitude shown on the display at longitude 025°W?",
+        "options": [
+            "060°11'S",
+            "060°06'S",
+            "060°00'S",
+            "059°49'S"
+        ],
+        "true": "060°06'S",
+        "annex": null
+    },
+    {
+        "question": "A pilot is flying from A (60°S, 165°W) to B (60°S, 177°E).What is the angle between the initial true great circle track and the true rhumb line track?",
+        "options": [
+            "9°",
+            "15.6°",
+            "7.8°",
+            "5.2°"
+        ],
+        "true": "7.8°",
+        "annex": null
+    },
+    {
+        "question": "How does the convergency of any two meridians on the Earth change with varying latitude?",
+        "options": [
+            "It changes as cosine of latitude.",
+            "It is of constant value and does not change with latitude.",
+            "It changes as sine of latitude.",
+            "It increases with decrease of latitude."
+        ],
+        "true": "It changes as sine of latitude.",
+        "annex": null
+    },
+    {
+        "question": "In the Northern Hemisphere the rhumb line track from position A to B is 230°, the convergency is 6° and the difference in longitude is 10°. What is the initial rhumb line track from B to A?",
+        "options": [
+            "053°",
+            "056°",
+            "047°",
+            "050°"
+        ],
+        "true": "050°",
+        "annex": null
+    },
+    {
+        "question": "The great circle bearing of position B from position A in the Northern Hemisphere is 040°. If the Conversion Angle is 4°, what is the great circle bearing of A from B?",
+        "options": [
+            "212°",
+            "220°",
+            "224°",
+            "228°"
+        ],
+        "true": "228°",
+        "annex": null
+    },
+    {
+        "question": "A great circle track joins position A (59°S 141°W) and B (61°S 148°W).How does the true track change when flying from position A to position B?",
+        "options": [
+            "It increases by 3°",
+            "It increases by 6°",
+            "It decreases by 3°",
+            "It decreases by 6°"
+        ],
+        "true": "It increases by 6°",
+        "annex": null
+    },
+    {
+        "question": "An aeroplane flies from A (59°S 142°W) to B (61°S 148°W) with a TAS of 480 kt. The autopilot is engaged and coupled with an Inertial Navigation System in which AB track is active. On route AB, the true track…",
+        "options": [
+            "increases by 5°.",
+            "decreases by 6°.",
+            "varies by 4°.",
+            "varies by 10°."
+        ],
+        "true": "increases by 5°.",
+        "annex": null
+    },
+    {
+        "question": "Position A = (56°00.0'S, 163°57.2'E)  Position B = (56°00.0'S, 171°47.4'W)  For the route from A to B the:",
+        "options": [
+            "Rhumb line distance is 1455.4 NM.",
+            "Rhumb line distance is 1206.6 NM.",
+            "Great circle direction at B is 080.7°",
+            "Great circle direction at B is 100.1°."
+        ],
+        "true": "Great circle direction at B is 080.7°",
+        "annex": null
+    },
+    {
+        "question": "The great circle bearing from A (70°S, 030°W) to B (70°S, 060°E) is approximately…",
+        "options": [
+            "312° (T).",
+            "090° (T).",
+            "048° (T).",
+            "132° (T)."
+        ],
+        "true": "132° (T).",
+        "annex": null
+    },
+    {
+        "question": "In order to fly from position A (10°00’N, 030°00’W) to position B (30°00’N, 050°00’W), maintaining a constant true course, it is necessary to fly…",
+        "options": [
+            "the constant average drift route.",
+            "a straight line plotted on a Lambert chart.",
+            "the great circle route.",
+            "a rhumb line track."
+        ],
+        "true": "a rhumb line track.",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is following the 45°N parallel of latitude. The track followed is a:",
+        "options": [
+            "constant-drift track",
+            "great circle",
+            "constant-heading track",
+            "rhumb line"
+        ],
+        "true": "rhumb line",
+        "annex": null
+    },
+    {
+        "question": "An aircraft passes position A (60°00’N, 120°00’W) on route to position B (60°00’N, 140°30’W).What is the great circle track on departure from A?",
+        "options": [
+            "270° (T)",
+            "279° (T)",
+            "261° (T)",
+            "288° (T)"
+        ],
+        "true": "279° (T)",
+        "annex": null
+    },
+    {
+        "question": "The maximum difference between geocentric and geodetic latitude occurs at about…",
+        "options": [
+            "45° north and south.",
+            "60° north and south.",
+            "0° north and south -equator-.",
+            "90° north and south."
+        ],
+        "true": "45° north and south.",
+        "annex": null
+    },
+    {
+        "question": "The distance of one degree of latitude near the Equator on the Earth’s ellipsoid is…",
+        "options": [
+            "60 NM.",
+            "more than 60 NM but less than 61 NM.",
+            "more than 60 NM.",
+            "less than 60 NM."
+        ],
+        "true": "less than 60 NM.",
+        "annex": null
+    },
+    {
+        "question": ")(Refer to ) Which in the represents the geocentric latitude of position P, which is situated above the surface of the ellipsoid?",
+        "options": [
+            "C",
+            "B",
+            "D",
+            "A"
+        ],
+        "true": "B",
+        "annex": [
+            "44",
+            "061-600199"
+        ]
+    },
+    {
+        "question": "What is the correct definition of latitude of a position on the earth?",
+        "options": [
+            "Latitude is the angle between the plane of the Prime Meridian and the plane of the meridian of the position.",
+            "Latitude is the angle between the plane of the ecliptic and the  parallel of the position.",
+            "Latitude is the angle between the plane of the equator and the line from the centre of the earth to the position.",
+            "Latitude is the angle between the earth's rotational axis and the line from the centre of the earth to the position."
+        ],
+        "true": "Latitude is the angle between the plane of the equator and the line from the centre of the earth to the position.",
+        "annex": null
+    },
+    {
+        "question": "Geodetic latitude and geocentric latitude coincide…",
+        "options": [
+            "only at the Poles.",
+            "only on the equator.",
+            "at the Poles and on the Equator.",
+            "at 45°N/S."
+        ],
+        "true": "at the Poles and on the Equator.",
+        "annex": null
+    },
+    {
+        "question": "The distance along a Meridian between 63°55'N and 13°47'S is:",
+        "options": [
+            "7702 NM",
+            "5008 NM",
+            "3008 NM",
+            "4662 NM"
+        ],
+        "true": "4662 NM",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to ) Which in the represents the geodetic (geographic) latitude of position P, which is situated above the surface of the ellipsoid?",
+        "options": [
+            "C",
+            "A",
+            "D",
+            "B"
+        ],
+        "true": "A",
+        "annex": [
+            "48",
+            "061-600199"
+        ]
+    },
+    {
+        "question": "A Rhumb line is:",
+        "options": [
+            "A line on the surface of the earth cutting all meridians at the same angle",
+            "The shortest distance between two points on a Polyconic projection",
+            "Any straight line on a Lambert projection",
+            "A line convex to the nearest pole on a Mercator projection"
+        ],
+        "true": "A line on the surface of the earth cutting all meridians at the same angle",
+        "annex": null
+    },
+    {
+        "question": "A semi great circle on the Earth running from the North Pole to the South Pole is called a…",
+        "options": [
+            "meridian.",
+            "longitude.",
+            "difference of longitude.",
+            "parallel of latitude."
+        ],
+        "true": "meridian.",
+        "annex": null
+    },
+    {
+        "question": "When flying on a westerly great circle track in the southern hemisphere, the…",
+        "options": [
+            "rhumb line track between the departure point and the destination will always be on the left.",
+            "true track will increase.",
+            "true track will decrease.",
+            "track will spiral and finally end up at the South Pole."
+        ],
+        "true": "true track will increase.",
+        "annex": null
+    },
+    {
+        "question": "Two places on the parallel of 47°S lie 757.8 km apart. Calculate the difference in longitude.",
+        "options": [
+            "9°19'",
+            "4°39'",
+            "4°51'",
+            "10°00'"
+        ],
+        "true": "10°00'",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is in the position (86ºN, 020ºE). When following a Rhumb Line Track of 085º(T)  it will:",
+        "options": [
+            "Fly via a spiral to the North Pole.",
+            "Follow a line which lies at first to the North of the parallel of 86ºN but after having passed a DL of 180º to the South of it.",
+            "Follow a small circle which lies to the North of the parallel of 86ºN.",
+            "Fly to the north via an arbitrary line."
+        ],
+        "true": "Fly via a spiral to the North Pole.",
+        "annex": null
+    },
+    {
+        "question": "Which definition of the equator is correct?",
+        "options": [
+            "The equator is a great circle with its plane perpendicular to the earth rotational axis.",
+            "The equator is a great circle with its plane parallel to the earth rotational axis.",
+            "The equator is a small circle with its plane perpendicular to the earth rotational axis.",
+            "The equator is a small circle, the plane is  parallel to the earth rotational axis."
+        ],
+        "true": "The equator is a great circle with its plane perpendicular to the earth rotational axis.",
+        "annex": null
+    },
+    {
+        "question": "Which definition describes best the notion of the  Poles?",
+        "options": [
+            "The Poles are the points of intersection between the surface of the earth and the extended line joining the star Polaris with the centre of the earth.",
+            "The Poles are the points of intersection between the earth’s axis and the surface of the earth.",
+            "The Poles are the points on the surface of the earth which have the same distance to all points of the ecliptic.",
+            "The poles are the points on the surface of the earth where gravity acts under an angle of exactly 90?."
+        ],
+        "true": "The Poles are the points of intersection between the earth’s axis and the surface of the earth.",
+        "annex": null
+    },
+    {
+        "question": "Given:Position A 45°N, ?°E Position B 45°N, 45°15’E Distance between A and B: 280 NMB is to the east of A What is the longitude of position A?",
+        "options": [
+            "40°33’E",
+            "49°57’E",
+            "51°51’E",
+            "38°39’E"
+        ],
+        "true": "38°39’E",
+        "annex": null
+    },
+    {
+        "question": "If you are flying along a parallel of latitude, you are flying…",
+        "options": [
+            "a rhumb line track.",
+            "on a north - south track.",
+            "a great circle track.",
+            "on a track which is constantly changing direction."
+        ],
+        "true": "a rhumb line track.",
+        "annex": null
+    },
+    {
+        "question": "The departure between positions A (60°N, 160°E) and B (60°N- is 900 NM. If B is to the east of A, what is the longitude of B?",
+        "options": [
+            "145°E",
+            "170°W",
+            "140°W",
+            "175°E"
+        ],
+        "true": "170°W",
+        "annex": null
+    },
+    {
+        "question": "Where on the surface of the Earth do rhumb line tracks and great circle tracks coincide?",
+        "options": [
+            "On high latitude tracks directly east to west.",
+            "On tracks directly north to south and on east to west tracks along the Equator.",
+            "On east to west tracks in polar areas.",
+            "On east to west tracks in the northern hemisphere north of the Magnetic Equator."
+        ],
+        "true": "On tracks directly north to south and on east to west tracks along the Equator.",
+        "annex": null
+    },
+    {
+        "question": "What will the new longitude be if an aircraft tracks 090°(T) for 315 km from position 60°N, 005°W?",
+        "options": [
+            "000°40’E",
+            "000°15’E",
+            "005°15’E",
+            "002°10’W"
+        ],
+        "true": "000°40’E",
+        "annex": null
+    },
+    {
+        "question": "The initial great circle track from A to B is 080° and the rhumb line track is 083°. What is the initial great circle track from B to A and in which hemisphere are the two positions located?",
+        "options": [
+            "266°T  and in the northern hemisphere.",
+            "266°T and in the southern hemisphere.",
+            "260°T and in the northern hemisphere.",
+            "260°T and in the southern hemisphere."
+        ],
+        "true": "266°T  and in the northern hemisphere.",
+        "annex": null
+    },
+    {
+        "question": "An aircraft follows a great circle in the Northern Hemisphere. As the aircraft continues beyond the point where the track is 270°(T), the great circle track angle will…",
+        "options": [
+            "increase and the latitude will increase.",
+            "decrease and the latitude will decrease.",
+            "decrease and the latitude will increase.",
+            "increase and the latitude will decrease."
+        ],
+        "true": "decrease and the latitude will decrease.",
+        "annex": null
+    },
+    {
+        "question": "Which statement about meridians is correct?",
+        "options": [
+            "A meridian is a complete great circle of 360°.",
+            "All meridians are parallel to the Greenwich Meridian.",
+            "A meridian and its anti-meridian form a complete great circle.",
+            "The plane of a meridian is parallel to the Equator."
+        ],
+        "true": "A meridian and its anti-meridian form a complete great circle.",
+        "annex": null
+    },
+    {
+        "question": "What is the longitude of a position 6 NM due east of 58°42’N, 094°00’W?",
+        "options": [
+            "093°53.1’W",
+            "094°12.0’W",
+            "093°54.0’W",
+            "093°48.5’W"
+        ],
+        "true": "093°48.5’W",
+        "annex": null
+    },
+    {
+        "question": "What is the earth distance of one degree of longitude at latitude 60° South?",
+        "options": [
+            "90 NM",
+            "30 NM",
+            "52 NM",
+            "60 NM"
+        ],
+        "true": "30 NM",
+        "annex": null
+    },
+    {
+        "question": "Given:A (56°N, 145°E) B (57°N, 165°W) What is the difference in longitude between A and B?",
+        "options": [
+            "050°",
+            "020°",
+            "130°",
+            "001°"
+        ],
+        "true": "050°",
+        "annex": null
+    },
+    {
+        "question": "Position A = (30°00.0'N, 175°23.2'W); Position B = (30°00.0'N, 173°48.1'E).  For the route from A to B the:",
+        "options": [
+            "Rhumb line distance is 562 NM",
+            "Great circle direction at A is 275.4°",
+            "Rhumb line distance is 648.7 NM",
+            "Great circle direction at B is 092.7°"
+        ],
+        "true": "Rhumb line distance is 562 NM",
+        "annex": null
+    },
+    {
+        "question": "Given:  Position 'A' is N00° E100°, Position 'B' is 240°(T), 200 NM from 'A'.  What is the position of 'B'?",
+        "options": [
+            "N01°40' E097°07'",
+            "S01°40' E097°07'",
+            "S01°40' E101°40'",
+            "N01°40' E101°40'"
+        ],
+        "true": "S01°40' E097°07'",
+        "annex": null
+    },
+    {
+        "question": "The great circle distance between position A (59°34.1'N 008°08.4'E) and B (30°25.9'N 171°51.6'W) is:",
+        "options": [
+            "2 700 NM",
+            "5 400 NM",
+            "10 800 km",
+            "10 800 NM"
+        ],
+        "true": "5 400 NM",
+        "annex": null
+    },
+    {
+        "question": "An aeroplane is circling the Earth following parallel of latitude 60°N at a ground speed of 480 kt. To circle the Earth along the equator in the same amount of time, it should fly at a ground speed of…",
+        "options": [
+            "480 kt.",
+            "240 kt.",
+            "550 kt.",
+            "960 kt."
+        ],
+        "true": "960 kt.",
+        "annex": null
+    },
+    {
+        "question": "What is the time required to travel along the parallel of latitude 60°N between meridians 010°E and 030°W at a groundspeed of 480 kt?",
+        "options": [
+            "2 hours 30 minutes",
+            "5 hours 00 minutes",
+            "1 hour 15 minutes",
+            "1 hour 45 minutes"
+        ],
+        "true": "2 hours 30 minutes",
+        "annex": null
+    },
+    {
+        "question": "Position A is located on the equator at longitude 130°00E.   Position B is located 100 NM from A on a bearing of 225°(T).  The coordinates of position B are:",
+        "options": [
+            "01°11'N 131°11'E",
+            "01°11'S 131°11'E",
+            "01°11'S 128°49'E",
+            "01°11'N 128°49'E"
+        ],
+        "true": "01°11'S 128°49'E",
+        "annex": null
+    },
+    {
+        "question": "An aircraft departs from position A (04°10’S, 178°22’W) and flies northward following the meridian for 2950 NM. It then flies westward along the parallel of latitude for 382 NM to position B.What are the coordinates of position B?",
+        "options": [
+            "45°00’N, 169°22’W",
+            "45°00’N, 172°38’E",
+            "53°20’N, 169°22’W",
+            "53°20’N, 172°38’E"
+        ],
+        "true": "45°00’N, 172°38’E",
+        "annex": null
+    },
+    {
+        "question": "On an oblate spheroid representing the Earth’s shape 1 minute of arc along the…",
+        "options": [
+            "meridian at low latitudes measures a greater distance than 1 minute of arc along the meridian at high latitudes.",
+            "meridian at 0°N/S measures the same distance as 1 minute of arc at 90°N/S.",
+            "Equator measures the same distance as 1 minute of arc along the meridian at a latitude of 45°N/S.",
+            "Equator measures a greater distance than 1 minute of arc along the meridian at a latitude of 45°N/S."
+        ],
+        "true": "Equator measures a greater distance than 1 minute of arc along the meridian at a latitude of 45°N/S.",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what is the approximate position of B? Position A: 31°00’S, 176°17’W Rhumb line track from A to B: 270°(T) Initial great circle track from A to B: 266.2°(T)",
+        "options": [
+            "31°00’S, 173°24’E",
+            "31°00’S, 173°24’W",
+            "31°00’S, 168°58’E",
+            "31°00’S, 161°32’W"
+        ],
+        "true": "31°00’S, 168°58’E",
+        "annex": null
+    },
+    {
+        "question": "How many degrees has the mean Sun moved along the celestial Equator in 8 hours and 8 minutes?",
+        "options": [
+            "18°",
+            "148°",
+            "56°",
+            "122°"
+        ],
+        "true": "122°",
+        "annex": null
+    },
+    {
+        "question": "In a sunrise/sunset table given for the 28th of June at a certain latitude, sunrise is given as 02:39 and sunset is given as 21:27. What is the latitude?",
+        "options": [
+            "80°N",
+            "60°N",
+            "55°S",
+            "00°N/S"
+        ],
+        "true": "60°N",
+        "annex": null
+    },
+    {
+        "question": "On a given date, when proceeding along a parallel towards the east, sunrise will occur one hour earlier with every 15° change of longitude when it is expressed in…",
+        "options": [
+            "UTC.",
+            "Local Apparent Time.",
+            "Standard Time.",
+            "LMT."
+        ],
+        "true": "UTC.",
+        "annex": null
+    },
+    {
+        "question": "Which statement is correct about the apparent solar day?",
+        "options": [
+            "The apparent solar day is the period between two successive transits of the true Sun through the same meridian.",
+            "The apparent solar day is the period between two successive transits of the mean Sun through the same meridian.",
+            "The duration of the apparent solar day is constant throughout a year due to the constant rotational speed of the Earth around its axis.",
+            "The duration of the apparent solar day is constant throughout a year due to the constant velocity of the Earth in its orbit around the Sun."
+        ],
+        "true": "The apparent solar day is the period between two successive transits of the true Sun through the same meridian.",
+        "annex": null
+    },
+    {
+        "question": "What is the cause of the continuous variation in the length of the apparent solar day throughout the year?",
+        "options": [
+            "The fact that the Earth is closest to the Sun around the 1st of January.",
+            "The tilt of the Earth’s axis and the elliptical orbit of the Earth around the Sun.",
+            "The equation of time.",
+            "The fact that the Earth is closest to the Sun around the 1st of July."
+        ],
+        "true": "The tilt of the Earth’s axis and the elliptical orbit of the Earth around the Sun.",
+        "annex": null
+    },
+    {
+        "question": "The reason that the solar day lasts longer than the sidereal day is that…",
+        "options": [
+            "both the direction of rotation of the Earth around its axis and its orbital rotation around the Sun are the same.",
+            "the orbital speed of the Earth around its axis diminishes slowly.",
+            "the orbital track of the Earth around the Sun is an ellipse.",
+            "the Sun has an own movement through the universe opposite to the movement of the Earth due to the gravitational forces of celestial bodies."
+        ],
+        "true": "both the direction of rotation of the Earth around its axis and its orbital rotation around the Sun are the same.",
+        "annex": null
+    },
+    {
+        "question": "5 HR 20 MIN 20 SEC corresponds to a longitude difference of:",
+        "options": [
+            "80°05'",
+            "81°10'",
+            "78°45'",
+            "75°00'"
+        ],
+        "true": "80°05'",
+        "annex": null
+    },
+    {
+        "question": "The main reason that day and night, throughout the year, have different duration, is due to the..",
+        "options": [
+            "gravitational effect of the Sun and Moon on the speed of rotation of the Earth.",
+            "Earth’s rotation.",
+            "relative speed of the Sun along the ecliptic.",
+            "inclination of the ecliptic to the Equator."
+        ],
+        "true": "inclination of the ecliptic to the Equator.",
+        "annex": null
+    },
+    {
+        "question": "An observer is situated on the parallel of 23.5°S.Which statement about the passage of the apparent Sun in relation to this position is correct? It passes through the zenith…",
+        "options": [
+            "twice a year around March 21st and September 23rd.",
+            "once a year around March 21st.",
+            "once a year around December 22nd.",
+            "twice a year around June 21st and December 22nd."
+        ],
+        "true": "once a year around December 22nd.",
+        "annex": null
+    },
+    {
+        "question": "The Local Mean Time at longitude 095°20'W, at 0000 UTC, is:",
+        "options": [
+            "0621:20 previous day",
+            "1738:40 previous day",
+            "1738:40 same day",
+            "0621:20 same day"
+        ],
+        "true": "1738:40 previous day",
+        "annex": null
+    },
+    {
+        "question": "What is the local mean time, position 65°25'N 123°45'W at 2200 UTC?",
+        "options": [
+            "0615",
+            "0815",
+            "1345",
+            "2200"
+        ],
+        "true": "1345",
+        "annex": null
+    },
+    {
+        "question": "At 0000 Local Mean Time of an observer:",
+        "options": [
+            "The mean sun is in transit with the observer's anti-meridian.",
+            "The mean sun is in transit with the observer's meridian.",
+            "The apparent sun is in transit with the observer's meridian.",
+            "The apparent sun is in transit with the observer's anti-meridian."
+        ],
+        "true": "The mean sun is in transit with the observer's anti-meridian.",
+        "annex": null
+    },
+    {
+        "question": "When the time is 14:00 LMT at 90° west, it is…",
+        "options": [
+            "06:00 LMT at the prime meridian.",
+            "14:00 LMT at 090° east.",
+            "10:00 LMT at 060° west.",
+            "12:00 LMT at 120° west."
+        ],
+        "true": "12:00 LMT at 120° west.",
+        "annex": null
+    },
+    {
+        "question": "When the time is 2000 UTC, it is:",
+        "options": [
+            "0800 LMT at the Prime meridian.",
+            "2400 LMT at 120° West.",
+            "1400 LMT at 90° West.",
+            "1200 LMT at 60° East."
+        ],
+        "true": "1400 LMT at 90° West.",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to )  When it is  Standard Time in Kuwait, the Standard Time in Algeria is:",
+        "options": [
+            "1200",
+            "0700",
+            "0800",
+            "1300"
+        ],
+        "true": "0800",
+        "annex": [
+            "90",
+            "1000",
+            "061-2305"
+        ]
+    },
+    {
+        "question": "Which statement about ST is true?",
+        "options": [
+            "In all cases the standard times at Western longitudes are slow on and at Eastern longitudes fast on UTC.",
+            "Standard time is determined by the government of the appropriate state and does not necessarily follow the borders of 15° wide longitude zones.",
+            "Standard time is the time that is determined by division of the longitude by 15 and rounding off the answer to the nearest integer.",
+            "The standard time at 125° W is UTC - 8h20m"
+        ],
+        "true": "Standard time is determined by the government of the appropriate state and does not necessarily follow the borders of 15° wide longitude zones.",
+        "annex": null
+    },
+    {
+        "question": "(Refer to images) An aircraft takes off from Guam at 2300 Standard Time on 30 April local date. After a flight of 11 HR 15 MIN it lands at Los Angeles (California). What is the Standard Time and local date of arrival (assume summer time).",
+        "options": [
+            "1615 on 30 April",
+            "1315 on 1 May",
+            "1715 on 30 April",
+            "1215 on 1 May"
+        ],
+        "true": "1715 on 30 April",
+        "annex": [
+            "610093",
+            "061-2305",
+            "061-2308"
+        ]
+    },
+    {
+        "question": "(Refer to images)When it is 0600 Standard Time in Queensland (Australia) the Standard Time in Hawaii (USA) is:",
+        "options": [
+            "0600",
+            "1200",
+            "1000",
+            "0200"
+        ],
+        "true": "1000",
+        "annex": [
+            "061-2305",
+            "061-2308"
+        ]
+    },
+    {
+        "question": "What is the meaning of the term standard time?",
+        "options": [
+            "It is the time zone system and is applicable only in the Unites States of America.",
+            "It is another term for UTC.",
+            "It is the time set by the legal authorities for a country or part of a country.",
+            "It is an expression for Local Mean Time."
+        ],
+        "true": "It is the time set by the legal authorities for a country or part of a country.",
+        "annex": null
+    },
+    {
+        "question": "An aircraft departs from Schiphol airport and flies to Santa Cruz in Bolivia (South America) via Miami in Florida. The departure time (off blocks) is 07:45 ST on the 10th of November, and taxi time before take off at Schiphol is 25 minutes. The flight time to Miami over the Atlantic Ocean is 09h 20m.The total taxi time in Miami to and from the gate is 25 minutes. The time spend at the gate is 02h 40m. From Miami to Santa Cruz the airborne time is 06h 30m. Calculate the time and date of touch down in Santa Cruz in ST Bolivia if the difference between ST and UTC is 5 hours.",
+        "options": [
+            "21:05 10th Nov.",
+            "09:05 11th Nov.",
+            "07:05 11th Nov.",
+            "22:05 10th Nov."
+        ],
+        "true": "21:05 10th Nov.",
+        "annex": null
+    },
+    {
+        "question": "Standard time for some areas is listed in the Air Almanac as UTC +13 instead of UTC -11. The reason for this is…",
+        "options": [
+            "the sense of the Earth’s rotation.",
+            "the fact that these areas are applying daylight saving time.",
+            "to keep the same date for areas in the same political or economical entity.",
+            "the set-up of the sunrise/sunset tables."
+        ],
+        "true": "to keep the same date for areas in the same political or economical entity.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following alternatives is correct when you cross the international date line?",
+        "options": [
+            "The date will increase if you are crossing on a easterly heading.",
+            "The date will increase if you are crossing on a westerly heading.",
+            "If you are crossing from westerly longitude to easterly longitude the date will remain the same.",
+            "The date will always be the same."
+        ],
+        "true": "The date will increase if you are crossing on a westerly heading.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following statements is correct when crossing the International Date Line?",
+        "options": [
+            "The date will always be the same.",
+            "The date will increase when crossing on a westerly heading.",
+            "The date will remain the same when crossing from a westerly longitude to an easterly longitude.",
+            "The date will increase when crossing on an easterly heading."
+        ],
+        "true": "The date will increase when crossing on a westerly heading.",
+        "annex": null
+    },
+    {
+        "question": "The duration of civil twilight is the time…",
+        "options": [
+            "between sunset and when the centre of the Sun is 6° below the celestial horizon.",
+            "needed by the Sun to move from the apparent height of 0° to the apparent height of 6°.",
+            "agreed by the international aeronautical authorities, which is 12 minutes.",
+            "between sunset and when the centre of the Sun is 12° below the celestial horizon."
+        ],
+        "true": "between sunset and when the centre of the Sun is 6° below the celestial horizon.",
+        "annex": null
+    },
+    {
+        "question": "Sunrise on the 27th of February at 52°S, 040°E is at 02:43 UTC. What time is sunrise at 52°S, 035°W on the same day?",
+        "options": [
+            "05:23 UTC",
+            "21:43 UTC",
+            "07:43 UTC",
+            "02:43 UTC"
+        ],
+        "true": "07:43 UTC",
+        "annex": null
+    },
+    {
+        "question": "The SR/SS table for the 23rd of February at latitude 40°N gives: SR = 06:44SS = 17:44 At 12:00 Central European Time (UTC +1). At 40ºN, the Sun…",
+        "options": [
+            "sets at 86ºE.",
+            "sets at 116ºE.",
+            "rises at 79ºW.",
+            "rises at 64ºW."
+        ],
+        "true": "rises at 64ºW.",
+        "annex": null
+    },
+    {
+        "question": "Mu’a, Tonga Islands, is situated at 21°11’S, 175°07’W. In the Air Almanac the standard time of Tonga Islands is listed as UTC +13. For August 21st the sunrise table in the Air Almanac shows: 20°S: 06:18 30°S: 06:28 What is the Standard Time of sunrise at Mu’a?",
+        "options": [
+            "07:39 on August 22nd.",
+            "07:39 on August 21st.",
+            "06:59 on August 22nd.",
+            "06:59 on August 21st."
+        ],
+        "true": "06:59 on August 22nd.",
+        "annex": null
+    },
+    {
+        "question": "Position Elephant Point is situated at 58°00’N, 135°30’W.Standard time for this location is listed in the Air Almanac as UTC -8.If sunset occurs at 00:57 UTC on 21st January, what is the time of sunset in LMT?",
+        "options": [
+            "15:55 on January 20th.",
+            "09:59 on January 21st.",
+            "16:57 on January 20th.",
+            "08:57 on January 21st."
+        ],
+        "true": "15:55 on January 20th.",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to ) The GMT of Sunrise at (66º48'N, 095º26'W) on  of January is?",
+        "options": [
+            "1541 GMT",
+            "0927 GMT",
+            "0814 GMT",
+            "1551 GMT"
+        ],
+        "true": "1551 GMT",
+        "annex": [
+            "104",
+            "061-600414",
+            "27th"
+        ]
+    },
+    {
+        "question": "Which statement about the duration of daylight is true?",
+        "options": [
+            "Close to the equinoxes the influence of latitude on the duration of daylight is at its smallest.",
+            "In summer the length of the period of daylight decreases with increasing latitude.",
+            "On September 10th the duration of daylight is longer on the Southern Hemisphere than on the Northern Hemisphere.",
+            "Close to the solstices the influence of latitude on the duration of daylight is at its smallest."
+        ],
+        "true": "Close to the equinoxes the influence of latitude on the duration of daylight is at its smallest.",
+        "annex": null
+    },
+    {
+        "question": "The time difference in Local Mean Time between sunset at positions A (50°N, 120°E) and B (50°S, 120°E) on the 21st of November is…",
+        "options": [
+            "negligible small because A and B are located symmetrically to the Equator.",
+            "negligible small because A and B are located at the same meridian.",
+            "some hours and the Sun rises earlier in B than in A.",
+            "some hours and the Sun rises earlier in A than in B"
+        ],
+        "true": "some hours and the Sun rises earlier in B than in A.",
+        "annex": null
+    },
+    {
+        "question": "Which statement is true?",
+        "options": [
+            "The declination of the Sun and the latitude of the observer will affect the duration of civil twilight.",
+            "The duration of the civil twilight on 21st of March and on 23rd of September is equal at all places on Earth independent of latitude.",
+            "Only the declination of the Sun will affect the duration of civil twilight.",
+            "Civil twilight at the Equator lasts longer than at 60°N or 60°S because the radius of the Equator is larger than the radius of the 60° parallel."
+        ],
+        "true": "The declination of the Sun and the latitude of the observer will affect the duration of civil twilight.",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to ) The UTC of sunrise on  December at WINNIPEG (Canada) (°'N °'W) is:",
+        "options": [
+            "2230",
+            "1413",
+            "0113",
+            "0930"
+        ],
+        "true": "1413",
+        "annex": [
+            "108",
+            "6",
+            "49",
+            "50",
+            "097",
+            "30",
+            "061-2304"
+        ]
+    },
+    {
+        "question": "Morning Civil twilight begins when the…",
+        "options": [
+            "centre of the Sun is 6° below the celestial horizon.",
+            "centre of the Sun is 18° below the celestial horizon.",
+            "Sun’s upper edge is tangential to the celestial horizon.",
+            "centre of the Sun is 12° below the celestial horizon."
+        ],
+        "true": "centre of the Sun is 6° below the celestial horizon.",
+        "annex": null
+    },
+    {
+        "question": ") (Refer to ) What is the duration of morning Civil Twilight at (66º48'N, 095º26'W) on  of January?",
+        "options": [
+            "01h 13m",
+            "08h 14m",
+            "09h 27m",
+            "01h 02m"
+        ],
+        "true": "01h 13m",
+        "annex": [
+            "110",
+            "27th",
+            "061-600414"
+        ]
+    },
+    {
+        "question": ") (Refer to )  What is the UTC of morning civil twilight at °’N, °’W on  of January?",
+        "options": [
+            "08:14 UTC",
+            "14:36 UTC",
+            "09:27 UTC",
+            "15:41 UTC"
+        ],
+        "true": "14:36 UTC",
+        "annex": [
+            "111",
+            "66",
+            "48",
+            "095",
+            "26",
+            "27th",
+            "061-600414"
+        ]
+    },
+    {
+        "question": "The definition of True North for any observer is the…",
+        "options": [
+            "direction of the Greenwich Meridian to the North Pole.",
+            "direction of the observer’s Magnetic North corrected for local variation.",
+            "direction of the observer’s meridian to the North Pole.",
+            "reading of the observer’s compass corrected for deviation and local variation."
+        ],
+        "true": "direction of the observer’s meridian to the North Pole.",
+        "annex": null
+    },
+    {
+        "question": "What is the value of the magnetic dip at the magnetic South Pole?",
+        "options": [
+            "45°",
+            "0°",
+            "60°",
+            "90°"
+        ],
+        "true": "90°",
+        "annex": null
+    },
+    {
+        "question": "The north and south magnetic poles are the only positions on the Earth’s surface where…",
+        "options": [
+            "a freely suspended compass needle will stand vertical.",
+            "a freely suspended compass needle will stand horizontal.",
+            "the value of magnetic variation equals 90°.",
+            "the horizontal component of the Earth’s magnetic field is a maximum."
+        ],
+        "true": "a freely suspended compass needle will stand vertical.",
+        "annex": null
+    },
+    {
+        "question": "The direction of Magnetic North at a certain position coincides with the direction of the…",
+        "options": [
+            "isoclinic line to the magnetic North Pole.",
+            "horizontal component of the Earth’s magnetic field.",
+            "great circle to the magnetic North Pole.",
+            "isogonic line to the magnetic North Pole."
+        ],
+        "true": "horizontal component of the Earth’s magnetic field.",
+        "annex": null
+    },
+    {
+        "question": "The direction magnetic north at a position on the Earth is the…",
+        "options": [
+            "great circle between the position and the magnetic North Pole.",
+            "direction of the horizontal component of the of the Earth’s magnetic field at that position.",
+            "compass North at that position corrected for variation.",
+            "isogonal to the magnetic North Pole."
+        ],
+        "true": "direction of the horizontal component of the of the Earth’s magnetic field at that position.",
+        "annex": null
+    },
+    {
+        "question": "At a specific location, the value of magnetic variation…",
+        "options": [
+            "depends on the true heading.",
+            "varies slowly over time.",
+            "depends on the magnetic heading.",
+            "depends on the type of compass installed."
+        ],
+        "true": "varies slowly over time.",
+        "annex": null
+    },
+    {
+        "question": "The charted values of magnetic variation on Earth normally changes annually due to…",
+        "options": [
+            "an increasing field strength causing numerical values at all locations to increase.",
+            "magnetic pole movement causing numerical values at all locations to increase or decrease.",
+            "a reducing field strength causing numerical values at all locations to decrease.",
+            "magnetic pole movement causing numerical values at all locations to increase."
+        ],
+        "true": "magnetic pole movement causing numerical values at all locations to increase or decrease.",
+        "annex": null
+    },
+    {
+        "question": "The angle between True North and Magnetic North is called…",
+        "options": [
+            "drift.",
+            "deviation.",
+            "variation.",
+            "compass error."
+        ],
+        "true": "variation.",
+        "annex": null
+    },
+    {
+        "question": "The horizontal component of the earth's magnetic field:",
+        "options": [
+            "Is very small close to the magnetic poles.",
+            "Is maximum at the magnetic poles.",
+            "Increases with an increase of the magnetic latitude.",
+            "Is minimum at the magnetic equator."
+        ],
+        "true": "Is very small close to the magnetic poles.",
+        "annex": null
+    },
+    {
+        "question": "The value of Magnetic Variation:",
+        "options": [
+            "Must be 0° at the magnetic equator",
+            "Varies between a maximum of 45° East and 45° West",
+            "Cannot exceed 90°",
+            "Has a maximum of 180°"
+        ],
+        "true": "Has a maximum of 180°",
+        "annex": null
+    },
+    {
+        "question": "Near the magnetic pole:",
+        "options": [
+            "The angle of dip is minimal whereby a freely suspended compass needle will be almost fully vertically aligned.",
+            "The angle of dip is maximal whereby a freely suspended compass needle will be almost fully horizontally aligned.",
+            "The horizontal component of the earth's magnetic field is too small to permit the use of a magnetic compass.",
+            "The vertical component of the earth's magnetic field is too small to permit the use of a magnetic compass."
+        ],
+        "true": "The horizontal component of the earth's magnetic field is too small to permit the use of a magnetic compass.",
+        "annex": null
+    },
+    {
+        "question": "Deviation applied to magnetic heading gives…",
+        "options": [
+            "magnetic course.",
+            "true heading.",
+            "magnetic track.",
+            "compass heading."
+        ],
+        "true": "compass heading.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following variables affect deviation?\n\n1. Magnetic latitude\n2. Aircraft heading\n3. Aircraft altitude\n4. Aircraft electronic equipment",
+        "options": [
+            "2 and 3 only",
+            "1, 2, and 3",
+            "3 and 4 only",
+            "1, 2, and 4"
+        ],
+        "true": "1, 2, and 4",
+        "annex": null
+    },
+    {
+        "question": "The angle between Magnetic North and Compass North is called…",
+        "options": [
+            "alignment error.",
+            "compass deviation.",
+            "compass error.",
+            "magnetic variation."
+        ],
+        "true": "compass deviation.",
+        "annex": null
+    },
+    {
+        "question": "Deviation on the standby compass is…",
+        "options": [
+            "independent of the latitude of the aircraft’s position.",
+            "dependent on the heading of the aircraft.",
+            "positive if the Compass North is to the west of Magnetic North.",
+            "zero on the magnetic Equator."
+        ],
+        "true": "dependent on the heading of the aircraft.",
+        "annex": null
+    },
+    {
+        "question": "Grid heading is 299°, grid convergency is 55° West and Magnetic Variation is 90° West. What is the corresponding Magnetic Heading?",
+        "options": [
+            "334°",
+            "264°",
+            "084°",
+            "154°"
+        ],
+        "true": "084°",
+        "annex": null
+    },
+    {
+        "question": "If the Compass Heading is 265°, variation is 33° W and deviation is 3°E, what is the True Heading?",
+        "options": [
+            "301°",
+            "235°",
+            "295°",
+            "229°"
+        ],
+        "true": "235°",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, calculate the true course: A Northern Hemisphere Polar Stereographic chart with the grid aligned with the zero meridian Grid track: 344°Longitude: 115°00’W.",
+        "options": [
+            "049°",
+            "099°",
+            "279°",
+            "229°"
+        ],
+        "true": "229°",
+        "annex": null
+    },
+    {
+        "question": "A negative (westerly) magnetic variation signifies that…",
+        "options": [
+            "True North is east of Magnetic North.",
+            "True North is west of Magnetic North.",
+            "Compass North is east of Magnetic North.",
+            "Compass North is west of Magnetic North."
+        ],
+        "true": "True North is east of Magnetic North.",
+        "annex": null
+    },
+    {
+        "question": "Isogonals are lines of equal…",
+        "options": [
+            "pressure.",
+            "wind velocity.",
+            "compass deviation.",
+            "magnetic variation."
+        ],
+        "true": "magnetic variation.",
+        "annex": null
+    },
+    {
+        "question": "The lines on the Earth’s surface that join points of equal magnetic variation are called…",
+        "options": [
+            "isogrivs.",
+            "isotachs.",
+            "isoclines.",
+            "isogonals."
+        ],
+        "true": "isogonals.",
+        "annex": null
+    },
+    {
+        "question": "A definition of a Magnetic Track angle is:",
+        "options": [
+            "The direction of a line referenced to Magnetic North.",
+            "The direction of the longitudinal axis of an aircraft referenced to Magnetic North.",
+            "The direction of a line referenced to the isogonic line to the Magnetic North pole. Compass North.",
+            "The direction of the longitudinal axis of an aircraft referenced to Compass North."
+        ],
+        "true": "The direction of a line referenced to Magnetic North.",
+        "annex": null
+    },
+    {
+        "question": "Given: Compass Heading = 233°, True Track= 256°, Drift Angle10°R, Deviation = -3°   What is the variation?",
+        "options": [
+            "10°W",
+            "20°W",
+            "36°E",
+            "16°E"
+        ],
+        "true": "16°E",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what is the compass heading? True track: 348° Drift: 17° left Variation: 32° W Deviation: 4° E",
+        "options": [
+            "033°",
+            "007°",
+            "359°",
+            "337°"
+        ],
+        "true": "033°",
+        "annex": null
+    },
+    {
+        "question": "Route A - B is drawn on a Northern Hemisphere Polar Stereographic Chart with the grid aligned with the Greenwich Meridian. The True Track of the straight line at A is 060°. When passing the Meridian 100°E, the True Track is 090°. The Grid Track of this route on the chart is:",
+        "options": [
+            "060º(G)",
+            "350º(G)",
+            "130º(G)",
+            "010º(G)"
+        ],
+        "true": "350º(G)",
+        "annex": null
+    },
+    {
+        "question": "A straight line route from A (75°S, 010°W) to B is drawn on a Polar Stereographic chart with the grid aligned with the Greenwich meridian. If the true track at A is 080°, what is the grid track when passing the meridian of 050°E?",
+        "options": [
+            "070°(G)",
+            "330°(G)",
+            "090°(G)",
+            "110°(G)"
+        ],
+        "true": "070°(G)",
+        "annex": null
+    },
+    {
+        "question": "A route is flown from 80°S, 100°W to 80°S, 140°E. At 160°W the Grid Track (GT) and True Track (TT) on a Polar Stereographic chart with a grid orientated on the 180°E/W meridian are respectively…",
+        "options": [
+            "110°(G) and 270°(T).",
+            "270°(G) and 290°(T).",
+            "290°(G) and 270°(T).",
+            "270°(G) and 110°(T)."
+        ],
+        "true": "290°(G) and 270°(T).",
+        "annex": null
+    },
+    {
+        "question": "Thule VOR is located at 76°32’N, 68°15’W. A Polar Stereographic chart with the grid aligned with the Greenwich meridian is used. The local variation is 75°W. Which grid track must be maintained to track radial 210°(M) inbound?",
+        "options": [
+            "023°(G)",
+            "285°(G)",
+            "203°(G)",
+            "323°(G)"
+        ],
+        "true": "023°(G)",
+        "annex": null
+    },
+    {
+        "question": "A route is drawn from 75°00’N, 060°00’E to 75°00’N, 030°00’W on a Polar Stereographic chart with the grid aligned with the Greenwich meridian. The Grid Track (GT) is…",
+        "options": [
+            "255°(G).",
+            "285°(G).",
+            "315°(G).",
+            "225°(G)."
+        ],
+        "true": "255°(G).",
+        "annex": null
+    },
+    {
+        "question": "A route is flown from (85°S, 100°E) to (85°S, 140°W).  At 180°E/W the Grid Track (GT) and True Track (TT) on a Polar Stereographic Chart, whose grid is aligned with the Greenwich Meridian, are respectively:",
+        "options": [
+            "070°(G) and 250°(T)",
+            "250°(G) and 070°(T)",
+            "110°(G) and 290°(T)",
+            "290°(G) and 110°(T)"
+        ],
+        "true": "250°(G) and 070°(T)",
+        "annex": null
+    },
+    {
+        "question": "A straight line route from A to B is drawn on a Southern Polar Stereographic chart whose grid is aligned with the Greenwich meridian. The true track at A is 120°. When passing the meridian of 100°E the true track is 090°. The grid track of this route on the chart is…",
+        "options": [
+            "190°(G).",
+            "350°(G).",
+            "120°(G).",
+            "030°(G)."
+        ],
+        "true": "190°(G).",
+        "annex": null
+    },
+    {
+        "question": "A route is flown from 80°S, 100°W to 80°S, 140°E. At 180°E/W the Grid Track (GT) and True Track (TT) on a Polar Stereographic chart, whose grid is aligned with the Greenwich meridian, are respectively…",
+        "options": [
+            "290°(G) and 110°(T).",
+            "110°(G) and 290°(T).",
+            "070°(G) and 250°(T).",
+            "250°(G) and 070°(T)."
+        ],
+        "true": "110°(G) and 290°(T).",
+        "annex": null
+    },
+    {
+        "question": "A nautical mile is equivalent to:",
+        "options": [
+            "1012 m",
+            "1852 m",
+            "1500 m",
+            "1609 m"
+        ],
+        "true": "1852 m",
+        "annex": null
+    },
+    {
+        "question": "What will the new latitude be if an aircraft tracks 180°(T) for 685 km from 02°20’N?",
+        "options": [
+            "03°50’S",
+            "04°30’S",
+            "04°10’S",
+            "09°05’S"
+        ],
+        "true": "03°50’S",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at latitude 10° North flies south at a groundspeed of 445 km/h. What will be its latitude after 3 hours?",
+        "options": [
+            "03°50’S",
+            "02°00’S",
+            "12°15’S",
+            "22°00’S"
+        ],
+        "true": "02°00’S",
+        "annex": null
+    },
+    {
+        "question": "An aircraft at latitude 10° South flies north at a GS of 890 km/h.   What will its latitude be after 1.5 hour?",
+        "options": [
+            "02°00'N",
+            "03°50'N",
+            "22°00'N",
+            "12°15'N"
+        ],
+        "true": "02°00'N",
+        "annex": null
+    },
+    {
+        "question": "The maximum difference in distance when proceeding along the great circle between two positions, instead of the rhumb line, will occur on…",
+        "options": [
+            "east-west tracks at high latitudes.",
+            "east-west tracks at low latitudes.",
+            "north-south tracks at high latitudes.",
+            "north-south tracks at low latitudes."
+        ],
+        "true": "east-west tracks at high latitudes.",
+        "annex": null
+    },
+    {
+        "question": "A flight is to be made from A 49°S, 180°E/W to B 58°S, 180°E/W. The distance in kilometres from A to B is approximately…",
+        "options": [
+            "540.",
+            "1222.",
+            "804.",
+            "1000"
+        ],
+        "true": "1000",
+        "annex": null
+    },
+    {
+        "question": "The rhumb line distance between points A (60°00’N 002°30’E) and B (60°00’N 007°30’W) is…",
+        "options": [
+            "450 NM.",
+            "600 NM.",
+            "150 NM.",
+            "300 NM."
+        ],
+        "true": "300 NM.",
+        "annex": null
+    },
+    {
+        "question": "Given the following information, what are the distances from A to B and from A to C respectively? Position ‘A’ N60, W020 Position ‘B’ N60, W021 Position ‘C’ N59, W020",
+        "options": [
+            "60 NM and 52 NM",
+            "60 NM and 30 NM",
+            "52 NM and 60 NM",
+            "30 NM and 60 NM"
+        ],
+        "true": "30 NM and 60 NM",
+        "annex": null
+    },
+    {
+        "question": "Which statement about the distances between the positions 00°N/S, 000°E/W and 00°N/S, 180°E/W on the Earth’s ellipsoid is correct?",
+        "options": [
+            "The route via the South Pole is shorter than the route via the North Pole.",
+            "The route via the North Pole is shorter than the route along the Equator.",
+            "The route via either pole and the route via the Equator are of equal length.",
+            "The route via the Equator is shorter than the route via the South Pole."
+        ],
+        "true": "The route via the North Pole is shorter than the route along the Equator.",
+        "annex": null
+    },
+    {
+        "question": "An aircraft departing A (N40º 00´ E080º 00´) flies a constant True Track of 270º at a ground speed of 120 kt.  What are the coordinates of the position reached in 6 HR?",
+        "options": [
+            "N40º 00´ E070º 30´",
+            "N40º 00´ E064º 20´",
+            "N40º 00´ E068º 10´",
+            "N40º 00´ E060º 00´"
+        ],
+        "true": "N40º 00´ E064º 20´",
+        "annex": null
+    },
+    {
+        "question": "If an aircraft flies a great circle track from 56°N, 070°W to 62°N, 110°E, the total distance travelled is…",
+        "options": [
+            "2040 NM.",
+            "5420 NM.",
+            "1788 NM.",
+            "3720 NM."
+        ],
+        "true": "3720 NM.",
+        "annex": null
+    },
+    {
+        "question": "An aircraft departs a point 04°00’N, 030°00’W and flies 600 NM south, followed by 600 NM east, then 600 NM north, then 600 NM west. What is its final position?",
+        "options": [
+            "04°00’N, 030°00’W",
+            "04°00’N, 030°02’W",
+            "04°00’N, 029°58’W",
+            "03°58’N, 030°02’W"
+        ],
+        "true": "04°00’N, 029°58’W",
+        "annex": null
+    },
+    {
+        "question": "An aircraft departs a point 60°00’N, 030°00’W and flies 3600 NM south, followed by 3600 NM east, then 3600 NM north, then 3600 NM west. What is the final position of the aircraft?",
+        "options": [
+            "60°00’N, 030°00’E",
+            "60°00’N, 090°00’W",
+            "59°00’N, 060°00’W",
+            "59°00’N, 090°00’W"
+        ],
+        "true": "60°00’N, 090°00’W",
+        "annex": null
+    },
+    {
+        "question": "In a particular location in July sunrise is 03:17 LMT and sunset 21:37 LMT. Which is the most likely latitude of this location?",
+        "options": [
+            "20°S",
+            "60°N",
+            "The equator",
+            "80°N"
+        ],
+        "true": "60°N",
+        "annex": null
+    },
+    {
+        "question": "In a particular location in July sunrise is 03:17 LMT and sunset 21:37 LMT. Which is the most likely latitude of this location?",
+        "options": [
+            "80°N",
+            "60°N",
+            "20°S",
+            "The equator"
+        ],
+        "true": "60°N",
+        "annex": null
+    },
+    {
+        "question": "The following points are entered into an inertial navigation system (INS): WPT 1: 60°N  30°W; WPT 2: 60°N  20°W; WPT 3: 60°N  10°W.  The inertial navigation system is connected to the automatic pilot on route (1-2-3). The great circle track change when passing WPT 2 will be approximately:",
+        "options": [
+            "A 4° decrease",
+            "A 9° decrease",
+            "Zero",
+            "A 9° increase"
+        ],
+        "true": "A 9° decrease",
+        "annex": null
+    },
+    {
+        "question": "An aircraft travels from point A to point B, using the autopilot connected to the  aircraft's inertial system. The coordinates of A (45°S 010°W) and B (45°S  030°W) have been entered. The True Course of the aircraft on its arrival at B,  to the nearest degree, is:",
+        "options": [
+            "270°",
+            "284°",
+            "277°",
+            "263°"
+        ],
+        "true": "277°",
+        "annex": null
+    },
+    {
+        "question": "As the INS position of the departure aerodrome, coordinates 35°32.7'N  139°46.3'W are input instead of 35°32.7'N 139°46.3'E. When the aircraft  subsequently passes point 52°N 180°W, the longitude value shown on the  INS will be:",
+        "options": [
+            "099° 32.6'E",
+            "099° 32.6'W",
+            "080° 27.4'W",
+            "080° 27.4'E"
+        ],
+        "true": "099° 32.6'W",
+        "annex": null
+    },
+    {
+        "question": "The automatic flight control system (AFCS) in an aircraft is coupled to the guidance outputs from an inertial navigation system (INS). The aircraft is flying between inserted waypoints No. 3 (55°00'N 020°00'W) and No.4 (55°00'N 030°00'W). With DSRTK/STS selected on the CDU, to the nearest  whole degree, the initial track read-out from waypoint No. 3 will be:",
+        "options": [
+            "274°",
+            "270°",
+            "278°",
+            "266°"
+        ],
+        "true": "274°",
+        "annex": null
+    },
+    {
+        "question": "If the acceleration of an aircraft is zero, its velocity:",
+        "options": [
+            "Is always zero",
+            "Will increase",
+            "Will decreases",
+            "Is constant"
+        ],
+        "true": "Is constant",
+        "annex": null
+    },
+    {
+        "question": "The automatic flight control system (AFCS) in an aircraft is coupled to the guidance outputs of an inertial navigation system (INS).The aircraft is flying  a Great Circle Track between waypoints No. 4 (45 00''N 040 00''W) and No.5 (45 00''N 030 00''W). On arrival over waypoint No. 5, compared to the TT at waypoint No.4, the TT has:",
+        "options": [
+            "Decreased by less than 10º",
+            "Remain unchanged",
+            "Decreased by more than 10º",
+            "Increased by less than 10º"
+        ],
+        "true": "Increased by less than 10º",
+        "annex": null
+    },
+    {
+        "question": "Kepler's second law states:",
+        "options": [
+            "The area swept out by the radius vector of each planet, sun to earth, per hour, increasing with increasing length of the radius vector",
+            "Each planet revolves so that the radius vector, sun to earth, sweeps out equal area in equal intervals of time",
+            "The length of the radius vector, sun to earth, is proportional to the square root of its angular speed",
+            "Each planet's radius vector, sun to earth, moves at a constant angular speed"
+        ],
+        "true": "Each planet revolves so that the radius vector, sun to earth, sweeps out equal area in equal intervals of time",
+        "annex": null
+    },
+    {
+        "question": "The reason that the solar day lasts longer than the sidereal day is that",
+        "options": [
+            "The orbital speed of the earth around its axis diminishes slowly.",
+            "Both the direction of rotation of the Earth around its axis and its orbital rotation around the sun are the same.",
+            "The orbital track of the earth around the sun is an ellipse.",
+            "The sun has an own movement through the universe opposite to the movement of the earth due to the gravitational forces of celestial bodies."
+        ],
+        "true": "Both the direction of rotation of the Earth around its axis and its orbital rotation around the sun are the same.",
+        "annex": null
+    },
+    {
+        "question": "A rhumb line from a position 86°N 30°W has an initial track of 085°T is it:",
+        "options": [
+            "Initially North 86°N and 180° later South of 86°N",
+            "A random northerly track to the pole",
+            "A small circle north of 86°N",
+            "A spiral to the North pole"
+        ],
+        "true": "A spiral to the North pole",
+        "annex": null
+    },
+    {
+        "question": "A Great Circle Track crosses the equator at 30°W has an initial track of 035°T. It's highest or lowest North/South point is:",
+        "options": [
+            "55°S 060°W",
+            "35°S 150°E",
+            "35°N 150°W",
+            "55°N 060°E"
+        ],
+        "true": "55°N 060°E",
+        "annex": null
+    },
+    {
+        "question": "Civil twilight is defined by :",
+        "options": [
+            "Sun altitude is 18° below the celestial horizon",
+            "Sun upper edge tangential to horizon",
+            "Sun altitude is 12° below the celestial horizon",
+            "Sun altitude is 6° below the celestial horizon"
+        ],
+        "true": "Sun altitude is 6° below the celestial horizon",
+        "annex": null
+    },
+    {
+        "question": "Which statement about ST is true?",
+        "options": [
+            "Standard time is determined by the government of the appropriate state and does not necessarily follow the borders of 15° wide longitude zones.",
+            "The standard time at 125° W is UTC - 8h20m",
+            "In all cases the standard times at Western longitudes are slow on and at Eastern longitudes fast on UTC.",
+            "Standard time is the time that is determined by division of the longitude by 15 and rounding off the answer to the nearest integer."
+        ],
+        "true": "Standard time is determined by the government of the appropriate state and does not necessarily follow the borders of 15° wide longitude zones.",
+        "annex": null
+    },
+    {
+        "question": "The local hour angle of the mean sun at 1200 LMT is:",
+        "options": [
+            "270",
+            "180",
+            "0",
+            "090"
+        ],
+        "true": "0",
+        "annex": null
+    },
+    {
+        "question": "Location A is at 50ºN 030ºW and location B is at 50ºS 030ºW.   On 27th November it is noted that:",
+        "options": [
+            "Sunrise will be earlier at A than it is at B and sunset will be later at A than it is at B.",
+            "Sunrise and sunset will be at the same time at A and B.",
+            "Sunrise will be earlier at A than it is at B and sunset will be earlier at A than it is at B.",
+            "Sunrise will be later at A than it is at B and sunset will be earlier at A than it is at B."
+        ],
+        "true": "Sunrise will be later at A than it is at B and sunset will be earlier at A than it is at B.",
+        "annex": null
+    },
+    {
+        "question": "A nautical mile is:",
+        "options": [
+            "1012 metres",
+            "1609 metres",
+            "1852 metres",
+            "1500metres"
+        ],
+        "true": "1852 metres",
+        "annex": null
+    },
+    {
+        "question": "The automatic flight control system (AFCS) in an aircraft is coupled to the guidance outputs from an inertial navigation system (INS) and the aircraft is flying along a Great Circle Track from waypoint No. 2 (60°00'S  070°00'W)  to No. 3 (60°00'S  080°00'W). Comparing the initial track (°T) at 070°00'W and the final track (°T) at 080°00'W, the difference between them is that the initial track is approximately:",
+        "options": [
+            "5° greater than the final one",
+            "5° less than the final one",
+            "9° greater than the final one",
+            "9° less than the final one"
+        ],
+        "true": "9° less than the final one",
+        "annex": null
+    },
+    {
+        "question": "The automatic flight control system is coupled to the guidance outputs from an inertial navigation system.  When flying along a Great Circle Track which pair of latitudes will give the greatest difference between initial track read-out and the average True Course given, in each case, a difference of longitude of 10°?",
+        "options": [
+            "60°N  to  50°N",
+            "30°S  to 25°S",
+            "60°N  to  60°N",
+            "30°S  to  30°N"
+        ],
+        "true": "60°N  to  60°N",
+        "annex": null
+    },
+    {
+        "question": "The rhumb line track between position A (45°00'N, 010°00'W) and position B (48°30'N, 015°00'W) is approximately:",
+        "options": [
+            "330°",
+            "315°",
+            "345°",
+            "300°"
+        ],
+        "true": "315°",
+        "annex": null
+    },
+    {
+        "question": "\"A\" latitude is 00°N/S \"B\" is located at 33°N, 101°E. True track (great circle) from \"A\" to \"B\", at \"B\", is 090°. The initial true track of the great circle at \"A\" is:",
+        "options": [
+            "057°",
+            "237°",
+            "123°",
+            "303°"
+        ],
+        "true": "057°",
+        "annex": null
+    },
+    {
+        "question": "The time of sunrise at N45° W030° on 15th February is 09.01 UTC.  What is the time of sunrise (UTC) at a lower latitude at W030°?",
+        "options": [
+            "09.01 UTC",
+            "Later than 09.01 UTC",
+            "09.01 LT",
+            "Earlier than 09.01 UTC"
+        ],
+        "true": "Earlier than 09.01 UTC",
+        "annex": null
+    },
+    {
+        "question": "The distance between the positions (34º30'N, 156º07'W) and (26º20'S, 156º07'W) is:",
+        "options": [
+            "3650 NM",
+            "5060 NM",
+            "1540 NM",
+            "6050 NM"
+        ],
+        "true": "3650 NM",
+        "annex": null
+    },
+    {
+        "question": "The position of the aircraft is (N55°00', W070°00'). The variation at the aircraft-position is 21°W. A VOR is situated at position (N50°00', W065°00'). The variation at the VOR is 19°W The initial magnetic track  of the great circle from the aircraft position to the VOR is 168° Which radial is the aircraft on?",
+        "options": [
+            "168 Radial",
+            "327 Radial",
+            "350 Radial",
+            "348 Radial"
+        ],
+        "true": "350 Radial",
+        "annex": null
+    },
+    {
+        "question": "An aircraft takes off from an airport located on the 160o E meridian at 0243 LMT and flies for 3 hours to a destination airport located on the  170o W  meridian.. At what time LMT does it land at its destination?",
+        "options": [
+            "1643",
+            "1903",
+            "0743",
+            "0543"
+        ],
+        "true": "0743",
+        "annex": null
+    },
+    {
+        "question": "Where is the International Dateline located?",
+        "options": [
+            "Exactly on the 180°E/W meridian.",
+            "In the vicinity of the 180°E/W meridian.",
+            "To the west of the 180°E/W meridian only.",
+            "To the east of the 180°E/W meridian only."
+        ],
+        "true": "In the vicinity of the 180°E/W meridian.",
+        "annex": null
+    },
+    {
+        "question": ") Use the in the You fly from the Geographic North Pole along the E110º meridian for a distance of . You then fly a further  on a track of 156ºGrid where the Grid is aligned with the Greenwich Meridian. What is your final position?",
+        "options": [
+            "N78 E091",
+            "N80 E080",
+            "N80 E078",
+            "N79 E120"
+        ],
+        "true": "N80 E080",
+        "annex": [
+            "183",
+            "480NM",
+            "300NM",
+            "610764"
+        ]
+    },
+    {
+        "question": "An aircraft flies from Point A at N50º W008º30.0' to Point B at N50º W134º36.0'. What approximate  ground distance has it covered?",
+        "options": [
+            "5390 SM",
+            "9006 KM",
+            "8600 KM",
+            "4683 NM"
+        ],
+        "true": "9006 KM",
+        "annex": null
+    },
+    {
+        "question": "An aircraft departs position A on the 170°00’E meridian at 01:30 Local Mean Time (LMT) on 11 February on an easterly course. It arrives at position B on the 160°00’W meridian 3:00 hours later. What is the LMT and local date of arrival at position B?",
+        "options": [
+            "07:30, 11th February",
+            "02:30, 11th February",
+            "06:30, 10th February",
+            "01:30, 10th February"
+        ],
+        "true": "06:30, 10th February",
+        "annex": null
+    },
+    {
+        "question": "Which of these statements best defines the term \" True North\"?",
+        "options": [
+            "The heading of the aircraft at the time.",
+            "The datum from which the aircraft heading is measured.",
+            "The direction related to Polaris, the North Star.",
+            "The direction along the surface of the earth towards the geographic North Pole along the meridian on which you are located."
+        ],
+        "true": "The direction along the surface of the earth towards the geographic North Pole along the meridian on which you are located.",
+        "annex": null
+    },
+    {
+        "question": "The track from A(44N 26E) to B(46N 24E) forms an angle of 35 degrees with longitude 26E. Variation at point A is 3E. What is the magnetic track from A to B?",
+        "options": [
+            "322M",
+            "032M",
+            "038M",
+            "328M"
+        ],
+        "true": "322M",
+        "annex": null
+    },
+    {
+        "question": "What is the shortest distance between A(53o 30'N 001o  30'W) and B(27o  35'S  001o 30'W)?",
+        "options": [
+            "9010km",
+            "2870km",
+            "4685NM",
+            "1550NM"
+        ],
+        "true": "9010km",
+        "annex": null
+    },
+    {
+        "question": "A rhumb line is…",
+        "options": [
+            "the shortest distance between two points on a polar-stereographic projection.",
+            "any straight line on a Lambert projection.",
+            "a line convex to the nearest pole on a Mercator projection.",
+            "a line on the surface of the Earth cutting all meridians at the same angle."
+        ],
+        "true": "a line on the surface of the Earth cutting all meridians at the same angle.",
+        "annex": null
+    },
+    {
+        "question": "An approximate equation for calculating the convergency between two meridians is:",
+        "options": [
+            "convergency = Change of longitude × sin (mean longitude)",
+            "convergency = Change of longitude × cos lat x 60",
+            "convergency = Change of longitude × cos (mean latitude)",
+            "convergency = Change of longitude × sin (mean latitude)"
+        ],
+        "true": "convergency = Change of longitude × sin (mean latitude)",
+        "annex": null
+    },
+    {
+        "question": "The flight log gives the following data True track, Drift, True heading, Magnetic variation, Magnetic heading, Compass deviation, Compass heading. The right solution, in the same order, is:",
+        "options": [
+            "117°; 4°L; 121°; 1°E; 122°; -3°; 119°",
+            "115°; 5°R; 120°; 3°W; 123°; +2°; 121°",
+            "125°; 2°R; 123°; 2°W; 121°; -4°; 117°.",
+            "119°; 3°L; 122°; 2°E; 120°; +4°; 116°"
+        ],
+        "true": "119°; 3°L; 122°; 2°E; 120°; +4°; 116°",
+        "annex": null
+    },
+    {
+        "question": "Complete the following statement regarding magnetic variation. The charted values of magnetic variation on Earth normally change annually due to",
+        "options": [
+            "an increasing field strength causing numerical values at all locations to increase.",
+            "a reducing field strength causing numerical values at all locations to decrease",
+            "magnetic pole movement causing numerical values at all locations to increase or decrease.",
+            "magnetic pole movement causing numerical values at all locations to increase."
+        ],
+        "true": "magnetic pole movement causing numerical values at all locations to increase or decrease.",
+        "annex": null
+    },
+    {
+        "question": "Two aircraft set off at 1020 UTC from 87N, 000E/W at different groundspeeds. The aircraft heading west was flying at 160 Knots and the aircraft heading east was flying at 120 Knots. What time would they meet?",
+        "options": [
+            "1522",
+            "1542",
+            "1422",
+            "1442"
+        ],
+        "true": "1422",
+        "annex": null
+    }
+]
