@@ -1023,7 +1023,7 @@
         "annex": "061-12549"
     },
     {
-        "question": "(Refer to image) Given: SHA VOR/DME (N5243.3 W00853.1), Connemara aerodrome (N5314 W00928). What is the SHA radial and DME distance when overhead Connemara aerodrome?\n\n12549",
+        "question": "(Refer to image) Given: SHA VOR/DME (N5243.3 W00853.1), Connemara aerodrome (N5314 W00928). What is the SHA radial and DME distance when overhead Connemara aerodrome?",
         "options": [
             "154° - 38 NM",
             "326° - 37 NM",
@@ -1031,7 +1031,7 @@
             "146° - 38 NM"
         ],
         "true": "333° - 37 NM",
-        "annex": "061-"
+        "annex": "061-12549"
     },
     {
         "question": "(Refer to image ) What is the average track (°M) and distance between BAL VOR (N5318.0 W00626.9) and SLG NDB (N5416.7 W00836.0)?",
