@@ -1,0 +1,1245 @@
+[
+    {
+        "question": "Under CS-25 colour code rules for Electronic Flight Instrument Systems (EFIS), armed modes are coloured:",
+        "options": [
+            "Magenta",
+            "White",
+            "Green",
+            "Amber / Yellow"
+        ],
+        "true": "White",
+        "annex": null
+    },
+    {
+        "question": "Under CS-25 colour code rules for Electronic Flight Instrument Systems (EFIS), current data and values are coloured:",
+        "options": [
+            "Red",
+            "White",
+            "Cyan",
+            "Magneta"
+        ],
+        "true": "White",
+        "annex": null
+    },
+    {
+        "question": "Under CS-25 colour code rules for Electronic Flight Instrument Systems (EFIS), selected data such as engaged autopilot modes are coloured:",
+        "options": [
+            "Yellow",
+            "Green",
+            "Magenta",
+            "White"
+        ],
+        "true": "Green",
+        "annex": null
+    },
+    {
+        "question": "Under CS-25 colour code rules for Electronic Flight Instrument Systems (EFIS), turbulence is coloured:",
+        "options": [
+            "Red",
+            "Black",
+            "White or Magenta",
+            "Cyan"
+        ],
+        "true": "White or Magenta",
+        "annex": null
+    },
+    {
+        "question": "Under CS-25 colour code rules for Electronic Flight Instrument Systems (EFIS), a selected heading (heading bug) is coloured:",
+        "options": [
+            "White",
+            "Magenta",
+            "Green",
+            "Yellow"
+        ],
+        "true": "Magenta",
+        "annex": null
+    },
+    {
+        "question": "Under CS-25 colour code rules for Electronic Flight Instrument Systems (EFIS), the active route/flight plan is coloured:",
+        "options": [
+            "Yellow",
+            "Magenta",
+            "Cyan",
+            "Green"
+        ],
+        "true": "Magenta",
+        "annex": null
+    },
+    {
+        "question": "What is the deviation per dot on the HSI when using an EFIS 2-dot RNAV system in the EN ROUTE (ENR) mode?",
+        "options": [
+            "2 NM",
+            "10 NM",
+            "1 NM",
+            "5 NM"
+        ],
+        "true": "2 NM",
+        "annex": null
+    },
+    {
+        "question": "What is the deviation per dot on the HSI when using an EFIS 2-dot RNAV system in the ILS approach (APR) mode?",
+        "options": [
+            "10 NM",
+            "0.5°",
+            "0.5 NM",
+            "10°"
+        ],
+        "true": "0.5°",
+        "annex": null
+    },
+    {
+        "question": "Which of the following lists all the stages of flight when it is possible to change the route in the active flight plan on an FMS equipped aircraft?",
+        "options": [
+            "Only before the flight plan is activated",
+            "Only before take-off",
+            "Only once the aircraft is airborne.",
+            "At any time before take-off and throughout the flight"
+        ],
+        "true": "At any time before take-off and throughout the flight",
+        "annex": null
+    },
+    {
+        "question": "ICAO defines Area Navigation (RNAV) as a method of navigation which permits aircraft operation on any desired flight path:",
+        "options": [
+            "Within the coverage of station-referenced navigation aids or within the limits of the capability of self-contained aids, or a combination of these",
+            "Outside the coverage of station-referenced navigation aids provided that it is equipped with a minimum of one serviceable self-contained navigation aid",
+            "Outside the coverage of station-referenced navigation aids provided that it is equipped with a minimum of two serviceable self-contained navigation aids",
+            "Within the coverage of station-referenced navigation aids provided that it is equipped with a minimum of one serviceable self-contained navigation aid"
+        ],
+        "true": "Within the coverage of station-referenced navigation aids or within the limits of the capability of self-contained aids, or a combination of these",
+        "annex": "11"
+    },
+    {
+        "question": "Which one of the following sensors/systems is self-contained?",
+        "options": [
+            "Inertial Navigation System",
+            "Basic RNAV system",
+            "VOR/DME",
+            "GPS"
+        ],
+        "true": "Inertial Navigation System",
+        "annex": null
+    },
+    {
+        "question": "Which of the following statements regarding B-RNAV is correct?",
+        "options": [
+            "B-RNAV can be used up to FL95. Above FL95 P-RNAV is required.",
+            "B-RNAV is only applicable when flying in TMA's.",
+            "For 95% of the flight time, the track keeping accuracy must not exceed 5 NM.",
+            "In case of B-RNAV, RNP1 is required."
+        ],
+        "true": "For 95% of the flight time, the track keeping accuracy must not exceed 5 NM.",
+        "annex": null
+    },
+    {
+        "question": "Which statement about RNAV-routes is correct?",
+        "options": [
+            "All waypoints of RNAV-routes are called phantom stations",
+            "RNAV-routes are only used in terminal areas in order to make more efficient use of the approach and landing facilities of an airport",
+            "In general RNAV-routes coincide with standard routes in order to make optimum use of the available VOR/DME-stations",
+            "A method of navigation which permIts aircraft operation on any desired flight path."
+        ],
+        "true": "A method of navigation which permIts aircraft operation on any desired flight path.",
+        "annex": null
+    },
+    {
+        "question": "A 2D RNAV system provides guidance in:",
+        "options": [
+            "The horizontal and vertical planes",
+            "The horizontal plane",
+            "Terms of grid coordinates",
+            "The vertical plane"
+        ],
+        "true": "The horizontal plane",
+        "annex": null
+    },
+    {
+        "question": "3D RNAV fixing gives you:",
+        "options": [
+            "2D RNAV plus speed control",
+            "Horizontal and vertical profile guidance",
+            "2D RNAV plus time guidance",
+            "Horizontal, vertical profile and time guidance"
+        ],
+        "true": "Horizontal and vertical profile guidance",
+        "annex": null
+    },
+    {
+        "question": "A 3-dimensional RNAV system has capability in:",
+        "options": [
+            "The horizontal plane and a speed management system.",
+            "The horizontal plane and in the vertical plane.",
+            "The horizontal plane and a cruise management system.",
+            "The horizontal plane, in the vertical plane and a timing function."
+        ],
+        "true": "The horizontal plane and in the vertical plane.",
+        "annex": null
+    },
+    {
+        "question": "A 2-dimensional RNAV system has a capability in the:",
+        "options": [
+            "Vertical plane.",
+            "Horizontal plane.",
+            "Timing function.",
+            "Horizontal and vertical planes."
+        ],
+        "true": "Horizontal plane.",
+        "annex": null
+    },
+    {
+        "question": "Basic RNAV requires a track-keeping accuracy of:",
+        "options": [
+            "+/- 5NM or better for 95% of the flight time",
+            "+/- 5NM or better throughout the flight",
+            "+/- 3NM or better for 90% of the flight time",
+            "+/- 2NM or better for 75% of the flight time"
+        ],
+        "true": "+/- 5NM or better for 95% of the flight time",
+        "annex": null
+    },
+    {
+        "question": "Which of the following may be used for minimum RNAV performance:\n\n1. NDB\n2. IRS/INS\n3. VOR/DME\n4. GPS",
+        "options": [
+            "2, 3 and 4",
+            "2 and 4",
+            "1, 2 and 3",
+            "1, 2, 3 and 4"
+        ],
+        "true": "2, 3 and 4",
+        "annex": null
+    },
+    {
+        "question": "Precision RNAV (P-RNAV) requires a track-keeping accuracy of:",
+        "options": [
+            "± 10.0 NM for 95% of the flight time.",
+            "± 1.0 NM for 95% of the flight time.",
+            "± 8.0 NM for 95% of the flight time.",
+            "± 5.0 NM for 95% of the flight time."
+        ],
+        "true": "± 1.0 NM for 95% of the flight time.",
+        "annex": null
+    },
+    {
+        "question": "The inputs of information used to achieve the RNAV required accuracy may be:\n\n1. NDB\n2. IRS\n3. VOR/DME\n4. GNSS The combination regrouping all the correct statements is:",
+        "options": [
+            "2 and 4.",
+            "2, 3 and 4.",
+            "1, 2 and 3.",
+            "1, 2, 3 and 4."
+        ],
+        "true": "2, 3 and 4.",
+        "annex": null
+    },
+    {
+        "question": "Benefits of Area Navigation include:\n\n1. Shorter flight distance\n2. Reduction in fuel and flight time.\n3. No radio contact within RNAV airspace.\n4. Reduction in the number of ground training facilities\n5. Pilot choice of vertical and horizontal separations. The combination regrouping all the correct statements is:",
+        "options": [
+            "1, 2, 4 and 5.",
+            "2, 4, and 5.",
+            "1, 2 and 4.",
+            "3, 4, and 5."
+        ],
+        "true": "1, 2 and 4.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following Nav Aids will provide an RNAV system with position?",
+        "options": [
+            "VDF",
+            "VOR/DME.",
+            "ADF",
+            "NDB."
+        ],
+        "true": "VOR/DME.",
+        "annex": null
+    },
+    {
+        "question": "Area Navigation is a method of navigation that permits aircraft operation on any desired flight path within the limits of the capability of self contained systems. Which of the following systems is such a self contained sytem?",
+        "options": [
+            "Inertial Reference System",
+            "Global Positioning System",
+            "DME/DME-system",
+            "VOR/DME-system"
+        ],
+        "true": "Inertial Reference System",
+        "annex": null
+    },
+    {
+        "question": "By which of the following flight deck equipment are the waypoints inserted into an  FMS RNAV-system by the pilot?",
+        "options": [
+            "Course deviation indicator",
+            "Control Display Unit",
+            "Symbol generator",
+            "Navigation display"
+        ],
+        "true": "Control Display Unit",
+        "annex": null
+    },
+    {
+        "question": "Which component of an Area Navigation System displays the Cross Track Distance?",
+        "options": [
+            "DME Indicator",
+            "Attitude display",
+            "Navigation display",
+            "Radio Magnetic Indicators"
+        ],
+        "true": "Navigation display",
+        "annex": null
+    },
+    {
+        "question": "One of the benefits of RNAV is:",
+        "options": [
+            "RNAV allows to fly at RNAV flight level with a 500 ft separation.",
+            "RNAV allows aircraft to take a more direct flight path without requiring to fly over ground based facilities.",
+            "RNAV allows pilots to manage horizontal and vertical separation with other aircrafts without obtaining any ATC clearance.",
+            "RNAV allows to obtain ATC clairance by HF  radio without the requirement to establish any radio contact."
+        ],
+        "true": "RNAV allows aircraft to take a more direct flight path without requiring to fly over ground based facilities.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following is one of the functions of the Computer in a basic RNAV system?",
+        "options": [
+            "It automatically selects the two strongest transmitters for the Area-Nav-Mode and continues working by memory in case one of the two necessary station goes off the air",
+            "It checks the ground station accuracy using a built-in test programme",
+            "It transfers the information given by a VOR/DME station into tracking and distance indications to any chosen Phantom Station/waypoint",
+            "It calculates cross track information for NDB approaches"
+        ],
+        "true": "It transfers the information given by a VOR/DME station into tracking and distance indications to any chosen Phantom Station/waypoint",
+        "annex": null
+    },
+    {
+        "question": "A phantom station (as used in a 2D RNAV-system) is:",
+        "options": [
+            "A waypoint defined by two DME-distances from two different VOR/DME-stations.",
+            "A waypoint defined by a radial and a DME-distance from a VOR/DME-station.",
+            "An existing VOR/DME-station created in the memory of the Navigation Computer Unit of the RNAV-system.",
+            "A non-existing VOR/DME-station defined by two DME distances."
+        ],
+        "true": "A waypoint defined by a radial and a DME-distance from a VOR/DME-station.",
+        "annex": null
+    },
+    {
+        "question": "The navigational function of the horizontal situation indicator (HSI) in relation to area navigation systems is:",
+        "options": [
+            "The indication of the cross track distance (XTK).",
+            "The indication of the RNP.",
+            "The indication of the track angle error (TKE).",
+            "The indication of the wind component."
+        ],
+        "true": "The indication of the cross track distance (XTK).",
+        "annex": null
+    },
+    {
+        "question": "In an FMS, how does a VOR/DME Area Navigation system obtain DME information?",
+        "options": [
+            "The pilot tunes the closest VOR/DME stations within range on the VOR/DME Area navigation control panel.",
+            "The VOR/DME Area Navigation system has its own VHF NAV tuner and the system itself tunes the DME stations providing the best angular position lines.",
+            "The VOR/DME Area Navigation System has its own VHF NAV tuner and it always tunes the DME stations closest to the aircraft position.",
+            "The VOR/DME Area Navigation system uses whatever stations are tuned on the aircraft's normal VHF NAV selector."
+        ],
+        "true": "The VOR/DME Area Navigation system has its own VHF NAV tuner and the system itself tunes the DME stations providing the best angular position lines.",
+        "annex": null
+    },
+    {
+        "question": "In order to enter a phantom waypoint that is designated by a VOR/DME simple RNAV system, the VOR/DME:",
+        "options": [
+            "Has to be positively identified by one of the pilots",
+            "Does not have to be in range when entered or used",
+            "Must be in range",
+            "Does not have to be in range when entered but must be when used"
+        ],
+        "true": "Does not have to be in range when entered but must be when used",
+        "annex": null
+    },
+    {
+        "question": "Refer to image. Which of the distances indicated will be shown on a basic VOR/DME-based Area Navigation Equipment when using a 'Phantom Station' at position 'X'?",
+        "options": [
+            "14 NM",
+            "11 NM",
+            "8 NM",
+            "9 NM"
+        ],
+        "true": "9 NM",
+        "annex": "062-12410"
+    },
+    {
+        "question": "Erratic indications may be experienced when flying towards a basic VOR/DME-based Area Navigation System 'Phantom Station':",
+        "options": [
+            "When operating at low altitudes close to the limit of reception range from the reference station",
+            "When the Phantom Station is out of range",
+            "When in the cone of silence overhead the Phantom Station",
+            "Because, under adverse conditions (relative bearing to the Phantom Station other than 180°/360°) it takes the computer more time to calculate the necessary information"
+        ],
+        "true": "When operating at low altitudes close to the limit of reception range from the reference station",
+        "annex": null
+    },
+    {
+        "question": "Which one of the following lists information given by a basic VOR/DME-based Area Navigation System when tracking inbound to a phantom waypoint?",
+        "options": [
+            "Aircraft position in latitude and longitude",
+            "Wind velocity",
+            "Crosstrack distance; Distance to Go",
+            "True airspeed; drift angle"
+        ],
+        "true": "Crosstrack distance; Distance to Go",
+        "annex": null
+    },
+    {
+        "question": "Which of the following lists information required to input a waypoint or 'Phantom Station' into a basic VOR/DME-based Area Navigation System?",
+        "options": [
+            "Magnetic Track and distance from the aircraft to the waypoint or 'Phantom Station'",
+            "Radials from a minimum of two VORs to the waypoint or 'Phantom Station'",
+            "Magnetic Track and distance to a VOR/DME from the waypoint or 'Phantom Station'",
+            "Radial and distance from a VOR/DME to the waypoint or 'Phantom Station'"
+        ],
+        "true": "Radial and distance from a VOR/DME to the waypoint or 'Phantom Station'",
+        "annex": null
+    },
+    {
+        "question": "Refer to image Which of the distances indicated will be shown on a basic VOR/DME-based Area Navigation Equipment when using a 'Phantom Station'?",
+        "options": [
+            "21 NM",
+            "12 NM",
+            "11 NM",
+            "10 NM"
+        ],
+        "true": "12 NM",
+        "annex": "062-1409"
+    },
+    {
+        "question": "A pilot is flying between two waypoints defined by suitably located VOR/DMEs. Equipped with a simple 2D RNAV system, this pilot:",
+        "options": [
+            "Reads cross track error and the distance to go on CDI or HSI.",
+            "Must update any altitude change in RNAV system to have correct cross track error.",
+            "Reads VOR/DME bearing and distance on CDI or HSI to compute himself the cross track error.",
+            "Enters relative position between his aircraft and the VOR/DMEs on CDU to calculate the cross track error."
+        ],
+        "true": "Reads cross track error and the distance to go on CDI or HSI.",
+        "annex": null
+    },
+    {
+        "question": "How does the Electronic Flight Instrument System display of a B737-400 respond to  the failure of a VHF navigation (VOR) receiver?",
+        "options": [
+            "It removes the associated magenta deviation bar and/or pointer from the display",
+            "The pointer flashes and a VOR 1 or 2 failure warning bar appears",
+            "The pointer rotates around the display and a VOR 1 or 2 failure warning bar appears",
+            "The deviation bar and/or pointer change colour to red and flash intermittently"
+        ],
+        "true": "It removes the associated magenta deviation bar and/or pointer from the display",
+        "annex": null
+    },
+    {
+        "question": "Which component of the Electronic Flight Instrument System generates the visual displays on the EADI and EHSI?",
+        "options": [
+            "Flight Management Computer",
+            "Flight Control Computer",
+            "Symbol Generator",
+            "Navigation database"
+        ],
+        "true": "Symbol Generator",
+        "annex": null
+    },
+    {
+        "question": "What is cross track distance (XTK-distance) in an Area Navigation System?",
+        "options": [
+            "Distance between air position and Great Circle Track between active waypoints.",
+            "Distance between air position and planned track.",
+            "Distance between actual position and Great Circle Track between active waypoints.",
+            "Distance between actual position and next waypoint."
+        ],
+        "true": "Distance between actual position and Great Circle Track between active waypoints.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following combinations is likely to result in the most accurate Area Navigation (RNAV) fixes?",
+        "options": [
+            "DME/DME",
+            "VOR/DME",
+            "VOR/VOR",
+            "NDB/VOR"
+        ],
+        "true": "DME/DME",
+        "annex": null
+    },
+    {
+        "question": "Which one of the following inputs to an Area Navigation System (R-NAV) comes from an external, not on-board, system?",
+        "options": [
+            "VOR/DME radial/distance",
+            "Magnetic Heading",
+            "Pressure altitude",
+            "Inertial Navigation System (INS) position"
+        ],
+        "true": "VOR/DME radial/distance",
+        "annex": null
+    },
+    {
+        "question": "Under which of the following circumstances does a VOR/DME Area Navigation system switch to Dead Reckoning mode?",
+        "options": [
+            "The system is receiving information from one VOR and two DMEs",
+            "The system is receiving information from one VOR and one DME",
+            "The system is receiving information from only one VOR",
+            "The system is receiving information from the two DMEs"
+        ],
+        "true": "The system is receiving information from only one VOR",
+        "annex": null
+    },
+    {
+        "question": "Under which of the following circumstances does a VOR/DME Area Navigation system switch to Dead Reckoning mode?",
+        "options": [
+            "VOR/DME Area Navigation computer is not receiving information from the Air Data Computer.",
+            "When 'DR' is selected by the pilot.",
+            "VOR/DME Area Navigation computer is not receiving information from the aircraft compass system.",
+            "VOR/DME Area Navigation computer is receiving neither radial nor distance data information from VOR/DME stations."
+        ],
+        "true": "VOR/DME Area Navigation computer is receiving neither radial nor distance data information from VOR/DME stations.",
+        "annex": null
+    },
+    {
+        "question": "How does a VOR/DME Area Navigation system select the DME-stations to be used for positioning?",
+        "options": [
+            "The VOR/DME Area Navigation System has its own NAV tuner and it always tunes the DME stations closest to the aircraft position.",
+            "The VOR/DME Area Navigation system uses whatever stations are tuned on the aircraft's normal NAV selector.",
+            "The pilot tunes the closest VOR/DME stations within range on the VOR/DME Area navigation control panel.",
+            "The VOR/DME Area Navigation system has its own NAV tuner and the system itself tunes the DME stations providing the most accurate position."
+        ],
+        "true": "The VOR/DME Area Navigation system has its own NAV tuner and the system itself tunes the DME stations providing the most accurate position.",
+        "annex": null
+    },
+    {
+        "question": "Apart from radials and distances from VOR/DME stations, what information is required by the VOR/DME Area Navigation computer in order to calculate the wind?",
+        "options": [
+            "Heading from the aircraft compass system and true airspeed from the air data computer",
+            "Vertical speed from the air data computer",
+            "True airspeed from the air data computer",
+            "Heading from the aircraft compass system"
+        ],
+        "true": "Heading from the aircraft compass system and true airspeed from the air data computer",
+        "annex": null
+    },
+    {
+        "question": "On what data is a VOR/DME Area Navigation system operating in the dead reckoning mode?",
+        "options": [
+            "TAS from the Air Data Computer; heading from the aircraft compass; the last computed W/V.",
+            "Radial from one VOR; distances from two DMEs; TAS from the Air Data computer; heading from the aircraft compass.",
+            "Radial from one VOR; distances from two DMEs.",
+            "TAS from the Air Data Computer; heading from the aircraft compass."
+        ],
+        "true": "TAS from the Air Data Computer; heading from the aircraft compass; the last computed W/V.",
+        "annex": null
+    },
+    {
+        "question": "Output from which of the following combination of navigational sources provide enough information to the RNAV-equipment to calculate the wind vector?",
+        "options": [
+            "Compass system and Inertial Reference System",
+            "Inertial Reference System and Global Positioning System",
+            "Inertial Reference System and Air Data Computer",
+            "Global Positioning System and Compass System"
+        ],
+        "true": "Inertial Reference System and Air Data Computer",
+        "annex": null
+    },
+    {
+        "question": "A fix obtained by Rho-Rho navigation is based on information from two:",
+        "options": [
+            "VDFs",
+            "DMEs",
+            "VORs s",
+            "NDBs"
+        ],
+        "true": "DMEs",
+        "annex": null
+    },
+    {
+        "question": "Which of the following data can be found in the navigation database?\n\n1. SIDs and STARs\n2. Radio aids\n3. Optimum flight level\n4. Company routes\n5. Cruise speeds",
+        "options": [
+            "Only 2, 3 and 5.",
+            "Only 2, 3 and 4.s",
+            "1, 2 , 3, 4 and 5.",
+            "Only 1, 2 and 4."
+        ],
+        "true": "Only 1, 2 and 4.",
+        "annex": null
+    },
+    {
+        "question": "In which of the following cases would ETOs and ETA at destination calculated by the Flight Management Computer (FMC) be correct?",
+        "options": [
+            "When the actual winds match the forecast winds, and the actual cruising Mach number is equal to the FMC calculated Mach number",
+            "When the ETOs and ETA are based on the forecast winds calculated from the actual take-off time",
+            "When the FMC positions and GS are accurate",
+            "When the FMC computes each ETO and ETA using the correct GS"
+        ],
+        "true": "When the actual winds match the forecast winds, and the actual cruising Mach number is equal to the FMC calculated Mach number",
+        "annex": null
+    },
+    {
+        "question": "Which of the following gives the best information about the progress of a flight between 2 en-route waypoints from a RNAV equipment?",
+        "options": [
+            "ETD",
+            "Elapsed time on route.",
+            "ATA",
+            "ETO"
+        ],
+        "true": "ETO",
+        "annex": null
+    },
+    {
+        "question": "In relation to Area Navigation Systems (RNAV), which of the following is an Air Data input?",
+        "options": [
+            "True airspeed",
+            "Doppler drift",
+            "Inertial Navigation System (INS) position",
+            "VOR/DME radial/distance"
+        ],
+        "true": "True airspeed",
+        "annex": null
+    },
+    {
+        "question": "On a modern commercial aircraft, the  FMS provides:",
+        "options": [
+            "Traffic alert information",
+            "Lateral and vertical navigation, , and guidance and performance management.",
+            "A 3D area navigation and an air/ground datalink.",
+            "An air/ground datalink."
+        ],
+        "true": "Lateral and vertical navigation, , and guidance and performance management.",
+        "annex": null
+    },
+    {
+        "question": "The Flight Management Computer (FMC) position is:",
+        "options": [
+            "The computed position based on a number of sources (IRS, Radio, ILS, GPS etc)",
+            "The same as that given on the No. 1 IRS",
+            "Another source of aircraft position; it is independent of other navigation sources (IRS, Radio, ILS, etc)",
+            "The actual position of the aircraft at any point in time"
+        ],
+        "true": "The computed position based on a number of sources (IRS, Radio, ILS, GPS etc)",
+        "annex": null
+    },
+    {
+        "question": "In the Flight Management Computer (FMC) of the Flight Management System (FMS), data relating to flight plans is stored in the:",
+        "options": [
+            "Performance database",
+            "Air data database",
+            "Auto flight database",
+            "Navigation database"
+        ],
+        "true": "Navigation database",
+        "annex": null
+    },
+    {
+        "question": "In the Flight Management Computer (FMC) of the Flight Management System (FMS), data relating to STARs and SIDs is stored in the:",
+        "options": [
+            "Performance database",
+            "Navigation database",
+            "Air data computer",
+            "Auto flight computers"
+        ],
+        "true": "Navigation database",
+        "annex": null
+    },
+    {
+        "question": "The Flight Management System (FMS) is organised in such a way that:",
+        "options": [
+            "The navigation database of the FMC is valid for one year",
+            "The navigation database is \"read only\" to the pilot",
+            "The pilot is able to modify the navigation database in the FMC between two updates",
+            "The navigation datbase of the FMC is created by the pilot"
+        ],
+        "true": "The navigation database is \"read only\" to the pilot",
+        "annex": null
+    },
+    {
+        "question": "In the Flight Management Computer (FMC) of the Flight Management System (FMS), data relating to waypoints is stored in the:",
+        "options": [
+            "Navigation database",
+            "Performance database",
+            "Air data computer",
+            "Auto flight computers"
+        ],
+        "true": "Navigation database",
+        "annex": null
+    },
+    {
+        "question": "Which of the following are stored in the navigation database of the Flight Management System (FMS)?\n\n1. Waypoints\n2. Details of radio navigation aids\n3. Optimum altitudes\n4. Company routes\n5. Landing reference speeds",
+        "options": [
+            "1, 2, 3",
+            "2, 4, 5",
+            "1, 2, 3, 4",
+            "1, 2, 4"
+        ],
+        "true": "1, 2, 4",
+        "annex": null
+    },
+    {
+        "question": "The  FMS Navigation Database usually contains:\n\n1. Airport reference data\n2. ATC frequencies\n3. Company routes\n4. Navigation Aid frequencies The combination regrouping all the correct statements is:",
+        "options": [
+            "1, 3 and 4.",
+            "1, 2, 3 and 4.",
+            "1, 2 and 3.",
+            "1 and 3."
+        ],
+        "true": "1, 3 and 4.",
+        "annex": null
+    },
+    {
+        "question": "On modern passenger aircraft, the navigation data base usually contains:",
+        "options": [
+            "Airport reference data",
+            "Obstacle altitudes",
+            "ATC frequencies",
+            "Aircraft performance data"
+        ],
+        "true": "Airport reference data",
+        "annex": null
+    },
+    {
+        "question": "In the Flight Management Computer (FMC) of the Flight Management System (FMS), data relating to cruising speeds is stored in the:",
+        "options": [
+            "Air data computer",
+            "Auto flight computers",
+            "Navigation database",
+            "Performance database"
+        ],
+        "true": "Performance database",
+        "annex": null
+    },
+    {
+        "question": "In the Flight Management Computer (FMC) of the Flight Management System (FMS), data relating to aircraft flight envelope computations is stored in the:",
+        "options": [
+            "Auto flight computers",
+            "Navigation database",
+            "Air data computer",
+            "Performance database"
+        ],
+        "true": "Performance database",
+        "annex": null
+    },
+    {
+        "question": "In the Flight Management Computer (FMC) of the Flight Management System (FMS), data relating to V1, VR and V2 speeds is stored in the:",
+        "options": [
+            "Auto flight computer",
+            "Air data computer",
+            "Navigation database",
+            "Performance database"
+        ],
+        "true": "Performance database",
+        "annex": null
+    },
+    {
+        "question": "In an Electronic Flight Instrument System (EFIS) data relating primarily to navigation in the FMC is provided by:",
+        "options": [
+            "Inertial Reference Systems -Navigation radios -Terrain Collision Alerting System",
+            "Navigation radios -GPS -Inertial Reference Systems",
+            "GPS - Aircraft Weather Radar - Navigation radios",
+            "Inertial Reference Systems -Aircraft Weather Radar -Navigation radios"
+        ],
+        "true": "Navigation radios -GPS -Inertial Reference Systems",
+        "annex": null
+    },
+    {
+        "question": "The Control and Display Unit (CDU) on an FMS is:",
+        "options": [
+            "The system used to update the navigation database.",
+            "Used on ground only to monitor the maintenance procedure.",
+            "Used by the crew to input data into FMC.",
+            "The Autopilot control panel."
+        ],
+        "true": "Used by the crew to input data into FMC.",
+        "annex": null
+    },
+    {
+        "question": "IRS is a self-contained system because it:",
+        "options": [
+            "has the ability to calculate the aircraft's position with an accuracy comparable to the GPS-position.",
+            "has a battery back-up which guarantees continued functioning in case of main power-failure.",
+            "has the ability to calculate  the aircraft's radio position without any reference to either man-made or natural information.",
+            "calculates the position of the aircraft without reference to externally generated signals."
+        ],
+        "true": "calculates the position of the aircraft without reference to externally generated signals.",
+        "annex": null
+    },
+    {
+        "question": "Kalman filtering is used within:",
+        "options": [
+            "the VOR receiver.",
+            "the DME receiver.",
+            "the Flight Management Computer",
+            "the Electronic Flight Instrument System (EFIS)."
+        ],
+        "true": "the Flight Management Computer",
+        "annex": null
+    },
+    {
+        "question": "The IRS is a self-contained system because:",
+        "options": [
+            "The system generates a warning in case of a failure.",
+            "The calculation of the position does not require any software.",
+            "It operates independently of navigational aids outside the aircraft.",
+            "It operates off its own power supply"
+        ],
+        "true": "It operates independently of navigational aids outside the aircraft.",
+        "annex": null
+    },
+    {
+        "question": "Concerning FMC databases:",
+        "options": [
+            "The navigation database may be customized for the specific airline operations.",
+            "Only the navigation database may be customized by the company's cost index strategy.",
+            "Company database and FMC databases can not be used at the same time.",
+            "Only the performance database may be customized by the company."
+        ],
+        "true": "The navigation database may be customized for the specific airline operations.",
+        "annex": null
+    },
+    {
+        "question": "What is true about the FMC databases:",
+        "options": [
+            "The navigation database contains the company's cost index strategy.",
+            "The performance database contains aeronautical information for the planned area of operations of the aircraft.",
+            "The data can not be customized for the specific airline operations.",
+            "The data includes SIDs, STARS and runway approaches."
+        ],
+        "true": "The data includes SIDs, STARS and runway approaches.",
+        "annex": null
+    },
+    {
+        "question": "Under CS-25 colour code rules, features displayed in red on an Electronic Flight Instrument System (EFIS), indicate:",
+        "options": [
+            "Cautions and abnormal sources; engaged modes",
+            "Flight envelope and system limits; engaged modes",
+            "Warnings; flight envelope and system limits",
+            "Warnings; cautions and abnormal sources"
+        ],
+        "true": "Warnings; flight envelope and system limits",
+        "annex": null
+    },
+    {
+        "question": "Under CS-25 colour code rules, features displayed in amber/yellow on an Electronic Flight Instrument System (EFIS), indicate:",
+        "options": [
+            "Warnings",
+            "Cautions, abnormal sources",
+            "Engaged modes",
+            "Flight envelope and system limits"
+        ],
+        "true": "Cautions, abnormal sources",
+        "annex": null
+    },
+    {
+        "question": "Under CS-25 general colour code rules, features displayed in green on an Electronic Flight Information System should indicate:",
+        "options": [
+            "The ILS deviation pointer",
+            "Cautions, abnormal sources",
+            "Engaged modes",
+            "The earth"
+        ],
+        "true": "Engaged modes",
+        "annex": null
+    },
+    {
+        "question": "Under CS-25 colour code rules features displayed in cyan/blue, on an Electronic Flight Instrument Systems (EFIS), indicate:",
+        "options": [
+            "Flight envelope and system limits",
+            "The sky",
+            "Engaged modes",
+            "The flight director bar(s)"
+        ],
+        "true": "The sky",
+        "annex": null
+    },
+    {
+        "question": "Under CS-25 colour code rules for Electronic Flight Instrument Systems (EFIS), increasing intensity of precipitation are coloured in the order:",
+        "options": [
+            "Green, amber/yellow, red, magenta",
+            "Black, amber/yellow, magenta, red",
+            "Amber/yellow, magenta, black",
+            "Green, red, magenta, black"
+        ],
+        "true": "Green, amber/yellow, red, magenta",
+        "annex": null
+    },
+    {
+        "question": "The following are lists of some of the screen modes of an Electronic Horizontal Situation Indicator (EHSI) on a B737-400 . Which list correctly shows the modes in which radar returns cannot be displayed.?",
+        "options": [
+            "EXP VOR/ ILS, PLAN and MAP",
+            "FULL VOR/ILS, EXP VOR/ILS and PLAN",
+            "FULL NAV, FULL VOR/ILS and PLAN",
+            "FULL NAV, PLAN and MAP"
+        ],
+        "true": "FULL NAV, FULL VOR/ILS and PLAN",
+        "annex": null
+    },
+    {
+        "question": "The track-line on the Electronic Horizontal Situation Indicator (EHSI) or Navigation Display of an Electronic Flight Instrument System:",
+        "options": [
+            "Indicates to the pilot that a manually selected heading is being flown",
+            "Represents the track of the aircraft over the ground. When it co-incides with the desired track, wind influence is compensated for",
+            "Indicates that the pilot has made a manual track selection",
+            "Corresponds to the calculated IRS TH and is correct during turns"
+        ],
+        "true": "Represents the track of the aircraft over the ground. When it co-incides with the desired track, wind influence is compensated for",
+        "annex": null
+    },
+    {
+        "question": "Refer to image Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in PLAN mode?",
+        "options": [
+            "Refer to image Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in MAP mode?",
+            "Refer to image. The letters QTX and adjacent symbol indicate:",
+            "VOR / DME",
+            "Airport"
+        ],
+        "true": "VOR / DME",
+        "annex": "062-9910"
+    },
+    {
+        "question": "TACAN\nVOR\nRefer to image Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in Expanded (EXP) VOR/ILS mode with an ILS frequency selected?\n\nRefer to image Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in Expanded (EXP) VOR/ILS mode with a VOR frequency selected?\n\n(Refer to ) Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in FULL VOR/ILS mode with an VOR frequency selected?\n\nRefer to image Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in PLAN mode?\n\nRefer to image Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in MAP mode?\n\nRefer to image Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in Expanded (EXP) VOR/ILS mode with an VOR frequency selected?\n\nRefer to image Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in Expanded (EXP) VOR/ILS mode with an ILS frequency selected?",
+        "options": [
+            "Refer to image Which of the figures depicts an Electronic Flight Instrument System (EFIS) display in FULL VOR/ILS mode with an ILS frequency selected?",
+            "Refer to image What drift is being experienced?",
+            "12° Right",
+            "8° Left"
+        ],
+        "true": "8° Left",
+        "annex": "062-006"
+    },
+    {
+        "question": "20° Left\n20° Right\nRefer to image What is the value of the track from TBX to YTB?",
+        "options": [
+            "097°(T)",
+            "140°(M)",
+            "280°(T)",
+            "170°(M)"
+        ],
+        "true": "097°(T)",
+        "annex": "062-9916"
+    },
+    {
+        "question": "Refer to image What wind velocity is indicated?",
+        "options": [
+            "030°(M)/20KT",
+            "255°(M)/20KT",
+            "285°(M)/20KT",
+            "105°(M)/20KT"
+        ],
+        "true": "105°(M)/20KT",
+        "annex": "062-9917"
+    },
+    {
+        "question": "Refer to image What is the value of the selected course?",
+        "options": [
+            "299°(M)",
+            "272°(M)",
+            "260°(M)",
+            "280°(M)"
+        ],
+        "true": "299°(M)",
+        "annex": "062-9918"
+    },
+    {
+        "question": "Refer to image What is the aircraft track?",
+        "options": [
+            "260°(M)",
+            "272°(M)",
+            "300°(M)",
+            "280°(M)"
+        ],
+        "true": "272°(M)",
+        "annex": "062-9919"
+    },
+    {
+        "question": "Refer to image The letters QTX and adjacent symbol indicate a:",
+        "options": [
+            "VOR",
+            "TACAN",
+            "Airport",
+            "VOR/DME/VORTAC"
+        ],
+        "true": "VOR/DME/VORTAC",
+        "annex": "062-9920"
+    },
+    {
+        "question": "Refer to image. The 'O' followed by the letters 'KABC' indicate:",
+        "options": [
+            "A designated alternate airport",
+            "An off-route airport",
+            "The destination airport",
+            "An off-route VOR/DME"
+        ],
+        "true": "An off-route airport",
+        "annex": "062-9921"
+    },
+    {
+        "question": "(Refer to ) What is the heading bug selected to?",
+        "options": [
+            "300°(M)",
+            "260°(M)",
+            "272°(M)",
+            "280°(M)"
+        ],
+        "true": "260°(M)",
+        "annex": "062-9922"
+    },
+    {
+        "question": "Refer to image. The diagram indicates that the aircraft is to the:",
+        "options": [
+            "Left of the localiser and below the glidepath",
+            "Left of the localiser and above the glidepath",
+            "Right of the localiser and below the glidepath",
+            "Right of the localiser and above the glidepath"
+        ],
+        "true": "Right of the localiser and below the glidepath",
+        "annex": "062-9923"
+    },
+    {
+        "question": "The Flight Management System (FMS) is organised in such a way that the pilot can:",
+        "options": [
+            "Modify the data in the database between two updates",
+            "Modify the database every 14 days",
+            "Insert navigation data between two database updates",
+            "Read and write at any time in the database"
+        ],
+        "true": "Insert navigation data between two database updates",
+        "annex": null
+    },
+    {
+        "question": "In what piece of FMS equipment will the pilot enter the waypoint information for the route?",
+        "options": [
+            "The Primary Flight Display (PFD)",
+            "The Navigation Display (ND)",
+            "The Symbol Generator",
+            "The Control Display Unit (CDU)"
+        ],
+        "true": "The Control Display Unit (CDU)",
+        "annex": null
+    },
+    {
+        "question": "In a 2D RNAV system you have entered the DME and VOR data for two  waypoints. What do you use to work out the cross track errors when en-route from one to the other?",
+        "options": [
+            "The pilot is presented with VOR/DME information which must then be correlated to the pressure instruments to determine the effect of altitude",
+            "The pilot takes the VOR and DME information and computes it himself",
+            "The pilot will have to calculate the wind and apply it to the VOR/DME information",
+            "Use the automatically computed values on the CDI/HSI."
+        ],
+        "true": "Use the automatically computed values on the CDI/HSI.",
+        "annex": null
+    },
+    {
+        "question": "When entering and using a phantom waypoint in area navigation equipment, you:",
+        "options": [
+            "You must be in range of the referenced station to enter or use it",
+            "The referenced station must be positively identified by at least 1 pilot",
+            "You don't need to be within range of the referenced station to enter the waypoint, but you must be to use it",
+            "Don't need to be in range of the referenced station to enter or use it"
+        ],
+        "true": "You don't need to be within range of the referenced station to enter the waypoint, but you must be to use it",
+        "annex": null
+    },
+    {
+        "question": "Statements about RNAV :\n\n1. The system has the capability to direct to any waypoint;\n2. The system has a capability of parallel offset tracking. Which are correct?",
+        "options": [
+            "1 is true, 2 is false",
+            "Both are false",
+            "Both statements are true",
+            "1 is false, 2 is true"
+        ],
+        "true": "Both statements are true",
+        "annex": null
+    },
+    {
+        "question": "Refer to image What is the selected course shown on the EFIS Navigation Display?",
+        "options": [
+            "015 °",
+            "030 °",
+            "010 °",
+            "035 °"
+        ],
+        "true": "015 °",
+        "annex": "062-007"
+    },
+    {
+        "question": "Refer to image What is the value of the selected course shown on the EFIS display?",
+        "options": [
+            "110 °",
+            "080 °",
+            "119 °",
+            "100 °"
+        ],
+        "true": "110 °",
+        "annex": "062-008"
+    },
+    {
+        "question": "Refer to image What is the aircraft’s position, as determined from the annex shown?",
+        "options": [
+            "Right of selected course, DME distance increasing",
+            "Right of selected course, DME distance decreasing",
+            "Left of selected course, DME distance decreasing",
+            "Left of selected course, DME distance increasing"
+        ],
+        "true": "Left of selected course, DME distance decreasing",
+        "annex": "062-009"
+    },
+    {
+        "question": "What is X-track error?",
+        "options": [
+            "Distance between air position and the great dircle line between two active waypoints.",
+            "Distance between air position and planned track",
+            "Distance between actual position and the great circle line between two active waypoints",
+            "Distance between actual position and air position."
+        ],
+        "true": "Distance between actual position and the great circle line between two active waypoints",
+        "annex": null
+    },
+    {
+        "question": "Refer to the Annex to answer this question. Which of the following distances is shown on a VOR/DME based area navigation display using phantom waypoint X?",
+        "options": [
+            "8 NM",
+            "11 NM",
+            "19NM",
+            "9 NM"
+        ],
+        "true": "9 NM",
+        "annex": "620746"
+    },
+    {
+        "question": "Which reference datum is used by the Russian Globalnaya Navigatsionnaya Sputnikovaya Sistema (GLONASS) satellite system?",
+        "options": [
+            "PZ-90",
+            "ED50",
+            "GRS 80",
+            "WGS-84"
+        ],
+        "true": "PZ-90",
+        "annex": null
+    },
+    {
+        "question": "An aircraft is flying at FL 150 with a modern EADI display.  Which of the following is not displayed?",
+        "options": [
+            "Radio Height",
+            "Pressure altitude",
+            "Heading & Track",
+            "Attitude"
+        ],
+        "true": "Radio Height",
+        "annex": null
+    },
+    {
+        "question": "What additional item of equipment is required if an FMS is to control vertical position.",
+        "options": [
+            "Auto Throttle",
+            "Flight Director",
+            "Pitch Control",
+            "Electronic Flight Bag"
+        ],
+        "true": "Auto Throttle",
+        "annex": null
+    },
+    {
+        "question": "When preparing your aircraft to commence a descent the ATS unit requests you to arrive at a level overhead the waypoint at a specified time.  Which RNAV system would be required for this?",
+        "options": [
+            "2D Basic RNAV",
+            "3D RNAV",
+            "4D RNAV",
+            "2D Precision RNAV"
+        ],
+        "true": "4D RNAV",
+        "annex": null
+    },
+    {
+        "question": "With regard to the FMS navigational database, which of the following statements is correct?",
+        "options": [
+            "The navigational database is write-protected and it is not possible to save crew-created navigational data.",
+            "Crew-inserted navigational data is deleted automatically after each flight.",
+            "The crew can overwrite existing data in the navigational database.",
+            "The navigational database is read-only, but space exists for crew-created navigational data."
+        ],
+        "true": "The navigational database is read-only, but space exists for crew-created navigational data.",
+        "annex": null
+    },
+    {
+        "question": "What FMS modes must be selected to enable it to automatically control both horizontal and vertical navigation?",
+        "options": [
+            "HDG and VS",
+            "LNAV and VNAV",
+            "TRK CH and LVL CH",
+            "NAV and Flight Path"
+        ],
+        "true": "LNAV and VNAV",
+        "annex": null
+    },
+    {
+        "question": "Which of the following uses a Kalman filter?",
+        "options": [
+            "EFIS - Electronic Flight Information System",
+            "DME",
+            "VOR",
+            "Navigation computer"
+        ],
+        "true": "Navigation computer",
+        "annex": null
+    },
+    {
+        "question": "Which FMS guidance modes does the pilot have to engage in order to follow the horizontal path, vertical path, and speed profile?",
+        "options": [
+            "NAV (Longitudinal Navigation) and SPEED",
+            "TRK (Track Navigation) and FLCH (Flight Level Change)",
+            "HDG (Heading Navigation) and VS/FPA (Vertical Speed/Flight Path Angle).",
+            "LNAV (Lateral Navigation) and VNAV (Vertical Navigation)"
+        ],
+        "true": "LNAV (Lateral Navigation) and VNAV (Vertical Navigation)",
+        "annex": null
+    },
+    {
+        "question": "Which of the following navigation aids will provide an RNAV system with position?",
+        "options": [
+            "NDB",
+            "VOR/DME",
+            "ADF",
+            "VDF"
+        ],
+        "true": "VOR/DME",
+        "annex": null
+    },
+    {
+        "question": "Which of the following is NOT displayed on a modern EADI?",
+        "options": [
+            "Radio Height",
+            "Attitude",
+            "Barometric Altitude",
+            "Heading and Track"
+        ],
+        "true": "Heading and Track",
+        "annex": null
+    },
+    {
+        "question": "Fuel flow parameters are contained in...",
+        "options": [
+            "the FMC scratchpad file",
+            "the FMC performance database",
+            "the FMC engine database",
+            "the FMC navigation data base"
+        ],
+        "true": "the FMC performance database",
+        "annex": null
+    },
+    {
+        "question": "Where is the information about wind direction and velocity which is displayed on the EFIS derived from?",
+        "options": [
+            "Wind information is directly entered into the flight management computer (FMC) by pilots or dispatchers",
+            "the pilors enter the wind manually, based on currewnt in-flight information",
+            "Wind information is calculated by the Flight Management Computer (FMC) from heading, drift, true air speed and ground speed.",
+            "Wind information is updated by data link from the nearest met Office"
+        ],
+        "true": "Wind information is calculated by the Flight Management Computer (FMC) from heading, drift, true air speed and ground speed.",
+        "annex": null
+    },
+    {
+        "question": "A pilot is flying at FL150 in an aircraft equipped with a modern EADI (Electronic Attitude Direction Indicator). One of the data listed below is not displayed on the cEADI in this phase of flight. It is...",
+        "options": [
+            "Attitude information",
+            "Heading and track",
+            "Flight director command bars",
+            "Radio height"
+        ],
+        "true": "Radio height",
+        "annex": null
+    }
+]

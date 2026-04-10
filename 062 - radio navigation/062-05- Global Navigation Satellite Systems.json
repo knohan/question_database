@@ -1,0 +1,1894 @@
+[
+    {
+        "question": "Which of the following geometric satellite constellations provides the most accurate NAVSTAR/GPS position fix?",
+        "options": [
+            "Three satellites with an azimuth of 120° from each other and a low elevation above the horizon, with a fourth satellite directly overhead.",
+            "Four satellites with an azimuth of 90° from each other and a low elevation above the horizon.",
+            "Three satellites with an azimuth of 120° from each other and an elevation of 45° above the horizon.",
+            "Four satellites with an azimuth of 90° from each other and an elevation of 45° above the horizon."
+        ],
+        "true": "Three satellites with an azimuth of 120° from each other and a low elevation above the horizon, with a fourth satellite directly overhead.",
+        "annex": null
+    },
+    {
+        "question": "In relation to the NAVSTAR/GPS satellite navigation system, what is involved in the differential technique (D-GPS)?",
+        "options": [
+            "The difference between signals transmitted on the L1 and L2 frequencies are processed by the receiver to determine an error correction.",
+            "Receivers from various manufacturers are operated in parallel to reduce the characteristic receiver noise error.",
+            "Fixed ground stations compute position errors and transmit correction data to a suitable receiver on the aircraft.",
+            "Signals from satellites are received by 2 different antennas which are located a fixed distance apart. This enables a suitable receiver on the aircraft to recognise and correct for multipath errors."
+        ],
+        "true": "Fixed ground stations compute position errors and transmit correction data to a suitable receiver on the aircraft.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following statements about the accuracy that can be obtained with the differential technique (D-GPS) of the satellite navigation system NAVSTAR/GPS is correct?",
+        "options": [
+            "A D-GPS can detect and correct for SA, providing a more accurate fix.",
+            "The increase in accuracy of position fixes is independent of the receiver position in relation to a D-GPS ground station.",
+            "Only D-GPS allows position fixes accurate enough for Non-Precision Approaches.",
+            "The nearer a receiver is situated to a D-GPS ground station, the more accurate the position fix."
+        ],
+        "true": "The nearer a receiver is situated to a D-GPS ground station, the more accurate the position fix.",
+        "annex": null
+    },
+    {
+        "question": "What is the inclination to the equatorial plane of the satellite’s orbit in the NAVSTAR GPS constellation?",
+        "options": [
+            "55°",
+            "35°",
+            "65°",
+            "45°"
+        ],
+        "true": "55°",
+        "annex": null
+    },
+    {
+        "question": "In a Satellite-Assisted Navigation System (GNSS/GPS), a fix is obtained by:",
+        "options": [
+            "measuring the time taken for a minimum number of satellites’ transmissions, in known positions, to reach the aircraft’s receiver",
+            "the aircraft’s receiver measuring the phase angle of signals received from a number of satellites in known positions",
+            "measuring the time taken for an aircraft’s transmissions to travel to a number of satellites, in known positions, and return to the aircraft’s receiver",
+            "measuring the pulse lengths of signals received from a minimum number of satellites received in a specific sequential order"
+        ],
+        "true": "measuring the time taken for a minimum number of satellites’ transmissions, in known positions, to reach the aircraft’s receiver",
+        "annex": null
+    },
+    {
+        "question": "In the NAVSTAR/GPS satellite navigation system, what is the maximum time taken to receive the complete set of almanac data from all satellites?",
+        "options": [
+            "25 seconds (= 1 second per data frame)",
+            "24 seconds (= 1 second per data frame)",
+            "12 hours (= period of the satellites orbit)",
+            "12.5 minutes (= 30 seconds per data frame)"
+        ],
+        "true": "12.5 minutes (= 30 seconds per data frame)",
+        "annex": null
+    },
+    {
+        "question": "What is the minimum number of satellites required by a GPS in order to obtain a three dimensional fix?",
+        "options": [
+            "6",
+            "3",
+            "5",
+            "4"
+        ],
+        "true": "4",
+        "annex": null
+    },
+    {
+        "question": "GPS satellites transmit on two L-band frequencies with different types of signals. Which of these are generally available for use by civil aviation?",
+        "options": [
+            "L2 - for communications purpose",
+            "L1 - Coarse Acquisition (C/A) with selected availability (S/A)",
+            "L1 Precise (P)",
+            "L2 - Coarse Acquisition (C/A)"
+        ],
+        "true": "L1 - Coarse Acquisition (C/A) with selected availability (S/A)",
+        "annex": null
+    },
+    {
+        "question": "Which of the following coordinate systems is used by the NAVSTAR/GPS receiver to calculate position (latitude, longitude and altitude)?",
+        "options": [
+            "ED 87",
+            "PZ 90",
+            "ED 50",
+            "WGS 84"
+        ],
+        "true": "WGS 84",
+        "annex": null
+    },
+    {
+        "question": "Which of the following lists all the parameters that can be determined by a GPS receiver tracking signals from 4 different satellites?",
+        "options": [
+            "Latitude, longitude and altitude",
+            "Latitude and longitude",
+            "Latitude, longitude, altitude and time",
+            "Latitude, longitude and time"
+        ],
+        "true": "Latitude, longitude, altitude and time",
+        "annex": null
+    },
+    {
+        "question": "In a Satellite-Assisted Navigation System (GNSS/GPS) a position line is obtained by…",
+        "options": [
+            "timing the period that is taken for a transmission from the aircraft’s transmitter/receiver to reach and return from a satellite in a known position.",
+            "timing the period that is taken for a satellite’s transmission to reach the aircraft’s receiver.",
+            "the aircraft’s receiver measuring the time difference between signals received from a minimum number of satellites.",
+            "the aircraft’s receiver measuring the phase angle of the signal received from a satellite in a known position."
+        ],
+        "true": "timing the period that is taken for a satellite’s transmission to reach the aircraft’s receiver.",
+        "annex": null
+    },
+    {
+        "question": "In which frequency band do Satellite-Assisted Navigation systems (GNSS/GPS) provide position information that is available to civil aircraft?",
+        "options": [
+            "UHF",
+            "SHF4",
+            "VHF",
+            "EHF"
+        ],
+        "true": "UHF",
+        "annex": null
+    },
+    {
+        "question": "What is the minimum number of satellites required for the NAVSTAR/GPS to carry out two dimensional operation?",
+        "options": [
+            "4",
+            "5",
+            "3",
+            "2"
+        ],
+        "true": "3",
+        "annex": null
+    },
+    {
+        "question": "Which of the following options correctly lists errors that affect the accuracy and reliability of the Satellite-Assisted Navigation system (GNSS/GPS)?",
+        "options": [
+            "Satellite mutual interference, frequency drift, and satellite to ground time lag.",
+            "Satellite to ground time lag, atmospheric propagation, and satellite clock.",
+            "Satellite clock, satellite ephemeris, and ionospheric propagation.",
+            "Satellite mutual interference, satellite ephemeris, and atmospheric propagation."
+        ],
+        "true": "Satellite clock, satellite ephemeris, and ionospheric propagation.",
+        "annex": null
+    },
+    {
+        "question": "What is the minimum number of satellites required for signal reception in order to carry out an independent three-dimensional fix, Receiver Autonomous Integrity Monitoring (RAIM) and failure detection and exclusion of any faulty satellite?",
+        "options": [
+            "6",
+            "7",
+            "4",
+            "5"
+        ],
+        "true": "6",
+        "annex": null
+    },
+    {
+        "question": "Signal reception is required from a minimum number of satellites that have adequate elevation and suitable geometry in order for a Satellite-Assisted Navigation System (GPS) to carry out independent three dimensional operation without the Receiver Autonomomous Integrity Monitoring (RAIM) function.",
+        "options": [
+            "5",
+            "3",
+            "4",
+            "6"
+        ],
+        "true": "4",
+        "annex": null
+    },
+    {
+        "question": "The distance between a NAVSTAR/GPS satellite and receiver is…",
+        "options": [
+            "determined by the time taken for the signal to arrive from the satellite multiplied by the speed of light.",
+            "calculated from the Doppler shift of the known frequencies.",
+            "determined by the phase shift of the pseudo random noise code multiplied by the speed of light.",
+            "calculated from the known positions of the satellite and the receiver using the WGS-84 reference system."
+        ],
+        "true": "determined by the time taken for the signal to arrive from the satellite multiplied by the speed of light.",
+        "annex": null
+    },
+    {
+        "question": "Why is the measured distance between a NAVSTAR/GPS satellite and a receiver called a pseudo-range?",
+        "options": [
+            "The calculated range includes receiver clock error.",
+            "The movement of the satellite and receiver during the distance calculation is excluded.",
+            "The measured distance is based on the pseudo random noise code.",
+            "The calculated range is based on an idealised Keplerian orbit."
+        ],
+        "true": "The calculated range includes receiver clock error.",
+        "annex": null
+    },
+    {
+        "question": "What type of satellite navigation system NAVSTAR/GPS receiver is most suitable for use on board an aircraft?",
+        "options": [
+            "Multi-channel",
+            "Sequential",
+            "Any hand-held type",
+            "Multiplex"
+        ],
+        "true": "Multi-channel",
+        "annex": null
+    },
+    {
+        "question": "What is the minimum number of NAVSTAR/GPS satellites required to produce an accurate independent 3-D position fix?",
+        "options": [
+            "24",
+            "5",
+            "4",
+            "3"
+        ],
+        "true": "4",
+        "annex": null
+    },
+    {
+        "question": "The receiver aerial for a NAVSTAR/GPS system should be mounted…",
+        "options": [
+            "under the fuselage in order to receive correction data transmitted by D-GPS stations.",
+            "inside the tail fin to minimise the influence of reflections from the wing and fuselage.",
+            "in the vicinity of the receiver to avoid long transmission lines.",
+            "on the upper side of the fuselage in the vicinity of the centre of gravity."
+        ],
+        "true": "on the upper side of the fuselage in the vicinity of the centre of gravity.",
+        "annex": null
+    },
+    {
+        "question": "In the NAVSTAR/GPS satellite navigation system, re-use of Selective Availability would give the option to artificially degrade the accuracy by:",
+        "options": [
+            "Shutting off selected satellites",
+            "Using a less accurate atomic clock in a satellite for signal processing",
+            "Offsetting satellite atomic clocks by a predetermined constant amount",
+            "Dithering the satellite clock"
+        ],
+        "true": "Dithering the satellite clock",
+        "annex": null
+    },
+    {
+        "question": "In the event of the re-use of Selective Availability, how does this affect, if at all, the navigation accuracy of the NAVSTAR/GPS satellite navigation system?",
+        "options": [
+            "It degrades accuracy by reducing the number of available satellites",
+            "It degrades position accuracy by manipulating satellite signals",
+            "It increases because only signals from satellites in the most suitable geometric constellation are selected by the receiver",
+            "It has no influence because, by selecting of the most suitable signals, the computing process in the receiver is quicker"
+        ],
+        "true": "It degrades position accuracy by manipulating satellite signals",
+        "annex": null
+    },
+    {
+        "question": "In the NAVSTAR/GPS satellite navigation system, receiver clock error is…",
+        "options": [
+            "corrected by using signals from four satellites.",
+            "the biggest part of the total error and cannot be corrected.",
+            "minimised by the receiver’s atomic clock.",
+            "negligible because of the accuracy of the atomic clocks installed in the satellites."
+        ],
+        "true": "corrected by using signals from four satellites.",
+        "annex": null
+    },
+    {
+        "question": "The influence of the ionosphere on the accuracy of NAVSTAR/GPS is…",
+        "options": [
+            "only significant if the satellites are located at a small elevation angle above the horizon.",
+            "negligible.",
+            "reduced in Standard Positioning Service -SPS- receivers by using a model of the ionosphere transmitted by the satellites.",
+            "minimised by computing the average of all signals."
+        ],
+        "true": "reduced in Standard Positioning Service -SPS- receivers by using a model of the ionosphere transmitted by the satellites.",
+        "annex": null
+    },
+    {
+        "question": "Which one of the following is an advantage of a multi-sensor system using inputs from a global navigation satellite system (GNSS) and an inertial reference system (IRS)?",
+        "options": [
+            "The activation of 'Selective Availability' can be recognised by the INS.",
+            "The GNNS is never used as an input in a multi-sensor system.",
+            "The GNSS can be used to update the FMS position from a drifting IRS",
+            "The FMS always uses average position calculated from the GNSS and the IRS."
+        ],
+        "true": "The GNSS can be used to update the FMS position from a drifting IRS",
+        "annex": null
+    },
+    {
+        "question": "What are the effects of shadowing by parts of the aircraft on the reception of signals from NAVSTAR/GPS satellites?",
+        "options": [
+            "The signals will be distorted but the error can be corrected by using an algorithm and information from unaffected signals.",
+            "It can prevent the reception of signals.",
+            "It has no influence because high frequency signals are unaffected.",
+            "It causes multipath propagation."
+        ],
+        "true": "It can prevent the reception of signals.",
+        "annex": null
+    },
+    {
+        "question": "How does a receiver of the NAVSTAR/GPS satellite navigation system determine the elevation and azimuth data of a satellite relative to the location of the antenna?",
+        "options": [
+            "The data are calculated by using Almanac data transmitted by the satellites.",
+            "The data are based on the direction to the satellite determined at the location of the antenna.",
+            "The data are stored in the receiver together with the Pseudo Random Noise -PRN- code.",
+            "The data are determined by the satellite and transmitted together with the navigation message."
+        ],
+        "true": "The data are calculated by using Almanac data transmitted by the satellites.",
+        "annex": null
+    },
+    {
+        "question": "In relation to the NAVSTAR/GPS satellite navigation system, 'Search the Sky' is a:",
+        "options": [
+            "Procedure performed by the receiver to recognise new satellites becoming operational",
+            "Continuous procedure performed by the receiver that searches the sky for satellites rising above the horizon",
+            "Procedure that starts after switching on a receiver if there is no stored satellite data available",
+            "Continuous process by the ground segment to monitor the GPS satellites"
+        ],
+        "true": "Procedure that starts after switching on a receiver if there is no stored satellite data available",
+        "annex": null
+    },
+    {
+        "question": "What is the correct procedure when, on a flight under IFR conditions, using the NAVSTAR/GPS satellite navigation system, the number of satellites required to maintain the RAIM (Receiver Autonomous Integrity Monitoring) function are not available?",
+        "options": [
+            "The flight has to be continued under VFR conditions.",
+            "The flight may be continued as planned if at least four satellites are available and the pilot monitors the GPS manually.",
+            "A constant heading and speed must be flown until the required number of satellites are again available.",
+            "The flight may be continued using other certificated navigation systems."
+        ],
+        "true": "The flight may be continued using other certificated navigation systems.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following, if any, is a prerequisite if a receiver of a NAVSTAR/GPS satellite navigation system is to be used in combination with a multi sensor system?",
+        "options": [
+            "The RAIM-function of the GPS receiver must be able to monitor all prescribed navigation systems",
+            "Multi-sensor systems are not certificated for flights under IFR conditions",
+            "The prescribed IFR-equipment must be in working correctly and the navigation information continuously displayed",
+            "The prescribed IFR-equipment must be installed and operational"
+        ],
+        "true": "The prescribed IFR-equipment must be installed and operational",
+        "annex": null
+    },
+    {
+        "question": "Which of the following procedures must be adopted if, on a flight under IFR conditions using a NAVSTAR/GPS satellite navigation system receiver, the position fix obtained from the GPS receiver differs from the position of conventional navigation systems by an unacceptable amount?",
+        "options": [
+            "It may be continued using conventional navigation systems",
+            "It must be continued under VFR conditions",
+            "The pilot must determine the reason for the deviation and correct the error or switch off the faulty system",
+            "It may be continued using NAVSTAR/GPS; prior to the next flight all systems must be checked"
+        ],
+        "true": "It may be continued using conventional navigation systems",
+        "annex": null
+    },
+    {
+        "question": "What datum is used for the Minimum Descent Altitude (MDA) on a non-precision approach when using the NAVSTAR/GPS satellite navigation system?",
+        "options": [
+            "If using Differential-GPS -D-GPS- the altitude obtained from the D-GPS, otherwise barometric altitude.",
+            "GPS altitude.",
+            "Barometric altitude.",
+            "Radar altitude."
+        ],
+        "true": "Barometric altitude.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following is the datum for altitude information when conducting flights under IFR conditions on airways using the NAVSTAR/GPS satellite navigation system?",
+        "options": [
+            "The average of GPS altitude and barometric altitude.",
+            "GPS altitude.",
+            "Barometric altitude.",
+            "GPS altitude if 4 or more satellites are received otherwise barometric altitude."
+        ],
+        "true": "Barometric altitude.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following combinations of satellite navigation systems provide the most accurate position fixes in air navigation?",
+        "options": [
+            "NAVSTAR/GPS and GLONASS",
+            "NAVSTAR/GPS and NNSS-Transit",
+            "NNSS-Transit and GLONASS",
+            "GLONASS and COSPAS-SARSAT"
+        ],
+        "true": "NAVSTAR/GPS and GLONASS",
+        "annex": null
+    },
+    {
+        "question": "The required 24 NAVSTAR/GPS operational satellites are located on…",
+        "options": [
+            "6 orbital planes with 4 satellites in each plane.",
+            "4 orbital planes with 6 satellites in each plane.",
+            "6 orbital planes with 3 satellites in each plane plus 6 reserve satellites positioned in a geostationary orbital plane.",
+            "3 orbital planes with 8 satellites in each plane."
+        ],
+        "true": "6 orbital planes with 4 satellites in each plane.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following statements about the ‘visibility’ of NAVSTAR/GPS satellites is correct?",
+        "options": [
+            "It is the same throughout the globe",
+            "It varies, depending on the time and observer’s location",
+            "It is greatest at the poles",
+            "It is greatest at the equator"
+        ],
+        "true": "It varies, depending on the time and observer’s location",
+        "annex": null
+    },
+    {
+        "question": "How many operational satellites are required for Full Operational Capability (FOC) of the satellite navigation system NAVSTAR/GPS?",
+        "options": [
+            "24",
+            "12",
+            "30",
+            "18"
+        ],
+        "true": "24",
+        "annex": null
+    },
+    {
+        "question": "Which of the following satellite navigation systems has Full Operational Capability (FOC) and is approved for specified flights under IFR conditions in Europe?",
+        "options": [
+            "NAVSTAR/GPS",
+            "COSPAS-SARSAT",
+            "GLONASS",
+            "NNSS-Transit"
+        ],
+        "true": "NAVSTAR/GPS",
+        "annex": null
+    },
+    {
+        "question": "GPS system satellites transmit their signals on two carrier waves: 1575 MHz and 1227 MHz. They supply two possible codes, accessible according to whether the user is civil or military.Commercial aviation uses…",
+        "options": [
+            "only the 1575 MHz carrier wave and two codes.",
+            "only the 1227 MHz carrier wave and one code.",
+            "only the 1575 MHz carrier wave and one code.",
+            "the two carrier waves and one public code."
+        ],
+        "true": "only the 1575 MHz carrier wave and one code.",
+        "annex": null
+    },
+    {
+        "question": "The different segments of the satellite navigation system NAVSTAR/GPS are the…",
+        "options": [
+            "antenna, the receiver, and the central control unit.",
+            "atomic clock, power supply, and transponder.",
+            "control, space, and user.",
+            "main control station, the monitoring station, and the ground antennas."
+        ],
+        "true": "control, space, and user.",
+        "annex": null
+    },
+    {
+        "question": "One of the tasks of the control segment of the satellite navigation system NAVSTAR/GPS is to…",
+        "options": [
+            "grant and monitor user authorisations.",
+            "manufacture and launch the satellites.",
+            "manipulate the signals of selected satellites to reduce the precision of the position fix.",
+            "monitor the status of the satellites."
+        ],
+        "true": "monitor the status of the satellites.",
+        "annex": null
+    },
+    {
+        "question": "The main task of the user segment of the satellite navigation system NAVSTAR/GPS is to calculate receiver position by…",
+        "options": [
+            "monitoring the status of the satellites, determining their positions and measuring the time interval between signals.",
+            "monitoring the orbital planes of the satellites.",
+            "transmitting signals which, from the time taken, are used to determine the distance to the satellite.",
+            "selecting appropriate satellites automatically, tracking the signals and measuring the time taken for signals from the satellites to reach the receiver."
+        ],
+        "true": "selecting appropriate satellites automatically, tracking the signals and measuring the time taken for signals from the satellites to reach the receiver.",
+        "annex": null
+    },
+    {
+        "question": "One of the tasks of the space segment of the satellite navigation system NAVSTAR/GPS is to…",
+        "options": [
+            "transmit signals which can be used, by suitable receivers, to determine time, position, and velocity.",
+            "compute the user position from the received user messages and to transmit the computed position back to the user segment.",
+            "transmit signals to suitable receivers and to monitor the orbital planes autonomously.",
+            "monitor the satellites’ orbits and status."
+        ],
+        "true": "transmit signals which can be used, by suitable receivers, to determine time, position, and velocity.",
+        "annex": null
+    },
+    {
+        "question": "The geometric shape of the reference system for the satellite navigation system NAVSTAR/GPS, defined as WGS 84, is:",
+        "options": [
+            "a sphere",
+            "a geoid",
+            "an ellipsoid",
+            "a mathematical model that describes the exact shape of the earth"
+        ],
+        "true": "an ellipsoid",
+        "annex": null
+    },
+    {
+        "question": "In civil aviation, the height value computed by the receiver of the satellite navigation system NAVSTAR/GPS is the:",
+        "options": [
+            "height above Mean Sea Level (MSL)",
+            "flight level",
+            "height above the WGS-84 ellipsoid",
+            "geometric height above ground"
+        ],
+        "true": "height above the WGS-84 ellipsoid",
+        "annex": null
+    },
+    {
+        "question": "In relation to the satellite navigation system NAVSTAR/GPS, the term ‘inclination’ denotes the angle between the…",
+        "options": [
+            "orbital plane and the Earth’s axis.",
+            "horizontal plane at the location of the receiver and the direct line to a satellite.",
+            "horizontal plane at the location of the receiver and the orbital plane of a satellite.",
+            "orbital plane and the equatorial plane."
+        ],
+        "true": "orbital plane and the equatorial plane.",
+        "annex": null
+    },
+    {
+        "question": "How long does it take a NAVSTAR/GPS satellite to orbit the Earth?",
+        "options": [
+            "365 days because the satellites are located in a geostationary orbit.",
+            "Approximately 12 hours.",
+            "Approximately 24 hours.",
+            "12 days."
+        ],
+        "true": "Approximately 12 hours.",
+        "annex": null
+    },
+    {
+        "question": "At what approximate height are NAVSTAR/GPS satellites circling the Earth?",
+        "options": [
+            "36000 km",
+            "10900 km",
+            "19500 km",
+            "20200 km"
+        ],
+        "true": "20200 km",
+        "annex": null
+    },
+    {
+        "question": "The orbital planes of the satellite navigation system NAVSTAR/GPS are…",
+        "options": [
+            "inclined 90° to the equatorial plane.",
+            "parallel to the equatorial plane.",
+            "inclined 55° to the earth axis.",
+            "inclined 55° to the equatorial plane."
+        ],
+        "true": "inclined 55° to the equatorial plane.",
+        "annex": null
+    },
+    {
+        "question": "In which frequency bands are the L1 and L2 frequencies used by the satellite navigation system NAVSTAR/GPS for transmission of the navigation message?",
+        "options": [
+            "VHF",
+            "EHF",
+            "UHF",
+            "SHF"
+        ],
+        "true": "UHF",
+        "annex": null
+    },
+    {
+        "question": "In relation to the satellite navigation system NAVSTAR/GPS, which of the following statements correctly describes the term Pseudo Random Noise (PRN)?",
+        "options": [
+            "PRN is a code used for the identification of the satellites and the measurement of the time taken by the signal to reach the receiver.",
+            "PRN is the atmospheric jamming that affects the signals transmitted by the satellites.",
+            "PRN occurs in the receiver. It is caused by the signal from one satellite being received from different directions.",
+            "PRN describes the continuous electro-magnetic background noise that exists in space"
+        ],
+        "true": "PRN is a code used for the identification of the satellites and the measurement of the time taken by the signal to reach the receiver.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following NAVSTAR/GPS satellite navigation system codes can be processed by ‘unauthorised’ civil aviation receivers?",
+        "options": [
+            "C/A",
+            "C/A and P",
+            "P",
+            "P and Y"
+        ],
+        "true": "C/A",
+        "annex": null
+    },
+    {
+        "question": "Almanac data stored in the receiver of the satellite navigation system NAVSTAR/GPS is used for the:",
+        "options": [
+            "recognition whether Selective Availability (SA) is operative",
+            "correction of receiver clock error",
+            "fast identification of received signals coming from visible satellites",
+            "assignment of received PRN-codes (Pseudo Random Noise) to the appropriate satellite"
+        ],
+        "true": "fast identification of received signals coming from visible satellites",
+        "annex": null
+    },
+    {
+        "question": "How does a NAVSTAR/GPS satellite navigation system receiver recognise which of the received signals belongs to which satellite?",
+        "options": [
+            "The receiver detects the direction from which the signals are received and compares this information with the calculated positions of the satellites.",
+            "Each satellite transmits its signal on a separate frequency.",
+            "The Doppler shift is unique to each satellite.",
+            "Each satellite transmits its signal, on common frequencies, with an individual Pseudo Random Noise code"
+        ],
+        "true": "Each satellite transmits its signal, on common frequencies, with an individual Pseudo Random Noise code",
+        "annex": null
+    },
+    {
+        "question": "Which of the following data, in addition to the Pseudo Random Noise (PRN) code, forms part of the so called 'Navigation Message' transmitted by NAVSTAR/GPS satellites?",
+        "options": [
+            "Almanac data; satellite status information",
+            "Time; data to impair the accuracy of the position fix",
+            "Data to correct receiver clock error; almanac data",
+            "Time; positions of the satellites"
+        ],
+        "true": "Almanac data; satellite status information",
+        "annex": null
+    },
+    {
+        "question": "What is the time taken for a GPS receiver to receive all the data frames in the navigation message?",
+        "options": [
+            "24 seconds",
+            "12.5 minutes",
+            "12 hours",
+            "25 seconds"
+        ],
+        "true": "12.5 minutes",
+        "annex": null
+    },
+    {
+        "question": "Which of the following statements is correct concerning the L1 and L2 NAVSTAR/GPS transmission frequencies and codes?",
+        "options": [
+            "The higher frequency is used to transmit both the C/A and P codes.",
+            "The lower frequency is used to transmit both the C/A and P codes.",
+            "The higher frequency is only used to transmit the P code.",
+            "C/A and P codes are transmitted at different times on both frequencies."
+        ],
+        "true": "The higher frequency is used to transmit both the C/A and P codes.",
+        "annex": null
+    },
+    {
+        "question": "Which one of the following errors can be compensated for by a NAVSTAR/GPS receiver comparing L1 and L2 frequencies?",
+        "options": [
+            "Receiver noise",
+            "Ionospheric delay",
+            "Tropospheric",
+            "Multipath"
+        ],
+        "true": "Ionospheric delay",
+        "annex": null
+    },
+    {
+        "question": "Referring to the NAVSTAR/GPS satellite navigation system, what is the meaning of the term Receiver Autonomous Integrity Monitoring (RAIM)?",
+        "options": [
+            "It is a technique by which a receiver checks the reliability of the signals it is receiving and can detect if one of the signals is incorrect.",
+            "It is a method whereby a receiver ensures the integrity of the Pseudo Random Noise -PRN- code transmitted by the satellites.",
+            "It is a technique whereby the receivers of the world-wide distributed monitor stations -ground segment- automatically determine the integrity of the navigation message.",
+            "It is the ability of the GPS satellites to check the integrity of the data transmitted by the monitoring stations of the ground segment."
+        ],
+        "true": "It is a technique by which a receiver checks the reliability of the signals it is receiving and can detect if one of the signals is incorrect.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following statements is correct regarding the accuracy that can be obtained with the LAAS (Local Area Augmentation System) of the satellite navigation system NAVSTAR/GPS?",
+        "options": [
+            "The increase in accuracy of position fixes is independent of the aircraft position in relation to the LAAS ground reference station.",
+            "A LAAS corrects the position of the aircraft by relaying the information via a geostationary satellite.",
+            "The closer the receiver is to a LAAS ground reference station, the more accurate is the aircraft position fix.",
+            "A LAAS cannot correct for satellite timing and orbital position error."
+        ],
+        "true": "The closer the receiver is to a LAAS ground reference station, the more accurate is the aircraft position fix.",
+        "annex": null
+    },
+    {
+        "question": "What type of clock is used in NAVSTAR GPS satellites?",
+        "options": [
+            "Atomic",
+            "Quartz",
+            "Mechanical",
+            "Laser"
+        ],
+        "true": "Atomic",
+        "annex": null
+    },
+    {
+        "question": "How many satellites form the nominal NAVSTAR GPS constellation?",
+        "options": [
+            "36",
+            "6",
+            "24",
+            "12"
+        ],
+        "true": "24",
+        "annex": null
+    },
+    {
+        "question": "How many clocks are installed in each NAVSTAR GPS satellite?",
+        "options": [
+            "2",
+            "1",
+            "3",
+            "4"
+        ],
+        "true": "4",
+        "annex": null
+    },
+    {
+        "question": "EGNOS (European Geostationary Navigation Overlay System) is a form of:",
+        "options": [
+            "Local Area Augmentation System (LAAS)",
+            "stand-alone Global Navigation Satellite System (GNSS)",
+            "Local Area Differential GPS (LADGPS)",
+            "Wide Area Differential GPS (WADGPS)"
+        ],
+        "true": "Wide Area Differential GPS (WADGPS)",
+        "annex": null
+    },
+    {
+        "question": "In relation to the satellite navigation system NAVSTAR/GPS, ‘All in View’ is a term used when a receiver:",
+        "options": [
+            "is receiving the signals of all visible satellites but tracking only those of the 4 with the best geometric coverage",
+            "is receiving and tracking the signals of all 24 operational satellites simultaneously",
+            "is tracking all currently visible satellites above the receiver’s mask angle and uses them to compute the position",
+            "requires the signals of all visible satellites for navigation purposes"
+        ],
+        "true": "is tracking all currently visible satellites above the receiver’s mask angle and uses them to compute the position",
+        "annex": null
+    },
+    {
+        "question": "The GPS control segment consists of",
+        "options": [
+            "a Master Control Station, Monitor Stations and Geostationary Satellites.",
+            "Master Control Stations and Monitor Stations.",
+            "a Master Control Station, Monitor Stations, Ground Antenna’s and Geostationary Satellites.",
+            "a Master Control Station, Monitor Stations and Ground Antenna’s."
+        ],
+        "true": "a Master Control Station, Monitor Stations and Ground Antenna’s.",
+        "annex": null
+    },
+    {
+        "question": "One of the tasks of the GPS control segment is",
+        "options": [
+            "to calculate the accuracy of GPS.",
+            "to control continuously the motion of GPS-satellites.",
+            "to detect the malfunctioning of satellites.",
+            "to calculate and transmit differential corrections to users."
+        ],
+        "true": "to detect the malfunctioning of satellites.",
+        "annex": null
+    },
+    {
+        "question": "One of the tasks of the GPS control segment is:",
+        "options": [
+            "To determine and send new ephemeris and new satellite clock error data to the GPS-satellites.",
+            "To control continuously the position and the motion of GPS-satellites.",
+            "To calculate and transmit differential corrections to users which are able to receive Wide Area Differential GPS systems.",
+            "To regulate the transmitted power by the satellites."
+        ],
+        "true": "To determine and send new ephemeris and new satellite clock error data to the GPS-satellites.",
+        "annex": null
+    },
+    {
+        "question": "For what reason is a mask angle set-up in a GPS-receiver?",
+        "options": [
+            "To make the receiver select GPS-satellites with a certain optimum elevation which is about equal to the mask angle.",
+            "To select from all visible GPS-satellites the satellite-configuration which results in the smallest GDOP.",
+            "To eliminate the reception of the signal from GPS-satellites with an elevation of about 90°.",
+            "To deny the receiver the use of GPS-satellites with an elevation less than the mask angle."
+        ],
+        "true": "To deny the receiver the use of GPS-satellites with an elevation less than the mask angle.",
+        "annex": null
+    },
+    {
+        "question": "In accordance with ICAO the GPS NAVSTAR position accuracy in SPS should be for 95% of the time:",
+        "options": [
+            "13 metres horizontally",
+            "5 metres vertically",
+            "30 metres horizontally",
+            "22 metres 3-DTo deny the receiver the use of GPS-satellites with an elevation less than the mask angle."
+        ],
+        "true": "13 metres horizontally",
+        "annex": "10"
+    },
+    {
+        "question": "What is the maximum latitude of a GPS-satellite ground track?",
+        "options": [
+            "90° N/S",
+            "55° N/S",
+            "67.5° N/S",
+            "35° N/S"
+        ],
+        "true": "55° N/S",
+        "annex": null
+    },
+    {
+        "question": "What is the function of the control segment in GPS NAVSTAR?",
+        "options": [
+            "It calculates the aircraft position.",
+            "To ensure that the transmitted data of the satellites is controlled and updated from time to time by ground stations.",
+            "To monitor and ensure that the transmitted signals are saved and processed to utilise the wide area augmentation system.",
+            "To transmit a signal used by a suitable receiver to calculate position."
+        ],
+        "true": "To ensure that the transmitted data of the satellites is controlled and updated from time to time by ground stations.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following statements is correct concerning the principle behind the correction of one of the NAVSTAR/GPS satellite navigation system errors by the transmission of the signals on two frequencies (L1 and L2)?",
+        "options": [
+            "The path delay of the signals in the earth atmosphere is proportional to the inverse of the carrier frequency squared",
+            "The effect of receiver noise can be reduced due to the interference of both frequencies",
+            "The influence of shadowing on the GPS signals is proportional to the inverse of the carrier frequency squared",
+            "The effect of signal reflections (multipath effect) can be reduced due to the interference of both frequencies"
+        ],
+        "true": "The path delay of the signals in the earth atmosphere is proportional to the inverse of the carrier frequency squared",
+        "annex": null
+    },
+    {
+        "question": "The inclination to the equatorial plane of the NAVSTAR/GPS orbits is:",
+        "options": [
+            "35º",
+            "45º",
+            "55º",
+            "65º"
+        ],
+        "true": "55º",
+        "annex": null
+    },
+    {
+        "question": "In what type of nominal orbit are NAVSTAR GPS satellites placed?",
+        "options": [
+            "Geo-stationary",
+            "Elliptical",
+            "Circular",
+            "Pole to pole"
+        ],
+        "true": "Circular",
+        "annex": null
+    },
+    {
+        "question": "Which one of the following is an advantages of a multi-sensor system using inputs from a global navigation satellite system (GNSS) and an inertial reference system (INS)?",
+        "options": [
+            "The only advantage of coupling both systems is double redundancy",
+            "The average position calculated from data provided by both systems increases overall accuracy",
+            "The activation of 'Selective Availability' can be recognised by the INS.",
+            "The GNSS can be used to update a drifting INS"
+        ],
+        "true": "The GNSS can be used to update a drifting INS",
+        "annex": null
+    },
+    {
+        "question": "The Geodetic Reference System used to define latitude and longitude by GPS equipment is?",
+        "options": [
+            "GDR 95",
+            "OSGB 36",
+            "WGS 84",
+            "UKGRS 90"
+        ],
+        "true": "WGS 84",
+        "annex": null
+    },
+    {
+        "question": "The transmission band used by INMARSAT is:",
+        "options": [
+            "SHF",
+            "UHF",
+            "HF",
+            "VHF"
+        ],
+        "true": "UHF",
+        "annex": null
+    },
+    {
+        "question": "The term \"ABAS\" signifies:",
+        "options": [
+            "Airborne Based Augmentation Safety",
+            "Aerial Broadcast Application Systems",
+            "Airborne Based Application Safety",
+            "Airborne Based Augmentation Systems"
+        ],
+        "true": "Airborne Based Augmentation Systems",
+        "annex": null
+    },
+    {
+        "question": "An SBAS (Satellite Based Augmentation System) consists of:",
+        "options": [
+            "4 elements",
+            "3 elements",
+            "1 element",
+            "2 elements"
+        ],
+        "true": "3 elements",
+        "annex": null
+    },
+    {
+        "question": "What is a common characteristic of GPS, GLONASS and GALILEO?",
+        "options": [
+            "For position fixing they are all based on the WGS 84 ellipsoid.",
+            "All three systems use time measurement to determine position.",
+            "They are all using the same frequencies to permit a single receiver to work all three systems.",
+            "They all reach their degree of accuracy in polar areas."
+        ],
+        "true": "All three systems use time measurement to determine position.",
+        "annex": null
+    },
+    {
+        "question": "GPS time can be converted to UTC by application of the:",
+        "options": [
+            "Time correction filtering formula",
+            "UTC parameters sent in the navigation message",
+            "Fixed rule",
+            "Correction given by atomic clocks"
+        ],
+        "true": "UTC parameters sent in the navigation message",
+        "annex": null
+    },
+    {
+        "question": "In the event of the use of Selective Availability, how does this affect, if at all, the navigation accuracy of the NAVSTAR/GPS satellite navigation system?",
+        "options": [
+            "It has no influence because, by selecting of the most suitable signals, the computing process in the receiver is quicker",
+            "It degrades position accuracy by manipulating satellite signals",
+            "It degrades accuracy by reducing the number of available satellites",
+            "It increases because only signals from satellites in the most suitable geometric constellation are selected by the receiver"
+        ],
+        "true": "It degrades position accuracy by manipulating satellite signals",
+        "annex": null
+    },
+    {
+        "question": "The basic elements of the satellite navigation system NAVSTAR/GPS are the:",
+        "options": [
+            "Atomic clock, power supply and transponder",
+            "Main control station, the monitoring station and the ground antennas",
+            "Antenna, the receiver and the central control unit (CDU)",
+            "Control, Space and User segments"
+        ],
+        "true": "Control, Space and User segments",
+        "annex": null
+    },
+    {
+        "question": "Frequency band of the SBAS data link is:",
+        "options": [
+            "VHF band 108.0 to 111.975 MHz",
+            "962 to 1213 MHz",
+            "A signal with the same frequency as GPS",
+            "VHF band of ILS and VOR systems"
+        ],
+        "true": "A signal with the same frequency as GPS",
+        "annex": null
+    },
+    {
+        "question": "Which statement about Satellite Based Augmentation Systems (SBAS) is correct?",
+        "options": [
+            "In an SBAS the pseudo-range corrections are determined by geostationary satellites and sent to the users by a network of ground stations.",
+            "In an SBAS the pseudo-range corrections are sent to the users by geostationary satellites.",
+            "In an SBAS the pseudo-range corrections are sent to the users by the satellites of the satellite systems e.g. by GPS-satellites for GPS.",
+            "In an SBAS the pseudo-range corrections are determined by geostationary satellites and sent to the users by the satellites of the satellite system e.g. by GPS-satellites for GPS."
+        ],
+        "true": "In an SBAS the pseudo-range corrections are sent to the users by geostationary satellites.",
+        "annex": null
+    },
+    {
+        "question": "GBAS ground subsystems provide two services, the precision approach service and the GBAS positioning service. The precision approach service provides:",
+        "options": [
+            "Horizontal position information on the ground",
+            "Horizontal position information to support RNAV operations",
+            "Deviation guidance for Final Approach Segments",
+            "Deviation guidance for Going Around Segments"
+        ],
+        "true": "Deviation guidance for Final Approach Segments",
+        "annex": null
+    },
+    {
+        "question": "The VDB (VHF data broadcast) broadcasts the GBAS signal within its coverage area to avionics in GBAS-equipped aircraft. The VDB signal provided are:",
+        "options": [
+            "Error correction data, integrity data and approach data for more than one runway",
+            "Error correction data, integrity data and approach data for one runway",
+            "Error correction data and integrity data",
+            "Integrity data and approach data for one runway"
+        ],
+        "true": "Error correction data, integrity data and approach data for more than one runway",
+        "annex": null
+    },
+    {
+        "question": "The term \"SBAS\" signifies:",
+        "options": [
+            "Satellite Based Augmentation Systems",
+            "Supplement Based Augmentation Systems",
+            "Service Broadcast Application Systems",
+            "Satellite Based Area Systems"
+        ],
+        "true": "Satellite Based Augmentation Systems",
+        "annex": null
+    },
+    {
+        "question": "EGNOS (European Geostationary Navigation Overlay Service) is a:",
+        "options": [
+            "Ground Based Augmentation System",
+            "Local Area Augmentation System (LAA)",
+            "Airborne Based Augmentation System (ABAS)",
+            "Satellite Based Augmentation System (SBAS)"
+        ],
+        "true": "Satellite Based Augmentation System (SBAS)",
+        "annex": null
+    },
+    {
+        "question": "SBAS messages are broadcast via:",
+        "options": [
+            "Geostationary satellites",
+            "Medium earth orbit satellites",
+            "Polar orbit satellites",
+            "Low earth orbit satellites"
+        ],
+        "true": "Geostationary satellites",
+        "annex": null
+    },
+    {
+        "question": "SBAS systems improve the performance of GPS by:",
+        "options": [
+            "Providing an additional signal coming from the navigation satellites",
+            "Providing an additional signal coming from the geostationary satellites",
+            "Providing an additional signal to GPS receivers",
+            "Reducing clock errors"
+        ],
+        "true": "Providing an additional signal coming from the geostationary satellites",
+        "annex": null
+    },
+    {
+        "question": "Minimum Ground-Based Augmentation System (GBAS) plan coverage is:",
+        "options": [
+            "25NM from the landing threshold within 35° apart the final approach path and 10° apart between 25 and 30NM",
+            "25NM from the landing threshold within 45° apart the final approach path and 20° apart between 25 and 20NM",
+            "15NM from the landing threshold within 35° apart the final approach path and 10° apart between 15 and 20NM",
+            "15NM from the landing threshold within 45° apart the final approach path and 20° apart between 15 and 20NM"
+        ],
+        "true": "15NM from the landing threshold within 35° apart the final approach path and 10° apart between 15 and 20NM",
+        "annex": null
+    },
+    {
+        "question": "The term \"GBAS\" signifies:",
+        "options": [
+            "GPS Based Augmentation Standard",
+            "Ground Based Augmentation Software",
+            "General Broadcast Application Systems",
+            "Ground Based Augmentation Systems"
+        ],
+        "true": "Ground Based Augmentation Systems",
+        "annex": null
+    },
+    {
+        "question": "Frequency band of the GBAS data link is:",
+        "options": [
+            "VHF band of ILS and VOR systems",
+            "VHF band 108.0 to 111.975 MHz",
+            "A signal with the same frequency as GPS",
+            "UHF band between 960 - 1215 MHz"
+        ],
+        "true": "VHF band of ILS and VOR systems",
+        "annex": null
+    },
+    {
+        "question": "Errors in GPS satellite orbits are due to…",
+        "options": [
+            "Earth and lunar precession.",
+            "the lunar wind and the gravitation of the Earth, moon and stars.",
+            "solar and lunar precession.",
+            "the solar wind and the gravitation of the Sun, moon and planets."
+        ],
+        "true": "the solar wind and the gravitation of the Sun, moon and planets.",
+        "annex": null
+    },
+    {
+        "question": "How long does it take a GLONASS satellite to orbit the earth?",
+        "options": [
+            "24 hours",
+            "1 hour 10 minutes",
+            "12 hours",
+            "11 hours 15 minutes"
+        ],
+        "true": "11 hours 15 minutes",
+        "annex": null
+    },
+    {
+        "question": "The system capable of measuring on the ground the signal errors transmitted by GNSS satellites and transmitting differential corrections and integrity messages by Comms satellite is:",
+        "options": [
+            "SBAS",
+            "RBAS",
+            "ABAS",
+            "GBAS"
+        ],
+        "true": "SBAS",
+        "annex": null
+    },
+    {
+        "question": "What statement is true regarding GLONASS?",
+        "options": [
+            "It consists of six orbital planes",
+            "Orbiting time of GLONASS staellites is the same as NAVSTAR/GPS satellites",
+            "GLONASS satellites orbit at three Polar orbits",
+            "Satellites orbit at a lower height than NAVSTAR/GPS satellites"
+        ],
+        "true": "Satellites orbit at a lower height than NAVSTAR/GPS satellites",
+        "annex": null
+    },
+    {
+        "question": "Assume that one of the satellites used by a GPS-receiver is faulty. When the signals of 5 satellites are received (including the faulty one) the RAIM software in the receiver:",
+        "options": [
+            "is not active, as the software needs at least 8 satellites to function correctly.",
+            "is able to detect that one of the satellites is faulty and is able to identify the faulty one.",
+            "is able to detect that one of the satellites is faulty but is unable to identify the faulty one.",
+            "is unable to detect and identify the faulty satellite."
+        ],
+        "true": "is able to detect that one of the satellites is faulty but is unable to identify the faulty one.",
+        "annex": null
+    },
+    {
+        "question": "When a GPS receiver is using altitude as an augmentation to RAIM:",
+        "options": [
+            "Better correction for ionospheric delay will be available",
+            "Failure reporting time will be reduced",
+            "The number of satellites to perform RAIM function can be reduced by one",
+            "The accuracy of displaced position will be greatly enhanced"
+        ],
+        "true": "The number of satellites to perform RAIM function can be reduced by one",
+        "annex": null
+    },
+    {
+        "question": "A RAIM system has excluded a satellite.  How many satellites are required to maintain a 3D Position fix with RAIM capability?",
+        "options": [
+            "3",
+            "6",
+            "4",
+            "5"
+        ],
+        "true": "5",
+        "annex": null
+    },
+    {
+        "question": "What are the advantages of SBAS over GBAS?",
+        "options": [
+            "SBAS covers a wider area",
+            "GBAS  is less accurate in local areas",
+            "GBAS covers a wider area",
+            "SBAS is more accurate in local areas"
+        ],
+        "true": "SBAS covers a wider area",
+        "annex": null
+    },
+    {
+        "question": "Which of the following errors can be compensated for by a NAVSTAR/GPS receiver, receiving L1 & L2 transmissions?",
+        "options": [
+            "Both atmospheric and ionospheric",
+            "dilution of precision (DOP)",
+            "atmospheric",
+            "Ionospheric"
+        ],
+        "true": "Ionospheric",
+        "annex": null
+    },
+    {
+        "question": "By using both GPS frequencies L1 and L2, GPS receivers can almost eliminate…",
+        "options": [
+            "ionospheric propagation delay.",
+            "both ionospheric and atmospheric propagation delay.",
+            "atmospheric propagation delay.",
+            "position dilution of precision."
+        ],
+        "true": "ionospheric propagation delay.",
+        "annex": null
+    },
+    {
+        "question": "The typical coverage of a Ground-Based Augmentation System (GBAS) station is approximately…",
+        "options": [
+            "90 km.",
+            "30 km.",
+            "12 km.",
+            "60 km."
+        ],
+        "true": "30 km.",
+        "annex": null
+    },
+    {
+        "question": "When referring to the European Galileo global positioning system which of the answers is true?",
+        "options": [
+            "It consists of 24 satellites, in 4 planes in a near circular orbit at an altitude of 23 222 km inclinded at 65o",
+            "It consists of 30 satellites, in 3 planes in a near circular orbit at an altitude of 23 222 km inclinded at 56o",
+            "It consists of 24 satellites, in 4 planes in a near circular orbit at an altitude of 19 222 km inclinded at 56o",
+            "It consists of 30 satellites, in 3 planes in a near circular orbit at an altitude of 23 222 km inclinded at 65o"
+        ],
+        "true": "It consists of 30 satellites, in 3 planes in a near circular orbit at an altitude of 23 222 km inclinded at 56o",
+        "annex": null
+    },
+    {
+        "question": "The Galileo satellite navigation system consists of :",
+        "options": [
+            "24 satellites in 6 orbital planes at an altitude of 20,200 kms",
+            "24 satellites in 3 orbital planes at an altitude of 19,100 kms",
+            "30 satellites in three orbital planes at an altitude of 23,222 kms",
+            "28 satellites in 5 orbital planes at an altitude of 10,900 kms"
+        ],
+        "true": "30 satellites in three orbital planes at an altitude of 23,222 kms",
+        "annex": null
+    },
+    {
+        "question": "In the Galileo satellite navigation system:",
+        "options": [
+            "The orbital plane is at 45 degrees to the equator, and each orbit takes 13 hours",
+            "The orbital plane of the satellites is at 56 degrees to the plane of the equator, and each orbit takes 14 hours",
+            "The orbital plane of the satellites is at 55 degrees to the equator, and each orbit takes approximately 12 hours",
+            "The orbital plane is at 64.8 degrees to the plane of the equator, and each orbit takes 11 hrs 15 minutes"
+        ],
+        "true": "The orbital plane of the satellites is at 56 degrees to the plane of the equator, and each orbit takes 14 hours",
+        "annex": null
+    },
+    {
+        "question": "Which of the following statements correctly describe the clock system in the Galileo Global Navigation Satellite System (GNSS)?\n\n1. There are two independent, identical atomic clocks on each satellite.\n2. There are two independent, non-identical atomic clocks on each satellite.\n3. There is one master atomic clock and one reference clock on each satellite.\n4. The satellite clocks are synchronised with each other.",
+        "options": [
+            "1 only.",
+            "2 only.",
+            "2 and 4.",
+            "1 and 3."
+        ],
+        "true": "2 only.",
+        "annex": null
+    },
+    {
+        "question": "The GPS database",
+        "options": [
+            "Is updated every 28 days",
+            "Is sent to satellites from the control segment",
+            "Can be updated in an individual satellite by other satellites in the constellation",
+            "Will be updated in each satellite by feedback from the user segment"
+        ],
+        "true": "Is sent to satellites from the control segment",
+        "annex": null
+    },
+    {
+        "question": "How is error information transmitted to an aircraft on a GBAS precision approach?",
+        "options": [
+            "Ground to aircraft",
+            "Via the ILS transmitters",
+            "Satellite to aircraft",
+            "Via the MLS system"
+        ],
+        "true": "Ground to aircraft",
+        "annex": null
+    },
+    {
+        "question": "What clocks are used in a Galileo satellite 'timing section'?",
+        "options": [
+            "Two types of clocks are used; Caesium Frequency Standard Clock and a Passive Hydrogen Maser Clock.",
+            "They use two of the same type of clock; the very accurate Passive Hydrogen Maser clock",
+            "Two types of clocks are use; a Rubidium Frequency Standard clock and a more accurate Passive Hydrogen Maser clock",
+            "Three types of clock are used; Ceasium, Rubidium and Hydrogen Passive Maser clocks."
+        ],
+        "true": "Two types of clocks are use; a Rubidium Frequency Standard clock and a more accurate Passive Hydrogen Maser clock",
+        "annex": null
+    },
+    {
+        "question": "Select the correct grouping that reflects the Satelite Based Augmentation Systems (SBAS) currently in use.",
+        "options": [
+            "MSAS, GAGAN, GALILEO, WAAS.",
+            "NAVSTAR, WAAS, INDIAN INSS, GALILEO",
+            "EGNOS, WAAS, GAGAN, MSAS.",
+            "GALILEO, EGNOS, WADGPS, NAVSTAR"
+        ],
+        "true": "EGNOS, WAAS, GAGAN, MSAS.",
+        "annex": null
+    },
+    {
+        "question": "In an Airborne-Based Augmentation System (ABAS), the method of integrity monitoring that only uses information from the GNSS is called…",
+        "options": [
+            "Aircraft Station Autonomous Integrity Monitoring (ASAIM).",
+            "Aircraft Autonomous Integrity Monitoring (AAIM).",
+            "GNSS Autonomous Integrity Monitoring (GAIM).",
+            "Receiver Autonomous Integrity Monitoring (RAIM)."
+        ],
+        "true": "Receiver Autonomous Integrity Monitoring (RAIM).",
+        "annex": null
+    },
+    {
+        "question": "If the signal were lost when using EGNOS for GP augmentation, how soon would there be an indication on the flight deck?",
+        "options": [
+            "15 seconds",
+            "10 seconds",
+            "0.3 seconds",
+            "6 seconds"
+        ],
+        "true": "6 seconds",
+        "annex": null
+    },
+    {
+        "question": "What is the time transmitted by the NAVSTAR GPS?",
+        "options": [
+            "TIA",
+            "UTC",
+            "GPS",
+            "GMT"
+        ],
+        "true": "GPS",
+        "annex": null
+    },
+    {
+        "question": "Satellite clock correction parameters in the Navigation message are used to correct:",
+        "options": [
+            "satellite time",
+            "atmospheric distortion",
+            "satellite and receiver time",
+            "receiver time"
+        ],
+        "true": "satellite time",
+        "annex": null
+    },
+    {
+        "question": "Which of the following correctly describes the principle of Receiver Autonomous Integrity Monitoring (RAIM)? RAIM…",
+        "options": [
+            "is available if range from at least three satellites is supplemented by barometric aiding.",
+            "requires at least five satellites with good geometry to provide the service of detecting faulty signals and alerting the crew.",
+            "must be assured at all times in order to utilise Global Navigation Satellite Systems (GNSS) signals in any augmentation system.",
+            "is guaranteed to be available for all scheduled flight operations at mid latitudes."
+        ],
+        "true": "requires at least five satellites with good geometry to provide the service of detecting faulty signals and alerting the crew.",
+        "annex": null
+    },
+    {
+        "question": "What is one of the advantages of GLS (GBAS Landing System) compared to ILS?",
+        "options": [
+            "Aircraft fitted with GPS receivers do NOT need any additional receivers for GBAS operations.",
+            "GLS allows for more precise navigation within the vicinity of the airfield.",
+            "GLS approaches do NOT need to be published.",
+            "GLS approaches are approved for low visibility operations."
+        ],
+        "true": "GLS allows for more precise navigation within the vicinity of the airfield.",
+        "annex": null
+    },
+    {
+        "question": "Each range calculated by the GPS-receiver defines",
+        "options": [
+            "a circle with its centre at the satellite.",
+            "a circle with its centre at the receiver.",
+            "a sphere with its centre at the satellite.",
+            "a sphere with its centre at the receiver."
+        ],
+        "true": "a sphere with its centre at the satellite.",
+        "annex": null
+    },
+    {
+        "question": "A GPS satellite is marked unhealthy by:",
+        "options": [
+            "the space division of the Department of Transportation of the USA.",
+            "an independent international body controlling the functioning of GPS.",
+            "the GPS space segment.",
+            "the GPS control segment."
+        ],
+        "true": "the GPS control segment.",
+        "annex": null
+    },
+    {
+        "question": "What does the term AAIM (Aircraft Autonomous Integrity Monitoring) refer to?",
+        "options": [
+            "a system using information from additional on-board sensors to monitor the integrity of a GPS derived posistion",
+            "the onboard monitoring of ILS localiser and glideslope modulation signal strength",
+            "a system where the Kalman filter in an FMC derives an Actual Navigation Performance (ANP) to compare to the entered RNP value.",
+            "a system which uses an additional GNSS satellite to identify when a failed satellite being used in a navigation solution"
+        ],
+        "true": "a system using information from additional on-board sensors to monitor the integrity of a GPS derived posistion",
+        "annex": null
+    },
+    {
+        "question": "Assume that one of the satellites used by a GPS-receiver is faulty and that the PDOP has a relatively low value. When the signals of 6 satellites are received (including the faulty one) the RAIM software in the receiver:",
+        "options": [
+            "is unable to detect and identify the faulty satellite.",
+            "is able to detect that one of the satellites is faulty but is unable to identify the faulty one.",
+            "is able to detect that one of the satellites is faulty and is able to identify and isolate the faulty one.",
+            "is not active, as the software needs at least 8 satellites to function correctly."
+        ],
+        "true": "is able to detect that one of the satellites is faulty and is able to identify and isolate the faulty one.",
+        "annex": null
+    },
+    {
+        "question": "With reference to which time scale do GPS satellites broadcast the PRN codes?",
+        "options": [
+            "SV GPS time",
+            "IAT",
+            "GMT",
+            "UTC"
+        ],
+        "true": "SV GPS time",
+        "annex": null
+    },
+    {
+        "question": "What is a difference between satellites used by EGNOS and those used by GPS?",
+        "options": [
+            "The signal format broadcasted by EGNOS differs considerably from GPS signal format.",
+            "The signals broadcasted by EGNOS are more prone to multipath effects than GPS signals.",
+            "EGNOS satellites have much shorter orbit times than GPS satellites.",
+            "EGNOS satellites are geostationary and GPS satellites are not."
+        ],
+        "true": "EGNOS satellites are geostationary and GPS satellites are not.",
+        "annex": null
+    },
+    {
+        "question": "What are the two functions of GBAS?When the aircraft is approaching the airfield and is fitted with a GBAS receiver, GBAS…",
+        "options": [
+            "corrects the aircraft’s on-board GPS position and provides the non-precision approach path details.",
+            "corrects the aircraft’s on-board GPS position and provides the precision approach path details.",
+            "replaces the aircraft’s on-board GPS position and provides the precision approach path details.",
+            "replaces the aircraft’s on-board GPS position and provides the non-precision approach path details."
+        ],
+        "true": "corrects the aircraft’s on-board GPS position and provides the precision approach path details.",
+        "annex": null
+    },
+    {
+        "question": "Which statement about dilution of precision is correct?The value of the dilution of precision depends upon the…",
+        "options": [
+            "availability of receiver autonomous integrity monitoring software.",
+            "geometry and the number of satellites in view.",
+            "accuracy with which the range between the satellite and receiver can be measured.",
+            "availability of aircraft-based augmentation systems."
+        ],
+        "true": "geometry and the number of satellites in view.",
+        "annex": null
+    },
+    {
+        "question": "A GPS receiver is able to calculate an aircraft’s groundspeed by measuring the…",
+        "options": [
+            "phase of the received satellite signal.",
+            "phase difference of the satellite signal and a receiver-generated signal.",
+            "Doppler shift of the satellite carrier frequency.",
+            "travel time of the satellite signal between satellite and receiver."
+        ],
+        "true": "Doppler shift of the satellite carrier frequency.",
+        "annex": null
+    },
+    {
+        "question": "On what system does ABAS have a positive correction influence?",
+        "options": [
+            "PDOP",
+            "GBAS",
+            "IRS",
+            "EGNOS"
+        ],
+        "true": "IRS",
+        "annex": null
+    },
+    {
+        "question": "For GPS navigation it can be stated that:",
+        "options": [
+            "Combination of GPS with INS has no advantages.",
+            "The DOP has to be more than 6 for position fixing in en-route navigation",
+            "In case of navigation in P-RNAV conditions the tropospheric delay is negligible",
+            "The clock error of the satellite clock is important for accurate position fixing"
+        ],
+        "true": "The clock error of the satellite clock is important for accurate position fixing",
+        "annex": null
+    },
+    {
+        "question": "When a GPS receiver is using barometric altitude as an augmentation to RAIM",
+        "options": [
+            "the accuracy of the displayed position will be greatly enhanced.",
+            "the number of satellites to perform the RAIM function may be reduced by one.",
+            "the mean failure reporting time will be reduced.",
+            "a better correction for the signal’s atmospheric delay will be available."
+        ],
+        "true": "the number of satellites to perform the RAIM function may be reduced by one.",
+        "annex": null
+    },
+    {
+        "question": "In general a GPS-receiver is able to determine:",
+        "options": [
+            "only a three dimensional position and groundspeed.",
+            "only a three dimensional position and a time reference.",
+            "a three dimensional position, groundspeed and a precise time reference.",
+            "only a three dimensional position."
+        ],
+        "true": "a three dimensional position, groundspeed and a precise time reference.",
+        "annex": null
+    },
+    {
+        "question": "GNSS IFR procedures are mainly designed for the following:",
+        "options": [
+            "Supplementary en-route navigation",
+            "Enroute, terminal area and non precision approach procedures",
+            "SID, STAR, non precision approach and precision approach procedures",
+            "WAAS and LAAS operations"
+        ],
+        "true": "WAAS and LAAS operations",
+        "annex": null
+    },
+    {
+        "question": "The Doppler frequency shift of the received GPS carrier frequency may be used to…",
+        "options": [
+            "correct the calculated position for a change in receiver clock error.",
+            "correct the calculated position for frequency shifts.",
+            "calculate the groundspeed of the aircraft.",
+            "calculate the height of the aircraft more accurately."
+        ],
+        "true": "calculate the groundspeed of the aircraft.",
+        "annex": null
+    },
+    {
+        "question": "The navigation message of a GPS satellite contains the parameters of the model of the ionosphere. This enables…",
+        "options": [
+            "the receiver to calculate the delay of GPS signals passing through the ionosphere.",
+            "the use of the satellites with the least tropospheric delay.",
+            "the authorised users to work on the L1 and L2 frequencies.",
+            "the receiver to choose the satellites with the best geometric dilution of precision."
+        ],
+        "true": "the receiver to calculate the delay of GPS signals passing through the ionosphere.",
+        "annex": null
+    },
+    {
+        "question": "Regarding the NAVSTAR GPS, which of the following statements is correct?",
+        "options": [
+            "The satellites are orbiting in orbits inclined 65° to the plane of the Equator.",
+            "The satellites are distributed in 8 orbital planes with 3 satellites each.",
+            "The satellites are in a nearly circular orbit at an altitude of 20200 NM.",
+            "Each satellite completes an orbit in approximately 12 hours."
+        ],
+        "true": "Each satellite completes an orbit in approximately 12 hours.",
+        "annex": null
+    },
+    {
+        "question": "The fully-operational Galileo Global Navigation Satellite System (GNSS) will consist of (1)___ satellites in (2)___ orbital planes at an altitude of (3)___ km. Which are the correct values for 1, 2, and 3?",
+        "options": [
+            "30 satellites 2. 6 orbital planes 3. 19100 km",
+            "24 satellites  2. 4 orbital planes 3. 20 200 km",
+            "24 satellites  2. 3 orbital planes 3. 20 200 km",
+            "30 satellites  2. 3 orbital planes 3. 23 222 km"
+        ],
+        "true": "30 satellites  2. 3 orbital planes 3. 23 222 km",
+        "annex": null
+    },
+    {
+        "question": "The UTC-parameters in the navigation message of a GPS-satellite are factors determining",
+        "options": [
+            "the satellite’s clock correction to correct the satellite-time to GPS-time.",
+            "the time in UTC of the moment of transmission of the GPS-signal.",
+            "the receiver clock correction which is used to correct the measured travel time between satellite and receiver.",
+            "the difference (in seconds) between GPS-time and UTC."
+        ],
+        "true": "the difference (in seconds) between GPS-time and UTC.",
+        "annex": null
+    },
+    {
+        "question": "Which statement is true about the navigation data in the navigation message of GPS?",
+        "options": [
+            "During normal operation, the navigation data of one satellite are checked by other satellites in the constellation and, if necessary, corrected.",
+            "The navigation data are checked and, if necessary, corrected by the satellite itself.",
+            "The navigation data are valid for a period of 28 days.",
+            "The navigation data are uploaded to the satellites by the GPS control segment."
+        ],
+        "true": "The navigation data are uploaded to the satellites by the GPS control segment.",
+        "annex": null
+    },
+    {
+        "question": "The almanac data of the navigation message of a GPS-satellite contains:",
+        "options": [
+            "orbital data of all the satellites in the GPS constellation.",
+            "precise ephemeris data of all the satellites in the GPS constellation.",
+            "broadcast ephemeris data of the GPS satellite in question.",
+            "precise ephemeris data of the GPS satellite in question."
+        ],
+        "true": "orbital data of all the satellites in the GPS constellation.",
+        "annex": null
+    },
+    {
+        "question": "Regarding NAVSTAR/GPS which of the following statements is correct?\n\n1. It takes 7 minutes for a GPS receiver to receive all the data frames in the navigation message\n2. The almanac contains only the orbital data of the specific satellite\n3. The clock correction parameters are data for correction of the satellite clock\n4. The UTC parameters are factors determining the difference between GMT and UTC",
+        "options": [
+            "4",
+            "3",
+            "1",
+            "2"
+        ],
+        "true": "3",
+        "annex": null
+    },
+    {
+        "question": "Which statement about the C/A code transmitted by GPS satellites is correct? The C/A code is…",
+        "options": [
+            "only used for the Precise Positioning Service (PPS).",
+            "transmitted both on the L1 and L2 frequencies.",
+            "transmitted by the satellites with reference to GMT.",
+            "a PRN code, repeating every millisecond."
+        ],
+        "true": "a PRN code, repeating every millisecond.",
+        "annex": null
+    },
+    {
+        "question": "Regarding NAVSTAR/GPS, how many operational satellites does the space segment consist of in the notional constellation?",
+        "options": [
+            "4.",
+            "24.",
+            "30.",
+            "6."
+        ],
+        "true": "24.",
+        "annex": null
+    },
+    {
+        "question": "One of the tasks of the GPS control segment is",
+        "options": [
+            "to determine and send new ephemeris and new satellite clock error data to the GPS-satellites.",
+            "to regulate the transmitted power by the satellites.",
+            "to calculate and transmit differential corrections to users which are able to receive Wide Area Differential GPS systems.",
+            "to control continuously the position and the motion of GPS-satellites."
+        ],
+        "true": "to determine and send new ephemeris and new satellite clock error data to the GPS-satellites.",
+        "annex": null
+    },
+    {
+        "question": "The clock correction parameters in the navigation message are used to correct…",
+        "options": [
+            "the satellite time.",
+            "both the satellite time and receiver time.",
+            "the receiver time.",
+            "for the ionospheric delay."
+        ],
+        "true": "the satellite time.",
+        "annex": null
+    },
+    {
+        "question": "What is the frequency band used by the data-link of a GPS-based Satellite Based Augmentation System (SBAS)?",
+        "options": [
+            "VHF",
+            "SHF",
+            "UHF",
+            "HF"
+        ],
+        "true": "UHF",
+        "annex": null
+    },
+    {
+        "question": "One of the advantages of a Satellite Based Augmentation System (SBAS) over a Ground Based Augmentation System (GBAS) is…",
+        "options": [
+            "an SBAS does not, like a GBAS, need ground stations for the estimation of the pseudo-range corrections.",
+            "the pseudo-range corrections of an SBAS are much more accurate than those of a GBAS.",
+            "the coverage area of an SBAS is much larger than that of a GBAS.",
+            "the rate at which the pseudo-range corrections reach the users is much higher for a GBAS than for an SBAS."
+        ],
+        "true": "the coverage area of an SBAS is much larger than that of a GBAS.",
+        "annex": null
+    },
+    {
+        "question": "Which statement about the satellites (that transmit the corrections to the users) of a Satellite Based Augmentation System (SBAS) is correct?",
+        "options": [
+            "These satellites form a part of the constellation of the navigation satellites i.e. they have the same inclination and altitude but cannot be used as navigation satellites as they transmit the correction in a different frequency band.",
+            "These geostationary satellites can also be used as navigation satellites to which pseudo-ranges can be measured.",
+            "These satellites form a part of the constellation of the navigation satellites i.e. they have the same inclination and altitude as these satellites and can be used as navigation satellites to which pseudo-ranges can be measured.",
+            "These satellites are geostationary and determine the corrections independently from a ground station network."
+        ],
+        "true": "These geostationary satellites can also be used as navigation satellites to which pseudo-ranges can be measured.",
+        "annex": null
+    },
+    {
+        "question": "Which statement from the choice below characterises a Satellite Based Augmentation System (SBAS)?",
+        "options": [
+            "SBAS is able to provide approach and landing operations with vertical guidance.",
+            "The SBAS monitor stations send corrected positions to the users within the range of the station.",
+            "The ground reference station transmits corrections directly to the user by VHF/UHF data-link.",
+            "SBAS is an augmentation device for Ground Based Augmentation Systems."
+        ],
+        "true": "SBAS is able to provide approach and landing operations with vertical guidance.",
+        "annex": null
+    },
+    {
+        "question": "Which statement about Satellite Based Augmentation Systems (SBAS) is correct?",
+        "options": [
+            "The use of SBAS improves both the accuracy and the integrity of the position of the user.",
+            "The use of SBAS improves the integrity of the position of the user but does not improve the accuracy.",
+            "The use of SBAS improves the accuracy of the position of the user but does not improve the integrity.",
+            "The use of SBAS improves neither the integrity nor the accuracy of the position of the user, but augments the number of satellites available."
+        ],
+        "true": "The use of SBAS improves both the accuracy and the integrity of the position of the user.",
+        "annex": null
+    },
+    {
+        "question": "Which statement about the pseudo-range corrections determined by a Satellite-Based Augmentation System (SBAS) is correct?",
+        "options": [
+            "In an SBAS the pseudo-range corrections are determined by geostationary satellites and sent to the users by a network of ground stations.",
+            "The pseudo-range correction for a certain satellite is split up into separate corrections for the ephemeris error, the satellite clock error and the ionospheric error.",
+            "Each user receives only the pseudo-range corrections for the satellites that are visible for this user in order to keep the correction message as short as possible.",
+            "The pseudo-range corrections are determined by a station network on the ground and for all satellites the same correction is sent to the users."
+        ],
+        "true": "The pseudo-range correction for a certain satellite is split up into separate corrections for the ephemeris error, the satellite clock error and the ionospheric error.",
+        "annex": null
+    },
+    {
+        "question": "How is the Final Approach Segment (FAS) of a GBAS Precision Approach Procedure defined?",
+        "options": [
+            "The GNSS space segment transmits the approach-path guidance parameters to the GBAS-equipped aircraft.",
+            "The GBAS reference receivers transmit-error correction messages to the ground-based azimuth and elevation-guidance transmitters.",
+            "The GBAS ground facility transmits the approach-path guidance parameters to the GBAS-equipped aircraft.",
+            "The GBAS ground facility transmits an error correction message to the ground-based azimuth and glidepath-guidance transmitters."
+        ],
+        "true": "The GBAS ground facility transmits the approach-path guidance parameters to the GBAS-equipped aircraft.",
+        "annex": null
+    },
+    {
+        "question": "Which statement correctly describes the principle of SBAS operation? A correction signal is broadcast from…",
+        "options": [
+            "geostationary satellites to GNSS receivers distributed over a wide area.",
+            "geostationary satellites to GNSS receivers located in a small, local area.",
+            "ground-based transmitters to GNSS receivers located in a small, local area.",
+            "ground-based transmitters to GNSS receivers distributed over a wide area."
+        ],
+        "true": "geostationary satellites to GNSS receivers distributed over a wide area.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following systems are operational SBAS?",
+        "options": [
+            "WAAS in the USA, MSAS in Japan, EGNOS in Europe, and GAGAN in India.",
+            "GPS in the USA, SDCM in Japan, EGNOS in Europe, and GAGAN in India.",
+            "GPS in the USA, MSAS in Japan, Galileo in Europe, and GAGAN in India.",
+            "WAAS in the USA, MSAS in Japan, EGNOS in Europe, and IRNSS in India."
+        ],
+        "true": "WAAS in the USA, MSAS in Japan, EGNOS in Europe, and GAGAN in India.",
+        "annex": null
+    },
+    {
+        "question": "With an GNSS ground-based augmentation system a correction is transmitted for…",
+        "options": [
+            "satellite clock errors and multipath errors on the VHF broadcast.",
+            "tropospheric and ionospheric delays.",
+            "multipath errors and receiver errors.",
+            "ionospheric disturbances and receiver clock errors."
+        ],
+        "true": "tropospheric and ionospheric delays.",
+        "annex": null
+    },
+    {
+        "question": "Which statement regarding GLONASS compared to NAVSTAR GPS is true?",
+        "options": [
+            "GLONASS satellites circle in three polar orbits and NAVSTAR GPS satellites in six.",
+            "GLONASS satellites orbit faster than NAVSTAR GPS satellites",
+            "GLONASS uses the same Earth-centred Earth-fixed datum as NAVSTAR GPS.",
+            "GLONASS uses the same UTC as NAVSTAR GPS."
+        ],
+        "true": "GLONASS satellites orbit faster than NAVSTAR GPS satellites",
+        "annex": null
+    },
+    {
+        "question": "Which statement regarding GLONASS is correct?",
+        "options": [
+            "The orbit time of GLONASS satellites is the same as that of NAVSTAR GPS satellites.",
+            "GLONASS satellites orbit at a lower height than NAVSTAR GPS satellites.",
+            "The GLONASS satellite constellation consists of six orbital planes.",
+            "GLONASS satellites circle in three polar orbits."
+        ],
+        "true": "GLONASS satellites orbit at a lower height than NAVSTAR GPS satellites.",
+        "annex": null
+    },
+    {
+        "question": "Assume that one of the satellites used by a GPS-receiver is faulty and that the PDOP has a relatively low value. When the signals of 6 satellites are received (including the faulty one) the RAIM software in the receiver:",
+        "options": [
+            "is able to detect that one of the satellites is faulty and is able to identify and isolate the faulty one.",
+            "is not active, as the software needs at least 8 satellites to function correctly.",
+            "is unable to detect and identify the faulty satellite.",
+            "is able to detect that one of the satellites is faulty but is unable to identify the faulty one."
+        ],
+        "true": "is able to detect that one of the satellites is faulty and is able to identify and isolate the faulty one.",
+        "annex": null
+    },
+    {
+        "question": "The Galileo satellites will be in…",
+        "options": [
+            "three orbital planes at an angle of 45° to the equator.",
+            "four orbital planes at an angle of 65° to the equator.",
+            "four orbital planes at an angle of 45° to the equator.",
+            "three orbital planes at an angle of 56° to the equator."
+        ],
+        "true": "three orbital planes at an angle of 56° to the equator.",
+        "annex": null
+    },
+    {
+        "question": "Which on-board sensor would typically be used to augment GNSS positional information as part of an Airborne-Based Augmentation System (ABAS)?",
+        "options": [
+            "ADS-B",
+            "EGNOS",
+            "IRS",
+            "TCAS II"
+        ],
+        "true": "IRS",
+        "annex": null
+    },
+    {
+        "question": "In the case of an Airborne-Based Augmentation System (ABAS), which method of integrity monitoring uses information from GNSS and from additional on-board sensors such as Inertial Reference Systems (IRS)?",
+        "options": [
+            "Receiver Autonomous Integrity Monitoring (RAIM)",
+            "Aircraft Station Autonomous Integrity Monitoring (ASAIM)",
+            "GNSS/IRS Autonomous Integrity Monitoring (GIAIM)",
+            "Aircraft Autonomous Integrity Monitoring (AAIM)"
+        ],
+        "true": "Aircraft Autonomous Integrity Monitoring (AAIM)",
+        "annex": null
+    },
+    {
+        "question": "Which of the following correctly describes the principle of integrity monitoring within Airborne-Based Augmentation Systems (ABAS)? ABAS…",
+        "options": [
+            "uses ground-based radio navigation aids to support Fault Detection (FD) or Fault Detection and Exclusion (FDE).",
+            "requires a Satellite-Based Augmentation System (SBAS) to broadcast differential corrections and integrity messages.",
+            "requires a Ground-Based Augmentation System (GBAS) to broadcast differential corrections and integrity messages.",
+            "uses redundant range measurements to support Fault Detection (FD) or Fault Detection and Exclusion (FDE)"
+        ],
+        "true": "uses redundant range measurements to support Fault Detection (FD) or Fault Detection and Exclusion (FDE)",
+        "annex": null
+    },
+    {
+        "question": "UTC parameters determine the difference between",
+        "options": [
+            "GMT and UTC.",
+            "GPS time and UTC.",
+            "Satellite time and UTC.",
+            "Receiver time and UTC."
+        ],
+        "true": "GPS time and UTC.",
+        "annex": null
+    },
+    {
+        "question": "When a GPS-satellite is marked unhealthy :",
+        "options": [
+            "the satellite-signal undergoes major disturbances in the ionosphere.",
+            "the satellite can be used for the estimation of the aircraft’s position, only the satellite clock error may be large.",
+            "the navigation data of the satellite is not valid.",
+            "the satellite stops transmitting signals."
+        ],
+        "true": "the navigation data of the satellite is not valid.",
+        "annex": null
+    },
+    {
+        "question": "AAIM (Aircraft Autonomous Integrity Monitoring) is a type of Airborne Based Augmentation System that",
+        "options": [
+            "relies on GNSS information as well as information from additional on-board sensors.",
+            "can only function within the range of a Ground Based Augmentation System.",
+            "relies on information from additional on-board sensors only.",
+            "relies on GNSS information only."
+        ],
+        "true": "relies on GNSS information as well as information from additional on-board sensors.",
+        "annex": null
+    },
+    {
+        "question": "By using EGNOS in combination with GPS",
+        "options": [
+            "the errors caused by multi path and noise are eliminated.",
+            "the integrity is improved by reducing the mean failure reporting time from up to 3 hours to 6 seconds.",
+            "no improvements are obtained apart from the redundancy.",
+            "a better position accuracy is obtained but the integrity of the system is not improved."
+        ],
+        "true": "the integrity is improved by reducing the mean failure reporting time from up to 3 hours to 6 seconds.",
+        "annex": null
+    },
+    {
+        "question": "When a GPS position is augmented by EGNOS, what time to alert can be expected after a loss of integrity?",
+        "options": [
+            "10 seconds",
+            "15 seconds",
+            "0.3 seconds",
+            "6 seconds"
+        ],
+        "true": "6 seconds",
+        "annex": null
+    },
+    {
+        "question": "A GPS-based SBAS uses satellites to transmit corrections to users. Which statement about these satellites is true?",
+        "options": [
+            "Although they transmit the corrections on the GPS-frequency, pseudo-range measurements to these satellite cannot be made as they do not transmit a valid GPS navigation message.",
+            "Pseudo-range measurements to these satellites can be made as they are actually GPS-satellites which are part of the GPS-satellite constellation.",
+            "Pseudo-range measurements to these geostationary satellites cannot be made as they transmit on a non-GPS-frequency and because they do not transmit a valid GPS navigation message.",
+            "Pseudo-range measurements to these geostationary satellites can be made as they also transmit a valid GPS navigation message on the GPS-frequency."
+        ],
+        "true": "Pseudo-range measurements to these geostationary satellites can be made as they also transmit a valid GPS navigation message on the GPS-frequency.",
+        "annex": null
+    },
+    {
+        "question": "The type of GPS receiver that is used in aviation is",
+        "options": [
+            "a two channel receiver",
+            "a multichannel receiver",
+            "a multiplex receiver",
+            "a sequential receiver"
+        ],
+        "true": "a multichannel receiver",
+        "annex": null
+    },
+    {
+        "question": "What does the acronym EGNOS stand for?",
+        "options": [
+            "European Global Navigation Operational System",
+            "Enhanced Global Navigation Operational System",
+            "European Ground-based Navigation Overlay System",
+            "European Geostationary Navigation Overlay System"
+        ],
+        "true": "European Geostationary Navigation Overlay System",
+        "annex": null
+    }
+]

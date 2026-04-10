@@ -1,0 +1,1454 @@
+[
+    {
+        "question": "Decimetric waves correspond to the frequency range:",
+        "options": [
+            "300 to 3000 kHz",
+            "3000 to 30000 kHz",
+            "3000 to 30000 MHz",
+            "300 to 3000 MHz"
+        ],
+        "true": "300 to 3000 MHz",
+        "annex": null
+    },
+    {
+        "question": "A radio beacon has an operational range of 10 NM. By what factor should the transmitter power be increased in order to achieve an operational range of 20 NM?",
+        "options": [
+            "Four",
+            "Two",
+            "Six",
+            "Eight"
+        ],
+        "true": "Four",
+        "annex": null
+    },
+    {
+        "question": "The frequency which corresponds to a wavelength of 12 cm is:",
+        "options": [
+            "2500 MHz.",
+            "3600 MHz.",
+            "2500 kHz.",
+            "360 MHz."
+        ],
+        "true": "2500 MHz.",
+        "annex": null
+    },
+    {
+        "question": "The wavelength of a radio signal with a frequency of 121.95 MHz is:",
+        "options": [
+            "24.60 cm",
+            "2.46 cm",
+            "2.46 m",
+            "24.60 m"
+        ],
+        "true": "2.46 m",
+        "annex": null
+    },
+    {
+        "question": "The wave length of a radio signal transmitted at a frequency of 75 MHz is:",
+        "options": [
+            "75 m.",
+            "40 m.",
+            "7.5 m.",
+            "4 m."
+        ],
+        "true": "4 m.",
+        "annex": null
+    },
+    {
+        "question": "The wave length of a radio signal transmitted at a frequency of 118.7 MHz is:",
+        "options": [
+            "2.53 m",
+            "25.3 m",
+            "2.53 cm",
+            "25.3 cm"
+        ],
+        "true": "2.53 m",
+        "annex": null
+    },
+    {
+        "question": "The VHF direction finder uses the following wavelengths:",
+        "options": [
+            "decimetric.",
+            "centimetric.",
+            "hectometric.",
+            "metric."
+        ],
+        "true": "metric.",
+        "annex": null
+    },
+    {
+        "question": "The advantage of slotted antennas in modern radar technology is to…",
+        "options": [
+            "produce a wide beam for better target detection.",
+            "greatly reduce lateral lobes, consequently concentrating more energy into the main beam.",
+            "eliminate the need for azimuth slaving.",
+            "simultaneously transmit weather and mapping beams."
+        ],
+        "true": "greatly reduce lateral lobes, consequently concentrating more energy into the main beam.",
+        "annex": null
+    },
+    {
+        "question": "Considering a primary radar system, what kind of aerials are used?",
+        "options": [
+            "An omnidirectional antenna for transmitting, and a directional antenna for receiving.",
+            "A directional antenna for transmitting, and an omnidirectional antenna for receiving.",
+            "One directional antenna both for transmitting and for receiving.",
+            "One directional antenna for transmitting and one for receiving."
+        ],
+        "true": "One directional antenna both for transmitting and for receiving.",
+        "annex": null
+    },
+    {
+        "question": "Comparing a parabolic reflector with a flat plate antenna of the same size",
+        "options": [
+            "the parabolic reflector has a considerably smaller beam width.",
+            "the parabolic reflector generates less side lobes than the flat plate antenna.",
+            "the flat plate antenna has a considerably smaller beam width.",
+            "the flat plate antenna generates less side lobes than the parabolic reflector."
+        ],
+        "true": "the flat plate antenna generates less side lobes than the parabolic reflector.",
+        "annex": null
+    },
+    {
+        "question": "Which aeronautical radio frequency band uses refraction within ionospheric layers?",
+        "options": [
+            "UHF",
+            "HF",
+            "VLF",
+            "VHF"
+        ],
+        "true": "HF",
+        "annex": null
+    },
+    {
+        "question": "An apparent increase in the transmitted frequency, which is proportional to the transmitter velocity, will occur when the…",
+        "options": [
+            "receiver moves away from the transmitter.",
+            "transmitter moves away from the receiver.",
+            "transmitter moves towards the receiver.",
+            "transmitter goes into standby."
+        ],
+        "true": "transmitter moves towards the receiver.",
+        "annex": null
+    },
+    {
+        "question": "Due to ‘Doppler’ effect an apparent decrease in the transmitted frequency, which is proportional to the transmitter’s velocity, will occur when:",
+        "options": [
+            "the transmitter and receiver move towards each other.",
+            "the transmitter moves away from the receiver.",
+            "there is no relative movement between the transmitter and the receiver.",
+            "the transmitter moves toward the receiver."
+        ],
+        "true": "the transmitter moves away from the receiver.",
+        "annex": null
+    },
+    {
+        "question": "Skip distance is the…",
+        "options": [
+            "thickness of the ionosphere.",
+            "wavelength distance of a certain frequency.",
+            "range from the transmitter to the first sky wave return.",
+            "highest critical frequency distance."
+        ],
+        "true": "range from the transmitter to the first sky wave return.",
+        "annex": null
+    },
+    {
+        "question": "In the propagation of MF waves, the phenomenon of FADING is particularly found:",
+        "options": [
+            "by day, due to the combination of sky and ground waves.",
+            "at night and when raining.",
+            "by day and when raining.",
+            "at night, due to the combination of the sky and ground waves."
+        ],
+        "true": "at night, due to the combination of the sky and ground waves.",
+        "annex": null
+    },
+    {
+        "question": "The skip distance of HF-transmission will increase with…",
+        "options": [
+            "higher frequency and lower level of the refracting ionospheric layer.",
+            "higher frequency and higher level of the refracting ionospheric layer.",
+            "lower frequency and higher level of the refracting ionospheric layer.",
+            "lower frequency and lower level of the refracting ionospheric layer."
+        ],
+        "true": "higher frequency and higher level of the refracting ionospheric layer.",
+        "annex": null
+    },
+    {
+        "question": "The wavelength of a non-directional beacon (NDB) with a frequency of 300 kHz is:",
+        "options": [
+            "1 metre.",
+            "1000 metres.",
+            "10 metres.",
+            "100 metres."
+        ],
+        "true": "1000 metres.",
+        "annex": null
+    },
+    {
+        "question": "With regard to types of transmission, which of the following statements is true:",
+        "options": [
+            "Pulse transmission is suitable only for NDB's",
+            "Continuous Wave transmission varies only in amplitude",
+            "In pulse transmission the frequency is modulated to facilitate range measurement",
+            "Continuous Wave transmission can be either frequency or amplitude modulated"
+        ],
+        "true": "Continuous Wave transmission can be either frequency or amplitude modulated",
+        "annex": null
+    },
+    {
+        "question": "Attenuation of radio waves means:",
+        "options": [
+            "Only the absorbtion of radio energy by the sea",
+            "The atmospheric bending of the waves",
+            "The weakening of the radiated waves",
+            "Only the scattering of the waves by the Tropopause"
+        ],
+        "true": "The weakening of the radiated waves",
+        "annex": null
+    },
+    {
+        "question": "The VHF frequency band has a wavelength limit of:",
+        "options": [
+            "1 m to 100 cm",
+            "100 cm to 10 cm",
+            "100 m to 10 m",
+            "10 m to 1 m"
+        ],
+        "true": "10 m to 1 m",
+        "annex": null
+    },
+    {
+        "question": "Refer to image In the diagram, which refers to the propagation of HF radio waves, the letters A, B, C, D and E correctly represent:",
+        "options": [
+            "A Dead space     B Skip dist          C Sky wave          D Ground wave       E Critical angle",
+            "A Skip dist           B Dead space    C Ground wave    D Sky wave     E Critical angle",
+            "A Sky wave        B Dead space    C Ground wave    D Skip dist    E Critical angle",
+            "A Dead space     B Skip dist          C Ground wave    D Critical angle      E Sky wave"
+        ],
+        "true": "A Sky wave        B Dead space    C Ground wave    D Skip dist    E Critical angle",
+        "annex": "062-005"
+    },
+    {
+        "question": "Modulation is:",
+        "options": [
+            "The addition of a low frequency signal (tone, voice) to a high frequency carrier wave",
+            "The addition of a high frequency signal (tone, voice) to a low frequency carrier wave",
+            "Tuning receiver into the frequency of the transmitter",
+            "Elimination of disturbances for improving reception"
+        ],
+        "true": "The addition of a low frequency signal (tone, voice) to a high frequency carrier wave",
+        "annex": null
+    },
+    {
+        "question": "The phenomenon of a change in direction of an EM-wave occurring due to a change in its speed is called:",
+        "options": [
+            "reflection",
+            "diffraction",
+            "interference",
+            "refraction"
+        ],
+        "true": "refraction",
+        "annex": null
+    },
+    {
+        "question": "In aviation electronic systems the so-called Doppler principle may be used in",
+        "options": [
+            "VOR, MTI and the mapping mode of AWR.",
+            "VOR, DME and ILS",
+            "VOR, GPS and MTI and the turbulence mode of AWR.",
+            "VOR , DME and GPS."
+        ],
+        "true": "VOR, GPS and MTI and the turbulence mode of AWR.",
+        "annex": null
+    },
+    {
+        "question": "What is the Doppler effect with reference to radio signals?",
+        "options": [
+            "It is the shift in frequency of the radio wave due to the relative movement between transmitter and receiver",
+            "It is interference between the direct and the earth reflected wave.",
+            "It is fluctuations in their propagation speed.",
+            "It is the increases or decreases in the ground speed of the transmitting aircraft."
+        ],
+        "true": "It is the shift in frequency of the radio wave due to the relative movement between transmitter and receiver",
+        "annex": null
+    },
+    {
+        "question": "Which of the following summaries lists only directional antennae?",
+        "options": [
+            "Dipole antenna, sense antenna, parabolic antenna, helical antenna.",
+            "Dipole antenna, loop antenna, parabolic antenna, slotted planar array antenna.",
+            "Sense antenna, parabolic antenna, slotted planar array antenna, helical antenna.",
+            "Loop antenna, parabolic antenna, slotted planar array antenna, helical antenna."
+        ],
+        "true": "Loop antenna, parabolic antenna, slotted planar array antenna, helical antenna.",
+        "annex": null
+    },
+    {
+        "question": "Given a wire fed with alternating current and a second wire parallel to, but remote from it. The result will be:",
+        "options": [
+            "the first wire will radiate electro-magnetic waves into space and direct current will be induced in the second wire.",
+            "the first wire will radiate electro-magnetic waves into space but the transmitted energy will be completely absorbed by the second wire.",
+            "the first wire will radiate electro-magnetic waves into space and the second wire will double the transmission power of the first one.",
+            "The first wire will radiate electromagnetic waves into space and alternating current will be induced in the second wire"
+        ],
+        "true": "The first wire will radiate electromagnetic waves into space and alternating current will be induced in the second wire",
+        "annex": null
+    },
+    {
+        "question": "Phase modulation",
+        "options": [
+            "results in a change of amplitude of the carrier wave.",
+            "is a modulation form used in GPS where the phase of the carrier wave is reversed.",
+            "is a modulation form used in ILS where the phase of the navigation signals is changed with 90° or 150°.",
+            "results in a change of polarisation of the modulated signal."
+        ],
+        "true": "is a modulation form used in GPS where the phase of the carrier wave is reversed.",
+        "annex": null
+    },
+    {
+        "question": "What is meant by keying in A1A modulation",
+        "options": [
+            "interrupting the carrier wave to break it into dots and dashes.",
+            "changing the amplitude of the carrier wave to add information.",
+            "adding information on the carrier wave by use of a modulating signal.",
+            "interrupting the modulating signal to break it into dots and dashes."
+        ],
+        "true": "interrupting the carrier wave to break it into dots and dashes.",
+        "annex": null
+    },
+    {
+        "question": "The phenomenon when a wave bends when it passes around an impenetrable obstacle is called:",
+        "options": [
+            "refraction",
+            "diffraction",
+            "reflection",
+            "interference"
+        ],
+        "true": "diffraction",
+        "annex": null
+    },
+    {
+        "question": "From which physical phenomenon do sky waves originate?",
+        "options": [
+            "refraction",
+            "diffraction",
+            "absorption",
+            "interference"
+        ],
+        "true": "refraction",
+        "annex": null
+    },
+    {
+        "question": "A reason that GPS satellites use helical antennae is",
+        "options": [
+            "to achieve better omni directional receiving qualities.",
+            "to improve the signal to noise ratio.",
+            "that the signal has a circular polarization.",
+            "to neutralize the ionospheric delay."
+        ],
+        "true": "that the signal has a circular polarization.",
+        "annex": null
+    },
+    {
+        "question": "What describes polarization?",
+        "options": [
+            "Rotation of the antenna around a fixed axis",
+            "Orientation of the antenna to the North Pole",
+            "Orientation of the plane of oscillation of the magnetic component of the ectromagnetic wave",
+            "Orientation of the plane of oscillation of the electrical component"
+        ],
+        "true": "Orientation of the plane of oscillation of the electrical component",
+        "annex": null
+    },
+    {
+        "question": "What is the reason that DME utilises pulse pairs instead of single pulses?",
+        "options": [
+            "To be able to use a separate interrogation and reply frequency, and thus to increase the number of DME stations that can transmit in the same part of the DME frequency band.",
+            "To increase the accuracy and reliability of the range measurement.",
+            "To distinguish DME transmissions from transmissions of other (radar) systems utilising single pulses.",
+            "To increase the number of aircraft that can simultaneously use the DME station to determine the DME range."
+        ],
+        "true": "To distinguish DME transmissions from transmissions of other (radar) systems utilising single pulses.",
+        "annex": null
+    },
+    {
+        "question": "The indication of the FROM/TO indicator of a VOR shifts from TO to FROM (or vice versa) when the value of the difference between the selected course and the measured radial passes in either direction",
+        "options": [
+            "045°",
+            "090°",
+            "135°",
+            "180°"
+        ],
+        "true": "090°",
+        "annex": null
+    },
+    {
+        "question": "Radio waves travel at:",
+        "options": [
+            "The speed of light",
+            "The speed of sound",
+            "A speed just below the speed of sound",
+            "A speed depending on the type of electroamgetic waves"
+        ],
+        "true": "The speed of light",
+        "annex": null
+    },
+    {
+        "question": "Which of the following is true with reference to frequency of a radio wave?",
+        "options": [
+            "Frequency is the length of a radio wave expressed as an angle",
+            "Frequency is the number of cycles in one second in a radio wave expressed in Hertz (Hz)",
+            "Frequency is the minimum number of cycles occurring in one minute in a radio wave expressed in Hertz (Hz)",
+            "Frequency is the maximum deflection in a radio wave expressed in Hertz (Hz)"
+        ],
+        "true": "Frequency is the number of cycles in one second in a radio wave expressed in Hertz (Hz)",
+        "annex": null
+    },
+    {
+        "question": "The frequency which corresponds to a wavelength of 8.25 m is:",
+        "options": [
+            "36.36 MHz",
+            "363.6 MHz",
+            "3.63 MHz",
+            "3636 MHz"
+        ],
+        "true": "36.36 MHz",
+        "annex": null
+    },
+    {
+        "question": "The frequency which corresponds to a wavelength of 3 km is:",
+        "options": [
+            "1000 kHz",
+            "1 MHz",
+            "100 kHz",
+            "10 kHz"
+        ],
+        "true": "100 kHz",
+        "annex": null
+    },
+    {
+        "question": "Which of the following terms describes the maximum deflection in an oscillation?",
+        "options": [
+            "Frequency",
+            "Phase",
+            "Period",
+            "Amplitude"
+        ],
+        "true": "Amplitude",
+        "annex": null
+    },
+    {
+        "question": "Single-sideband modulation (SSB) is a modulation technique where only one sideband is transmitted, SSB is used for:",
+        "options": [
+            "VHF communication and HF Volmet",
+            "HF Volmet and HF two-way communication",
+            "VHF VOR and GNSS",
+            "HF one-way communication"
+        ],
+        "true": "HF Volmet and HF two-way communication",
+        "annex": null
+    },
+    {
+        "question": "What describes ‘Polarisation’?",
+        "options": [
+            "The orientation of the plane of oscillation of the magnetic component of the electromagnetic wave.",
+            "The rotation of the antenna around a fixed axis.",
+            "The orientation of the plane of oscillation of the electrical component of the electromagnetic wave.",
+            "The orientation of the antenna to the north pole."
+        ],
+        "true": "The orientation of the plane of oscillation of the electrical component of the electromagnetic wave.",
+        "annex": null
+    },
+    {
+        "question": "The simplest type of antenna construction is a:",
+        "options": [
+            "Dipole antenna which is a wire of length equal to one half of the wavelength",
+            "Slotted antenna used in modern weather radars",
+            "Parabolic antenna used in weather radars",
+            "Loop antenna used in ADF receivers"
+        ],
+        "true": "Dipole antenna which is a wire of length equal to one half of the wavelength",
+        "annex": null
+    },
+    {
+        "question": "A Loop Antenna is commonly used in:",
+        "options": [
+            "GPS transmitters",
+            "Airborne Weather Radar",
+            "ADF receivers",
+            "Satellite transmitters"
+        ],
+        "true": "ADF receivers",
+        "annex": null
+    },
+    {
+        "question": "Concerning the wave propagation in the ionosphere, we denote three layers. Those three layers are:",
+        "options": [
+            "D, E and F layers and their depth varies with time",
+            "A, C and E layers with equal depth",
+            "D, E and F layers and their depth does not vary with time",
+            "A, B and C layers and their depth varies with time"
+        ],
+        "true": "D, E and F layers and their depth varies with time",
+        "annex": null
+    },
+    {
+        "question": "Which statement about VHF/UHF Frequencies is correct?",
+        "options": [
+            "VHF frequencies below 120 MHz may be subjected to sporadic E-reflections and then have sky wave. For both VHF/UHF the sky wave is the main propagation path of practical use",
+            "For both VHF/UHF propagation, the space wave is the only propagation path of practial use. There is no sky wave under normal conditions",
+            "Neither VHF/UHF has a sky wave under any conditions. For VHF the surface wave is the main propagation path and for UHF the space wave",
+            "VHF has, under normal conditions, a sky wave whereas UHF has not. For both VHF/UHF propagation the space wave is the main propagation path"
+        ],
+        "true": "For both VHF/UHF propagation, the space wave is the only propagation path of practial use. There is no sky wave under normal conditions",
+        "annex": null
+    },
+    {
+        "question": "Refer to image An amplitude modulation is shown in figure:",
+        "options": [
+            "C",
+            "A",
+            "D",
+            "B"
+        ],
+        "true": "A",
+        "annex": "062-004"
+    },
+    {
+        "question": "A radio signal may be classified by three symbols in accordance with the ITU radio regulation e.g. A1A. Which statement is true?",
+        "options": [
+            "The second symbol indicates the nature of information to be transmitted",
+            "The third symbol indicates the nature of the signal modulating the main carrier",
+            "The three symbols together indicate which device is transmitting on the carrier",
+            "The first symbol indicates the type of modulation of the main carrier"
+        ],
+        "true": "The first symbol indicates the type of modulation of the main carrier",
+        "annex": null
+    },
+    {
+        "question": "The electromagnetic waves refracted from the E and F layers of the ionosphere are called:",
+        "options": [
+            "Space waves",
+            "Refracted waves",
+            "Ground waves",
+            "Sky waves"
+        ],
+        "true": "Sky waves",
+        "annex": null
+    },
+    {
+        "question": "An electromagnetic wave consists of an oscillating electric (E) and an oscillating magnetic (H) field. Which of the following answers is true?",
+        "options": [
+            "The E field and the H field are perpendicular to each other.",
+            "The H field is parallel to the wire and the E field is perpendicular to it.",
+            "When a constant current is sent through the antenna the E and H field are parallel.",
+            "A dipole antenna is only capable to transmit the H field."
+        ],
+        "true": "The E field and the H field are perpendicular to each other.",
+        "annex": null
+    },
+    {
+        "question": "Diffraction is the process by which:",
+        "options": [
+            "A ground wave is attenuated over rough ground",
+            "A direct wave is bent around the form of the earth",
+            "Radio waves travel over and around obstacles",
+            "A space wave penetrates the ionosphere"
+        ],
+        "true": "Radio waves travel over and around obstacles",
+        "annex": null
+    },
+    {
+        "question": "Radio waves in the VHF and higher frequency bands propagate mainly as",
+        "options": [
+            "space waves.",
+            "surface waves.",
+            "earth reflected waves.",
+            "sky waves."
+        ],
+        "true": "space waves.",
+        "annex": null
+    },
+    {
+        "question": "The phenomenon of a change in direction of an EM-wave occurring at an interface between two different media, so that the wave returns into the medium from which it originated, is called:",
+        "options": [
+            "refraction",
+            "diffraction",
+            "interference",
+            "reflection"
+        ],
+        "true": "reflection",
+        "annex": null
+    },
+    {
+        "question": "Single Side Band (SSB) is used",
+        "options": [
+            "with transmissions of the Meteorological aerodrome Report (METAR)",
+            "in HF two-way communication.",
+            "in VHF transmissions to reduce transmission power.",
+            "with NDB transmissions to reduce the bandwidth"
+        ],
+        "true": "in HF two-way communication.",
+        "annex": null
+    },
+    {
+        "question": "Modulation is:",
+        "options": [
+            "The amplification of the received radio wave in the detector",
+            "The transformation of the radio wave into a digital signal",
+            "The separation of information from the radio wave during receiving",
+            "The addition of information onto a radio wave during transmission"
+        ],
+        "true": "The addition of information onto a radio wave during transmission",
+        "annex": null
+    },
+    {
+        "question": "Reflection from ionospheric layers is used in the following radio frequencies:",
+        "options": [
+            "UHF",
+            "VLF",
+            "HF",
+            "VHF"
+        ],
+        "true": "HF",
+        "annex": null
+    },
+    {
+        "question": "The process by which EM-energy is taken up by the atmosphere is called:",
+        "options": [
+            "absorption",
+            "interference",
+            "diffraction",
+            "refraction"
+        ],
+        "true": "absorption",
+        "annex": null
+    },
+    {
+        "question": "Which statement about VHF/UHF propagation in connection with Ground Direction Finders is correct?",
+        "options": [
+            "Neither VHF/UHF has a sky wave under any conditions. For VHF the surface wave is the main propagation path and for UHF the space wave.",
+            "For both VHF/UHF propagation, the space wave is the only propagation path of practical use. There is no sky wave under normal conditions.",
+            "VHF-frequencies below 120 MHz may be subjected to sporadic E-reflection and then have a sky wave. For both VHF/UHF the surface wave is the only propagation path of practical use.",
+            "VHF has, under normal conditions, a sky wave, whereas UHF has not. For both VHF/UHF propagation the space wave is the main propagation path."
+        ],
+        "true": "For both VHF/UHF propagation, the space wave is the only propagation path of practical use. There is no sky wave under normal conditions.",
+        "annex": null
+    },
+    {
+        "question": "The superposition of two EM-waves of the same or nearly the same frequency is called",
+        "options": [
+            "interference",
+            "diffraction",
+            "refraction",
+            "reflection"
+        ],
+        "true": "interference",
+        "annex": null
+    },
+    {
+        "question": "Mountain effect, occurring for instance with NDBs, is caused by what physical phenomenon?",
+        "options": [
+            "reflection",
+            "absorption",
+            "refraction",
+            "diffraction"
+        ],
+        "true": "reflection",
+        "annex": null
+    },
+    {
+        "question": "The frequency which corresponds to a wavelength of 12 cm is:",
+        "options": [
+            "2.5 GHz",
+            "2,500 KHz",
+            "3600 MHz",
+            "360 MHz"
+        ],
+        "true": "2.5 GHz",
+        "annex": null
+    },
+    {
+        "question": "What is the definition of an antenna?",
+        "options": [
+            "A wave type transducer for the process of converting a line AC into a free electromagnetic wave.",
+            "A transformer for the process of converting AC into a radio wave",
+            "A device used for the purpose of receiving a free electromagnetic radio wave and converting it into an audible frequency.",
+            "A wave type transducer for the process of converting DC into a free electromagnetic wave."
+        ],
+        "true": "A wave type transducer for the process of converting a line AC into a free electromagnetic wave.",
+        "annex": null
+    },
+    {
+        "question": "With a Doppler VOR system and frequency decreasing:",
+        "options": [
+            "the transmitter and the receiver are moving closer",
+            "the transmitter and receiver are stationary",
+            "the transmitter is moving away",
+            "the transmitter is moving to the receiver"
+        ],
+        "true": "the transmitter is moving away",
+        "annex": null
+    },
+    {
+        "question": "A vertically-mounted dipole antenna is used for RF transmissions.The receiving antenna has to be …",
+        "options": [
+            "aligned horizontally in order to receive the electrical field of the RF transmission in the horizontal plane.",
+            "in the same vertical alignment in order to receive the electrical field of the RF transmission in the vertical plane.",
+            "aligned horizontally in order to receive the electrical field of the RF transmission in the vertical plane.",
+            "in the same vertical alignment in order to receive the electrical field of the RF transmission in the horizontal plane."
+        ],
+        "true": "in the same vertical alignment in order to receive the electrical field of the RF transmission in the vertical plane.",
+        "annex": null
+    },
+    {
+        "question": "A VHF radio signal is amplitude modulated by a low frequency signal corresponding to the pilot's voice. The spectrum of the modulated signal highlights that the useful information is located:",
+        "options": [
+            "on both in the upper and lower sidebands",
+            "in the carrier signal",
+            "on the upper sideband only",
+            "on the lower sideband only"
+        ],
+        "true": "on both in the upper and lower sidebands",
+        "annex": null
+    },
+    {
+        "question": "HF \"Volmet\" broadcasts meteorological information for aircraft in flight by using HF radio transmissions. The characteristics of the HF signal are that:",
+        "options": [
+            "the carrier wave is amplitude modulated and only one of the two sidebands is transmitted (single sideband transmission)",
+            "the carrier wave is frequency modulated and only one of the two sidebands is transmitted (single sideband transmission)",
+            "the carrier wave is frequency modulated with a modulation index of 16",
+            "the carrier wave is amplitude modulated with a fixed modulation depth"
+        ],
+        "true": "the carrier wave is amplitude modulated and only one of the two sidebands is transmitted (single sideband transmission)",
+        "annex": null
+    },
+    {
+        "question": "A radio signal is used to establish voice communications between the ground and an aircraft.  This signal is transmitted in A3E. The number \"3\" means that the:",
+        "options": [
+            "emitter transmits the half carrier and only one of the two sidebands",
+            "carrier is modulated by an analogue signal",
+            "emitter transmits the complete carrier and the two sidebands",
+            "carrier is modulated by a digital information"
+        ],
+        "true": "carrier is modulated by an analogue signal",
+        "annex": null
+    },
+    {
+        "question": "A radio signal is transmitted in A2A. These three symbols collectively mean:",
+        "options": [
+            "an on-off keying of an amplitude modulated transmission used for aural telegraphy",
+            "an amplitude modulation used for telephony, single sideband, with suppressed carrier",
+            "an amplitude modulation used for telephony, double sideband",
+            "a frequency modulation with on-off keying telegraphy of an audio frequency"
+        ],
+        "true": "an on-off keying of an amplitude modulated transmission used for aural telegraphy",
+        "annex": null
+    },
+    {
+        "question": "Complete the following statement: a signal of wavelength 711 m is transmitted in the (1) band and it propagates by using the (2) wave path. Which combination of answers states the correct answers for (1) and (2)?",
+        "options": [
+            "(1) MF (2) ground",
+            "(1) LF (2) space",
+            "(1) VHF (2) direct",
+            "(1) HF (2) sky"
+        ],
+        "true": "(1) MF (2) ground",
+        "annex": null
+    },
+    {
+        "question": "A dipole antenna in its simplest form, suited for a frequency of 110 MHz, ought to have a length of",
+        "options": [
+            "136 cm",
+            "273 cm",
+            "205 cm",
+            "91 cm"
+        ],
+        "true": "136 cm",
+        "annex": null
+    },
+    {
+        "question": "The sky wave is an electromagnetic wave which travels?",
+        "options": [
+            "Across the earth's surface",
+            "Into space to be refracted in the ionosphere",
+            "Inside the ionosphere along the boundary layer",
+            "By line of sight between transmitter and receiver"
+        ],
+        "true": "Into space to be refracted in the ionosphere",
+        "annex": null
+    },
+    {
+        "question": "VHF propagates",
+        "options": [
+            "As ground waves during the day & as ground and sky waves by night",
+            "As sky waves during the day & ground waves and sky waves by night",
+            "As ground waves",
+            "As space waves"
+        ],
+        "true": "As space waves",
+        "annex": null
+    },
+    {
+        "question": "What is the simplest type of antenna called?",
+        "options": [
+            "Monopole",
+            "Loop antenna",
+            "Dipole",
+            "Quadrupole"
+        ],
+        "true": "Dipole",
+        "annex": null
+    },
+    {
+        "question": "VLF radio waves travel...",
+        "options": [
+            "during daytime as ground and sky waves, during night time as ground waves only",
+            "by line of sight",
+            "during daytime as sky waves",
+            "during day and night as ground waves"
+        ],
+        "true": "during day and night as ground waves",
+        "annex": null
+    },
+    {
+        "question": "VHF (Very High Frequency) waves occur in which frequency range?",
+        "options": [
+            "30 MHz - 300 MHz",
+            "3 MHz - 30 MHz",
+            "300 MHz - 3000 MHz",
+            "3 GHz - 30 GHz"
+        ],
+        "true": "30 MHz - 300 MHz",
+        "annex": null
+    },
+    {
+        "question": "Which statement about the range of VHF waves is correct ?",
+        "options": [
+            "It depends on the altitude of the aircraft and the elevation of the ground antenna.",
+            "Obstacles like mountains between transmitter and aircraft do not affect the range.",
+            "It does not depend on the elevation of the antenna of the transmitter.",
+            "It does not depend on the altitude of the aircraft but only on the power of the transmitter."
+        ],
+        "true": "It depends on the altitude of the aircraft and the elevation of the ground antenna.",
+        "annex": null
+    },
+    {
+        "question": "The wave length of a radio signal transmitted at a frequency of 118.7 MHz is:",
+        "options": [
+            "2.53 m.",
+            "25.3 cm.",
+            "25.3 m.",
+            "2.53 cm."
+        ],
+        "true": "2.53 m.",
+        "annex": null
+    },
+    {
+        "question": "The frequency of an Airborne Weather Radar is 9.33 GHz.What is the corresponding wavelength?",
+        "options": [
+            "32 m",
+            "3.2 m",
+            "32 cm",
+            "3.2 cm"
+        ],
+        "true": "3.2 cm",
+        "annex": null
+    },
+    {
+        "question": "An Airborne Weather Radar transmits pulses of a wavelength of 3.2 cm.What is the corresponding frequency?",
+        "options": [
+            "93.8 kHz",
+            "9.38 MHz",
+            "93800 MHz",
+            "9.38 GHz"
+        ],
+        "true": "9.38 GHz",
+        "annex": null
+    },
+    {
+        "question": "A parabolic antenna:",
+        "options": [
+            "is a directional antenna.",
+            "is used only for transmitting.",
+            "is a non directional antenna.",
+            "is used only for receiving"
+        ],
+        "true": "is a directional antenna.",
+        "annex": null
+    },
+    {
+        "question": "Due to ‘Doppler’ effect an apparent increase in the transmitted frequency will occur when:",
+        "options": [
+            "the transmitter and receiver move towards each other.",
+            "the receiver moves away from the transmitter.",
+            "there is no relative movement between the transmitter and the receiver.",
+            "the transmitter moves away from the receiver."
+        ],
+        "true": "the transmitter and receiver move towards each other.",
+        "annex": null
+    },
+    {
+        "question": "Due to the Doppler effect an apparent decrease in the transmitted frequency, which is proportional to the transmitter and receiver’s relative velocity, will occur when…",
+        "options": [
+            "there is no relative movement between the transmitter and the receiver.",
+            "the transmitter moves away from the receiver.",
+            "the transmitter moves toward the receiver.",
+            "the transmitter and receiver move towards each other."
+        ],
+        "true": "the transmitter moves away from the receiver.",
+        "annex": null
+    },
+    {
+        "question": "What is the skip zone?",
+        "options": [
+            "the place where only the sky wave can be received.",
+            "the place where only the ground wave can be received.",
+            "the place where both ground and sky waves can be received.",
+            "the place where neither the ground waves nor the sky waves can be received."
+        ],
+        "true": "the place where neither the ground waves nor the sky waves can be received.",
+        "annex": null
+    },
+    {
+        "question": "The skip distance is:",
+        "options": [
+            "the distance from transmitter to the maximum range of the ground wave",
+            "the distance from transmitter to earth surface up to the point where the first sky wave can be received",
+            "the distance from transmitter to an obstacle which limits the extension of the ground wave",
+            "the distance from transmitter to the maximum range of the sky wave"
+        ],
+        "true": "the distance from transmitter to earth surface up to the point where the first sky wave can be received",
+        "annex": null
+    },
+    {
+        "question": "Refer to the annex. Which letter in the figure below indicates the Skip Distance?",
+        "options": [
+            "b",
+            "d",
+            "c",
+            "a"
+        ],
+        "true": "d",
+        "annex": "620932"
+    },
+    {
+        "question": "Fading (LF and MF) can happen:",
+        "options": [
+            "at any time",
+            "only during daytime",
+            "only at night",
+            "from the beginning of evening twilight until the end of morning twilight."
+        ],
+        "true": "from the beginning of evening twilight until the end of morning twilight.",
+        "annex": null
+    },
+    {
+        "question": "What is meant by the term 'Fading'?",
+        "options": [
+            "The interference of the ground and sky wave.",
+            "The disappearance of the D-layer with beginning of the evening twilight.",
+            "An effect which can be observed only in the F-layer of the ionosphere.",
+            "An effect at RADAR which leads to ‘blind speed’."
+        ],
+        "true": "The interference of the ground and sky wave.",
+        "annex": null
+    },
+    {
+        "question": "Under what conditions can a VHF transmission often be received at a range considerably greater than line-of-sight?",
+        "options": [
+            "The signal may be reflected from mountains between the transmitter and receiver.",
+            "A temperature inversion in the lower atmosphere can cause ‘super-refraction’.",
+            "The signal may be refracted from the ionosphere at night.",
+            "The signal may be refracted as a surface wave over a large expanse of water."
+        ],
+        "true": "A temperature inversion in the lower atmosphere can cause ‘super-refraction’.",
+        "annex": null
+    },
+    {
+        "question": "The unit for measuring frequency is ___, and measures cycles ___:",
+        "options": [
+            "Hertz; per second",
+            "Hertz; per minute.",
+            "Metres; per minute",
+            "Metres; per second."
+        ],
+        "true": "Hertz; per second",
+        "annex": null
+    },
+    {
+        "question": "The frequency transmitted by the outer marker is 75 MHz.What is the corresponding wavelength?",
+        "options": [
+            "225 m",
+            "4000 m",
+            "2.25 m",
+            "4 m"
+        ],
+        "true": "4 m",
+        "annex": null
+    },
+    {
+        "question": "How is frequency modulation achieved?",
+        "options": [
+            "The information is added onto the carrier wave by interrupting the carrier.",
+            "The information is added onto the carrier wave by reversing the phases of the carrier.",
+            "The information is added onto the carrier wave by altering the amplitude of the carrier.",
+            "The information is added onto the carrier wave by altering the frequency of the carrier."
+        ],
+        "true": "The information is added onto the carrier wave by altering the frequency of the carrier.",
+        "annex": null
+    },
+    {
+        "question": "In which frequency band may fading occur during the twilight period?",
+        "options": [
+            "VHF",
+            "UHF",
+            "HF",
+            "MF"
+        ],
+        "true": "MF",
+        "annex": null
+    },
+    {
+        "question": "How is the unit Hertz (Hz) defined?",
+        "options": [
+            "The time of one complete oscillation.",
+            "The number of electromagnetic oscillations per minute.",
+            "The number of electromagnetic oscillations per second.",
+            "The distance a radio wave travels in one second."
+        ],
+        "true": "The number of electromagnetic oscillations per second.",
+        "annex": null
+    },
+    {
+        "question": "Radio waves travel with an approximate velocity of:",
+        "options": [
+            "300 000 kt",
+            "300 000 km/s",
+            "300 000 m/s",
+            "300 000 km/h"
+        ],
+        "true": "300 000 km/s",
+        "annex": null
+    },
+    {
+        "question": "VLF radio waves travel:",
+        "options": [
+            "by line-of-sight",
+            "during day and night as ground waves",
+            "during day time as sky waves",
+            "during daytime as ground and sky waves, during night time as ground waves only"
+        ],
+        "true": "during day and night as ground waves",
+        "annex": null
+    },
+    {
+        "question": "HFradio waves travel:",
+        "options": [
+            "quasi-optically.",
+            "during daytime as ground and sky waves, during night time as ground waves only.",
+            "during daytime and at night as ground waves only.",
+            "during daytime and night time as sky waves, and the range of the ground wave is very small."
+        ],
+        "true": "during daytime and night time as sky waves, and the range of the ground wave is very small.",
+        "annex": null
+    },
+    {
+        "question": "Refer to the diagram. What type of modulation is shown in the figure below?",
+        "options": [
+            "Amplitude modulation",
+            "Pulse modulation",
+            "No modulation",
+            "Frequency modulation"
+        ],
+        "true": "Amplitude modulation",
+        "annex": "621029"
+    },
+    {
+        "question": "Refer to the diagram. What type of modulation is shown in the figure below?",
+        "options": [
+            "no modulation",
+            "Pulse modulation",
+            "Frequency modulation",
+            "Amplitude modulation"
+        ],
+        "true": "Frequency modulation",
+        "annex": "621030"
+    },
+    {
+        "question": "The shoreline/coastal effect is caused by diffraction of the radio waves.What is one factor influencing the error of the bearing?",
+        "options": [
+            "groundspeed",
+            "flight altitude",
+            "Weather conditions",
+            "conditions over the sea"
+        ],
+        "true": "flight altitude",
+        "annex": null
+    },
+    {
+        "question": "At what velocity do electromagnetic waves travel?",
+        "options": [
+            "It depends on the frequency of the wave.",
+            "The speed of light + velocity of the transmitter.",
+            "The speed of light.",
+            "The speed of sound."
+        ],
+        "true": "The speed of light.",
+        "annex": null
+    },
+    {
+        "question": "Electromagnetic waves in the LF band have a frequency spectrum of:",
+        "options": [
+            "3-30 kHz.",
+            "300-3000 kHz.",
+            "30-300 kHz.",
+            "30-300 MHz."
+        ],
+        "true": "30-300 kHz.",
+        "annex": null
+    },
+    {
+        "question": "The damping of a radio wave is so strong that no signal can be received.This phenomenon is called:",
+        "options": [
+            "diffraction",
+            "reflection",
+            "absorption",
+            "refraction"
+        ],
+        "true": "absorption",
+        "annex": null
+    },
+    {
+        "question": "The superposition of radio waves with approximately the same frequency is called:",
+        "options": [
+            "interference",
+            "diffraction",
+            "absorption",
+            "reflection"
+        ],
+        "true": "interference",
+        "annex": null
+    },
+    {
+        "question": "Which physical phenomenon is the main reasons for the Mountain Effect?",
+        "options": [
+            "Interference",
+            "Reflection",
+            "Scattering",
+            "Damping"
+        ],
+        "true": "Reflection",
+        "annex": null
+    },
+    {
+        "question": "How is amplitude modulation achieved?",
+        "options": [
+            "The information is added onto the carrier wave by altering the amplitude of the carrier.",
+            "The information is added onto the carrier wave by interrupting the carrier.",
+            "The information is added onto the carrier wave by altering the frequency of the carrier.",
+            "The information is added onto the carrier wave by reversing the phases of the carrier."
+        ],
+        "true": "The information is added onto the carrier wave by altering the amplitude of the carrier.",
+        "annex": null
+    },
+    {
+        "question": "The Ground Wave propagates as follows:",
+        "options": [
+            "It travels along the earth’s surface and follows the curvature of the earth.",
+            "The ground wave is transmitted toward the earth’s surface and will be reflected.",
+            "The wave will be reflected at the ionosphere back to the ground.",
+            "It travels beneath the ground."
+        ],
+        "true": "It travels along the earth’s surface and follows the curvature of the earth.",
+        "annex": null
+    },
+    {
+        "question": "The Sky Wave propagates as follows:",
+        "options": [
+            "It travels between ground and D layer of the ionosphere.",
+            "It travels inside the Ionosphere along the boundary between E and F layer.",
+            "It travels along the earth’s surface.",
+            "A wave transmitted into space will be reflected back to the earth’s surface by the ionosphere."
+        ],
+        "true": "A wave transmitted into space will be reflected back to the earth’s surface by the ionosphere.",
+        "annex": null
+    },
+    {
+        "question": "Within which frequency band listed below are radio waves propagated as space waves?",
+        "options": [
+            "HF.",
+            "VHF.",
+            "MF.",
+            "VLF."
+        ],
+        "true": "VHF.",
+        "annex": null
+    },
+    {
+        "question": "Modulation is:",
+        "options": [
+            "the transformation of the radio wave into a digital signal.",
+            "the addition of information onto a radio wave during transmission.",
+            "the amplification of the received radio wave in the detector.",
+            "the separation of information from a radio wave during receiving."
+        ],
+        "true": "the addition of information onto a radio wave during transmission.",
+        "annex": null
+    },
+    {
+        "question": "Modulation is:",
+        "options": [
+            "the addition of a high frequency signal (tone, voice) onto a low frequency carrier wave.",
+            "the elimination of disturbances for improving the reception.",
+            "the tuning of the receiver in to the frequency of the transmitter.",
+            "the addition of a low frequency signal (tone, voice) onto a high frequency carrier wave."
+        ],
+        "true": "the addition of a low frequency signal (tone, voice) onto a high frequency carrier wave.",
+        "annex": null
+    },
+    {
+        "question": "Modulation is",
+        "options": [
+            "the process to provide a radio carrier wave for transmission.",
+            "to allow the signal to be amplified to the required power level.",
+            "the process of impressing and transporting information by radio waves.",
+            "a continuous wave which is capable of carrying audible signals without modification."
+        ],
+        "true": "the process of impressing and transporting information by radio waves.",
+        "annex": null
+    },
+    {
+        "question": "The function of the antenna in a radio communication system is to…",
+        "options": [
+            "prevent the receiver from demodulating background noise.",
+            "act as a transducer between free-space propagation and transmission line propagation.",
+            "separate the baseband signal from the carrier wave signal.",
+            "split the electromagnetic field into separate E (Electric) and H (Magnetic) waves for transmission."
+        ],
+        "true": "act as a transducer between free-space propagation and transmission line propagation.",
+        "annex": null
+    },
+    {
+        "question": "What type of antenna is used in a modern Airborne Weather Radar?",
+        "options": [
+            "Dipole",
+            "omnidirectional antenna",
+            "Slotted planar antenna",
+            "Loop antenna"
+        ],
+        "true": "Slotted planar antenna",
+        "annex": null
+    },
+    {
+        "question": "When raising the frequency of an electromagnetic wave, the:",
+        "options": [
+            "wavelength decreases",
+            "wavelength remains the same",
+            "wavelength and amplitude increases",
+            "wavelength increases"
+        ],
+        "true": "wavelength decreases",
+        "annex": null
+    },
+    {
+        "question": "What is required to enable an antenna to transmit an electromagnetic wave?",
+        "options": [
+            "The antenna has to be fed with an alternating current of high frequency.",
+            "The antenna has to be fed with a direct current.",
+            "The length of the antenna has to be equal to the wavelength of the electromagnetic wave.",
+            "The antenna has to be mounted perpendicular to the ground."
+        ],
+        "true": "The antenna has to be fed with an alternating current of high frequency.",
+        "annex": null
+    },
+    {
+        "question": "Under what conditions can VHF voice communications often suffer interference from transmissions on the same frequency at a distance considerably greater than line-of-sight?",
+        "options": [
+            "A temperature inversion in the lower atmosphere can cause ‘super-refraction’.",
+            "The signal may be refracted as a surface wave over a large expanse of water.",
+            "The signal may be refracted from the ionosphere at night.",
+            "The signal may be refracted from mountains between the transmitter and receiver."
+        ],
+        "true": "A temperature inversion in the lower atmosphere can cause ‘super-refraction’.",
+        "annex": null
+    },
+    {
+        "question": "The frequency which corresponds to a wavelength of 12 cm is:",
+        "options": [
+            "2500 kHz.",
+            "2500 MHz.",
+            "3600 MHz.",
+            "360 MHz."
+        ],
+        "true": "2500 MHz.",
+        "annex": null
+    },
+    {
+        "question": "The frequency of a VOR is 117.5 MHz. What is the corresponding wavelength?",
+        "options": [
+            "255 m",
+            "2.55 m",
+            "2550 m",
+            "25.5 m"
+        ],
+        "true": "2.55 m",
+        "annex": null
+    },
+    {
+        "question": "The frequency of an NDB is 427 kHz.What is the corresponding wavelength?",
+        "options": [
+            "70.25 m",
+            "7025 m",
+            "702.5 cm",
+            "702.5 m"
+        ],
+        "true": "702.5 m",
+        "annex": null
+    },
+    {
+        "question": "Refer to the annex. Which physical effects affecting wave propagation are shown in the figure below?",
+        "options": [
+            "A = reflection B = polarisation C = refraction",
+            "A = refraction B = absorption C = reflection",
+            "A = refraction B = scattering C = diffraction",
+            "A = absorption B = damping C = reflection"
+        ],
+        "true": "A = refraction B = absorption C = reflection",
+        "annex": "621111"
+    },
+    {
+        "question": "Refer to the image. The kinds of wave propagation marked as A and C in the figure below are examples of:",
+        "options": [
+            "A = refraction, C = reflection",
+            "A = diffraction, C = refraction",
+            "A = reflection, C = absorption",
+            "A = damping, C = interference"
+        ],
+        "true": "A = refraction, C = reflection",
+        "annex": "621112"
+    },
+    {
+        "question": "Which failure in radio navigation is connected with Fading?",
+        "options": [
+            "Mountain Effect",
+            "Static Discharge",
+            "Shoreline/coastal Effect",
+            "Twilight/night Effect"
+        ],
+        "true": "Twilight/night Effect",
+        "annex": null
+    },
+    {
+        "question": "Describe the propagation of VHF radio waves:",
+        "options": [
+            "During daytime as ground waves at night as sky waves",
+            "By line of sight propagation",
+            "During day and night time as ground waves",
+            "During night time as ground waves and during the day as sky waves"
+        ],
+        "true": "By line of sight propagation",
+        "annex": null
+    },
+    {
+        "question": "The phase angle of a wave is:",
+        "options": [
+            "The angle of the modulation on a wavelength expressed in degrees from 000° to 360°.",
+            "The deflection on a wave expressed in degrees from 000° to 360°.",
+            "The fraction of one wavelength expressed in degrees from 000° to 360°.",
+            "The position of a modulation on a wavelength expressed in degrees from 000° to 360°."
+        ],
+        "true": "The fraction of one wavelength expressed in degrees from 000° to 360°.",
+        "annex": null
+    },
+    {
+        "question": "The amplitude of a wave or oscillation is:",
+        "options": [
+            "Its maximum deflection.",
+            "The information impressed onto the carrier wave.",
+            "Its maximum length.",
+            "Speed of light divided by frequency."
+        ],
+        "true": "Its maximum deflection.",
+        "annex": null
+    },
+    {
+        "question": "What is the frequency of a radio wave with a wavelength of 3 km?",
+        "options": [
+            "300 MHz",
+            "100 MHz",
+            "300 kHz",
+            "100 kHz"
+        ],
+        "true": "100 kHz",
+        "annex": null
+    },
+    {
+        "question": "What is the frequency of a radio wave with a wavelength of 8.25 m?",
+        "options": [
+            "2.48 MHz",
+            "36.4 kHz",
+            "24.8 kHz",
+            "36.4 MHz"
+        ],
+        "true": "36.4 MHz",
+        "annex": null
+    },
+    {
+        "question": "What is the frequency of a radio wave with a wavelength of 2.54 m?",
+        "options": [
+            "1181 kHz",
+            "1,181 GHz",
+            "118.1 MHz",
+            "118.1 kHz"
+        ],
+        "true": "118.1 MHz",
+        "annex": null
+    },
+    {
+        "question": "The D-layer and E-layer of the atmosphere are part of the:",
+        "options": [
+            "stratosphere",
+            "ionosphere",
+            "tropopause",
+            "troposphere"
+        ],
+        "true": "ionosphere",
+        "annex": null
+    },
+    {
+        "question": "The wavelength of a wave with a frequency of 400 kHz is:",
+        "options": [
+            "750 m",
+            "75 m",
+            "7 500 m",
+            "750 cm"
+        ],
+        "true": "750 m",
+        "annex": null
+    },
+    {
+        "question": "The wavelength of a Non-Directional Beacon (NDB) with a frequency of 300 kHz is...",
+        "options": [
+            "100 metres",
+            "1000 metres",
+            "10 metres",
+            "1 metre"
+        ],
+        "true": "1000 metres",
+        "annex": null
+    },
+    {
+        "question": "\"Polarisation\" describes the...",
+        "options": [
+            "orientation of the plane of oscillation of the magnetic component of the electromagnetic wave.",
+            "rotation of the antenna around a fixed axis",
+            "orientation of the plane of oscillation of the electrical component of the electromagnetic wave.",
+            "orientation of the antenna to the North Pole."
+        ],
+        "true": "orientation of the plane of oscillation of the electrical component of the electromagnetic wave.",
+        "annex": null
+    }
+]

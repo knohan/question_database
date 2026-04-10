@@ -1,0 +1,1707 @@
+[
+    {
+        "question": "Which approximate wavelength is used for most airborne weather radar systems?",
+        "options": [
+            "3 cm",
+            "9 cm",
+            "23 cm",
+            "11 mm"
+        ],
+        "true": "3 cm",
+        "annex": null
+    },
+    {
+        "question": "Complete the following statement.  Aircraft Surface Movement Radar operates on frequencies in the (i) .......... Band employing an antenna that rotates at approximately (ii) .......... Revolutions per minute; it is (iii) ......... Possible to determine the type of aircraft from the return on the radar screen.",
+        "options": [
+            "(i) EHF     (ii) 100     (iii) never",
+            "(i) EHF    (ii) 30       (iii) never",
+            "(i) SHF     (ii) 60       (iii) sometimes",
+            "(i) SHF    (ii) 10      (iii) always"
+        ],
+        "true": "(i) SHF     (ii) 60       (iii) sometimes",
+        "annex": null
+    },
+    {
+        "question": "In a primary pulse radar you have:",
+        "options": [
+            "A directional aerial for both transmission and reception",
+            "An omni-directional aerial for transmission and directional aerial for reception",
+            "A directional aerial for transmission and another one for reception",
+            "A directional aerial for transmission and an omni-directional aerial for reception"
+        ],
+        "true": "A directional aerial for both transmission and reception",
+        "annex": null
+    },
+    {
+        "question": "A radio altimeter employing a continuous wave signal would have:",
+        "options": [
+            "An omni-directional aerial for transmission and directional aerial for reception",
+            "A directional aerial for transmission and an omni-directional aerial for reception",
+            "A directional aerial for both transmission and reception",
+            "A directional aerial for transmission and another one for reception"
+        ],
+        "true": "A directional aerial for transmission and another one for reception",
+        "annex": null
+    },
+    {
+        "question": "A primary radar operates on the principle of…",
+        "options": [
+            "pulse technique.",
+            "continuous wave transmission.",
+            "phase comparison.",
+            "transponder interrogation."
+        ],
+        "true": "pulse technique.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following types of radar systems are most suited for short range operation?",
+        "options": [
+            "Primary continuous wave",
+            "Millimetric pulse",
+            "Centimetric pulse",
+            "Secondary continuous wave"
+        ],
+        "true": "Primary continuous wave",
+        "annex": null
+    },
+    {
+        "question": "Which one of the following statements is correct concerning the use in primary radar of continuous wave transmissions as compared with pulse transmissions?",
+        "options": [
+            "It is less effective in short range radars but more effective in long range radars",
+            "The equipment required is more complex in continuous wave radar but this is offset by greater reliability and accuracy",
+            "It eliminates the minimum target reception range",
+            "A smaller common transmitter and receiver aerial can be used"
+        ],
+        "true": "It eliminates the minimum target reception range",
+        "annex": null
+    },
+    {
+        "question": "Assuming sufficient transmission power, what is the maximum range of a ground radar with a pulse repetition frequency of 450 pulses per second, given that the velocity of light is 300 000 km/s?",
+        "options": [
+            "150 km",
+            "333 km",
+            "666 km",
+            "1333 km"
+        ],
+        "true": "333 km",
+        "annex": null
+    },
+    {
+        "question": "A radar facility transmitting at a Pulse Recurrence Frequency (PRF) of 1200 pulses/second will have a maximum unambiguous range of approximately…",
+        "options": [
+            "270 NM.",
+            "135 NM.",
+            "27 NM.",
+            "67 NM."
+        ],
+        "true": "67 NM.",
+        "annex": null
+    },
+    {
+        "question": "The main factor which determines the minimum range that can be measured by a pulsed radar is…",
+        "options": [
+            "pulse length.",
+            "pulse frequency.",
+            "pulse amplitude.",
+            "pulse repetition rate."
+        ],
+        "true": "pulse length.",
+        "annex": null
+    },
+    {
+        "question": "Ignoring pulse length, the maximum pulse repetition frequency (PRF) that can be used by a primary radar facility to detect targets unambiguously to a range of 200 NM is…(pps = pulses per second)",
+        "options": [
+            "405 pps.",
+            "810 pps.",
+            "308 pps.",
+            "782 pps."
+        ],
+        "true": "405 pps.",
+        "annex": null
+    },
+    {
+        "question": "The maximum pulse repetition frequency (PRF) that can be used by a primary radar facility in order to detect targets unambiguously at a range of 50 NM is…(pps = pulses per second)",
+        "options": [
+            "610 pps.",
+            "713 pps.",
+            "1620 pps.",
+            "3240 pps."
+        ],
+        "true": "1620 pps.",
+        "annex": null
+    },
+    {
+        "question": "Disregarding pulse length and fly-back, what is the Pulse Repetition Frequency(PRF) of a radar designed to have a maximum unambiguous range of 50 km?",
+        "options": [
+            "6000 pulses per second.",
+            "3000 pulses per second.",
+            "167 pulses per second.",
+            "330 pulses per second."
+        ],
+        "true": "3000 pulses per second.",
+        "annex": null
+    },
+    {
+        "question": "Which combination of characteristics gives best screen picture in a primary search radar?",
+        "options": [
+            "Short pulse length and wide beam",
+            "Long pulse length and wide beam",
+            "Short pulse length and narrow beam",
+            "Long pulse length and narrow beam"
+        ],
+        "true": "Short pulse length and narrow beam",
+        "annex": null
+    },
+    {
+        "question": "The minimum range of a primary radar, using the pulse technique, is determined by the (i)........ ; the maximum unambiguous range by the (ii).........",
+        "options": [
+            "pulse length (ii) length of the timebase",
+            "transmission frequency (ii) transmitter power output",
+            "transmission frequency (ii) pulse repetition frequency",
+            "pulse length (ii) pulse repetition frequency"
+        ],
+        "true": "pulse length (ii) pulse repetition frequency",
+        "annex": null
+    },
+    {
+        "question": "A ground radar transmitting at a PRF of 1200 pulses/second will have a maximum unambiguous range of approximately…",
+        "options": [
+            "270 NM.",
+            "135 NM.",
+            "67 NM.",
+            "27 NM."
+        ],
+        "true": "67 NM.",
+        "annex": null
+    },
+    {
+        "question": "The maximum range of primary radar depends on…",
+        "options": [
+            "pulse length.",
+            "wave length.",
+            "frequency.",
+            "pulse repetition frequency."
+        ],
+        "true": "pulse repetition frequency.",
+        "annex": null
+    },
+    {
+        "question": "To double the effective range of a primary radar, the power output must be increased by a factor of…",
+        "options": [
+            "8.",
+            "4.",
+            "16",
+            "2."
+        ],
+        "true": "16",
+        "annex": null
+    },
+    {
+        "question": "The prime factor in determining the maximum unambiguous range of a primary radar is the…",
+        "options": [
+            "power output.",
+            "size of the parabolic receiver aerial.",
+            "height of the transmitter above the ground.",
+            "pulse repetition frequency."
+        ],
+        "true": "pulse repetition frequency.",
+        "annex": null
+    },
+    {
+        "question": "In relation to primary radar, what does the term Pulse Recurrence Frequency signify?",
+        "options": [
+            "The radar frequency used.",
+            "The time between each transmission of pulses.",
+            "The number of pulses transmitted per second.",
+            "The number of revolutions performed by the radar antenna per minute."
+        ],
+        "true": "The number of pulses transmitted per second.",
+        "annex": null
+    },
+    {
+        "question": "The maximum range obtainable from an ATC en route surveillance radar is approximately…",
+        "options": [
+            "100 to 200 NM.",
+            "200 to 300 NM.",
+            "300 to 400 NM.",
+            "50 to 100 NM."
+        ],
+        "true": "200 to 300 NM.",
+        "annex": null
+    },
+    {
+        "question": "In relation to radar systems that use pulse technology, the term ‘Pulse Recurrence Frequency (PRF)’ signifies the…",
+        "options": [
+            "delay after which the process re-starts.",
+            "ratio of pulse period to pulse width.",
+            "number of pulses per second.",
+            "number of cycles per second."
+        ],
+        "true": "number of pulses per second.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following equipment uses primary radar principles?",
+        "options": [
+            "Global Positioning System (GPS)",
+            "Airborne weather radar (AWR)",
+            "Secondary Surveillance Radar (SSR)",
+            "Distance Measuring Equipment (DME)"
+        ],
+        "true": "Airborne weather radar (AWR)",
+        "annex": null
+    },
+    {
+        "question": "The theoretical maximum range for an Airborne Weather Radar is determined by the…",
+        "options": [
+            "beam width.",
+            "carrier wave frequency.",
+            "pulse length.",
+            "pulse repetition frequency."
+        ],
+        "true": "pulse repetition frequency.",
+        "annex": null
+    },
+    {
+        "question": "In a primary radar using pulse technique, pulse length determines…",
+        "options": [
+            "beam width.",
+            "minimum theoretical range.",
+            "maximum theoretical range.",
+            "bearing resolution."
+        ],
+        "true": "minimum theoretical range.",
+        "annex": null
+    },
+    {
+        "question": "In a primary radar using pulse technique, pulse repetition frequency determines…",
+        "options": [
+            "maximum theoretical range.",
+            "target discrimination.",
+            "minimum range.",
+            "beam width."
+        ],
+        "true": "maximum theoretical range.",
+        "annex": null
+    },
+    {
+        "question": "In a primary radar using pulse technique, the ability to discriminate between targets in azimuth is a factor of…",
+        "options": [
+            "beam width.",
+            "pulse length.",
+            "pulse recurrence rate.",
+            "aerial rotation rate."
+        ],
+        "true": "beam width.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following types of radar equipment operate by means of the pulse technique?1. Aerodrome Surface Movement Radar2. Airborne Weather Radar3. Secondary Surveillance Radar (SSR)4. Aerodrome Surveillance -approach- Radar",
+        "options": [
+            "2, 3 and 4 only",
+            "2 and 4 only",
+            "1, 2, 3 and 4",
+            "1, 2 and 4 only"
+        ],
+        "true": "1, 2, 3 and 4",
+        "annex": null
+    },
+    {
+        "question": "Which type of radar gives an indication of the shape and, to some extent, the type of aircraft producing a return?",
+        "options": [
+            "Aerodrome Surface Movement Radar (ASMR)",
+            "Airborne Weather Radar (AWR)",
+            "Aerodrome Surveillance Radar",
+            "Secondary Surveillance Radar (SSR)"
+        ],
+        "true": "Aerodrome Surface Movement Radar (ASMR)",
+        "annex": null
+    },
+    {
+        "question": "When an operator increases the range on a radar-display, in general,",
+        "options": [
+            "both the PRF and the pulse length increase.",
+            "both the PRF and the pulse length decrease.",
+            "the PRF becomes lower and the pulse length larger.",
+            "the PRF becomes higher and the pulse length smaller."
+        ],
+        "true": "the PRF becomes lower and the pulse length larger.",
+        "annex": null
+    },
+    {
+        "question": "What information may be displayed on an ATC radar screen connected only to a primary radar system?",
+        "options": [
+            "Aircraft position, SSR code and altitude.",
+            "Aircraft altitude.",
+            "Aircraft position only.",
+            "Aircraft position and SSR code."
+        ],
+        "true": "Aircraft position only.",
+        "annex": null
+    },
+    {
+        "question": "Echoes that do not change in distance from the antenna (relative speed zero) of a ground radar with a Moving Target Indicator (MTI) are dangerous for the following reason",
+        "options": [
+            "The frequency of the transmitted radar signals changes too much by the Doppler effect.",
+            "The radar is not able to display two echoes moving in the same direction.",
+            "The moving target indicator (MTI) eliminates such echoes.",
+            "The MTI does not recognise this as a moving object due to the blind speed"
+        ],
+        "true": "The moving target indicator (MTI) eliminates such echoes.",
+        "annex": null
+    },
+    {
+        "question": "What type of beam is used by Airborne Weather Radar in weather mode?",
+        "options": [
+            "3 – 5º Pencil beam",
+            "85º Fan-shaped beam",
+            "85º Pencil beam",
+            "3º Fan-shaped beam"
+        ],
+        "true": "3 – 5º Pencil beam",
+        "annex": null
+    },
+    {
+        "question": "Airborne weather radar systems use a wavelength of approximately 3 cm in order to…",
+        "options": [
+            "obtain optimum use of the cosecant squared beam.",
+            "detect larger water droplets.",
+            "detect small as well as large cloud formations.",
+            "transmit at a higher pulse repetition frequency for extended range."
+        ],
+        "true": "detect larger water droplets.",
+        "annex": null
+    },
+    {
+        "question": "In the MAPPING MODE the airborne weather radar utilises a:",
+        "options": [
+            "Pencil beam to a maximum range of 60 NM",
+            "Pencil beam effective from zero to 150 NM",
+            "Fan shaped beam effective up to a maximum of 50 NM to 60 NM",
+            "Fan shaped beam effective up to a range of 150 NM"
+        ],
+        "true": "Fan shaped beam effective up to a maximum of 50 NM to 60 NM",
+        "annex": null
+    },
+    {
+        "question": "A frequency of 10 GHz is considered to be the optimum for use in an airborne weather radar system because…",
+        "options": [
+            "static interference is minimised.",
+            "greater detail can be obtained at more distant ranges for smaller water droplets.",
+            "it enables the weather radar to detect clear air turbulence",
+            "larger water droplets give more distinct echoes."
+        ],
+        "true": "larger water droplets give more distinct echoes.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following is a complete list of airborne weather radar antenna stabilisation axes?",
+        "options": [
+            "roll and pitch",
+            "roll, pitch and yaw",
+            "pitch and yaw",
+            "roll and yaw"
+        ],
+        "true": "roll and pitch",
+        "annex": null
+    },
+    {
+        "question": "In which mode of operation does the aircraft weather radar  use a cosecant radiation pattern?",
+        "options": [
+            "MAPPING",
+            "MANUAL",
+            "WEATHER",
+            "CONTOUR"
+        ],
+        "true": "MAPPING",
+        "annex": null
+    },
+    {
+        "question": "The frequency of airborne weather radar is…",
+        "options": [
+            "9375 kHz.",
+            "93.75 MHz.",
+            "9375 MHz.",
+            "9375 GHz."
+        ],
+        "true": "9375 MHz.",
+        "annex": null
+    },
+    {
+        "question": "In weather radar the use of a cosecant beam in 'Mapping' mode enables:",
+        "options": [
+            "A greater radar range to be achieved",
+            "Scanning of a large ground zone producing echos whose signals are practically independent of distance",
+            "Higher definition echoes to be produced giving a clearer picture",
+            "Better reception of echos on contrasting terrain such as ground to sea"
+        ],
+        "true": "Scanning of a large ground zone producing echos whose signals are practically independent of distance",
+        "annex": null
+    },
+    {
+        "question": "In which frequency band do most airborne weather radars operate?",
+        "options": [
+            "EHF",
+            "VHF",
+            "UHF",
+            "SHF"
+        ],
+        "true": "SHF",
+        "annex": null
+    },
+    {
+        "question": "The main factors that determine cloud detection by airborne weather radar are the…",
+        "options": [
+            "size of the water drops and diameter of the radar scanner.",
+            "range from cloud, wavelength and frequency used.",
+            "size of the water drops, wavelength and frequency used.",
+            "rotational speed of the radar scanner and range from cloud."
+        ],
+        "true": "size of the water drops, wavelength and frequency used.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following phenomena is least likely to be detected by radar?",
+        "options": [
+            "Precipitation",
+            "Clear air turbulence",
+            "Wet snow and turbulence in cloud that has precipitation",
+            "Turbulence in cloud that has precipitation"
+        ],
+        "true": "Clear air turbulence",
+        "annex": null
+    },
+    {
+        "question": "Airborne weather radars are generally based on the use of…",
+        "options": [
+            "secondary radar in the VHF band.",
+            "secondary radar in the SHF band.",
+            "primary radar in the SHF band.",
+            "primary radar in the UHF band."
+        ],
+        "true": "primary radar in the SHF band.",
+        "annex": null
+    },
+    {
+        "question": "Which statement relating to the stabilization of airborne weather radar antennae is true?",
+        "options": [
+            "The pilot can choose the axes of stabilization with the system’s stabilization selector switch.",
+            "They are stabilized with respect to the pitch, roll, and yaw-axis.",
+            "They are stabilized with respect to the pitch and roll axis but not with respect to the yaw-axis.",
+            "They are stabilized with respect to the yaw-axis, but not with respect to the pitch and roll axis."
+        ],
+        "true": "They are stabilized with respect to the pitch and roll axis but not with respect to the yaw-axis.",
+        "annex": null
+    },
+    {
+        "question": "Airborne Weather Radar has been primarily developed to detect",
+        "options": [
+            "the kinds of precipitation which are usually accompanied by turbulence.",
+            "areas of wind sheer and severe aircraft icing.",
+            "all kinds of frozen precipitation such as hail, snow and graupel.",
+            "areas of severe clear air turbulence."
+        ],
+        "true": "the kinds of precipitation which are usually accompanied by turbulence.",
+        "annex": null
+    },
+    {
+        "question": "The antennae of modern airborne weather radars are stabilized by means of:",
+        "options": [
+            "artificial gravity switches.",
+            "mercury switches.",
+            "inputs from the aircraft’s attitude system.",
+            "feedback from the antenna accelerometers."
+        ],
+        "true": "inputs from the aircraft’s attitude system.",
+        "annex": null
+    },
+    {
+        "question": "On an airborne weather radar display, the areas of greatest turbulence are usually indicated on the screen by…",
+        "options": [
+            "colour zones of red and magenta.",
+            "colour zones of green and yellow.",
+            "areas where no colour is shown.",
+            "colour zones of blue and orange."
+        ],
+        "true": "colour zones of red and magenta.",
+        "annex": null
+    },
+    {
+        "question": "In an Airborne Weather Radar that has a colour cathode display, increasing severity of rain and turbulence is generally shown by a change of colour from:",
+        "options": [
+            "yellow to amber to blue",
+            "yellow to orange to red",
+            "green to yellow to red",
+            "green to red to black"
+        ],
+        "true": "green to yellow to red",
+        "annex": null
+    },
+    {
+        "question": "In general the operation of airborne weather radar equipment on the ground is:",
+        "options": [
+            "Totally prohibited",
+            "Only permitted with certain precautions, to safeguard health of personnel and to protect equipment",
+            "Unrestrictedly permitted in aerodrome maintenance areas",
+            "Permitted anywhere"
+        ],
+        "true": "Only permitted with certain precautions, to safeguard health of personnel and to protect equipment",
+        "annex": null
+    },
+    {
+        "question": "A weather radar, set to the 100 NM scale, shows a squall between 40 NM and 50 NM.By changing the scale to 50 NM, the return on the radar screen should…",
+        "options": [
+            "decrease in area but not change in position on the screen.",
+            "decrease in area and move to the top of the screen.",
+            "increase in area and move to the top of the screen.",
+            "increase in area and appear nearer to the bottom of the screen."
+        ],
+        "true": "increase in area and move to the top of the screen.",
+        "annex": null
+    },
+    {
+        "question": "The pencil shaped beam of airborne weather radar is used in preference to the mapping mode for the determination of ground features:",
+        "options": [
+            "Beyond 150 NM because the wider beam gives better definition",
+            "Beyond 50 to 60 NM because more power can be concentrated in the narrower beam",
+            "When approaching coast-lines in polar regions",
+            "Beyond 100 NM because insufficient antenna tilt angle is available with the mapping mode"
+        ],
+        "true": "Beyond 50 to 60 NM because more power can be concentrated in the narrower beam",
+        "annex": null
+    },
+    {
+        "question": "In order to ascertain whether a cloud return on an Aircraft Weather Radar (AWR) is at or above the height of the aircraft, the tilt control should be set to: (Assume a beam width of 5°)",
+        "options": [
+            "0°",
+            "5° up",
+            "2.5° down",
+            "2.5° up"
+        ],
+        "true": "2.5° up",
+        "annex": null
+    },
+    {
+        "question": "Which of the following is correct concerning the setting of tilt angle on a weather radar when it is being used to determine the presence of weather at, or above, your current altitude?",
+        "options": [
+            "The tilt angle should be lower when the range is increased",
+            "The tilt angle should be lower when the aircraft is climbing",
+            "The tilt angle should be higher when the aircraft is climbing",
+            "The tilt angle should be higher when the range is increased"
+        ],
+        "true": "The tilt angle should be lower when the aircraft is climbing",
+        "annex": null
+    },
+    {
+        "question": "The gain control knob of an AWR adjusts the…",
+        "options": [
+            "automatic gain control of the AWR is activated.",
+            "receiver sensitivity in order to achieve optimum target acquisition.",
+            "brightness of the display.",
+            "power level of the transmitted energy is made dependent on the selected range."
+        ],
+        "true": "receiver sensitivity in order to achieve optimum target acquisition.",
+        "annex": null
+    },
+    {
+        "question": "Refer to image The Magnetic Heading of an aircraft is 040°. On the Airborne Weather Radar display the relative bearing of and the distance to the most southerly part of Lands End (approximate position: 50°03'N , 005°40'W) are, 030°R and 80 NM. What is the position of the aircraft based on these observations? The slant range correction and the map convergency between aircraft position and Lands End may be neglected.",
+        "options": [
+            "(49°25'N , 007°30'W)",
+            "(49°35'N , 007°36'W)",
+            "(48°50'N , 006°22'W)",
+            "(49°45'N , 007°42'W)"
+        ],
+        "true": "(49°25'N , 007°30'W)",
+        "annex": "062-600097"
+    },
+    {
+        "question": "What cloud type is most easily detected by airborne weather radar?",
+        "options": [
+            "Altostratus",
+            "Stratus",
+            "Cirrocumulus",
+            "Cumulonimbus"
+        ],
+        "true": "Cumulonimbus",
+        "annex": null
+    },
+    {
+        "question": "Which of the following lists the phenomena least likely to be detected by radar?",
+        "options": [
+            "Wet snow and turbulence in cloud that has precipitation",
+            "Clear air turbulence",
+            "Precipitation",
+            "Turbulence in cloud that has precipitation"
+        ],
+        "true": "Clear air turbulence",
+        "annex": null
+    },
+    {
+        "question": "The heaviest turbulence is likely to be encountered…",
+        "options": [
+            "where the area of heaviest precipitation is closest to the edge of the thunderstorm cell.",
+            "in the very core of a thunderstorm cell.",
+            "about halfway between two thunderstorm cells.",
+            "in the area of heaviest precipitation, usually at the core of the thunderstorm cell."
+        ],
+        "true": "where the area of heaviest precipitation is closest to the edge of the thunderstorm cell.",
+        "annex": null
+    },
+    {
+        "question": "When using airborne weather radar in the mapping mode in polar areas one runs the risk of…",
+        "options": [
+            "mistaking the edge of coastal ice off shore for the real coastline.",
+            "underestimating distances because the cold seawater is causing super-refraction.",
+            "getting a distorted picture because of ice reflection.",
+            "aurora borealis -polar light- causing false returns."
+        ],
+        "true": "mistaking the edge of coastal ice off shore for the real coastline.",
+        "annex": null
+    },
+    {
+        "question": "Refer to the annex.  The pictures  show an aircraft’s position in relation to thunderstorm cells, and the image of the pilot’s radar. To detect the blind alley the pilot should…",
+        "options": [
+            "select the cosecant square beam for better alley detection.",
+            "switch over from normal to weather mode.",
+            "increase the range setting of the radar.",
+            "initiate a steep climb."
+        ],
+        "true": "increase the range setting of the radar.",
+        "annex": "062-600164"
+    },
+    {
+        "question": "The selection of code 2000 on an aircraft SSR transponder indicates:",
+        "options": [
+            "Unlawful interference with the planned operation of the flight",
+            "Transponder malfunction",
+            "Entry into airspace from an area where SSR operation has not been required",
+            "An emergency"
+        ],
+        "true": "Entry into airspace from an area where SSR operation has not been required",
+        "annex": null
+    },
+    {
+        "question": "Which of the following Secondary Surveillance Radar (SSR) codes is used to indicate transponder malfunction?",
+        "options": [
+            "7600",
+            "0000",
+            "4096",
+            "9999"
+        ],
+        "true": "0000",
+        "annex": null
+    },
+    {
+        "question": "Which one of the following Secondary Surveillance Radar (SSR) codes should be used by aircraft entering airspace from an area where SSR operation has not been required?",
+        "options": [
+            "5000",
+            "2000",
+            "7000",
+            "0000"
+        ],
+        "true": "2000",
+        "annex": null
+    },
+    {
+        "question": "A TCAS II equiped aircraft will have Mode S because:",
+        "options": [
+            "The datalink is required to co-ordinate evasive manoeuvres.",
+            "Mode S transmits a 3D position.",
+            "True altitude is obtained from Mode S.",
+            "The data link is required to transmit relative position."
+        ],
+        "true": "The datalink is required to co-ordinate evasive manoeuvres.",
+        "annex": null
+    },
+    {
+        "question": "Why is a secondary radar display screen free of storm clutter?",
+        "options": [
+            "The frequencies used are too low to give returns from moisture sources.",
+            "A moving target indicator facility suppresses the display of static or near-static returns.",
+            "Echo returns are not used in secondary radar.",
+            "The frequencies used are too high to give returns from moisture sources."
+        ],
+        "true": "Echo returns are not used in secondary radar.",
+        "annex": null
+    },
+    {
+        "question": "Which one of the following is an advantage of a secondary radar system when compared to a primary radar system?",
+        "options": [
+            "The relatively small ground antenna transmits no side lobes, thus eliminating the danger of false replies from the airborne transponder.",
+            "Possibility of obtaining speed information for aircraft within range.",
+            "Is not limited to line of sight.",
+            "The required power of transmission from the ground equipment is reduced."
+        ],
+        "true": "The required power of transmission from the ground equipment is reduced.",
+        "annex": null
+    },
+    {
+        "question": "What additional information is transmitted when Mode C is selected on the aircraft’s SSR transponder?",
+        "options": [
+            "Altitude based on regional QNH.",
+            "Pressure altitude based on 1013.25 hPa.",
+            "Aircraft height based on sub-scale setting.",
+            "Height based on QFE."
+        ],
+        "true": "Pressure altitude based on 1013.25 hPa.",
+        "annex": null
+    },
+    {
+        "question": "Ground Secondary Surveillance Radar (SSR) equipment incorporates a transmitter and receiver that operate in the following frequencies:",
+        "options": [
+            "transmits on 1030 MHz and receives on 1090 MHz.",
+            "transmits on 1090 MHz and receives on 1030 MHz.",
+            "transmits and receives on 1090 MHz.",
+            "transmits and receives on 1030 MHz."
+        ],
+        "true": "transmits on 1030 MHz and receives on 1090 MHz.",
+        "annex": null
+    },
+    {
+        "question": "The frequency of an SSR ground transmission is…",
+        "options": [
+            "1030 MHz.",
+            "1050 MHz.",
+            "1090 MHz.",
+            "1120 MHz."
+        ],
+        "true": "1030 MHz.",
+        "annex": null
+    },
+    {
+        "question": "The ATC transponder system, excluding Mode S, contains :",
+        "options": [
+            "Four modes, each 4096 codes",
+            "Two modes, each 4096 codes",
+            "Two modes, each 1024 codes",
+            "Four modes, each 1024 codes"
+        ],
+        "true": "Two modes, each 4096 codes",
+        "annex": null
+    },
+    {
+        "question": "A secondary radar can provide up to 4096 different codes. These 4096 codes can be used in:",
+        "options": [
+            "All modes",
+            "Mode A only",
+            "Mode S",
+            "Mode C only"
+        ],
+        "true": "All modes",
+        "annex": null
+    },
+    {
+        "question": "The code transmitted by a SSR transponder consists of…",
+        "options": [
+            "pulses.",
+            "amplitude differences.",
+            "frequency differences.",
+            "phase differences."
+        ],
+        "true": "pulses.",
+        "annex": null
+    },
+    {
+        "question": "What is the maximum number of Secondary Surveillance Radar (SSR) transponder codes in Mode A?",
+        "options": [
+            "1000",
+            "4096",
+            "3600",
+            "760"
+        ],
+        "true": "4096",
+        "annex": null
+    },
+    {
+        "question": "What equipment works on the interrogator/transponder principle?",
+        "options": [
+            "Aerodrome Surface Movement Radar",
+            "Global Positioning System (GPS)",
+            "Airborne Weather Radar (AWR)",
+            "Secondary Surveillance Radar (SSR)"
+        ],
+        "true": "Secondary Surveillance Radar (SSR)",
+        "annex": null
+    },
+    {
+        "question": "How does a Mode S interrogator identify aircraft?",
+        "options": [
+            "The four letter SELCAL code",
+            "An eight bit identifier, which gives 212 unique combinations",
+            "A 24 bit identifier, giving over 16 million combinations",
+            "The P3 pulse"
+        ],
+        "true": "A 24 bit identifier, giving over 16 million combinations",
+        "annex": null
+    },
+    {
+        "question": "Which statement with respect to interrogation modes is correct?",
+        "options": [
+            "Mode S Selective will trigger replies of all mode S transponders. Mode A/C transponders are suppressed.",
+            "Intermode A/C/S all call and Intermode A/C only all call, differ in the pulse spacing used between the P1 and P3 pulse.",
+            "Mode S Broadcast will transmit information to all mode S transponders.",
+            "Mode S Only all-call will trigger transponder replies of all mode A/C/S transponders."
+        ],
+        "true": "Mode S Broadcast will transmit information to all mode S transponders.",
+        "annex": null
+    },
+    {
+        "question": "With mode-S each aircraft can be uniquely interrogated and identified by using the…",
+        "options": [
+            "Special Position Identification (SPI) pulse.",
+            "24-bits address code, giving more than 16 million possible codes.",
+            "twelve-pulse train, giving 212 possible codes.",
+            "long (30.25 msec) P3 pulse."
+        ],
+        "true": "24-bits address code, giving more than 16 million possible codes.",
+        "annex": null
+    },
+    {
+        "question": "Which statement is correct with respect to selections on the transponder control panel?",
+        "options": [
+            "The correct ICAO 24 bits aircraft address code must be inserted on the control panel.",
+            "With the selector knobs the four digits of the squawk can be selected using the decimal symbols 0 through 9.",
+            "With ALT selected a reply in the modes A, C and S can be transmitted.",
+            "With ON selected a reply in the modes A, C and S can be transmitted."
+        ],
+        "true": "With ALT selected a reply in the modes A, C and S can be transmitted.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following statements is correct about SSR?",
+        "options": [
+            "The selector knobs must be used to select digits 0 to 9 in order to squawk",
+            "The selector must be set to “ON” to transmit Mode C",
+            "The unique ICAO 24 bit identifier must be entered before  transmitting",
+            "The selector must be set to “ALT” to transmit Mode A,C and S"
+        ],
+        "true": "The selector must be set to “ALT” to transmit Mode A,C and S",
+        "annex": null
+    },
+    {
+        "question": "Which one of the following switch positions should be used when selecting a code on the Transponder?",
+        "options": [
+            "IDENT (Identification)",
+            "OFF",
+            "NORMAL",
+            "STBY (Standby)"
+        ],
+        "true": "STBY (Standby)",
+        "annex": null
+    },
+    {
+        "question": "To indicate radio failure, an aircraft SSR transponder must be set to…",
+        "options": [
+            "7500.",
+            "7700.",
+            "7000.",
+            "7600"
+        ],
+        "true": "7600",
+        "annex": null
+    },
+    {
+        "question": "In order to indicate unlawful interference with the operation of the flight, the aircraft SSR transponder must be set to…",
+        "options": [
+            "7000.",
+            "7600.",
+            "7700.",
+            "7500"
+        ],
+        "true": "7500",
+        "annex": null
+    },
+    {
+        "question": "The two main design functions of SSR Mode S are…",
+        "options": [
+            "collision avoidance using TCAS II and improved HF communication capability.",
+            "continuous automatic position reporting using GPS satellites and collision avoidance using TCAS II.",
+            "the elimination of ground to air communications and the introduction of automatic separation between aircraft using TCAS II.",
+            "air to ground and ground to air data link communications and improved ATC aircraft surveillance capability."
+        ],
+        "true": "air to ground and ground to air data link communications and improved ATC aircraft surveillance capability.",
+        "annex": null
+    },
+    {
+        "question": "When an aircraft is operating its Secondary Surveillance Radar in Mode C an air traffic controller’s presentation gives information regarding the aircraft’s indicated pressure altitude in increments of:",
+        "options": [
+            "150 ft",
+            "250 ft",
+            "200 ft",
+            "100 ft"
+        ],
+        "true": "100 ft",
+        "annex": null
+    },
+    {
+        "question": "In order to indicate an emergency situation, the aircraft SSR transponder must be set to…",
+        "options": [
+            "7700.",
+            "7000.",
+            "7600.",
+            "7500."
+        ],
+        "true": "7700.",
+        "annex": null
+    },
+    {
+        "question": "The selection of code 7500 on an aircraft SSR transponder indicates…",
+        "options": [
+            "an emergency.",
+            "radio communication failure.",
+            "unlawful interference with the operation of the flight.",
+            "a transponder malfunction."
+        ],
+        "true": "unlawful interference with the operation of the flight.",
+        "annex": null
+    },
+    {
+        "question": "The selection of code 7600 on an aircraft SSR transponder indicates…",
+        "options": [
+            "radio communication failure.",
+            "unlawful interference with the operation of the flight.",
+            "a transponder malfunction.",
+            "an emergency."
+        ],
+        "true": "radio communication failure.",
+        "annex": null
+    },
+    {
+        "question": "The selection of code 7700 on an aircraft SSR transponder indicates…",
+        "options": [
+            "radio communication failure.",
+            "an emergency.",
+            "a transponder malfunction.",
+            "unlawful interference with the operation of the flight."
+        ],
+        "true": "an emergency.",
+        "annex": null
+    },
+    {
+        "question": "Garbling in mode A and C may occur:",
+        "options": [
+            "with two or more aircraft in different directions from the ground station, at the same altitude and a slant range of less than 1.7 NM.",
+            "when two or more aircraft are in approximately the same direction from the ground station with a difference in slant range of more than 1.7 NM.",
+            "with two or more aircraft in different directions from the interrogator, at the same altitude and a slant range of more than 1.7 NM.",
+            "when two or more aircraft are in approximately the same direction from the interrogator with a difference in slant range of less than 1.7 NM."
+        ],
+        "true": "when two or more aircraft are in approximately the same direction from the interrogator with a difference in slant range of less than 1.7 NM.",
+        "annex": null
+    },
+    {
+        "question": "When switching on the weather radar, after start-up, a single very bright line appears on the screen. This means that the:",
+        "options": [
+            "Scanning of the cathode ray tube is faulty",
+            "Transmitter is faulty",
+            "Receiver is faulty",
+            "Scanner is not rotating"
+        ],
+        "true": "Scanning of the cathode ray tube is faulty",
+        "annex": null
+    },
+    {
+        "question": "A radar which employs an interrogator/transponder principle is:",
+        "options": [
+            "Primary Radar",
+            "Doppler Radar",
+            "Secondary Surveillance Radar",
+            "Continuous Wave Radar"
+        ],
+        "true": "Secondary Surveillance Radar",
+        "annex": null
+    },
+    {
+        "question": "The maximum range of a pulse radar is affected by:",
+        "options": [
+            "All of these",
+            "Pulse width",
+            "PRP",
+            "Transmission frequency"
+        ],
+        "true": "All of these",
+        "annex": null
+    },
+    {
+        "question": "The PRF of a primary pulse radar is\n500. Its maximum unambiguous range in NM is approximately:",
+        "options": [
+            "160 NM",
+            "600 NM",
+            "300 NM",
+            "320 NM"
+        ],
+        "true": "160 NM",
+        "annex": null
+    },
+    {
+        "question": "What beam is used in the mapping mode of an airborne weather radar that can utilise two different beam shapes?",
+        "options": [
+            "A pencil beam effective up to a maximum range of 60 NM.",
+            "A pencil beam effective up to a range of 150 NM.",
+            "A cosecant squared beam effective up to a maximum of 50 NM to 60 NM.",
+            "A cosecant squared beam effective up to a range of 150 NM."
+        ],
+        "true": "A cosecant squared beam effective up to a maximum of 50 NM to 60 NM.",
+        "annex": null
+    },
+    {
+        "question": "The allocation of 24-bit aircraft addresses is described in ICAO , it states that:",
+        "options": [
+            "Military aircraft will have been allocated with an ICAO Aircraft Address which is hard coded into the airframe",
+            "Civil aircraft will have been allocated with an ICAO Aircraft Address which is hard coded into the airframe",
+            "Every aircraft will have been allocated with a NATO Aircraft Address which is hard coded into the airframe",
+            "Every aircraft will have been allocated with an ICAO Aircraft Address which is hard coded into the airframe"
+        ],
+        "true": "Every aircraft will have been allocated with an ICAO Aircraft Address which is hard coded into the airframe",
+        "annex": "10"
+    },
+    {
+        "question": "Mode S - How does a ground interrogation signal (Mode A and C) get transmitted to a transponder?",
+        "options": [
+            "By using the long P4 pulse",
+            "In the form of pairs of pulses",
+            "In form of pairs of interrogative pulses with an additional control pulse",
+            "In the form of a series of pulses and a Special Position Identification (SPI) pulse"
+        ],
+        "true": "In form of pairs of interrogative pulses with an additional control pulse",
+        "annex": null
+    },
+    {
+        "question": "Which of the following weather returns displayed on an Airborne Weather Radar should be avoided?",
+        "options": [
+            "Columns, Anvils, Fingers",
+            "Fingers, Hooks, Scallops",
+            "Hooks, Pools, Iso-Echo",
+            "Pencils, Rods, Cones"
+        ],
+        "true": "Fingers, Hooks, Scallops",
+        "annex": null
+    },
+    {
+        "question": "Which of the folowing groups of shapes on an airborne weather radar display should be avoided?",
+        "options": [
+            "Cumulonimbus, TRS, Thunderstorms",
+            "Fingers, Hooks, Scallops",
+            "U-Bends, Fingers, Scallops",
+            "Fingers, Towering Cumulus, U-Shapes"
+        ],
+        "true": "Fingers, Hooks, Scallops",
+        "annex": null
+    },
+    {
+        "question": "A Mode S transponder receives among other pulses a long P4 pulse from an interrogator. What does this mean?",
+        "options": [
+            "The interrogator transmits a Mode A/C/S all call.",
+            "The interrogator transmits a Mode S only all call.",
+            "The interrogator transmits a Mode A only all call.",
+            "The interrogator transmits a Mode A/C only all call."
+        ],
+        "true": "The interrogator transmits a Mode A/C/S all call.",
+        "annex": null
+    },
+    {
+        "question": "What does it mean if a transponder receives a stronger P2 pulse than P1 pulse?",
+        "options": [
+            "a side lobe is being received",
+            "the P1 pulse is valid",
+            "a primary lobe is being received",
+            "the P1 pulse is valid and will be responded to"
+        ],
+        "true": "a side lobe is being received",
+        "annex": null
+    },
+    {
+        "question": "What is the advantage of a primary radar with MTI over one that is without.",
+        "options": [
+            "Doppler effect is used to determine aircraft true air speed",
+            "Ground clutter can be eliminated",
+            "Doppler effect is used to determine aircraft ground speed",
+            "Moving targets are eliminated"
+        ],
+        "true": "Ground clutter can be eliminated",
+        "annex": null
+    },
+    {
+        "question": "Regarding Airborne Weather Radar, which of the following statements is correct?",
+        "options": [
+            "Narrow colour bands indicate less severe weather",
+            "Areas of clear air turbulence can be detected.",
+            "Thunderstorms may not be visible behind other heavy showers.",
+            "It is safe to fly through a finger-like extension from the main radar return."
+        ],
+        "true": "Thunderstorms may not be visible behind other heavy showers.",
+        "annex": null
+    },
+    {
+        "question": "In what circumstances will an aircraft transponder receive a P2 pulse that is stronger than the P1 or P3 pulse?",
+        "options": [
+            "The ground station is requesting a mode \"C\" response.",
+            "The aircraft is out of range of the SSR ground transmitter.",
+            "The aircraft is located in the side lobe pulse zone.",
+            "The aircraft is located in the primary pulse zone."
+        ],
+        "true": "The aircraft is located in the side lobe pulse zone.",
+        "annex": null
+    },
+    {
+        "question": "In order to provide an Air Traffic Services (ATS) surveillance service, what minimum information must be provided to the controller on the surveillance system display?  Indication of position and also...",
+        "options": [
+            "level, speed, vertical speed, an overlay of the terrain, and (when available) the aircraft identification and destination",
+            "an overlay of the terrain, and the aircraft identification, speed, vertical speed, and level.",
+            "any map information needed to provide the surveillance service, aircraft speed, and (when available) the aircraft identification and level.",
+            "any map information needed to provide the surveillance service, and (when available) the aircraft identification and level."
+        ],
+        "true": "any map information needed to provide the surveillance service, and (when available) the aircraft identification and level.",
+        "annex": null
+    },
+    {
+        "question": "What is an advantage of an SSR with a ‘selective addressing mode’ over primary radar?",
+        "options": [
+            "It allows for unambiguous aircraft identification.",
+            "Its range is unrelated to its transmitting power.",
+            "It is independent from airborne-and space-based systems.",
+            "In case of a transponder malfunction, the SSR can be used as a primary radar."
+        ],
+        "true": "It allows for unambiguous aircraft identification.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following additional aircraft parameters can be downloaded by the Mode S transponder?",
+        "options": [
+            "Vertical rate, Track angle rate, True track angle",
+            "TAS, Pitch attitude, Magnetic track angle",
+            "Pitch angle, vertical rate, TAS",
+            "Vertical rate, selected heading, TAS"
+        ],
+        "true": "Vertical rate, Track angle rate, True track angle",
+        "annex": null
+    },
+    {
+        "question": "What is the accuracy of Mode S altitude reporting?",
+        "options": [
+            "50 feet",
+            "25 feet",
+            "100 feet",
+            "200 feet"
+        ],
+        "true": "25 feet",
+        "annex": null
+    },
+    {
+        "question": "With thunderstorms reported in the vicinity, when lining up on the runway what would you do with the weather radar?",
+        "options": [
+            "After scanning upwards to look for weather set the tilt a few degrees up",
+            "Turn the Ground clutter switch to off",
+            "Increase the gain to get a better image",
+            "Select map mode so get a wider coverage during the take-off period"
+        ],
+        "true": "After scanning upwards to look for weather set the tilt a few degrees up",
+        "annex": "620798"
+    },
+    {
+        "question": "Why should Airborne Weather Radar (AWR) systems be used with extreme caution when on the ground?",
+        "options": [
+            "The radar antenna can be easily damaged during ground-taxi manoeuvres (especially on uneven taxiways).",
+            "People could be exposed to Super High Frequency (SHF) radiation which, if absorbed in large enough amounts, can lead to tissue damage.",
+            "The intense returns from the ground and surrounding terrain will not allow accurate identification of potentially hazardous weather when lined up for departure.",
+            "The radar system may overheat and shut down due to the intensity of the returns from the ground, buildings, and surrounding terrain."
+        ],
+        "true": "People could be exposed to Super High Frequency (SHF) radiation which, if absorbed in large enough amounts, can lead to tissue damage.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following modes, which are selectable on the Mode Control Panel (MCP) / Flight Control Unit (FCU), provides a parameter that is downlinked from a Mode S Enhanced Surveillance (EHS) transponder?",
+        "options": [
+            "Selected Vertical Speed",
+            "Selected Course",
+            "Selected Altitude",
+            "Selected Heading"
+        ],
+        "true": "Selected Altitude",
+        "annex": null
+    },
+    {
+        "question": "Select three options that represent data that can be provided in an SSR response with EHS 1.Vertical rate 2.True heading 3.Magnetic heading 4.EAS 5.Groundspeed 6.Pitch attitude (Quadrant style originally)",
+        "options": [
+            "1, 3 & 5",
+            "1, 3 & 6",
+            "1, 2 & 5",
+            "3, 4 & 6"
+        ],
+        "true": "1, 3 & 5",
+        "annex": null
+    },
+    {
+        "question": "If the airborne weather radar system is fitted with an auto-tilt function, what does that mean?The radar antenna tilt is automatically adjusted…",
+        "options": [
+            "based on the altitude of the aircraft.",
+            "to tilt fully down when taxiing to reduce the possibility of injury to ground personnel.",
+            "based on the attitude of the aircraft.",
+            "to track the areas with the greatest intensity of precipitation."
+        ],
+        "true": "based on the altitude of the aircraft.",
+        "annex": null
+    },
+    {
+        "question": "How does the Airborne Weather Radar (AWR) detect wind shear?",
+        "options": [
+            "The aircraft’s groundspeed is measured in the MAP mode and this is compared to the airspeed.",
+            "The change in intensity of detectable precipitation is measured",
+            "The Doppler shift of particles of dust, sand, and soot is measured",
+            "The Doppler shift of detectable precipitation is measured"
+        ],
+        "true": "The Doppler shift of detectable precipitation is measured",
+        "annex": null
+    },
+    {
+        "question": "Why should weather radar be tilted down when looking for thunderstorms?",
+        "options": [
+            "Snow and dry hail is what is picked up on radar and this is mostly present at lower altiudes",
+            "Wet hail and rain is what is picked up on radar and this is mostly present at lower altiudes",
+            "to reduce ground clutter",
+            "to avoid returns from ice crystals in the cloud tops"
+        ],
+        "true": "Wet hail and rain is what is picked up on radar and this is mostly present at lower altiudes",
+        "annex": null
+    },
+    {
+        "question": "When using the AWR in the climb how should the scanner tilt be set?",
+        "options": [
+            "tilted so that the lower part of the radar beam is roughly parallel to the earth horizontal",
+            "tilt up",
+            "tilt down",
+            "zero tilt"
+        ],
+        "true": "tilt up",
+        "annex": null
+    },
+    {
+        "question": "Why should the tilt of an Airborne Weather Radar system (without auto tilt) be changed to a higher setting when descending over terrain?",
+        "options": [
+            "If the beam’s tilt remains at the setting used during cruise, the scanning range will be reduced and the strength of the reflected signals will be weaker.",
+            "The higher tilt setting will narrow the beam width, allowing for effective detection of cumulonimbus clouds at shorter range.",
+            "If the beam’s tilt remains at the setting used during cruise, the scanning range will be reduced and significant ground clutter may be displayed.",
+            "The higher tilt setting will keep the beam above the aircraft’s flight path."
+        ],
+        "true": "If the beam’s tilt remains at the setting used during cruise, the scanning range will be reduced and significant ground clutter may be displayed.",
+        "annex": null
+    },
+    {
+        "question": "What are the advantages of SSR technology?",
+        "options": [
+            "Ability to download extra information from the aircraft",
+            "A cheaper system to run",
+            "Allows aircraft to fly closer to each other",
+            "More accurate position fixes"
+        ],
+        "true": "Ability to download extra information from the aircraft",
+        "annex": null
+    },
+    {
+        "question": "Which of the items listed below are additional aircraft parameters that are downlinked from Mode S Enhanced Surveillance (EHS) transponders?\n\n1. Pitch angle\n2. Vertical rate\n3. Track angle rate or true airspeed\n4. True track angle",
+        "options": [
+            "2, 3, and 4 only.",
+            "2 and 4 only.",
+            "1, 2, and 3 only.",
+            "1, 3, and 4 only."
+        ],
+        "true": "2, 3, and 4 only.",
+        "annex": null
+    },
+    {
+        "question": "Which of the items listed below are additional aircraft parameters that are downlinked from Mode S Enhanced Surveillance (EHS) transponders?\n\n1. Groundspeed\n2. Magnetic heading\n3. Equivalent airspeed\n4. True heading\n5. Vertical rate",
+        "options": [
+            "2, 3, and 4",
+            "1, 2, and 5",
+            "1, 3, and 4",
+            "2, 3, and 5"
+        ],
+        "true": "1, 2, and 5",
+        "annex": null
+    },
+    {
+        "question": "Refer to the diagram of a weather radar control panel. What should be considered when lined up on the departure runway and there are thunderstorms in the vicinity?",
+        "options": [
+            "The ground clutter suppression (GND CTLR SPRS) switch should be set to OFF to eliminate confusion with weather returns.",
+            "The radar should be tilted up (UP) (rotary switch 2) to check for any significant precipitation on the climb-out path.",
+            "The gain control (rotary switch 3) should be set to minimum (MIN) to ensure that all returns are displayed.",
+            "The radar should be tilted down (DN) (rotary switch 2) to ensure ground returns are displayed to verify that the system is working."
+        ],
+        "true": "The radar should be tilted up (UP) (rotary switch 2) to check for any significant precipitation on the climb-out path.",
+        "annex": "620899"
+    },
+    {
+        "question": "Which data can be determined and displayed by ATC Secondary Surveillance Radar (SSR) and Primary Surveillance Radar (PSR) systems?",
+        "options": [
+            "PSR: Target range, bearing, and aircraft altitude. SSR: Target range and bearing, aircraft identification codes, aircraft height, selective addressing, and full two-way data link.",
+            "PSR: Target range, bearing, and aircraft identification. SSR: Aircraft identification codes, aircraft altitude, selective addressing, and full two-way data link.",
+            "PSR: Target range. SSR: Target range and bearing, aircraft altitude and height, selective addressing, and full two-way data link.",
+            "PSR: Target range and bearing. SSR: Target range and bearing, aircraft identification codes, aircraft altitude, selective addressing, and full two-way data link."
+        ],
+        "true": "PSR: Target range and bearing. SSR: Target range and bearing, aircraft identification codes, aircraft altitude, selective addressing, and full two-way data link.",
+        "annex": null
+    },
+    {
+        "question": "Refer to the diagram of a weather radar control panel. Selection of WX+T mode on rotary switch 1 will help to detect and display areas of…",
+        "options": [
+            "CAT within precipitation by detecting the Doppler shift of the reflected radar signal.",
+            "CAT within precipitation by detecting the Doppler shift of the falling droplets",
+            "turbulence within precipitation by detecting the Doppler shift of the reflected radar signal",
+            "turbulence within precipitation by detecting the Doppler shift of the falling droplets"
+        ],
+        "true": "turbulence within precipitation by detecting the Doppler shift of the reflected radar signal",
+        "annex": "620909"
+    },
+    {
+        "question": "What information may an ATS controller provide when only using his/her radar situation display? Information about…",
+        "options": [
+            "any observed aircraft on a conflicting path.",
+            "the latest data from airborne weather radar systems.",
+            "conflicting traffic detected by ACAS (Airborne Collision Avoidance System)",
+            "the optimum altitude to improve aircraft performance"
+        ],
+        "true": "any observed aircraft on a conflicting path.",
+        "annex": null
+    },
+    {
+        "question": "Sometimes an SSR ground station receives (from a certain aircraft) the reply pulses caused by interrogations from other SSR ground stations. What is the name of this effect?",
+        "options": [
+            "Fruiting",
+            "Code garbling",
+            "Selective addressing",
+            "SPI"
+        ],
+        "true": "Fruiting",
+        "annex": null
+    },
+    {
+        "question": "An airborne transponder can provide coded reply signals in response to interrogation signals from",
+        "options": [
+            "ground secondary surveillance radar and from primary ground radar.",
+            "ground secondary surveillance radar and from aircraft equipped with a mode A and C transponder.",
+            "ground secondary surveillance radar and from aircraft equipped with TCAS.",
+            "primary ground radar and from aircraft equipped with a transponder."
+        ],
+        "true": "ground secondary surveillance radar and from aircraft equipped with TCAS.",
+        "annex": null
+    },
+    {
+        "question": "What is the function of pulse P2 in mode A/C interrogation?",
+        "options": [
+            "To determine the interrogation mode.",
+            "To avoid responses from aircraft that are located in the direction of the side lobes of the interrogator antenna.",
+            "To avoid code garbling if two aircraft are located in the same direction -as seen from the interrogator- and at a distance of less than approximately 1.7 NM apart.",
+            "To avoid fruiting if an aircraft is interrogated by more than one SSR interrogator at the same time."
+        ],
+        "true": "To avoid responses from aircraft that are located in the direction of the side lobes of the interrogator antenna.",
+        "annex": null
+    },
+    {
+        "question": "In relation to primary radar, pulse repetition frequency means the…",
+        "options": [
+            "radar frequency used.",
+            "number of pulses transmitted per second.",
+            "time between each transmission of pulses.",
+            "number of revolutions performed by the radar antenna per minute."
+        ],
+        "true": "number of pulses transmitted per second.",
+        "annex": null
+    },
+    {
+        "question": "Using the pulse technique, what determines the minimum range and the maximum unambiguous range of a primary radar?",
+        "options": [
+            "Minimum range: pulse length, maximum range: pulse repetition frequency",
+            "Minimum range: rotation speed of antenna, maximum range: length of the time base",
+            "Minimum range: transmission frequency, maximum range: transmitter power output",
+            "Minimum range: transmission frequency, maximum range: size of reflecting surface"
+        ],
+        "true": "Minimum range: pulse length, maximum range: pulse repetition frequency",
+        "annex": null
+    },
+    {
+        "question": "Where is pulse modulation used?",
+        "options": [
+            "In ILS localiser.",
+            "In VHF.",
+            "In VOR.",
+            "In Radar."
+        ],
+        "true": "In Radar.",
+        "annex": null
+    },
+    {
+        "question": "The airborne weather radar…",
+        "options": [
+            "may receive no reflections from a thunderstorm in an area behind a heavy rain shower.",
+            "uses circular polarisation in order to reduce echoes of heavy showers.",
+            "has the possibility to detect clear air turbulence behind a thunder storm by measuring phase differences caused by the Doppler effect.",
+            "has a second transmitter working on a lower frequency in order to penetrate rain showers."
+        ],
+        "true": "may receive no reflections from a thunderstorm in an area behind a heavy rain shower.",
+        "annex": null
+    },
+    {
+        "question": "What is the principle behind the windshear warning capability of an Airborne Weather Radar?",
+        "options": [
+            "The change in intensity of detectable precipitation is measured.",
+            "The Doppler shift of particles of dust, sand, and soot is measured.",
+            "The Doppler shift of detectable precipitation is measured.",
+            "The aircraft’s groundspeed is measured in the MAP mode and this is compared to the airspeed."
+        ],
+        "true": "The Doppler shift of detectable precipitation is measured.",
+        "annex": null
+    },
+    {
+        "question": "Moving Target Indicator (MTI) in ground radar is used to:",
+        "options": [
+            "emphasise all echoes travelling faster than a certain speed selected by the operator.",
+            "emphasise the difference between slow and fast moving echoes.",
+            "suppress all stationary echoes.",
+            "assess the travelling speed of moving echoes."
+        ],
+        "true": "suppress all stationary echoes.",
+        "annex": null
+    },
+    {
+        "question": "What advantage does a primary radar system fitted with an MTI capability have over a system that is not?",
+        "options": [
+            "The Doppler Shift is used to determine the aircraft’s groundspeed.",
+            "Moving targets are eliminated from the controller’s display.",
+            "Ground clutter is eliminated from the controller’s display.",
+            "The Doppler Shift is used to determine the aircraft’s True Airspeed (TAS)."
+        ],
+        "true": "Ground clutter is eliminated from the controller’s display.",
+        "annex": null
+    },
+    {
+        "question": "Name a significant advantage of Secondary Surveillance Radar (SSR) system over a primary radar system-",
+        "options": [
+            "There are no side lobes during transmission.",
+            "The user gets additional information e.g. altitude.",
+            "There is no special equipment necessary for SSR.",
+            "The user gets a higher level of accuracy for bearings and distances."
+        ],
+        "true": "The user gets additional information e.g. altitude.",
+        "annex": null
+    },
+    {
+        "question": "Which radar system can be used to detect aircraft that are not equipped with an operating transponder in flight?",
+        "options": [
+            "Active Transponder (AT) Radar System",
+            "Multilateral Surveillance (MLAT) Radar System",
+            "Secondary Surveillance Radar (SSR)",
+            "Primary Surveillance Radar (PSR)"
+        ],
+        "true": "Primary Surveillance Radar (PSR)",
+        "annex": null
+    },
+    {
+        "question": "Which statement about code garbling is correct?",
+        "options": [
+            "Code garbling occurs at the SSR ground stations if from an aircraft the response pulses to more than one simultaneous interrogations are received.",
+            "Code garbling occurs at the transponder if the interrogation pulses of two different SSR ground stations are received.",
+            "Code garbling occurs at the transponder if the transponder is not able to distinguish between a Mode A and a Mode C interrogation.",
+            "Code garbling occurs at the SSR ground station if the mode A/C replies of two different aircraft overlap (in time)."
+        ],
+        "true": "Code garbling occurs at the SSR ground station if the mode A/C replies of two different aircraft overlap (in time).",
+        "annex": null
+    },
+    {
+        "question": "To determine if a return is from a cloud at or above the height of the aircraft, the tilt control of an Airborne Weather Radar (AWR) with a 5° beam width should be set to…",
+        "options": [
+            "0°.",
+            "2.5° up.",
+            "5° up.",
+            "2.5° down."
+        ],
+        "true": "2.5° up.",
+        "annex": null
+    },
+    {
+        "question": "What determines the operating mode (A or C) of the SSR transponder?",
+        "options": [
+            "The position of the SPI pulse.",
+            "The difference in amplitude of the pulses P1/P3 and P2.",
+            "The travel time of the pulses transmitted by the interrogator.",
+            "The time interval between the pulses P1 and P3."
+        ],
+        "true": "The time interval between the pulses P1 and P3.",
+        "annex": null
+    },
+    {
+        "question": "What is (one of) the differences between a Mode A/C/S all call and a mode A/C only all call?",
+        "options": [
+            "The length of the pulse P4.",
+            "The presence of Mode A/C addresses.",
+            "The time interval between the pulses P1 and P3.",
+            "The presence of Mode S addresses."
+        ],
+        "true": "The length of the pulse P4.",
+        "annex": null
+    },
+    {
+        "question": "A Mode C-transponder is able to report the pressure altitude in:",
+        "options": [
+            "25 ft increments.",
+            "100 m increments.",
+            "50 m increments.",
+            "100 ft increments."
+        ],
+        "true": "100 ft increments.",
+        "annex": null
+    },
+    {
+        "question": "A mode A/C transponder receives a P2 pulse from which the amplitude is smaller than that of the P1 (and P3) pulse. What is the matter?",
+        "options": [
+            "The transponder is located in the direction of one of the side lobes of the interrogator antenna.",
+            "The interrogation is only meant for mode S transponders.",
+            "The transponder is beyond the usable range of the SSR ground station.",
+            "The transponder is located in the direction of the main lobe of the interrogator antenna."
+        ],
+        "true": "The transponder is located in the direction of the main lobe of the interrogator antenna.",
+        "annex": null
+    },
+    {
+        "question": "A mode A/C transponder receives a P2 pulse from which the amplitude is larger than that of the P1 (and P3) pulse. What is the matter?",
+        "options": [
+            "The transponder is beyond the usable range of the SSR ground station.",
+            "The transponder is located in the direction of one of the side lobes of the interrogator antenna.",
+            "The transponder is located in the direction of the main lobe of the interrogator antenna.",
+            "The interrogation is only meant for mode S transponders."
+        ],
+        "true": "The transponder is located in the direction of one of the side lobes of the interrogator antenna.",
+        "annex": null
+    },
+    {
+        "question": "A Mode S transponder receives among other pulses a short P4 pulse from an interrogator. What does this mean?",
+        "options": [
+            "The interrogator transmits a Mode A only all call.",
+            "The interrogator transmits a Mode A/C/S all call.",
+            "The interrogator transmits a Mode S only all call.",
+            "The interrogator transmits a Mode A/C only all call."
+        ],
+        "true": "The interrogator transmits a Mode A/C only all call.",
+        "annex": null
+    },
+    {
+        "question": "Why should the tilt of an Airborne Weather Radar be lowered whilst searching for thunderstorms in high-level cruise flight?",
+        "options": [
+            "The greatest reflectivity occurs from dry hail and snow, and these elements exist mainly in the lower levels of a thunderstorm.",
+            "The greatest reflectivity occurs from wet hail and rain, and these elements exist mainly in the lower levels of a thunderstorm.",
+            "The ground clutter enhances the display by automatically turning up the gain and increasing the likelihood of detecting thunderstorm activity.",
+            "The ground clutter is more evident and therefore less likely to be confused with thunderstorm activity."
+        ],
+        "true": "The greatest reflectivity occurs from wet hail and rain, and these elements exist mainly in the lower levels of a thunderstorm.",
+        "annex": null
+    },
+    {
+        "question": "Why can Secondary Surveillance Radar (SSR) systems provide ATC with more information than Primary Surveillance Radar (PSR) systems?",
+        "options": [
+            "ATC SSR systems have Moving Target Indicator (MTI) capability, which eliminates ground clutter and allows more aircraft to be tracked.",
+            "ATC SSR systems can reply to an aircraft interrogation and offer to provide the requested information.",
+            "As ATC SSR systems continuously interrogate aircraft within range, tracking is uninterrupted.",
+            "ATC SSR systems can interrogate an aircraft transponder and elicit replies."
+        ],
+        "true": "ATC SSR systems can interrogate an aircraft transponder and elicit replies.",
+        "annex": null
+    },
+    {
+        "question": "Refer to the diagram of a weather radar control panel. Increasing the gain on rotary switch number 3 increases the…",
+        "options": [
+            "beam width.",
+            "range of the display.",
+            "sensitivity of the receiver.",
+            "power of the radar."
+        ],
+        "true": "sensitivity of the receiver.",
+        "annex": "621096"
+    },
+    {
+        "question": "Which statement about the Special Position Identification (SPI) pulse is correct?",
+        "options": [
+            "This pulse is transmitted automatically every time the transponder responds to a mode A interrogation.",
+            "This pulse is transmitted by the SSR-interrogator if it is suspected that responses are received from aircraft which are located in the direction of the side lobes of the interrogator antenna.",
+            "This pulse is transmitted by the transponder as a result of the pilot pushing the IDENT button.",
+            "This pulse is transmitted by the SSR-interrogator in order to request for identification of a certain aircraft."
+        ],
+        "true": "This pulse is transmitted by the transponder as a result of the pilot pushing the IDENT button.",
+        "annex": null
+    },
+    {
+        "question": "What are the potential dangers of operating an Airborne Weather Radar (AWR) on the ground? Radiated energy can…",
+        "options": [
+            "disturb radio communications with ATC.",
+            "disturb nearby airport navigation systems.",
+            "harm human beings.",
+            "cause misalignment of the aircraft’s Air Data and Inertial Reference System -ADIRS-."
+        ],
+        "true": "harm human beings.",
+        "annex": null
+    },
+    {
+        "question": "With reference to Mode S transponders, which statement is correct? The reported altitude data…",
+        "options": [
+            "could be accurate to 25 ft resolution but it is dependent on the altitude sensor systems on board the aircraft.",
+            "must be accurate to 100 ft resolution and be independent of the altitude sensor systems on board the aircraft.",
+            "could be accurate to 25 ft resolution and is independent of the altitude sensor systems on board the aircraft.",
+            "must be accurate to 25 ft resolution and be dependent on the altitude sensor systems on board the aircraft."
+        ],
+        "true": "could be accurate to 25 ft resolution but it is dependent on the altitude sensor systems on board the aircraft.",
+        "annex": null
+    },
+    {
+        "question": "The task of Moving Target Indication (MTI) in a primary radar is to:",
+        "options": [
+            "Minimise the transmitted pulse length.",
+            "Enable staggered pulse repetition.",
+            "Transmit the velocity of aircraft.",
+            "Erase all stationary targets."
+        ],
+        "true": "Erase all stationary targets.",
+        "annex": null
+    },
+    {
+        "question": "Which of the following statements describes an advantage of SSR over primary radar?",
+        "options": [
+            "SSR relies only on the reception of a reflected pulse of a radar target.",
+            "SSR allows the identification of aircraft without a working mode A/C/S transponder.",
+            "SSR is resistant to garbling and fruiting.",
+            "SSR allows the identification of a primary radar target by its code and call sign."
+        ],
+        "true": "SSR allows the identification of a primary radar target by its code and call sign.",
+        "annex": null
+    },
+    {
+        "question": "In the descent it is important to set the tilt setting to a higher setting. Why is this?",
+        "options": [
+            "To avoid clutter from ground returns",
+            "to avoid scanning below the cloud layer and missing turbulence/weather",
+            "to scan the higher altitude clouds to avoid hail",
+            "During the descent the AWR is not required"
+        ],
+        "true": "To avoid clutter from ground returns",
+        "annex": null
+    },
+    {
+        "question": "AWR uses Doppler shift to:",
+        "options": [
+            "Calculate the movement of the weather relative to the aircraft position",
+            "Calculate the vertical extent of clouds",
+            "Calculate the distance to terrain",
+            "calculate turbulence by measuring the motion of water droplets"
+        ],
+        "true": "calculate turbulence by measuring the motion of water droplets",
+        "annex": null
+    },
+    {
+        "question": "A weather radar, set to the 100 NM scale, shows a squall between 40 NM and 50 NM.By changing the scale to 50 NM, the return on the radar screen should...",
+        "options": [
+            "decrease in area and move to the top of the screen.",
+            "decrease in area but not change in position on the screen.",
+            "increase in area and appear nearer to the bottom of the screen.",
+            "increase in area and move to the top of the screen."
+        ],
+        "true": "increase in area and move to the top of the screen.",
+        "annex": null
+    }
+]
